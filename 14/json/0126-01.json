@@ -1,0 +1,62 @@
+{
+  "id": 1862669,
+  "name": "Dooley et al. ex. vs. Duty & Wife",
+  "name_abbreviation": "Dooley v. Duty",
+  "decision_date": "1850-01",
+  "docket_number": "",
+  "first_page": "126",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 126"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 131,
+    "char_count": 1478,
+    "ocr_confidence": 0.533,
+    "sha256": "21011085577994c72e41ff5ee54e07bdf913ca48d5e94c126a7d62f7daf46c10",
+    "simhash": "1:fccb981194ae3d62",
+    "word_count": 255
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dooley et al. ex. vs. Duty & Wife."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe facts in this case are substantially the same as in that of the complainants against the heirs of Thomas Dooly, deceased, decided at the present term.\nDuty and wife are legatees under the same will, and the suit, as in that case, is brought to compel the defendants to refund a proportionate part of their legacy for the payment of a sum of money paid out by the executors in the settlement of the debts of the estate. The same pleadings were filed, the same decision made with regard to them: the same evidence offered in both and the same decree; so that the decision of the case of the complainants against the heirs of Thomas Dooley, will be held as decisive of all the questions which arose in this.\nThe court below erred in dismissing complainant\u2019s bill, and in decreeing costs against them ; and for this error the decree must be set aside and reversed, and the cause remanded to the court below, with instructions to ascertain the proportionate part which the defendants should refund, out of their specific legacy, and render a decree for the same in favor of complainants, and if necessary to take additional proofs touching the sum to be re\u2019 funded.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for'the appellants.",
+      "Tike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Dooley et al. ex. vs. Duty & Wife.\nAppeal from the Circuit Court of Lafayqtte county in Chancery.\nThe Hon. Josiaii Gould, Circuit Judge, presiding.\nArgued and submitted at the January term, 1850.\nWatkins & Curran, for'the appellants.\nTike & Cummins, contra."
+  },
+  "file_name": "0126-01",
+  "first_page_order": 126,
+  "last_page_order": 127
+}

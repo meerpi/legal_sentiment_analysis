@@ -1,0 +1,127 @@
+{
+  "id": 1862655,
+  "name": "Ruddell vs. Folsom",
+  "name_abbreviation": "Ruddell v. Folsom",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "213",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Pick 76",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Pick. 438",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio, 247",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        484121
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/denio/1/0247-01"
+      ]
+    },
+    {
+      "cite": "14 Wend. 83",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2017106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/14/0083-01"
+      ]
+    },
+    {
+      "cite": "6 Barb. 588",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ark. 555",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ark. Rep. 557",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Pick 76",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 526,
+    "char_count": 11133,
+    "ocr_confidence": 0.529,
+    "pagerank": {
+      "raw": 1.6839807721686668e-07,
+      "percentile": 0.6980086483806585
+    },
+    "sha256": "89478b6b67643e7cdd8b3bd41083c5f9f8c7b3221ca2577c91605408f76c8d6a",
+    "simhash": "1:3226dcd6027011ee",
+    "word_count": 1952
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ruddell vs. Folsom."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThis suit is brought against Ruddell alone, on the joint obligation of Moore and himself. The bond was barred by the statute of limitations, unless the bar was removed by part payment-The defendant pleaded the statute of limitations, to which the plaintiff replied generally. Under this issue, the plaintiff offered evidence of such part payment, but the defendant objected to the evidence upon two grounds, first, that the evidence offered was-incompetent and inadmissible to prove part payment; and second, that if admissible as evidence in other respects, it u as inadmissible under the issue formed. The court overruled his objections and permitted the evidence to be given under the issue, to which the defendant excepted. The same question was again-presented upon a motion for a new trial; and upon exception to-the opinion of the court in refusing, to grant a new trial, the case* is brought here by appeal.\nUnder the issue formed it devolved upon the plaintiff to prove-that the cause of action had accrued within five years next before-the commencement of the suit, which dates from-the filing of the bond, which, under the statute, is in effect a declaration, and the issuing of the writ thereon, and the time- when the bond fell due ; facts to be established by the terms of the contract, and the record evidence of the commencement of the suit. If the plaintiff should seek to avoid the force and effect of this evidence,by show-in\u00a7,a new promise, or a new and different point from which the-statute bar commenced to run, it is an affirmative matter, the truth of which he must show, and he must also necessarily confess the time at which the bar, by the terms of the contract, commenced running. It is then necessarily like matter in confession and avoidance, and should be so replied.\nChitty, in his work on pleading, vol. 1, page 583, says that, when the plea is that the cause of action did not accrue within, &c., the plaintiff could prove a promise or acknowledgment within.that time, and that the replication might, in such case, be general; but if the time of issuing the first writ in the action were material, it must have been replied specially : and adds, that a special replication is, in general, advisable. And upon this distinction as to whether the plea does, or does not put the time of issuing the writ in issue, rest all the cases to which the plaintiff has referred, except the cases decided in Massachusetts Reports, which, upon quite a different state of case, give preference to the proceeding by special replication, and in case the time of issuing the writ is putin issue, make it indispensably necessary to plead specially. Greenleaf, in his work on Evidence, vol. 2, sec. 440, page 416, says, \u201c that if the plaintiff would avoid the bar by proof of an acknowledgment of the claim, he can only do it under a special replication of a new promise within the time limited.\u201d And so, also, the exceptions in favor of merchant and merchant, and other exceptions must be replied specially. Id. sec. 447-448.\nIn the case of Trustees vs. Hartfield, 5 Ark. Rep. 557, the precise question as to whether part payment could or not be given in evidence under the general replication, was not discussed; but the court in passing upon the sufficiency of the special replication, held, that part payment might be given under the general replication, or might be replied specially.\nIn Walker vs. Bank Mississippi, 2 Eng. Rep. 504, although the question was not directly before the court, and for that reason cannot be held as overruling in express terms the case of Trustees vs. Hartfield, the court held that an avoidance of the statute b\u00e1r by limitation, under any of the exceptions of the statute, should be specially replied. And in Ringgold & Hynson vs. Dunn, 3 Eng. 497, the same rule was held, when more fully presented, and in still stronger terms. In McClelland vs. The Bank, 7 Eng. 141, where a general replication was filed to a plea of the statute of limitation, the record of a former suit brought on the same cause of action was offered in evidence, to bring the case within the exception of the 24th section, Dig. chap. 99, which allows the plaintiff to renew his action within one year next after a judgment of non-suit, it was held that in order to let in evidence of such former suit, the plaintiff should have filed a special replication setting up such facts in avoidance of the statute bar.\nAnd in the case of Woods vs. State Bank, 7 Eng. 697, and also in a case still more recently decided, Bank vs. Conway, January term, 1853, it was held the safer and more regular practice to require part payment, when relied upon to remove the statute bar, to be specially replied. So that it is not now an open question of practice, but one sactioned and approved by this court, both upon sound principles of pleading and authority: and being, in our opinion, best calculated to present the definite matter in issue disencumbered from the other facts which might arise under the general replication, and to limit the proof to it, we do not feel at liberty to depart from it.\nEvidence of part payment was, therefore, inadmissible under the issue as formed, and should have been excluded by the court, independent of all consideration of its sufficiency otherwise, which we will next proceed to consider.\nThere were several credits upon the bond, all of which, except one, purported to be payments made by Moore, the obligor, not sued. The first payment appears to have been made by Moore, and, if proven to have been made at the time it bore date, would have removed the statute bar. To prove this the plaintifF offered in evidence the following instrument, to-wit: \u201cAll of the above credits were made by me, except the three dollars, and the dates of the credits are correct. Decir. 2d, 1850. (signed) Wm. Moore.\u201d And after proving the execution thereof, offered the same, together with the first endorsement of a payment (which purported to have been made by Moore) as evidence, and the same, against the objections of the defendant, were admitted as evidence to the jury.\nIn order to prove part payment, as against a co-obligor, it must be shown that such payment was made at a time when its legal effect would be to remove the statute bar. Bank vs. Wooddy, 5 Eng. 643. Wood vs. Wylds, 6 Eng. 759. The mere endorsement of a credit, as of a date to effect this, isjnot of itself sufficient: but it must be shown that the endorsement of payment was in fact made within such time. But where the endorsement is made by the obligors, or one of them, then proof of that fact will be sufficient evidence to permit the endorsement to be read as evidence, as well of the date as the fact of payment.\nAfter the statute bar has attached no act or admission of one \u2022co-obligor will bind another. Trustees vs. Jenkins, et al. 5 Eng. 108. Such acts and admissions are alone binding upon the party making them. Moore\u2019s admissions, therefore, at the time when they were made, whether wiitten or verbal, were inadmissible as evidence against Ruddell, and should have been excluded. He was not sued, and was clearly a competent witness to prove the fact of such payment, as well as the time when it was made, whether made by Ruddell or himself.\nLet the judgment be reversed, and the cause remanded, with leave to the plaintiff to file a special replication.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Byers & Patterson, for tbe appellant.",
+      "Fairchild, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Ruddell vs. Folsom.\nEvidence of part payment of the note sued upon, is inadmissible in avoidance of the statute bar, under the general replication to the plea of the statute of limitations: a part payment in such case, must be replied specially.\nThe endorsement upon a note, of a part payment as of a date within the statute bar, is not of itself proof of payment on the day : such endorsement must be shown to have^een made before the bar attached.\nThe written admission of one co-obligor, not sued, made after the statute bar has attached, that a payment endorsed upon the note as of a day within the bar, was made by him, and at the day endorsed, is not evidence against his co-obligor. He would be a good witness, and must be called to prove the payment.\nAppeal from the Circuit Court of Independence county.\nHon. B. H. Neely, Circuit Judge, presiding,\nByers & Patterson, for tbe appellant.\nUnder'the general replication to the plea of the statute of limitations, evidence of part payment cannot be given to avoid the statute bar. Wherever a party relies upon an exception in the statute, he must plead it specially. Walker vs. Bnk. Mississippi, 2 Eng. 504. Ringgold fy Rynson vs. Dunn, 3 Eng. 499. McClellan vs. Slate Bank, 7 Eng. 143. The courts of New York have ruled differently, but the weight of authority sustains the principle. Greenl. on Ev. sees. 440, 447, 448.\nBut if evidence of part payment was admissible under the pleadings, the court erred in permitting the proof of the signature of Moore and the reading the endorsement on the bond in evidence; because the endorsement by Moore was merely an admission,, which could not bind his co-obligor, nor create the presumption of an acknowledgment and promise by him. The admission by Moore is no evidence against Ruddell. Biscoectal. vs. Jenkins ct al. 5 Eng. 109.\nFairchild, contra.\nThe payment by Moore before the time for' the limitation bar had. elapsed, prevented the bar from attaching in favor of Ruddell. Trustees R. E. Bank vs. Hartfield, S'Ark. 551. Biscoe vs. Jenkins, 5 Eng. 108 State Bank vs Wooddy, ib: 639. Wood vs. Wylds, 6 ib. 754.\nPart payment may be proved, though not specially replied. The general replication that the cause of action did accrue within five years, was a sufficient allegation on which to introduce' the proof of part payment. 1 Ch. PI. (7 Am. Ed.) 614.T Trustees R. E. Bank vs. Hartfield, 5 Ark. 555. Gardftore vs. Huyck, 6 Barb. 588. Bank of Orange co., vs. Haight, 14 Wend. 83. Thompkins vs. Brown, 1 Denio, 247. Horner vs. Fish, 1 Pick. 438. Welles vs. Fish, 3 Pick 76. . Watson vs. Dale, 1 Porter, 249.\nThe case of Trustees, dye., vs. Hartfield, is not overruled by the cases of Walker vs. Bnk. Miss. 2 Eng. Ringgold vs. Dunn, 3 Eng. McClellan vs. State Bank, because in the latter cases the plaintiff relied upon a special exception to remove the statute bar after the time had fully run, or a new promise, or other privilege to avoid it: whereas, the principle in this case is, that the-statute ceased running at the time of payment, and then commenced anew ; the plaintiff does not seek to remove a bar perfected by. lapse of time, which would require a special replication, setting out the exception or privilege, but insists that the bar never did attach.\nThe endorsement of payment by Moore was admissible, upon proof of his signature, as an acknowledgment of part payment \u2014as the payment was made before the statute had attached, and when the interest of Ruddell and Moore was the same, and the acts of each in relation to the subject matter, bound the other. That evidence of a parol acknowledgment of the fact of part payment is sufficient, Cleave vs. Janet, 5 Eng. Law and Eq. Rep. 514."
+  },
+  "file_name": "0213-01",
+  "first_page_order": 211,
+  "last_page_order": 216
+}

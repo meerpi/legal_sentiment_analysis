@@ -1,0 +1,66 @@
+{
+  "id": 1862661,
+  "name": "Hynson vs. Noland",
+  "name_abbreviation": "Hynson v. Noland",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "710",
+  "last_page": "713",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 710"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 367,
+    "char_count": 7194,
+    "ocr_confidence": 0.525,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5231839771353465
+    },
+    "sha256": "ff2cdf3cf959bc02ff2925c23016d5c2e37cbd87035917622689a41b246e3fce",
+    "simhash": "1:e9102945f1c604b8",
+    "word_count": 1271
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hynson vs. Noland."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis was an action of assumpsit brought by the plaintiff against the defendant in error, for money had and received. It appears that, in the spring of 1849, the plaintiff, being appointed Receiver of Public Moneys for the United States, at the Bates-ville Land Office, employed Aaron W. Lyon to transact the business, constituting him general agent for that purpose. It was especially expressed in the instrument, or power of attorney executed by Hynson to Lyon, that the latter was to have the entire controll of all moneys paid into the office, and was to disburse the same according to law, and in that instrument, the receipt, controll and management of all moneys accruing to the office were guarantied by Hynson to Lyon, as a means of securing him against all loss or damage on account of any default of Hynson as Receiver, Lyon being one of the securities of Hynson on his official bond. By virtue of that appointment, Lyon attended to all the business of the office for Ilynson, and in his name as Receiver. Hynson was removed in April, 1850, when the defendant, Noland, was appointed to the office in his stead. After that period Lyon continued to do the duties devolving on Plynson as late Receiver, in closing up the business of the office and until it was turned over to the government. By request of Lyon the defendant, Noland, included in tii '\u25a0 estimates lor his first draft to be received from the government on account of expenses, &c., the sum of $107 58, being a balance due lo Hynson as late Receiver, consisting of various items for money expended and a residue of salary and percentages, of which a statement was rendered. Nol and accordingly received a draft, including what was due Hynson, and on the 22d of July, 1.85.0, paid the amount over to Lyon, as agent for him. Lyon appropriated the money in part to pay the expenses included in his statement rendered to No-land; $63 00 he retained for compensation due to him by Hynson, when he went out of office, and for which sum Hynson had given him a due bill or memorandum, dated on the 15th of April, 1850, and expressed to be payable \u201con next draft,\u201d- apd the residue of it he applied as a credit on another note which he held against Hynson. Noland was aware that Lyon had acted as agent for Hynson, and being such had transacted all the business of the office for him, and paid over the money in question 'to him as agent, he producing one of Hynson\u2019s blank signatures, of which he hadcontroll, and over which a receipt or voucher for it was written, Lyon adding to the signature the words \u201clate Receiver,\u201d that being the style customary with the Department in corresponding with a former Receiver.\nThe plaintiff asked the court sitting as a jury to declare it as law and governing thi\u00e1 case, that the agency which he gave to Lyon to act for him was confined to the time that the plaintiff was in office as Receiver, and that if defendant paid the money due the plaintiff to Lyon, without authority to do so, other than the general authority which Lyon had to transact the business of the office for Hynson as Receiver, it was no defence to the action \u2014 which the court refused to do, but on the contrary declared its opinion of the law applicable to the case tobe, that so long as Lyon acted as Hynson\u2019s agent, without any revocation of his agency, his acts as ^tgent were binding upon Hynson, and the payment of the money to him as such agent was a good defence to Noland. Upon that exception arises the only question of law reserved in the court below or argued here for theplaintiffin error.\nWithout regard to the subsequent motion of the plaintiff for new trial, the effect of which would be to let in the consideration of any inequitable circumstances attending his claim and enable this court, though in doubt if the court below had not erred in its opinion of the law, to affirm the judgment, if upon the whole record it appeared to be right, it seems quite plain that the authority given to Lyon to act as agent, was in the nature of a power coupled with an interest, it being for the protection of himself and the other securities of Hynson, and was consequently irrevocable so long as there remained any money of the office to be disbursed or accounted for to the government after Hynson\u2019s removal. Though the securities might not have incurred any liability to the government in case Hynson himself had received the money in question, yet so far as Lyon was concerned, his right to receive and disburse all moneys accruing to the office, was the consideration for which he became security and undertook the agency. He,'as Hynson\u2019s agent and after his removal, settled withHhe government and paid over to the successor, the public moneys for which the late receiver was accountable-, and upon the case made in evidence it would be a narrow and technical construction of the agent\u2019s authority to hold that it did not extend to the after formality of receiving from the government the arrearages due to the principal, and out of which the agent was entitled to receive his compensation. And upon the precise question of law made by the instruction it was correct as given, because if Hynson, after his removal, permitted Lyon to act as his agent in closing up the business of the office, Hynson, until a revocation of such authority, would be bound by the acts -of his agent without reference to any previous appointment.\nAffirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Fairchild, for the plaintiff.",
+      "John H. Byers, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Hynson vs. Noland.\nThe authority given by an officer having charge of public moneys, to one of his secur\u00edt\u00edes to act as agent in the receipt, contrail and disbursement of the public moneys, for the protection of himself and co-securities, is in the nature of a power coupled with an interest and irrevocable so long as there remains any money of the office to be disbursed or accounted for, though the officer be removed from office.\nAnd if, in such case, the officer, after his removal permitted the agent to act as such in closing up the business of the office, he would be bound by the acts of his agent until a revocation without reference to any previous appointment.\nWrit of Error to Independence Circuit Court.\nHon. B. II. Neely, Circuit Judge, presiding.\nFairchild, for the plaintiff.\nPayment to Lyon after. Plynson was out of office, simply on Lyon\u2019s authority to do the business of Hynson when in office, was no defence to this action. Lyon was not Hynson\u2019s agent after his removal from office. Story on Agency, secs. 462, 481, 484, 499, 430; and the court ought to have granted a new trial.\nJohn H. Byers, for defendant.\nLyon\u2019s agency could not possibly cease wilh the removal of Hynson from office, because his appointment was \u201cto transact all the business of the land office;\u201d which included the settlement with the successor of Hynson.\nLyon was a trustee or agent with an interest which would have prohibited Hynson from revoking his agency. But no attempt was made to revoke Lyon\u2019s authority, but he was required to close up the business of the office, the completion of which was the settlement with Noland as disbursing agent of the government and.the receipt of the money sought in this action."
+  },
+  "file_name": "0710-01",
+  "first_page_order": 710,
+  "last_page_order": 713
+}

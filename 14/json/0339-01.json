@@ -1,0 +1,66 @@
+{
+  "id": 1862731,
+  "name": "Lovette and Wife vs. Longmire",
+  "name_abbreviation": "Lovette v. Longmire",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "339",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 339"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 399,
+    "char_count": 8084,
+    "ocr_confidence": 0.534,
+    "pagerank": {
+      "raw": 3.082068394588287e-07,
+      "percentile": 0.8580492530645609
+    },
+    "sha256": "622b97c50b186ae72117ca724aa6789566dde5e76eb10916097de79a8f83e230",
+    "simhash": "1:91178c2d0a00dae2",
+    "word_count": 1392
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lovette and Wife vs. Longmire."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThis was a bill in chancery, filed by Lovette and wife, to enjoin the sale of certain slaves taken in execution to satisfy a judgment obtained by Longmire against Lovette. The slaves are claimed by the wife as her separate property, under the provisions of the Statute, Digest, chapter 104, which, in certain cases exempts slaves and other property owned by the wife at the time of her marriage, or which comes to her during coverture, from sale, for the payment of the husband\u2019s debts.\nIt appears from the facts disclosed that on the 13th of May, 1846, Longmire obtained judgment in the Union Circuit Court, against Lovette, in debt for $522 50, besides interest and costs. On the first day of December, 1847, the slaves taken in execution came to the possession of Lovette and wife by inheritance, from Elizabeth Jamieson, the mother of Mrs. Lovette. On the 7th of November, 1848, under the provisions of the 7th section of the act approved December 8th, 1846, above referred to, a schedule of the property so inherited, including the slaves levied upon, was filed in the Recorder\u2019s office, of the county of Union, it being the county in which Lovette and wife lived and held the property. On the 22d of March, 1850, the slaves were taken in execution,, to enjoin the sale \u2018of which this suit was brought.\nThere is no doubt but that the slaves were inherited by the wife, and- held by her under the provisions of the act of 1846, under a substantial compliance with the provisions of that statute. u\nBut the question is, whether the statute exempts them from, liability for the payment of this debt, which was contracted before the estate vested in Mrs. Lovette, and before the schedule-was filed in the Recorder\u2019s office.\nThe first section of the act permits the wife to hold property,, real or personal, by bequest, devise, gift or distribution in her own right and for her own use, except such as may come from the husband after coverture. The second section continues the title of slaves in the wife which she held at the time of her marriage, notwithstanding her coverture, and allows her to hold and possess the same as her separate property, exempt from any liability for the debts or contracts of the husband. The third section confers a like right to property thus acquired before the passage of the act from the payment of debts contracted after its passage. The 9th section provides that \u201cbefore any married woman can avail herself of the privileges and benefits of this act she and her husband shall make out a schedule of the property derived through her, under oath, which shall be verified by the oath of some other reputable person, which schedule shall be filed in the Recorder\u2019s office, of the county within which the property is, as well as in which they live.\u201d And then the 8th and last section provides that \u201cthe operation of this act shall not interfere with the collection of debts already contracted by any married man, or which shall hereafter be contracted before the filing of the schedule referred to in the preceding section.\u201d These are the material provisions of the statute, and although the second section provides in general terms, that the wife shall hold such property exempt from any liability for the payment of the debts or contracts of the husband, still the 8th and last section in express terms, declares that this act shall not interfere with the collection of debts already contracted by a married man, or which shall afterwards be contracted before the schedule provided for in the 7th section shall have been filed, which filing is a pre-requisite to the enjoyment of the benefits of the act. In the case under consideration tbe debt was not only contracted before the passage of the act, and consequently the filing of the schedule under it, but also before the inheritance descended to the wife, and therefore comes directly within the provisions of the 8th section, unless we could, as contended for by the appellants, construe this section so as to make it apply to contracts entered into upon the faith and credit of this property whilst in the joint possession of the husband and wife, and before the schedule had been filed, as required by the provisions of the 7th section. But the 6th and 8th sections were evidently intended as limitations upon the general terms of the second section, particularly the 8th, which is clear and explicit in its terms, and is designed to limit the operation of the preceding sections. There is nothing ambiguous or doubtful in the language used, and when such is the case there is no room for construction different from the plain language used. It follows, therefore, from the conclusions at which we have arrived, that the slaves, although no doubt exempt from the payment of debts contracted by the husband after the schedule of the slaves had been filed in the Recorder\u2019s office, were nevertheless liable to the payment of this, it being a debt contracted before the passage of the act of 1846, under which the wife claims protection for the property.\nIndependant of this fatal objection to the relief prayed for by the complainants, their bill was upon its face demurrable. Admit the slaves to have been theseparate property of complainant, (the wife), that they were family slaves, valued on account of long and faithful servitude, above all reasonable compensation in damages, and that one of them was inhumanly separated from her infant child, still the sale of them by the sheriff would not deprive Mrs. Lovette of a full and adequate redress at law against the purchaser for possession of the slaves. It is not alleged that by reason of the sale they would be placed beyond the reach of process at law, and as the question of the sufficiency of the bill to entitle the complainant to equitable relief, was specially re^ served in the defendant\u2019s answer; upon that ground, as well as the first, that the slaves were subject to the payment of Long-mire\u2019s debt, the court below should have decreed against the complainants.\nAs a matter of practice, the decree of the Circuit Court should have been simply to dissolve the injunction and dismiss the complainant\u2019s bill, leaving the sheriff to execute his common law process of sale. Beyond this, from the state of the pleadings, the Cir j cuit Court had no power to decree relief. The decree of the Union Circuit Court, so far as regards the dissolution of the injunction and the dismissal of the complainant\u2019s bill was certainly correct. But so far as regards the specific relief decreed, it was clearly erroneous and must, for that error, be set aside and reversed with costs; and a decree rendered in this court in accordance with the opinion herein delivered.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Lyon, for the appellant.",
+      "Marr & Hardy, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Lovette and Wife vs. Longmire.\nA judgment was recovered against the husband, in May, 1846. In ^December, 1847, certain slaves came to the possession of the husband, by inheritance front the wife\u2019s ancestor. In November, 1848, a schedule Of them as the separate pro\u2018 perty of the wife, was filed in the recorder\u2019s office. In March, 1850, the slaves were taken in execution of the judgment. Held, upon the construction of the statute passed December, 8,1846, concerning \u201cMarried Women,\u2019\u2019that the slaves were subject to the execution as the property of the husband.\nChancery has no jurisdiction to enjoin the sale of the separate property of the wife, under an execution against the husband, where the wife, after the sale, would have an adequate remedy to recover back the possession of the property.\nWhere the defendant, in his answer, reserves an exception to the sufficiency of the bill for want of equity, such reservation has the effect of a demurrer\u00bb\nUpon the final hearing of a bill to enjoin a judgment at law, it is error to decree- a sale of the property taken in execution \u2014 the decree should be that the bill be dismissed, and the injunction dissolved.\n\u2022 Appeal from the Circuit Court of Union county in Chancery.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nLyon, for the appellant.\nMarr & Hardy, contra."
+  },
+  "file_name": "0339-01",
+  "first_page_order": 339,
+  "last_page_order": 343
+}

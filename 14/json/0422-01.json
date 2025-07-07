@@ -1,0 +1,113 @@
+{
+  "id": 1862694,
+  "name": "Wheat et al: vs. Moss et al, use &c.",
+  "name_abbreviation": "Wheat v. Moss",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "422",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 422"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Mass. 174",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002183
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0132-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ark. 61",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727875
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/13/0061-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 61",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727875
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/13/0061-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 208,
+    "char_count": 2887,
+    "ocr_confidence": 0.554,
+    "pagerank": {
+      "raw": 4.666970501906556e-08,
+      "percentile": 0.2924927283405326
+    },
+    "sha256": "c229b603f036bbd00e7de537d73dace18fd788eb6ac33622ec8f672846d789e9",
+    "simhash": "1:423dc4fc2125b26f",
+    "word_count": 513
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting in this cause."
+    ],
+    "parties": [
+      "Wheat et al: vs. Moss et al, use &c."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott,\ndelivered the opinion of the Court.\nThis case is presented by a demurrer to a plea in abatement.The plea sets up, that on the 28th of May, 1853, which was the-day of the rendition of the decree, the appellants prayed and obtained an appeal in this cause from the Circuit Court, and in pursuance thereof filed in this Court on the 24th of June, following, a complete transcript of the records and proceedings therein,, whereby the cause was brought into this court and remained a cause pending here until after the commencement of the present term.\nThe appeal now pending here, which is sought to be abated by this plea, came here in pursuance of an appeal with stay of' execution, granted by one of the judges of this court during the last vacation, in pursuance of the statute, (Dig. ch. 28, sec. 135.)\nIn the case of Taylor vs. Adams, 13 Ark. 61, this court said, that under this provision of the statute, a judge in vacation might grant an appeal, notwithstanding one had been previously granted in the Circuit Court. But although this is true, it does not follow that such an appeal may not be abated like any other-suit improvidently commenced. If this appeal had been dismissed, instead of the other, which it seems from the plea had been perfected, and was pending here when this was granted, it would have been competent for this court, as held Davis vs. Tarwater, (13 Ark. R. 52), to have granted a stay of execution upon recognizance, although a judge in vacation could not have done so.\nWe cannot sustain this demurrer without overturning some of the well settled rules of pleading. It must, therefore, be overruled, and the appeal abate.\nWatkins, C. J., not sitting in this cause.",
+        "type": "majority",
+        "author": "Mr. Justice Scott,"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead; in support of the demurrer.",
+      "Curran & Gallagher, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Wheat et al: vs. Moss et al, use &c.\nAlthough, as held in Taylor vs. Adams, 13 Ark. 61, a judge of this court may grant an appeal, with an order for stay of proceedings, upon inspection of the record in vacation, where the party had taken an appeal in the Circuit Court without entering into recognizance to stay execution \u2014 the appeal so granted by the Supreme Court or a judge thereof, may be abated, j if .prosecuted while the former \u00a1\u2022appeal is pending in this court.\nOn appeal from Hempstead Circuit Court in Chancery.\nS. H. Hempstead; in support of the demurrer.\nThe appeal granted by the Circuit Court had been dismissed before the plea, in abatement was filed.\nNotwithstanding an appeal may have been granted by the Circuit Court, a judge of this court may, in vacation, grant an appeal and take recognizance. Taylor vs. Adams, 13 Ark. 61. Davis vs. Tarwater, 13 Ark. 83. Clay vs. Notrebe, 6 Eng. 631.\nThe case in 5 Mass. 174, shows that the prior suit must be actually pending when the plea is pleaded.\nCurran & Gallagher, contra.\nAnother action pending for same cause is a good plea. 1 Ch. PI. 488. 2 John. Cas. 312.. Commonwealth, vs. Churchill, 5 Mass. Rep. 174."
+  },
+  "file_name": "0422-01",
+  "first_page_order": 422,
+  "last_page_order": 424
+}

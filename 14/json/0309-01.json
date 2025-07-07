@@ -1,0 +1,91 @@
+{
+  "id": 1862649,
+  "name": "Higgins vs. Johnson et al.",
+  "name_abbreviation": "Higgins v. Johnson",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "309",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Conn. 373",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6755055
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/3/0373-01"
+      ]
+    },
+    {
+      "cite": "10 Wheat. Rep. 449",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/23/0449-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 612,
+    "char_count": 11815,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 6.766109268858775e-08,
+      "percentile": 0.40931073587687933
+    },
+    "sha256": "c037ee7038579129666578c2259577b113cd2dbf5a9a4b2497fd4dad0e454482",
+    "simhash": "1:908ea0412f12f007",
+    "word_count": 2101
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Higgins vs. Johnson et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the court.\nThis is a bill brought by Higgins against Henry Johnson, Robert A. Johnson, Margaret Erwin, widow, and Henry C. Erwin, and others, heirs at law of James Erwin, deceased.\nOn general demurrer the bill was adjudged insufficient for want of equity. Without going into the details of the bill with its voluminous exhibits, the substantial allegations made by the complainant are as follows:\nThat in 1838 he purchased of James Erwin a certain tract of land, in Fayette county, Kentucky, for which he paid Erwin twelve thousand dollars : that Erwin executed his deed in fee, with covenants of seizin and general warranty for the same to the complainant, who entered into possession, made improvements, and continued in possession until 1852, when he was evicted of one half of it by paramount title, and until about that time, he never suspected any defect in Erwin\u2019s title, who, when he sold to the complainant, was reputed to be wealthy.\nThat in truth the land belonged to the first wife of James Erwin, Anne B., to whom it had been conveyed by her father; so that James Erwin had only a life estate, as tenant by the courtesy. That Anne B. died leaving four heirs, Henry C., Lucretia, Eugene, and Edwin, who are living and are made defendants to the bill; that the second wife of James Erwin is Margaret, daughter of Henry and sister of Robert A. Johnson, also defendants. That in 1847 James Erwin was the owner of a large quantity o\u00ed lands situate in Phillips and other counties in Arkansas, and being then hopelessly insolvent, for the purpose of covering up these lands from the claims of his creditors, and securing the benefit of them to himself and family, he conveyed them to Henry Johnson, who, soon afterwards, conveyed them to Henry C. Erwin, who.executed a general power of attorney to James Erwin, under which the latter, during his lifetime, continued to control and dispose of them as if they were his own.\nThat all these successive conveyances were fraudulent and colorable, made without any consideration paid or expected to be paid, with intent to hinder and defeat the claims of the creditors of James Erwin, and upon the secr\u00e9t trust, that they should be held for the benefit of his family, and that Henry C. Erwin is no w liable to be charged in equity, as trustee of the legal title to the lands for the benefit of the creditors of James Erwin. That in 1851, James Erwin, then reputed to be without property of any description, died wholly insolvent and intestate, and no administration has been had of his estate. That he left several minor children, of his second marriage, also made defendants, and that none of the children and heirs at law of James Erwin have succeeded to any property or estate by inheritance from their father. That in 1852, after the death of James Erwin, Henry C. and Lucretia, two of his children by his first marriage, relying on the title derived from their mother, instituted suit in the Fayette Circuit Court against the complainant, and obtained judgment with an order for a writ of possession against him for an undivided two-fourths of the tract of land in question, originally conveyed to him, with warranty by James Erwin; that the supposed title, so pretended to be conveyed, has failed, and the complainant is in daily expectation of being evicted by Eugene and Edwin, the two remaining heirs of Anne B. Erwin.\nThe bill prays for discovery, and that the alleged fraudulent conveyances from James Erwin to Henry, and from Henry to Bobert A. Johnson, and from him to Henry C. Erwin, may be set aside and cancelled, and the lands embraced in them subjected to, and sold for the payment of the debts of James Erwin, particularly that of the complainant, for the amount of which, with interest, a decree is prayed against the defendants, to be discharged out of the proceeds of the lands referred to, and for general relief.\nUpon the case made by the bill, the grounds of equitable jurisdiction are, that for the want of any administration upon the estate of James Erwin, there is no legal representative against whom the complainant\u2019s right to compensation in damages for the breach of warranty could be established by an action at law; and even if there was such representative, the remedy would not be complete or adequate; because admitting tbe title of the heirs of Anne B. Erwin, to be superior to that conveyed by James Erwin, so that the complainant might have been entitled in equity, before the final payment or consummation of the purchase,' to a recision, and return of the money, yet it is questionable whether, having been only partially evicted, his remedy at law would not be confined to that position only. The effect of the covenant of warranty, as now understood in this country, is that for the breach of it, the grantee is entitled to be compensated in damages, equivalent to a return of the purchase money, with interest, put of the general estate of the grantor, made subject by law for \u25a0the payment of his debts; and in the event of his death, to be established like other claims against his estate in charge of his administrator, and no part of which can regularly go to the heir until after all the debts of the ancestor have been paid. And though the weight of authority is, that while a judgment of recovery under a better title is equivalent to an eviction, without the issuance of execution, or an actual turning out of possession, the grantor could not maintain an action for a breach of the warranty, upon the bare fear or possibility of being sued or evicted by a superior title, so that, being evicted of part, he occupies the position o\u00ed a purchaser, who has only gotten a part of the land he bargained for, and so would be entitled to go into equity for a recision; and he may well unite in that suit his claim to compensation in damages for the part of which he has been evicted. Besides, on the Supposition that the property of James Erwin has improperly gone into the hands of his heirs, without being first subjected to a due course of administration for the payment of his debts, and such is the attitude in which Henry C. Erwin, the principal defendant, stands on this record, in the suit in equity to establish the claim and subject to its payment, the property in the hands of the heir, he cannot be regarded as a stranger, though professing to hold by purchase and not by descent; because in such case the heir is only liable to be sued, because he has the assets, which, for any cause, cannot be reached by a suit against the administrator, and it may be safely said, that as a general rule, in view of our system of administration, where the creditor is compelled to resort to the heir for payment of the debt of the ancestor, his remedy is in chancery rather than at law.\nIt will not be questioned that where chancery once obtains jurisdiction for some substantial purpose (apart from any doubt as to mere discovery,) it will retain it for all purposes, so as to do complete justice between all the parties; and certainly it.would be difficultto suppose a case, where the exercise of such a jurisdicl tion would be more beneficial than the class of cases like the present.\nThere is nothing in Meux vs. Anthony et al., 6 Eng. 411, that ought to conflict with the opinion here. In that case, the facts were, that Royster had mortgaged certain personal property to Anthony and Perciful, to secure debts he owed them, and pending suits brought by them to foreclose, and while the property was out of Royster\u2019s possession, it having been placed by the order of the court in the custody of a receiver to prevent its being wasted or removed by him pending the suits, and while Royster himself was in prison, under a writ of ne exeat, issued in one of those suits, he executed a bill of sale of the property in controversy to Meux, expressed to be in payment of a debt due to him, by Royster, and Meux thereupon filed his bill to arrest the foreclosure suits of Anthony, on the ground that Royster never was indebted to him, and that the mortgage was executed without consideration and with intent to defraud Royster\u2019s creditors; The court there do not seem to have considered the alleged purchase by Meux as either fair or valid; because as the lawful purchaser, no good reason is perceived why he might not have gone into equity to impeach and set aside any prior fraudulent sale or contract respecting the same property, which was a cloud upon his title to it; but the opinion of the court, on the question here involved, is predicated upon the idea that Meux was a creditor of Royster, having a claim against him of a purely legal character, which he was seeking to enforce, and obtain satisfaction of it out of the property in dispute. Wherever the remedy is purely legal and adequate in a court of law, the rule is believed to be without exception, (See Brinkerhoff vs. Brown, 4 Johns. Chy. 671.) that the creditor must not only establish his claim by obtaining judgment at law, but he must pursue it to execution, and perhaps to a return of nulla bona, before he can invoke the aid of a court of equity to assail any prior conveyance to a stranger on the ground of fraud, or enable him to reach any equitable estate or credits of the debtor intangible at law. The cumulative remedy by statute regulating creditor\u2019s bills is to the same effect. In the subsequent case of Williams vs. Bizzell et al., 6 Eng. 716, where this principle was applied, the complainant, Williams, instead of exhausting his remedy at law, failed to show that he was even a creditor by having paid the debts for which he was only liable as security.\nAnother cause of complaint stated in the bill remains to be noticed. The complainant alleges that, in April 1851, he purchased of James Erwin two tracts of land in Phillips county, of which he supposed Erwin to be the owner, but when he demanded a deed, to his surprise, it was made to him by Henry C. Erwin. That he had paid his acceptance in favor of Henry O. Erwin for the purchase money, the draft having come to the hands of the defendant Margaret, who presented it for payment. That those two tracts were parcel of the lands included in the fraudulent conveyances, alleged to have been made by James Erwin through Henry and Robt. A Johnson, to Henry O. Erwin. Both causes of complaint are covered by the same prayer for relief.\nThe fact of this money having come to the hands of Margaret Erwin, might be a circumstance in evidence, tending to show the real nature of the transactions alleged to be fraudulent; but if'the complainant purchased these two tracts in good faith, for aught that appears on this bill, he acquired agood title, which is notin danger of failing.\nAs to this part of the bill, the decision of the chancellor was right; but for the error in deciding that there is no equity in the bill, the decree must, for the reasons before stated, be reversed, and the cause remanded for further proceedings.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Palmer, for the appellant,",
+      "F. W. & P. Trapnall, for the appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Higgins vs. Johnson et al.\nChancery has jurisdiction to enforce a claim for a breach of warranty, where there' has been only a partial eviction, and a threatened eviction as to the residue under a title paramount, and to subject to the satisfaction of it, other lands fraudulently conveyed by the grantor to his heirs at law, and the grantor has in the meantime died insolvent and intestate, and there is no administration upon his estate.\nAppeal from Phillips Circuit Court in Chancery.\nBefore the Hon. Charles W. Adams, Circuit Court presiding.\nPalmer, for the appellant,\ncited Day vs. Chism, 10 Wheat. Rep. 449. Fowler vs. Poling, 6 Barb. S. C. R. 165. Miller vs. Avery, 2 Barb. Ch. R. 582. Lockwood vs. Sturdevant, 3 Conn. 373. Meux vs. Anthony et al., 6 Eng. 411.\nF. W. & P. Trapnall, for the appellees."
+  },
+  "file_name": "0309-01",
+  "first_page_order": 309,
+  "last_page_order": 314
+}

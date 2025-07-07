@@ -1,0 +1,65 @@
+{
+  "id": 1862650,
+  "name": "Bell Ex Parte",
+  "name_abbreviation": "Bell Ex parte",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "76",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 76"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 296,
+    "char_count": 5194,
+    "ocr_confidence": 0.496,
+    "pagerank": {
+      "raw": 9.952970691134863e-08,
+      "percentile": 0.5369504168003617
+    },
+    "sha256": "47b1e94cd0e7ecf5e97c376b7c1f0e108227c416fcb875ec508bd2063d641d54",
+    "simhash": "1:0a8c0d22893e795d",
+    "word_count": 903
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bell Ex Parte."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinon of the court.\nThe estate of Daniel L. Jackson deceased, of which the appellant is administrator, appears to be of the value of the aggregate sum. of about two thousand four hundred and seventy dollars, consisting of personal property, part of which has been sold, and the residue delivered to the widow, at the appraised value, as part of her dower \u2014 debts due the estate by bonds and promissory notes, debts due by open account and some county scrip of the county of Monroe.\nIn an account current rendered to the probate'court of that county, the administrator charged himself with these several varieties of assets, and besides taking credit for expenditures, for which he produced vouchers, deducted also a sum equal to ten per centum upon the entire actual value of the estate that came into his hands. The Probate court, upon examining the account and passing upon it, corrected it so far as to strike out the ten per centum as deducted and to allow five per centum. To that action of the court, the administrator excepted by his bill and appealed regularly to the Circuit Court of Monroe county, where the doings of the Probate court in the premises were affirmed, and he has now brought his case into this court by appeal.\nThe appellant contends that the statute regulating the allowance of commissions to administrators, by way of compensation for their risk and trouble, (Dig. chap. 4 sec. 108,p. 130) is applicable only to the collection of claims in favor of an estate, whether they be due by bond, note, bill or open account, and is therefore but an effort of the Legislature to fix the respective rates of commission for the collection of each particular claim that may be severally of a sum under one thousand dollars, of a sum between one thousand and five thousand, and of a sum above five thousand dollars.\nIf this proposition were true, it could in no way benefit the appellant in this case, as it appears in this transcript, but the contrary. It cannot, however, be maintained as true, either by the letter or by the obvious spirit of the statute. The letter of the statute is express that the commissions to be allowed the administrator are, \u201cfor his risk and trouble in attending to the settlement of such estate,\u201d not his risk and trouble in collecting any one demand, or even of all demands in favor of an estate. And it is obvious that the Legislature designed to regulate the whole matter of an administrator\u2019s compensation, and not so much of his compensation only as had relation to his service in collecting claims in favor of an estate; because the mischief designed to be remedied must have been at least equal, if not greater, flowing from the exercise of the discretion of the probate court in making compensation for services and risks of an administrator, other than those relating to the collection of claims in favor of an estate.\nThe statute, when thus understood as to the extent of its operation, does not take away the discretion of the probate court in fixing the compensation of administrators; but only fixes a limit beyond which the allowance for compensation shall not go: the language of the statute is, that the court \u201c shall allow such executor or administrator any sum not exceeding ten per centum,\u201d &c.....\u201cfor his risk and trouble in attending to the settlement of such estate.\u201d The probate court may therefore properly, in the exercise of a sound discretion, fix the compensation at a rate of commission less than the maximum allowed by law, while in another case, it might with equal propriety allow the maximum of ten per centum commission for the first one thousand dollars of the true value of the estate,'five per centum on the next four thousand dollars of that value, and three per centum for so much of that value as was beyond five thousand dollars.\nThere is nothing in this record to show to us, that the probate court of Monroe county abused its discretion, thus limited by statute, in refusing to allow the appellant the maximum of ten per centum on the first thousand dollars of the aggregate value of the estate of his intestate, and in fixing his compensation for settling up the estate at five per centum on the aggregate value; and we therefore find no error in the judgment of the Circuit Court, which must be affirmed, with costs against the appellant.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "McConaughey, for the appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "Bell Ex Parte.\nSection. 108, chap. 4 Digest, fixes the compensation of an administrator for his entire trouble and risk in attending to the settlement of an estate, and not merely for collecting its debts.\nThe probate judge may allow, as such compensation, the maximum per cent, upon the value of the estate fixed by the statute, or it may, in the exercise of a sound discretion, allow less than the maximum, according to the circumstances of the caso.\nAppeal from Marion Circuit Court.\nPlon. Tuo. B. Hanly, Circuit Judge, presiding;\nMcConaughey, for the appellant,\ncontended that the commission allowed by the statute (Dig. cji. 4, sec. 108,) for the \u201c risk and trouble in attending to the settlement\u201d of the estate of a deceased person, should be computed upon the claims composing the estate, and not upon the aggregate amount."
+  },
+  "file_name": "0076-01",
+  "first_page_order": 76,
+  "last_page_order": 78
+}

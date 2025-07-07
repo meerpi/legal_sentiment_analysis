@@ -1,0 +1,91 @@
+{
+  "id": 1862683,
+  "name": "Meech vs. Fowler",
+  "name_abbreviation": "Meech v. Fowler",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "29",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Ark. 452",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Ark. 218",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Ark. 450",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728970
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/4/0450-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 295,
+    "char_count": 5040,
+    "ocr_confidence": 0.486,
+    "pagerank": {
+      "raw": 1.724065050996208e-07,
+      "percentile": 0.704373884346153
+    },
+    "sha256": "f8dbda61f26496852bf687961bc01cbfdd46799e919723e39a8c5444de9431b4",
+    "simhash": "1:3aabd0c81a769ff1",
+    "word_count": 910
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Meech vs. Fowler."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court. The plaintiff in error has appealed from the judgment of the court below, dismissing his suit for the want of a sufficient bond for costs. The objections to the bond appear to be, that the day of the month of its date is left blank, and that it is given by a firm, signed by their firm name and style under seal. The suit was commenced on the 18th of September, 1851, and the bond for costs has the following endoi\u2019sement, signed by the clerk: \u201cThe above bond approved by me, September 18,1851, and filed before writ issued.\u201d On the hearing before the court of the issue upon the defendant\u2019s motion to dismiss, the plaintiff produced the bond and endorsement referred to, and made part of the record, and the facts in evidence were, that the bond in question had been filed before the commencement of the suit, and approved by the clerk of the court as sufficient: that it had been signed, sealed, and delivered by J. H. Patterson, one of the firm of Byers & Patterson; that he was a resident of this State and responsible for the costs which might accrue in the suit in question; and that the plaintiff was a non-resident;\nThe statute requires the non-resident plaintiff, about to commence a suit in any circuit court, to file in the office of the clerk, the obligation of some responsible person, being a resident of this State, for the payment of all costs which may accrue in such action'.\nThe question here is not whether one partner can bind his co-partner, by an instrument under seal, so as to make the firm liable upon an obligation executed by one in their joint names, nor is there any question as to what authority or assent by the partner not signing will be sufficient to make such an obligation obligatory upon him. The bond was certainly executed by one of the firm, and as held in Day vs. Lafferty, 4 Ark. 450, it is good against him. Whenever it is admitted, as decided in Ferguson vs. The State Bank, 6 Eng. 512, that the plea of non est factum goes onlyto thepersonal dischargeof the party pleading it; andthatthe party, who executed the deed, continues liable, it follows that the statute in this case has been substantially complied with. Neither the defendant, nor any officer of the court, who may become interested in the bond for costs, has any right to insist that there shall be more than one security for costs, if he be a solvent and responsible person. The case stands as if there were two securities, and one of them for any cause not liable on the bond or irresponsible.\nThe date, though prima facie evidence of the time of the execution is not necessary to the validity of a deed, which takes effect from the time of its delivery.\nIf the Circuit Court thought the bond to be so informal or defective as likely to embarrass the defendant or the officers of the court, in the recovery upon it of their legal demands that would accrue in the progress of the suit, it might, according to its discretion, have ruled the plaintiff to furnish a bond free from any such objection, as it would, where there is a doubt of the continuing solvency of the security; but upon the facts stated here, the decision of the court absolutely dismissing the plaintiff\u2019s suit is not, as we conceive, in accordance with strict law, or the reason of the statute.\nThe. judgment will be reversed, and the cause remanded with instructions to proceed therein according to law, and not inconsistent with this opinion.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Byers & Patterson, for the plaintiff.",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Meech vs. Fowler.\nThis was a suit by a non-resident. Before its institution, Patterson, of the firm of Byers & Patterson, executed and filed, a bond for costs in the firm name, leaving the day of the month of its date in blank. On motion of defendant, the suit was dismissed for want of a sufficient bondfor costs: Held, that, passing over the question as to the right of one partner to execute a bond in the name of the firm, so as to bind his co-partners, the bond for cost was valid as against Patterson, who executed it.\nHeld, further, that the date, though prima facie evidence of the time of the execution, is not necessary to the validity of a deed, which takes effect from the time of its delivery.\nFurthermore, that if the circuit court thought the bond so informal, or defective, as to embarrass a recovery upon it, it might, according to its discretion, have ruled the plaintiff to file a bond free from such objections, but that tha court erred in dismissing the suit.\nAppeal from Independence Circuit Court.\nByers & Patterson, for the plaintiff.\nThe bond for costs being executed in the name of both partners, the legal presumption is, that both authorized or adopted its execution; and if a deed be executed by one partner, in the name of the firm, with their assent, it shall be deemed the deed of all. Story on Part., sec. 120, 121, 122, note 2. 3 Kent Com. 47-8. But it is certainly a valid bond, as to him who did sign and seal it. Rector vs. Onstott, 1 Ark. 218. 4 Mason 232 and note. Dayetal. vs. Lafferty, 4 Ark. 452.\nFowler, contra."
+  },
+  "file_name": "0029-01",
+  "first_page_order": 29,
+  "last_page_order": 32
+}

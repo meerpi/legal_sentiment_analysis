@@ -1,0 +1,122 @@
+{
+  "id": 1862733,
+  "name": "Leach vs. Lambeth",
+  "name_abbreviation": "Leach v. Lambeth",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "668",
+  "last_page": "671",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 668"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Barb. 566",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Ark. 602",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8729417
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/4/0602-01"
+      ]
+    },
+    {
+      "cite": "8 B. Mon. 443",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4442027
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/47/0443-01"
+      ]
+    },
+    {
+      "cite": "5 B. Mon. 367",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Ark. 155",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Ark. 602",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8729417
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/4/0602-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 400,
+    "char_count": 7382,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 3.3549944905902085e-07,
+      "percentile": 0.874947921674198
+    },
+    "sha256": "998cbcf0914900dacac6242a5e5f1e4f10d5482523aeccf65a8c2cb3e7c238f3",
+    "simhash": "1:aff9a4faaae14385",
+    "word_count": 1298
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leach vs. Lambeth."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThis is an action of debt brought by Lambeth against Leach and Simmons upon a writing obligatory, executed by them to the plaintiff.\nThe defendant, Simmons pleaded infancy, and the other defendant, nil debet, payment and set-off' Upon the first two pleas issue was taken: to the third, the plaintiff demurred, upon the ground that there was not such mutual indebtedness between the plaintiff and the defendant, set forth in the plea, as to constitute a valid set-off under the statute; in this, that the contract sued upon was executed by Simmons and Leach, and that pleaded in set-off was in favor of Leach alone. The Circuit Court sustained the demurrer to the plea; and the correctness of its decision upon this point, is the sole question presented for our consideration.\nThe statute, Set-off, sec. 1, Dig. page 937, provides: \u201c That when two or more persons are mutually indebted to each other, &c., and one of them commences an action against the other, one debt may be set-off against the other, although they may be of a different nature.\u201d Being remedial this statute should be construed liberally, so as to accomplish the object intended by its enactment, which was, by setting off one debt against another, to prevent cross actions, delay and unnecessary expense. The plaintiff contends that the term \u201cmutually indebted,\u201d means only such debts, or demands as exist, and are due from all of the plaintiffs to all of the defendants: and in suppoi\u2019t of this position, refers to one of the earlier decisions of this court, Trammell vs. Harrell, 4 Ark. Rep. 602. In that case, it is worthy of remark, that the sufficiency of the plea of set-off was not presented upon demurrer, nor was exception taken to the evidence upon the trial of the issue formed upon it, nor does it appear whether the question was directly presented by assignment of errors, or argued by counsel. The court, however, proceeded to consider the question, and held that a debt or demand, to be a set-off, must be due from the sole plaintiff, or plaintiffs, to the sole defendant or defendants. The chief justice, dissenting, held that, although a demand, not due from all of the plaintiffs to the defendant or defendants, could not be pleaded as a set-off, yet as regarded\u2019the indebtedness of the plaintiffs to one or more of the defendants, the rule was different; and that a debt or demand, due from the plaintiff or plaintiffs to any one, or all of the defendants, was a mutual subsisting indebtedness within the spirit and meaning of the statute, and might be pleaded as a set-off against the plaintiff\u2019s demand.\nThis construction of the statute, in our opinion, is best calculated to give effect to it, and accords with the other acts, which make all contracts joint and several, whether so or not in terms, by which the plaintiff may, at his election, sue one or all of the fendants. \u00c1 payment by one defendant is, in effect, a payment by all. The defendants may plead separately, and any defence to the merits of the action enures to the benefit of all: and if the plaintiff is indebted to one of several defendants, and such defendant should choose to pay and discharge the debt of himself and his co-defendant out of it, it is, in effect, the payment and satisfaction of both, and no good reason seems to exist why he should not be permitted to do so. Such defence in no wise affects the rights of the co-defendant, or of the plaintiff: not of the defendant, because so far from increasing his liability, it lessens it by discharging a debt, for the whole of which he was bound to the plaintiff; nor does it prejudice the rights of the plaintiff, because, if in truth he owes the defendants or either of them, he should not, in good conscience, be permitted to coerce payment from them, or one of them (which is in effect from both), without at the same time paying that which he owes them, and to compel this, and prevent litigation and unnecessary costs and delay, the statute of set-off was passed.\nThe rule laid down in Trammell vs. Harrell, although subsequently adhered to in Gray vs. Badgett, Field vs. Watkins and Woodruff vs. The State, seems never to have been fully acquiesced in: and in Sillivant & Thorn vs. Reardon, 5 Ark. 155, it was not only qualified and explained, but an express intimation was there given, that a more liberal construction of the statute should be adopted.\nThe question is again presented for our consideration, and under circumstances which clearly show, that unless a more liberal construction is given to the statute than that in Trammell vs. Harrell, it will, in many instances, fail to accomplish the end for which it was enacted. In this case Simmons, one of the joint and several obligors, was a minor, pleaded his minority and was discharged. So that in fact, Leach, the other defendant, was the only legally bound defendant. It is true that the plaintiff sued him jointly with Simmons, but he was alone absolutely bound for the debt. Leach pleaded a subsisting debt due from the plaintiff to him, and there certainly can be no good reason why he should not be permitted to do so. It is clearly a case within the spirit and intent of the statute, which is merely remedial and as a modification of the rule, as laid down in Trammell vs. Harrell, will in no. wise affect the title to property, but will at the same time give effect to the statute in accordance with its obvious intent, we feel less reluctant to do so, and to adopt that held in the dissenting opinion of the chief justice, which we think sustained, as well by reason and a fair construction of the statute, as the decisions of other courts. Thus in Kentucky, Dunn vs. West, 5 B. Mon. 367, one of several defendants was allowed to set-off his separate demand against the plaintiff, who sued upon a joint and several contract. And in Powell vs. Hoge, 8 B. Mon. 443, in a suit upon a joint bond against two defendants, the decision in Dunn vs. West was approved. In commenting upon the statute and the effect of the plea, the court of appeals said, \u201cThe plaintiff cannot be enjoined by the discharge of his own liability. There is no other person jointly interested with him in the debt. And as it is a voluntary assumption of the payment of the whole debt by one defendant, the other defendants jointly bound with him have no cause of complaint.\u201d This is the view taken of the'question in the dissenting opinion in Trammell vs. Harrell, in the correctness of which we fully concur. ,\nJudgmentjre versed and the cause remanded for further proceedings.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Faircihld, for the appellant.",
+      "Byers & Patterson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Leach vs. Lambeth.\nA debt due from a sole plaintiff to one of several defendants, may be pleaded under the statute as a set-oif, by the defendant to whom such debt is due. The case of Trammell vs. Harrell, 4 Ark. 602, overruled as to this point.\nAppeal from, Jackson Circuit Court.\nHon. B. H. Neely, Circuit Judge, presiding.\nFaircihld, for the appellant.\nSimmons being an infant and not bound by his contract, Leach was solely bound on the note and could set off what Lambeth owed- The authorities are express, and the principle certainly reasonable. Slocum vs. Hooker, 12 Barb. 566. Burgess vs. Merrill, 4 Taunt. 468. Gibbs vs. Merrill, ib. 307.\nByers & Patterson, contra.\nReferred to ch. 150, Dig. sec. 1. Harrell vs.. Trammell, 4 Ark. 602. Woodruff et al. vs. State, 2 Eng. 333."
+  },
+  "file_name": "0668-01",
+  "first_page_order": 668,
+  "last_page_order": 671
+}

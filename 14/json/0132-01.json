@@ -1,0 +1,207 @@
+{
+  "id": 1862624,
+  "name": "Dugan as ad. vs. Fowler",
+  "name_abbreviation": "Dugan v. Fowler",
+  "decision_date": "1850-01",
+  "docket_number": "",
+  "first_page": "132",
+  "last_page": "138",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Ark. Rep. 595",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 J. J. Marsh. 528",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Call. Rep. 24",
+      "category": "reporters:state",
+      "reporter": "Call",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Ark. 183",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Blackf. 30",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Mo. Rep. 250",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "pin_cites": [
+        {
+          "page": "354"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Yerg. Rep. 298",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "weight": 3,
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Munf. Rep. 432",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Wend. 563",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Ark. Rep. 233",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 John. Rep. 207",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139148
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/12/0207-01"
+      ]
+    },
+    {
+      "cite": "8 Cow. Rep. 418",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Pick. Rep. 259",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Verm. Rep. 237",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        11268990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/6/0237-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 500",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Cow. Rep. 194",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. Rep. 578",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848274
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0578-01"
+      ]
+    },
+    {
+      "cite": "10 John. Rep. 192",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 640,
+    "char_count": 13197,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0686511066861427
+    },
+    "sha256": "fb8b06c3cc87e949839ff65ac0feead87cbc1df800184b9e15c9f6f776baae61",
+    "simhash": "1:2c1540480aa7c93b",
+    "word_count": 2334
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting."
+    ],
+    "parties": [
+      "Dugan as ad. vs. Fowler."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the court.\nDugan, as administrator, sued Fowler in debt on a forthcoming bond, executed to the plaintiff\u2019s intestate by John H. Cocke, as principal, and William Cummins, and the defendant as his securities for the delivery of slaves seized in execution as the property of Cocke, to satisfy a judgment in favor of plaintiff\u2019s intestate against said Cocke.\nThe questions of law presented for our consideration arise upon the decision of the court below, sustaining the demurrer of the defendant to the plaintiff\u2019s replications to defendant\u2019s first plea. It is argued by the defendant that the legal sufficiency of the whole pleading is brought in review by the demurrer. This, as a general rule,is correct, but as the legal sufficiency of the declaration has already been decided, (3 Eng. 181,) that decision will be held conclusive upon that point. And as the counsel seem to differ widely as to the extent to which that decision will be held conclusive, it may be well to remark, that it is only conclusive as to the legal sufficiency of the declaration, as a pleading, to put the defendant to answer. But nothing is settled with regard to the extent or nature of the defence to be interposed. As regards that, the defendant is left just as if no demurrer had been interposed to the declaration.\nWhilst this is the case, as regards the issues of fact to be formed, no second consideration of the declaration will be permitted upon a demurrer to the subsequent pleadings. The demurrer to the replications does, however, raise the question as to the sufficiency of the plea to which they were offered as a reply. And, we will pi\u2019oceed at once to consider the plea, because, if it should be found demurrable upon grounds not amendable, it will super-cede the necessity of considering the questions arising upon the demurrer' to the replications.\nThe plea' is in bar and sets up a payment or satisfaction by a levy upon the slaves and real estate of Cocke, one of the defendants in the execution, in satisfaction of a statute j udgment, upon the same forthcoming bond, upon which this suit is brought: which levy is averred to be upon property of sufficient value to satisfy such judgment, and to remain in full force and undischarged.\nIn support of this plea, it is contended that the bond was merged in the statute judgment; and that, as property of sufficient value to satisfy it, is taken and held in satisfaction, the debt is-thereby, in fact, satisfied, and a bar to any recovery upon the bond. The plaintiff\u2019s counsel, on the other hand, deny that the1 levy is a satisfaction, such as can be plead in bar, or amounts to-more than an abatement or suspension of the right to further satisfaction, until the levy is legally discharged; and denies that the-bond is merged in the judgment, or by force of the statute loses-its efficacy as a bond. The solution of this latter question is involved in much difficulty.\nUpon the return of the execution unsatisfied, and the bond as-forfeited, the statute gave the right, at once, by operation of law,to sue out an execution against the principal and the.security in, the bond. No formal judgment is pronounced. In this instance it was done upon motion of the plaintiff and leave of court; but-still no formal judgment was rendered. It will not do to call the' bond the judgment. It is but the evidence of debt, which, together with the return of the officer thereon, upon which, when; brought into court, by mere force of the statute, there is, in contemplation of law, a judgment existing, though not formally pronounced, nor entered of record, yet so dependant upon the bond- and the return, as almost necessarily to livein them. For they are' the only record evidence, except the motion for execution and the-order granting it, of the existence of such judgment. In the case of Ruddell against Macgruder, 6 Eng. 584, the nature of this statute judgment was considered with some care. In that case it was said, \u201cThe non-delivery of the property transforms the bond by operation of law into a statutory judgment, on which statutory judgment, execution may issue against all of the obligors in the bond. The execution does not issue upon the bond, but upon the statutory judgment, which, by operation of law, springs into being upon the forfeiture, and then exists in contemplation of law.\u201d Adhering to this, as perhaps the best exposition which we can give, and which has been heretofore cited with approbation, we must hold that the judgment exists, not, properly speak ing, in the bond: that is the evidence of a debt, and together with the return, constitutes the foundation upon which the statute-judgment rests, and may also be considered the record evidence of its existence.\nThus considered, when suit is brought upon the bond, it may be defended against, just as when brought upon any other instrument, upon wdiich there has been a recovery had. For there has been a recovery had upon this bond, and whether formally pronounced by the court,' and entered upon the record upon-a given state of .facts, or pronounced by the law upon another given state of facts, declared to be sufficient, it is still a recovery as full and as complete, in the one case as in the other, and is equally effective in procuring final satisfaction.\nWe come next to consider the efficacy of the particular defence interposed in this case. Conceding the plea to be in all other respects sufficient and formal, we come at once to the main point. Is an existing unsatisfied levy upon property sufficient in value to satisfy the judgment, such satisfaction as maybe pleaded in bar of a recovery. We have repeatedly held that such a levy is a satisfaction, but not an absolute satisfaction in any event. It must depend upon circumstances connected with the future disposition of the levy, whether it is an absolute satisfaction or not. In the application of this rule, where the question ai;ises as to whether further process for satisfaction should be suspended until the subsisting levy is disposed of, as in the case of Whiting & Slark, and the more recent case of Trapnall vs. Waterman and Wood, there is comparatively but little difficulty. The question did not arise upon plea; nor is that the mode of reaching such irregularity. Those cases settle the general principle, that a subsisting undischarged levy upon property, sufficient to satisfy the judgment, is a satisfaction until, by the discharge of the levy by sale or otherwise, it proves to be partial or incomplete. In those cases the question arose upon the right of the judgment creditor to further process upon his judgment; here the question comes up by plea in bar to another action upon the same demand. A judgment upon this plea in favor of the defendant, would be a perpetual bar to all further satisfaction, whether the levy should or not, upon sale of the property or other legal discharge, prove to be sufficient: and as this would be the effect of the judgment on the plea, such plea cannot be allowed, for if allowed, the judgment of the court would go beyond the legal effect of the matter pleaded.\nIn the case of Humphries vs. Anthony, where an undischarged levy was pleaded in bar of a right to revive the judgment, upon which the levy was made, the insufficiency of the plea was neither discussed nor decided. The demurrer was to the replication, and although in considering the legal sufficiency of the replication, this court might have gone back to consider of the sufficiency of the plea, yet this was not done. The decision of the court settled alone the question as to the sufficiency o\u00ed the replication. The decision in that case, therefore, is no authority for holding a plea in bar admissible in such cases, but must be limited to the precise point discussed and decided.\nIn a later case, Fowler and Pike vs. Scott, where after dissolution of an injunction, and pending an appeal from the decision of the court dissolving it, suit was brought upon the injunction bond, the pendency of the appeal, was plead in bar to a recovery upon the bond, the court held that, although a plea in abatement would have been the more appropriate plea, yet the defence might be pleaded either in bar or abatement. This decision was made upon the authority of Bell vs. Chapman, 10 John. Rep. 192, where a plea to the disability of the plaintiff, that he was an alien enemy, (a state of war then existing,) was held to be well pleaded in bar or abatement.\nBut it will be observed that the subject matter of defence in the last case, was to the disability of the party to sue, and not matter in bar of the recovery as in this case. These decisions, therefore, admitting the law to have been correctly decided, under the particular state of the case presented, do not conflict with :our opinion in this case. We are satisfied that the defence set up in this plea cannot be plead in bar of the action; and whether the replications were sufficient in law or not, as the sufficiency of the plea was properly raised by the demurrer to the replications, the demurrer should have been overruled.\nAs this defence, according to our view of the law, is entirely cut off, so that the question cannot again arise in the court below, it becomes unnecessary to discuss the merits of the replications. A bad replication is sufficient for a bad plea.\nLet the judgment be reversed and the case remanded to be proceeded in according to law and not inconsistent with this opinion.\nWatkins, C. J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Watkins &; Curran, for the plaintiff.",
+      "Fowler, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Dugan as ad. vs. Fowler.\nThe former decision in this ease (3 Eng. 181) upon demurrer to the declaration, will be held conclusive as to the legal sufficiency of the declaration as a pleading to put the defendant to answer, but not as to extent or nature of the defence.\nA'plea, setting up as a defence to an action upon aforthcoraingbond, an execution on the statute judgment existing on the forfeiture of such bond, (under the Territorial statute,) and a subsisting levy upon property of sufficient value, should be in abatement and not in bar.\nWhen suit is brought upon a forfeited forthcoming bond, it may be defended against, just as when brought upon any other instrument upon which a recovery has been had.\nAn existing unsatisfied levy upon property sufficient in value to satisfy the judgment, is not such satisfaction as may be pleaded in bar of recovery; bu,t is merely matter in abatement.\npjrror to Pulasjci Circuit Court.\nTbe Hon. W. H. Feild, Circuit Judge, presiding.\nThis case was argued and submitted at January term, 1850.\nWatkins &; Curran, for the plaintiff.\nThe first position assumed by us is, that the plea is insufficient.\n1 st. Because it shows that the levy was upon negroes and recti' estate and avers that both together were of sufficient value. 2d, Because it is not alleged that 1he property levied upon belonged to either o.f the defendants in the execution. The plea merely states that it was levied upon \"as the property of Cocke,\u201d without stating that it belonged to him. 3d, Because the plea fiiils to show that the property levied upon was the property of Fowler, the party who makes the defence, See Walker vs. Bradley, 2 Ark. Rep. 578. McGinnis vs. Billiard, 2 Bibb R. 490. Onta-. rio Bank vs, Mallet, 8 Cow. Rep. 194. Green vs. Benke, 23 Wend. 500. 2 Saund. Rep. 47 n (a.) 6 Verm. Rep. 237. 2 N. Hamp\\ Rep. 298. 18 Eng. C. L. R. 273. 24 Pick. Rep. 259.\nFowler, contra,\nas to the sufficiency of the plea, contended that a levy on the property of the defendant to an amount sufficient to satisfy the execution, operates per se as a satisfaction and extinguishment of the judgment. Lawrence Ex parte, 8 Cow. Rep. 418. Hoyt vs. Hudson, 12 John. Rep. 207. 8 Cow. Rep. 194. Cummins vs. Webb, 4 Ark. Rep. 233. 2 Saund. Rep. 47, a note 1. Hunt vs. Breading, 12 Serg. Rawlc 41. 6 Wend. 563. Lusk vs. Ramsay, 3 Munf. Rep. 432. 1 Frecm. Ch. Rep. 571. 3 Yerg. Rep. 298. Gib. 309. 2 Nott <\u00a7\u2022 McCord 393. 10 Sm. Sf Mar. R. 57. 3 Mo. Rep. 250, 354. 7 Blackf. 30, 350. Anderson vs. Fowler, S Ark. Rep. Anthony vs. Humphries, 9 Ark. 183. Young vs. Read, 3 Yerg. Rep. 298.\nIn a judgment against principal and surety, a levy upon sufficient property of the principal to satisfy the execution discharged the judgment and the surety, though the property be returned to the principal without the consent of the surety. Clark Ranee vs. Bell, 8 Humph. {Tenn.) Rep. 28. Baird v. Rice, 1 Call. Rep. 24. Davis vs. Mickell et ad., 1 Freem. Ch. Rep. 571. Sneed's Ex. vs. White, 3 J. J. Marsh. 528. Young vs. Read, 3 Yerg. Rep. 298. 12 Serg. Sp R. Rep. 41. 17 ib. 438. 7 How. {Miss.) Rep. 393.\nThe opinion in the case of Walker vs. Bradley, 2 Ark. Rep. 595, that a levy without actual satisfaction, would only be available as a defence to the debtor, whose property was seized, and nottohis co-debtors, as an obiter dictum, not necessary to the decision of the case, and contrary to common sense, reason and justice.\nA sufficient levy when made is a good plea in bar on such a bond, and whilst it lasts as much a satisfaction as to take the defendant\u2019s money. Cass vs Adams et ad., 3 Ham. Ohio Rep. 223. Kershan vs. Merch. Bank, fyc., 7 How. {Miss.) Rep. 393."
+  },
+  "file_name": "0132-01",
+  "first_page_order": 132,
+  "last_page_order": 138
+}

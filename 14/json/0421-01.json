@@ -1,0 +1,67 @@
+{
+  "id": 1862637,
+  "name": "Brown vs. Collins, ad.",
+  "name_abbreviation": "Brown v. Collins",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "421",
+  "last_page": "422",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 421"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 177,
+    "char_count": 2286,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 1.1619320283896213e-07,
+      "percentile": 0.5842392741816221
+    },
+    "sha256": "62c6942070cadfc032abe6a2ecc17c8d7d226ea04562d4254ea0e026357c4767",
+    "simhash": "1:82de0a6e5e16b2f8",
+    "word_count": 412
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting."
+    ],
+    "parties": [
+      "Brown vs. Collins, ad."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis is an application for an appeal under the provisions of our statute, (Dig. ch. 28, p. 244, and 135), and the question presented, is whether or not, under the provision of the 21st section of our statute of dower; (Dig. ch. 59, p. 448), when the husband dies, leaving a widow and no children, she takes one-half of the real estate, and one-half of the slaves of which he died seized, absolutely and in her own right, or only a dower estate in them, for the fall term of her natural life; and vve think it perfectly clear, when this section is considered in connexion with the other provisions of the dower law, that she takes only a dower interest and estate for life.\nIt is manifest that if she takes the slaves, absolutely and in her own right, she takes the real estate in the same way, and this would be in conflict with the policy of our statute of descents, of preserving the inheritance in the blood of the first purchaser, subject to dower in the common law sense of that term; as to the duration of the estate. It is only when there are no kindred, either paternal or maternal, capable of inheriting, and next before it escheats, that real estate descends from the husband to the wife, or vice versa, (Dig. ch. 56, sec. 7). It would be easy to show, by enlarging upon this view of the subject, that if the widow could take one-half of the land absolutely, and not a doWer -estate in it for life only, the Legislature had really achieved much less than half they evidently designed by the system of descents fthey set on foot.\nThe application is denied.\nWatkins, C. J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Curran & Gallagi-ier, for the petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "Brown vs. Collins, ad.\nUpon the construction of tlie statute concerning dower, where a husband, dies, leaving a widow and no children, the widow is entitled to be endowed of one-half of the real estate, and also one-half of the slaves of which the husband died seized, during her natural life only, and not in-fee or absolutely in her own right.\nThe term dower has a common law meaning, importing an estate for life, not to be controlled without a contrary intention clearly manifested by the statute.\nPetition for an appeal from the decree of the Circuit Court of Pulaski county in Chancery. \u25a0\nCurran & Gallagi-ier, for the petitioner."
+  },
+  "file_name": "0421-01",
+  "first_page_order": 421,
+  "last_page_order": 422
+}

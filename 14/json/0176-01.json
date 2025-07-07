@@ -1,0 +1,66 @@
+{
+  "id": 1862727,
+  "name": "The State Bank vs. McClelland",
+  "name_abbreviation": "State Bank v. McClelland",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "176",
+  "last_page": "177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 176"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 199,
+    "char_count": 2854,
+    "ocr_confidence": 0.543,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.4706243491415909
+    },
+    "sha256": "a211eae0fda767796726b3df8f5ad6797015f62accddb6c9a405253769ffe40b",
+    "simhash": "1:da0d565a00269c7c",
+    "word_count": 479
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State Bank vs. McClelland."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the court.\nIn this case the defendant pleaded the statute of limitation, to which the plaintiff filed five replications : each admitting that more than three years had elapsed between the time her cause of action accrued, and the commencement of the suit; and relying upon the provisions of the 24th sect. Dig. ch. 99, which provides that where an action is commenced before the cause of action is barred by limitation, and a non-suit is suffered, that such plaintiff may commence a new action within twelve months after such non-suit suffered, &c.\nThe first and second of these replications no where aver against whom the first, or the several succeeding suits, after non-suit, were commenced; and although the third replication properly describes the cause of action and the parties in the first suit, and that a non-suit was suffered, it wholly fails to show against whom the second suit was commenced. The fourth replication was withdrawn ; the fifth replication avers that after the first non-suit, the plaintiff commenced her action anew, \u201c with intent to implead the plaintiff, J. W. Wilson and Thadeus C. Wilson.\u201d Conceding this to be a clerical misprision, and that the pleader intended to say \u201cdefendant,\u201d instead of \u201c plaintiff,\u201d and the averment was in fact, that she intended to implead the defendant, J. W. Wilson and Thadeus C. Wilson, or the defendant, and the others, still the averment is insufficient. It is not enough to say that the plaintiff intended to sue, but there must be a direct averment that she did sue, &c. Each of these objections is fatal under the decision of this court in the case of The Bank vs. Sherrill, 7 Eng. 186.\nThe replications were therefore defective, and the demurrer to them properly sustained.\nLet the j udgment be affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the plaintiff.",
+      "English, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "The State Bank vs. McClelland.\nTo a plea of the statute of limitations, the plaintiff filed several replications, in each setting up under sec. 24, ch. 99, Dig. former suits, non-suits and new actions within the year: Hem, 1, That those replications were defective, that did not aver against whom the former suits were brought; 2d, That the replication, averring that the plaintiff commenced her action \u201c with intent to implead the defendant,\u201d was also insufficient: there must be a direct averment that the plaintiff did sue, S\u00a1c.\nWrit of Error to Washington Circuit Court.\nThe Hon. A. B. Greenwood, Circuit Judge, presiding.\nS. H. Hempstead, for the plaintiff.\nThe allegations in the third replication are substantially good, and that the replication is sufficient does not admit of serious question. It is not, perhaps, as full as in the case of State Bank vs. Magness, 6 Eng. 345, yet good, for in that case the court very clearly intimate that it is not necessary. State Bank vs. Sherrill, 6 Eng. 344.\nEnglish, for the defendant."
+  },
+  "file_name": "0176-01",
+  "first_page_order": 174,
+  "last_page_order": 175
+}

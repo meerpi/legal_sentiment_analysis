@@ -1,0 +1,189 @@
+{
+  "id": 1862718,
+  "name": "Sumpter vs. Tucker",
+  "name_abbreviation": "Sumpter v. Tucker",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "185",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wheat 27",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Ala. Rep. 808",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Stew. 154",
+      "category": "reporters:state",
+      "reporter": "Stew.",
+      "case_ids": [
+        8493485
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/stew/1/0154-01"
+      ]
+    },
+    {
+      "cite": "3 Porter 226",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        11256052
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/port/3/0226-01"
+      ]
+    },
+    {
+      "cite": "9 Porter 366",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        8496053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/port/9/0366-01"
+      ]
+    },
+    {
+      "cite": "9 Cow. 34",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 S. & M. 513",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "case_ids": [
+        8840843
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/miss/15/0513-01"
+      ]
+    },
+    {
+      "cite": "8 Ala. 920",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8498787
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/8/0920-01"
+      ]
+    },
+    {
+      "cite": "4 Ala. 22",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. Rep. 4",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848172
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0004-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 284",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ark. Rep. 284",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Ark. Rep. 4",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848172
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0004-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 374,
+    "char_count": 5914,
+    "ocr_confidence": 0.499,
+    "pagerank": {
+      "raw": 1.1158531445453332e-07,
+      "percentile": 0.572196487131103
+    },
+    "sha256": "f01a6ebeb93d3f3d5b2982e59a7cb2f58423d5230721864ff7a90404edb44392",
+    "simhash": "1:c4c73e625f82b665",
+    "word_count": 1083
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, Cl J., not sitting,"
+    ],
+    "parties": [
+      "Sumpter vs. Tucker."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThis was an action of debt upon a note executed by Sumpter^ made payable to James R. Kinkead, and by him assigned, by his within endorsement thereon, to the plaintiff. As the only questions of law arising upon the record, relate to the fourth, fifth and sixth pleas of the defendant, we will direct our examination directly to them.\nThe fourth plea denied the assignment of the note by Kinkead to the plaintiff, and was properly stricken out upon motion, because not verified by affidavit. Sanger vs. Sumner, 13 Ark. Rep. 284.\nThe fifth and 6th pleas are substantially the same. They admitted the assignment to the plaintiff, but set up a payment of the sum, for which the note was assigned to the plaintiff by Kinkead; and a re-delivery of the note by plaintiff to him, in whose possession it remained until his death. Upon motion, the defendant was ruled to elect, which of these pleas he would rely upon, and to abandon the other; and having elected to rely upon the 5th plea, the plaintiff demurred to it, because the facts set forth in the plea show that the legal right of action is in the plaintiff.\nThe counsel for Sumpter contends that the re-delivery of the note by the plaintiff to Kinkead, did, by operation of law re-invest him with the legal title to it. This position is wholly irreconcilable with our decision in the case of Block vs. Walker 2 Ark. Rep. 4, where it is held, that when a note or bond is regularly assigned and delivered to the assignee, the legal title can only pass from him to another by a re-assignment of such note or bond. Nor does this decision, in the slightest degree, conflict with our later decisions. In the case of Martin vs. Warren, 6 Eng. 285, the assignment was made by a blank endorsement and delivery of the bill, which bill, with the endorsement still in blank, came again to the hands of the assignor. It was held that being thus returned in blank, it vested in the holder a right to fill up the blank, and perfect the assignment in himself, or to pass it to another: and this rule was recognized and re-affirmed in Sanger vs. Sumner.\nThe counsel seems to have urged the applicability of the rule in Martin vs. Warren, to the case under consideration, under a misapprehension of the facts set up in the plea. It is not averred as he seems to suppose, that the assignment was in blank. And taking the construction against the pleader, we must infer that it was otherwise, or he would hav'e so stated it. The facts of the case bring it directly within the rule laid down in Block vs. Walker: and the rule there held is decisive of this point. Therefore the Circuit Court did not err in sustaining the demurrer to said plea.\nAs regards the alleged error of the court below, in compelling the pleader to elect, which of two pleas setting up the same defence, he would rely upon, there can be no doubt, from the nature of the two pleas, that the court decided correctly. Precisely the same grounds are relied upon, but slightly different in the statement of them. If the difference of the statement of facts would make one a valid defence, and the other not, it is .the fault of the party, should he elect to rely upon that which is insufficient, and he has no cause for complaint,, that he selected the wrong plea.\nThere is no other point which we deem- it important to notice.\nJudgment affirmed.\nWatkins, Cl J., not sitting,",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "E. H. English, for the appellant.",
+      "Curran, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Sumpter vs. Tucker.\nA plea, denying, the assignment of the note suedmpon, may he stricken out on1 motion, if not verified by affidavit, as held in Sanger vs. Sumner, 13 Ark. 284,.\n\u201cWhere a note is assigned in full, and delivered to-the assignee, the legal title cam only pass from him to the assignor by a re-assignment, as held in Block vs. Walker, %Ark. 4 \u2014 delivery alon\u00e9is insufficient.\nWhere the defendant files several pleas setting up precisely the same grounds of defence, though differently stated the court may require him to elect, upon which he will rely.\nAppeal from the Circuit Court of Hot Spring county.\nHon. Shelton Watson, Circuit Judge, presiding.\nE. H. English, for the appellant.\n1st. The court below erred in compelling him to elect between the 5th and 6th .pleas; for the defendant may file as many pleas as he may think necessary for his defence, Dig. p. 807, and the two pleas were not the same, in that the one proceeds on the admission that the assignment was in full, and the other avers it to have been in blank.\n2. The court erred in sustaining the demurrer to the 5th plea; which avers that the assignment was upon condition, and to secure the payment of money, and upon its payment a re-delivery of the note to, and possession by the assignor. This case differs from the case of Block vs. Walker, 2 Ark. Rep. 4, where the assignee, after full assignment, erased it and sued in the name of the assignor without a re-delivery, as the assignee in this- case re-delivered the note to the assignor upon payment of the money for which it was assigned as collateral security, and thus annulled the original contract of assignment.\nThat the assignment to Tucker did not operate in all respects as an ordinary assignment, made in the course of trade, See Bank of Mobile vs. Hall, 6 Ala. R. 639. 4 Ala. 22. 8 Ala. 920 Walker vs. Smith, 11 Ala. R. 1 Stew. & Porter 107. 7 S. & M. 513. 9 Cow. 34. 9 Wend.1 70.\nUpon the re-delivery of the note to Kinkead by Tucker, on payment of his debt, Kinkead could have erased the endorsement, or simply disregarded it, and have sued in his own name. Earber vs. Wolf, 9 Porter 366. Evans vs. Gordon, 8 Porter, 142. 3 Porter 226. 1 Stew. 154. 8 Ala. Rep. 808. Morris vs. Forman, 1 Dallas. Thompson vs. Roberts, 4 J. R. 27. Lousdale vs. Brown, 3 Wash. C. C. R. 404. Clark vs. The U. States, 2 Wheat 27. 18 J. R. 230. Martin et al. vs. Warren et al., 6 Eng. 285. Jordan vs. Thornton use, &c., 2 Eng. 224.\nCurran, for the appellee."
+  },
+  "file_name": "0185-01",
+  "first_page_order": 183,
+  "last_page_order": 186
+}

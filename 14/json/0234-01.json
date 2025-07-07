@@ -1,0 +1,93 @@
+{
+  "id": 1862682,
+  "name": "State Bank vs. Walker, ad.",
+  "name_abbreviation": "State Bank v. Walker",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "234",
+  "last_page": "237",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Ark. 70",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728313
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/4/0070-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 70",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728313
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/4/0070-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 341,
+    "char_count": 6217,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 1.8723381091672266e-07,
+      "percentile": 0.7264547083633062
+    },
+    "sha256": "81091997a833c9415ae1ef697a17b648295d4fbc8959f37f10e3f01a3986b11b",
+    "simhash": "1:e8e7ead494e2e696",
+    "word_count": 1095
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Walker, J., not sitting."
+    ],
+    "parties": [
+      "State Bank vs. Walker, ad."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court!\nIt appears from the record in this case that Pope, the intestate, executed his note to the appellant, which became due on the 1st day of July, 1844. That Pope died on the 20th day of July, 1845, and administration of his estate was granted to the appellee on the 15th day of August following. The claim having been probated, was exhibited to the administrator oil the 29th day of April, 1847, and rejected by him. The plaintiff filed the claim in the Probate Court on the 6th of July, 1847, and on the next day, as shown by the record entry in the Probate Court, the parties appeared, and by consent it was ordered by the court, that the cause be continued until the next term. The cause was, at several subsequent terms, continued at the instance of the Bank, and upon her motion, successive writs of summons were sued out against the administrator, one of which was returned served on the 30th of July, 1849, and at the October Term, 1849, the parties appeared and the defendant entered his plea of the statate of limitations, to which the plaintiff joined issue, all in short by consent upon the record, and the court sitting as a jury, allowed the claim, and classed it in the 5th class, to which the defendant excepted, and on his appeal to the Circuit Court, the judgment was held to be erroneous, and atrial de novo awarded, in which on the same state of fact, the court found for the defendant on the issue between the parties and gave judgment accordingly, to which the appellant excepted.\nAs heretofore held by this court, the appearance of the defendant, and his consenting to a continuance is a substantive act, dispensing with the service of process. Rogers vs. Conway, 4 Ark. 70. The defendant must therefore be considered as having notice of the application for allowance to the Probate Court, and as being in court for all the purposes of the suit from that time forward.\nIn the case of Etter vs. Finn, 7 Eng. 634, it was the opinion of the court, that, though as a general rule, where a statute commences running, it continues to run until the bar becomes complete, such general rule had been qualified by this court upon the authority of the decisions in the courts of Maryland, Tennessee, North Carolina, Mississippi, and Alabama, as wouldbe seen by reference to the case of Aikin vs. Bailey, 5 Eng. 584, where the death of aparty has been held to produce a temporary suspension of the operation of the statute, for then there are no parties competent to be sued. As for instance, if the payer of a note should die after the statute had commenced running, but before the statute bar had matured, the time between the death of such party, and the substitution of a new party, executor or administrator, would not be estimated in computing the time of the statute bar.\nIf, therefore, we are to regard the plea of the statute of limitations interposed, in short, by the administrator\u2019, as being the general statute of three years, the exceptions to the decision of the Circuit Court must be considered as well taken, because upon the facts proven, if the time between the death of the intestate and the grant of administration be excluded, three years had not elapsed from the accrual of the cause of action, until the institution of the suit ]oy the voluntary appearance of the administrator in the Probate Court, and in this view of the case, the judgment of the Circuit Court is erroneous.\nBut the defendant could have the benefit of the general statute of limitations as a plea thus informally interposed, only on the supposition that the claim was barred by that statute before the death of his intestate. Because, although we have considered the case with reference to the decision in Etter vs. Finn, which was that upon the death of the debtor, the statute is suspended until the grant of letters, and then resumes its course, and have concluded that, even if governed by that decision, the defence is not sustained, yet in our opinion that case does not furnish the rule of decision.\nDuring the present term, in the case of Walker ad. vs. Byers, after a thorough examination of the subject, and a review of the previous decisions of this court touching the point, we have solemnly held that the two years statute of non-claim, gives the rule as to claims against the estates of deceased persons, and not the general statute of limitations; that is to say, that under our ad-, ministration system, as regulated by statute, when, a party dies, all subsisting claims against him, not then barred, are put on the same footing, and may be presented and allowed against his estate, at any time within two years from the grant of letters, and if not presented within that time are barred, without any saving or exception in favor of disabilities, and without reference to the length of time such claims might have had to run as against living persons under the general statute.\nWhen we apply this rule to the facts of this case, it is beyond question that the claim was not barred; because the administrator appeared in the Probate Court on the 7th of July, 1847, and within two years from the grant of letters, to resist the allowance and classification; he having rejected the claim when it was presented to him duly authenticated on the 29th of April following.\nThe judgment of the Circuit Court must therefore be reversed, and the cause remanded with instructions to affirm the judgment of the Probate Court.\nWalker, J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Hempstead and Bevens, for the appellant",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "State Bank vs. Walker, ad.\nThe appearance of the defendant in the Probate court, on an application for the allowance of a claim against him as administrator, and his consenting to a continuance are substantive acts dispensing with service of process, and which make him a party to the cause. Rogers vs. Conway, 4 Ark. 70.\nThe two years statute of non- claim gives the rule as to claims against the estates of deceased persons, not barred at the time of the death, and not the general statute of limitations, as held in Walker ad. vs. Byers.\nAppeal from the Circuit Court of Independence county.\nThe Hon. W. C. Scott,, Circuit Judge, presiding.\nHempstead and Bevens, for the appellant\nFowler, contra."
+  },
+  "file_name": "0234-01",
+  "first_page_order": 234,
+  "last_page_order": 237
+}

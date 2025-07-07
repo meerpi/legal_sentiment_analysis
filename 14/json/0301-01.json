@@ -1,0 +1,87 @@
+{
+  "id": 1862636,
+  "name": "Abraham Ex'r. vs. Gray & wife",
+  "name_abbreviation": "Abraham Ex'r v. Gray",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "301",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "21 Wend. 135",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 A. K. Marsh. 602",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "case_ids": [
+        6447709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/8/0602-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 345,
+    "char_count": 6350,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 8.910891907956353e-08,
+      "percentile": 0.5002480839616518
+    },
+    "sha256": "a96dc5b23f8a67b9057bb7db1d79d24920858035adfd514d7d848e94cbb9c6f4",
+    "simhash": "1:20902a6d6be703e0",
+    "word_count": 1123
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Wations, C. J., not sitting."
+    ],
+    "parties": [
+      "Abraham Ex\u2019r. vs. Gray & wife."
+    ],
+    "opinions": [
+      {
+        "text": "Hon. Isaac Strain, Special Judge,\ndelivered the opinion of the Court.\nThis is an action of debt brought upon a writing obligatory for one thousand dollars. To this action the defendant below filed several special pleas in bar. To all of which the plaintiff demurred, and the court below sustained the demurrer; the defendant rested, and judgment was given for the plaintiff below.\nThe first plea sets up, \u201cthat the said writing obligatory was executed and delivered in consideration that said Thomas H. should obtain, and upon the supposition that he did then and there obtain a valid title to, and become the absolute owner of a certain negro slave named Manuel; and the said defendant avers that said Thomas H. did not, nor did any person claiming by, through or under him, obtain or acquire a valid title to, or become the absolute owner of said negro, and so said defendant says, that the consideration of and upon which said writing obligatory was given has failed; and this he is ready to verify, &c.\nWhether the \u201csaid Thomas H. received a valid title and become the absolute owner of said slave Manual,\u201d is a question of law depending upon the facts of the case. These facts ought to have been set out in the plea. It should have shown how the title to said slave Emanuel was invalid, and the facts which precluded the said. Thomas H. from becoming the \u201cabsolute owner.\u201d Pleas alleging an \u201cinvalid\u201d or defective title, and that therefore the consideration failed, must set forth the particular facts showing how the title is invalid, and wherein it is defective. Dickson vs. Burk, 1 Eng. 414. The plea is evidently defective and the demurrer was properly sustained thereto by the court below.\nThe second plea is the same as-the first with the additional allegation: \u201cThat said Edwards on the day of the date of said writing obligatory obtained possession of said negro and held him until the day of March, 1851, when said negro killed said Edwards, and was afterwards, to wit: on the day of May, 1851, for that offence, pursuant to the sentence of this court, capitally punished and executed. And said defendant avers that said Edwards never did acquire a valid title to or become the absolute owner of said negro, and that said Edwards, in his lifetime, to to wit: on the 20th day of Nov. 1850, paid to the plaintiff the sum of one hundred and fifty dollars upon said writing obligatory, which sum was much more than sufficient to satisfy and pay for the hire and services of said negro after said Edwards so obtained possession of him and for all benefit he derived from said purchase.\u201d\nThe matters and things contained in this allegation, instead of going to show that Edwards had no valid title, admit and show that he did have a valid title to said negro. In October, 1850, when said writing obligatory was executed and delivered in consideration of said negro Manual, the said negro was delivered to said Edwards, the vendee, at the same time, \u00e1nd all the right and title of Gray and wife, the vendors, to said negro Manuel, then vested in said Edwards; and the plea does not pretend to allege that any other person, at that time, had any right or title to said negro. The said negro having subsequently killed the vendee, and by the State convicted of murder therefor, and sentenced to death and executed, affords no defence to this action. It does not divest the vendee of title, or render the title invalid, or affect it any Way. The vendee took the negro subject to all subsequent casualties. The plea is bad and the court below correctly sustained the demurrer thereto.\nThe third and last plea is in substance the same as the first, with the exception that it alleges, \u201cthat the plaintiffs falsely and fraudulently represented to said Edwards, that he\u201d (Edwards) \u201chad acquired a valid title thereto, and become the absolute owner of said slave Manuel,\u201d &c., without stating what the false and fraudulent representations were, and why he did not acquire a valid title and become the absolute owner. It is therefore for the same reasons fatally defective, and the demurrer was properly sustained thereto.\nThe allegations in these pleas, \u201cthat Edwards did not obtain a valid title to, or become the' absolute owner of said slave Manual,\u201d in the absence of all facts upon which such deductions may be predicated, is pleading a deduction of law, which is in contravention to the rules of pleading. 1 Ch. Pl. 244, 245.\nLet the case be affirmed.\nWations, C. J., not sitting.",
+        "type": "majority",
+        "author": "Hon. Isaac Strain, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the plaintiff.",
+      "S. H. Hempstead, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Abraham Ex\u2019r. vs. Gray & wife.\nA plea of failure of the consideration of a writing obligatory, as that the defendant did not obtain a valid title to, or become the absolute owner of the property for which the writing obligatory was given, must set forth the particular facts showing how the title is invalid and wherein it is defective.\nIt is no defence to an action by the vendor against the executor of his vendee, on a note given' for the purchase money of a negro, that the negro had killed the vendee, and had been convicted of murder therefor by the State and executed.\nWhere the plea alleges false and fraudulent representations, as inducement to a failure of consideration, it must state what they were.\nW?'it of Error to Lafayette Circuit Court.\nThe Hon' John Quillin, Circuit Judge, presiding.\nThis suit was brought by Gray & wife against Abrahams, as executor of Thomas H. Edwards, on a writing obligatory executed by Edwards in favor of the wife of Gray.\nBefore the Hon. C. C. Scott andD. Walker, Judges, and Hon. Isaac Strain, Special Judge.\nWatkins & Curran, for the plaintiff.\nEvery one of these pleas is fully sustained by the recent case of Wheat use \u00a7c. vs. Dotson, (7 Eng. R. 699,) and the authorities there cited.\nS. H. Hempstead, contra.\nWhere a failure of consideration is relied on, the facts showing such failure must be specially detailed in the plea to make it good. Coleman vs. Harper, 1 A. K. Marsh. 602. Dickson vs Burk, 1 Eng. 414. Coyle vs. Fowler, 3 /. J. Marsh. 475. Cheney vs. Higginbotham, 5 Eng. 275. The pleas are silent as to the invalidity of the title; they do not state any facts to show that the title was invalid, or in what it consisted, but allege a mere deduction of law. Facts only should be stated, and not arguments or inferences or matters of law. 1 Ch. PI. 244, 245. Stephen cm PI. 341.\u00bb Doug. 159. 21 Wend. 135."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 301,
+  "last_page_order": 304
+}

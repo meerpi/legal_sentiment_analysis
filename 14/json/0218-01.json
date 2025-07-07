@@ -1,0 +1,66 @@
+{
+  "id": 1862706,
+  "name": "Arrington vs. Washington",
+  "name_abbreviation": "Arrington v. Washington",
+  "decision_date": "1852-01",
+  "docket_number": "",
+  "first_page": "218",
+  "last_page": "219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 352,
+    "char_count": 6317,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 2.7525720787785237e-07,
+      "percentile": 0.8328526103259302
+    },
+    "sha256": "0fdcffa6d150eb4f5f59fcc8c9ee53213f106e263a7c4e42e54c21d7dc752ee2",
+    "simhash": "1:dee5555e30293cae",
+    "word_count": 1108
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arrington vs. Washington."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the court.\nThis was a suit in chancery, to enjoin a judgment at law. The grounds for equitable relief are: that the complainant was security for one Whitfield, upon a delivery bond. That after the bond was forfeited and before the rendition of tlie judgment thereon, Arrington, the creditor, without the knowledge or consent of the complainant, made a new contract with Whitfield, the principal in the bond, by which he postponed the payment of the debt to a further day. And also, upon the further ground, that after the bond had been returned forfeited, and before suit upon it, the creditor sued out an alias execution upon the original judgment against Whitfield, the principal in the bond, and caused the same to be levied upon the personal property of Whitfield, of value sufficient to pay the debt, and that after such levy, by the order of the creditor, the execution was returned without sale or disposition of the property.\nIt becomes unnecessary to decide upon the merits of the equitable defence here set up, or whether it is sustained by proof, until we dispose of a preliminary question, as to whether the defence, conceding it to be sufficient, should not have been made upon the trial of the case at law.\nIt has been settled by the previous decisions of this court, that this is a matter of defence over which the common law and the chancery courts have concurrent jurisdiction. Hempstead & Conway vs. Watkins, ad. 1 Eng. 317 It is a complete legal defence? and may be.pleaded as such, Caldwell vs. McVicar, 4 Eng. 418, and the defendant may elect to defend in a court of law, or should he decline to defend there, he may set up such defence in chancery. Hempstead & Conway vs. Watkins. But should he elect to defend in a court of law, and fail in his defence, ho is held to his election, and cannot again present his defence in a court of chancery, unless there is an express averment of fraud, surprise, accident, or the like, which may in some instances entitle the party to relief in chancery, notwithstanding his defence at law. Garvin et al. vs. Squires, 4 Eng. 533. When the defendant submits himself *to the jurisdiction of the court of law, by offering any defence whatever, it matters not whether by demurrer to the declaration, plea in abatement, or in bar, it amounts to an election of jurisdiction, and having made such election, he must make defence there, and whatever defence is not made, will be considered as having been waived. Le Guen vs. Gouverneur, 1 John. Cases, 505.\nIn truth, from the moment he comes into the court of common law to defend, his election is fixed, and he stands in all respects, as if it was a defence over which the common law court had exclusive jurisdiction, and his excuse for a failui\u2019e to make a full and successful defence must be the same as if no such concurrent jurisdiction had ever existed.\nIn this case the parties were all before the court. The defendant demurred to the plaintiff\u2019s declaration, upon which issue was joined, and a judgment rendered. This is a defence, a submission to the jurisdiction of the court, and an election to defend there. The nature of the defenceitself is not so important. The true enquiry is, has the court power to hear the defence, and has the defendant elected to be heard in that coui\u2019t. If so, he must abide his election. Courts of chancei\u2019y abhor multiplicity of act mis, and require vigilance at the hands of its favored suitors. Such vigilance was cleaxdy not shown in this case, nor is any reason assigned for declining to follow up his defence in a court that had thus acquired jurisdiction of the parties, and where an issue was tendered, upon which that court had fall power to afford the same relief that is sought in this court. It must be remembered too, that before the case of Hempstead of Conway vs. Watkins, settled the practice differently, it was rather the favored opinion that when the plaintiff tendered to the defendant an issue in a court of law, upon which the defence was full and complete in that court, such defendant was bound to make such defence, or should he suffer a default, he should not be heard thereafter in a court of chancery, even though such court had concurrent jurisdiction with the court of law to hear and determine the same. And there is certainly not wanting both good reason and authority for this ; for, admitting that the courts have concurrent jurisdiction, and are in all respects equally competent to hear the defence, that which first gets jurisdiction of the parties, and in which the issue is first tendered, would seem to have precedent right to adjudicate and finally settle the matter litigated.\nWe are not to be understood by these remarks as dissenting from the correctness of the decision in the case of Hempstead & Conway vs. Watkins, but simply as intending to show that the rule should not be extended further. In that case there was no defence whatever : in this, there was a defence, an election to appear and defend. And in the absence of any sufficient excuse for not having followed up that defence, the defendant will not be heard to complain in this court. Because from the time such election was made, it ceased to be a matter of concurrent jurisdiction, and became a matter exclusively within the jurisdiction of the common law court. The defendant was not deprived of his right to select in which court he would make his defence, but did elect, and having done so must abide by it.\nAs therefore the court of chancery had no jurisdiction of this case it becomes unnecessary to enquire whether the facts sustain the equitable defence set up or not.\nThe decree of the Jefferson Circuit Court must therefore be reversed with instructions to assess damages ujrnn the dissolution of the injunction and to dismiss the bill.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the appellant.",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Arrington vs. Washington.\nA demurrer to the declaration is such an election to defend at law, as will preclude the defendant from coming into a court of equity for relief, as to any matter of defence of which he could have availed himself in the court of law.\nAppeal from the Circuit Court of Jefferson county in Chancery.\nHon. J. C. Murray, Circuit Judge, presiding.\nArgued and submitted at the January term, 1352,\nWatkins & Curran, for the appellant.\nPike & Cummins, contra."
+  },
+  "file_name": "0218-01",
+  "first_page_order": 216,
+  "last_page_order": 219
+}

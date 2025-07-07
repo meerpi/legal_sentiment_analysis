@@ -1,0 +1,91 @@
+{
+  "id": 1862614,
+  "name": "Yell, Gov. use Conant & Co. vs. Outlaw et al.",
+  "name_abbreviation": "Yell v. Outlaw",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "413",
+  "last_page": "415",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 B. 18",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Mass. 178",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mass. 4",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2000807
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/6/0003-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 298,
+    "char_count": 4251,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 2.1813549812920936e-07,
+      "percentile": 0.7724795924395592
+    },
+    "sha256": "c7ebb0ae9b760aecf5d9cb27eef44c6f937fcf87b44c00ab1784f72a7a90d04f",
+    "simhash": "1:ecf45146a396d01c",
+    "word_count": 760
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yell, Gov. use Conant & Co. vs. Outlaw et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins,\ndelivered the opinion of the Court.\nBogy and Bonne, two of the defendants here, have pleaded in bar of the w'rit of error, that at the May term, 1851, of the Jefferson Circuit Court, at which the judgment brought up by this writ for revision, was rendered, the now plaintiff in error prayed an appeal from the same judgment, which appeal was duly prosecuted, and upon the filing of the transcript, the appeal was docketed; the appellant assigned errors, and these defendants joined therein, and such further proceedings were had, that the appeal came on to be heard and was submitted to this court for its final decision and adjudication therein. The plaintiff demurs because the plea fails to show that the appeal is still pending and undetermined, or that it has been prosecuted to final judgment in this^ court.\nThe decision at July term, 1853, granting the motion of the appellant in the cause referred to by the plea, for leave to dis- . miss the appeal after submission, seems to be also decisive of the question here presented. We are content to say that the right of an appellant to dismiss, at his own costs, an appeal in a common law case, and sue out a writ of error to the same judgment, does not depend upon the enquiry, whether the appeal was actually pending in.this court, or whether being so pending it had been prosecuted down to submission. We take the distinction to be between those cases where the appeal does not operate as a supersedeas, and those, on the other hand, where by operation of law or the act of the suitor, by entering into recognizance, the execution is stayed upon the granting of the appeal to this courti If the successful party in the court below, is not hindered by the appeal from having execution, no good reason is perceived why* the appellant may not dismiss his appeal, at any time before the final adjudication of it, with like effect, as if he had brought the cause here for revision by writ of error, without supersedeas. As the plea fails to show that by the original appeal, the execution of the judgment became suspended, it is not sufficient to bar the present writ of error. The pendency of the appeal at the time of suing out the writ of error, might be good in abatement of the latter proceeding, but would not be appropriately made in bar.\nIn Clay vs. Notrebe, 6 Eng. 631, this court went so far as to refuse to abate a writ of error, upon a plea that an appeal had been taken in the court below with stay of execution in the same cause. Though the decision there turned upon the issue made by the pleadings, whether the appeal had been in fact pending in this court, the judge delivering this opinion is constrained to think it was an immaterial issue; because where there has been a supersedeas, the option of the appellant to abandon his appeal and bring error, is inconsistent with the right of the appellee, under the statute, to have an affirmance of the judgment, unless the appeal is diligently prosecuted; besides, upon appeals taken in the Circuit Court, the stay of execution does not depend upon the opinion of any court or judge, who, in his discretion, may think there is probable ground of error, but the suspension is demand-able at the pleasure of the appellant, upon the sole condition of his ability to furnish satisfactory security. But waiving any such consideration it is certainly a much stronger case than the present one.\nDemurrer sustained.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins,"
+      }
+    ],
+    "attorneys": [
+      "Trapnall, for the plaintiff.",
+      "Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Yell, Gov. use Conant & Co. vs. Outlaw et al.\nWhere an appeal lias been taken in the Circuit Court, without stay of execution, a plea that such appeal had been prosecuted and was pending in this court down to hearing and submission is not sufficient in bar of the prosecution of a writ of error subsequently sued out to the same judgment.\nWrit of Error to the Circuit Court of Jefferson county.,\nTrapnall, for the plaintiff.\nCummins, contra.\nThe prosecution of an appeal to issue and submission is a bar to a writ of error. Ch. 126, sec. Ill, Rev. Stat. Jarvis vs. Blanchard, 6 Mass. 4. Savage vs. Gulliver, 4 Mass. 178. Champion vs. Brooks, 9 Mass..220. Com. Dig. Title 3 B. 18. 2 Tidd's Pr. 1096. Story PI. 371. Fowles vs. Bridges, 1 Shaw, 186. 2 Tidd, 1097. Cheetham vs. Tillotson, 4 J. R. 499."
+  },
+  "file_name": "0413-01",
+  "first_page_order": 413,
+  "last_page_order": 415
+}

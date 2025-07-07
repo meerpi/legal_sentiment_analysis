@@ -1,0 +1,91 @@
+{
+  "id": 1862705,
+  "name": "Strawn vs. The State",
+  "name_abbreviation": "Strawn v. State",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "549",
+  "last_page": "552",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 549"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Ark. 66",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728261
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/3/0066-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 721",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Pick, 514",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 351,
+    "char_count": 6319,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 2.2268092648173885e-07,
+      "percentile": 0.7782598522153222
+    },
+    "sha256": "f5707c6e1d470d4368b2396f2bca4d868c00f88b78317752306e66066b336849",
+    "simhash": "1:410f86c483668529",
+    "word_count": 1079
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Strawn vs. The State."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court,\nThe appellant was indicted under the statute for maiming one Jesse Edwards, the offence being a felony: The same statute, Digest, Title, Criminal Law. Part 4, Art. 3, Sec. 8, enacts \u201cthat if persons fight by mutual agreement, and one of them be maimed, it shall not be deemed maiming within the meaning of this act; but the parties shall be punished by fine and imprisonment as fin-an aggravated affray; which fine shall not exceedone thousand dollars, and the imprisonment shall not exceed one year, at the discretion of the court.\u201d On the trial the verdict was, \u201cWe the jury, do find the within named John Strawn, not guilty, as charged in the within indictment, but find that he and the within named Jesse Edwards fought by mutual agreement. By authority of the statute, Digest, Title, Criminal Proceedings, sec. 186, the court assessed the punishment to fifty dollars fine and imprisonment for one hour, and passed sentence accordingly. The prisoner moved in arrest of judgment, because the verdict, which acquitted him of the offence charged in the indictment, failed to show that he was guilty of any minor offence.\nCertainly it might have been proper for the verdict to have stated more explicitly that the accused was not guilty, as charged, of the offence of maiming, but that he and Edwards fought by mutual agreement, whereby the latter was maimed. But looking at the indictment, the statute and the verdict as returned, the conclusion is reasonable, if not unavoidable, that such was the meaning and intention of the jury; and although the verdict does not state, in express terms, that Edwards was maimed, it will bear that construction, and was therefore sufficient to warrant the sentence. Under the existing law, Revised Statutes, Title, Criminal Jurisprudence, Division 3, Art. 5. See Eason vs. The State, 6 Eng. 502, an accused convicted of an assault merely, with intent to commit certain felonies, including mayhem, might have been subjected to an equally severe punishment by fine and imprisonment; and so for an aggravated assault: and for a simple assault, not attended with battery, the fine may be in any sum not exceeding one hundred dollars. Whatever might be the degree of strictness required in convictions for felony, we are not disposed to apply it to misdemeanors after verdict, and the present case is not stronger than that of McBride vs. The State, 2 Eng. 374. The verdict here was not a special one, which referring the law to the court, must state all the facts essential to a conviction; as for example, that the act supposed to constitute the felony, was done within the county, but was a general one, finding conclusions of law and fact, as will appear from the case of The Commonwealth vs. Call, 21 Pick, 514, cited for the appellant. The verdict does indeed specially acquit the prisoner of the particular offence with which he is charged, but such acquittal, so far from vitiating the verdict, or precluding the jury from proceeding to find the lesser offence, in cases where it is allowable to do so, Cameron vs. The State, 4 Ark. 721, it is the proper form of returning the verdict in such cases. 1 Chitty Crim. Law, 642.\nIt is argued here for the appellant that as the jury found the accused guilty of a misdemeanor only, the verdict should have stated that such offence was committed-within a year previous to the finding of the indictment; else having pleaded to an indictment for a felony, the limitation of which is three years, he might have been illegally convicted of a misdemeanor, which for aught that appears, was barred by lapse of time. Though the better opinion would seem to be that where an averment in an indictment as to time is not material, The People vs. Santvoord, 9 Cowen, 655, unless indeed the averment be of an impossible date, it is not required to be proved as laid, yet any question that might arise under the statute, whether an indictment ought not to be quashed, or the judgment upon it arrested, where upon the face of the indictment, the offence of which the prisoner may be convicted appears to be barred, is obviated in this case, because here the offence is charged to have been committed within a year previous to the first finding of the indictment. The language of the statute is, \u201cNo person shall be tried, prosecuted and punished for any offence less than felony, unless the indictment be found within one year after the commission of the offence.\u201d. Our understanding is, that the uniform construction of the phraseology quoted has been, that in order to make out the offence the State is required to prove affirmatively, to the satisfaction of the jury, upon the issue to the plea of hot guilty, that the alleged misdemeanor was committed within a year previous to the finding of the indictment. Stevens vs. The State, 3 Ark. 66. Consequently, where the indictment alleging an offence within the year is good on its face, if the proof at the trial discloses an offence committed at some anterior time, the only way in which the prisoner can avail himself of the objection is, to bring it upon the \u2022record by exceptions; or it might be ground of motion for new trial; but would not be available in arrest of judgment.\nAffirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Walker & Green, for the appellant.",
+      "Mr. Attorney General Clendenin, for the State."
+    ],
+    "corrections": "",
+    "head_matter": "Strawn vs. The State.\nIndictment for maiming Jesse Edwards; verdict, \u201cnot guilty as charged in the \u25a0within indictment, but find that he and the within named Jesse Edwards fought by mutual agreement:\u201d Sentence, fine and imprisonment: motion in arrest of judgment, because the verdict failed to show that defendant was guilty of any minor offence: Held, that although the verdict ought to have stated more explicitly that the defendant and Edwards fought by mutual agreement, whereby the latter was maimed, the verdict will bear that construction and was therefore-sufficient to warrant the sentence.\nWhere an indictment alleges an offence within the year \u2014 that being the statute bar \u2014 it is good on its face, and if the proof discloses an offence at some anterior time, the objection must be taken by exceptions, or on motion for new trial, but not in arrest of judgment.\nAppeal from Crawford Circuit Court.\nThe Hon. A. B. Greenwood, Circuit Judge, presiding.\nWalker & Green, for the appellant.\nMr. Attorney General Clendenin, for the State."
+  },
+  "file_name": "0549-01",
+  "first_page_order": 549,
+  "last_page_order": 552
+}

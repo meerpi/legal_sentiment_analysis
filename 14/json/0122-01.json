@@ -1,0 +1,91 @@
+{
+  "id": 1862700,
+  "name": "Dooley et al. Ex. vs. Dooley et al.",
+  "name_abbreviation": "Dooley v. Dooley",
+  "decision_date": "1850-01",
+  "docket_number": "",
+  "first_page": "122",
+  "last_page": "126",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 122"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Pick. 405",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2018917
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/31/0405-01"
+      ]
+    },
+    {
+      "cite": "4 Ala. 452",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8494758
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/4/0452-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 390,
+    "char_count": 7052,
+    "ocr_confidence": 0.524,
+    "pagerank": {
+      "raw": 2.5820678351531347e-07,
+      "percentile": 0.8173159902372686
+    },
+    "sha256": "290d0c290313fe15bd080146ac80492184768696a75ad32d931ed827afb01d15",
+    "simhash": "1:d4efaa0e30a350c8",
+    "word_count": 1241
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dooley et al. Ex. vs. Dooley et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe bill in this case is filed to compel the defendants, who are the legatees under the will of Thomas Dooley, to refund to complainants, the executors of said estate, so much Of the specific legacies paid over to them as may be necessary to pay $879 42, a balance in favor of the complainants, upon final settlement of the estate.\nThe defence to these allegations was, not that defendants were not the legatees, or had not received the specific legacies; nor was it that no settlement had been made with the Probate Court showing that such balance was due to the complainants. But they attempted to set up in defence against the bill that the settlement made with the Probate Court was unjust and fraudulent, and upon this point have introduced a mass of evidence, tending to prove that the complainants had not charged themselves in settlement with a large amount of money and property, which came to their hands, and for which they were accountable as executors.\nUnder the issue thus formed the main question is, as to whether the evidence was or not admissible to show a different state of accounts from that presented by the record. If the defendants had filed a cross bill alleging fraud, accident, or mistake in the settlement, and thereby made a direct issue upon the validity of the settlement, there is no doubt but that the evidence tending to prove such fraud might have been admitted: but such was not the case. And as so much of the answers as was intended to present this issue in the nature of a cross bill, was stricken out by demurrer, the simple question arises as to the admissibility of the evidence (on a collateral issue) to contradict the record evidence of settlement. This, we think, could not be done, because it was the record evidence of a settlement made by a court of competent jurisdiction, and must be received as conclusive evidence of the state of accounts and the balance due, until falsified by a direct proceeding putting in issue its truth.\nIt is not sufficient, in order to admit such evidence, to show that the proceedings, under which the settlement was made, wei'e ii'regular, as for instance (as in this case) where it, does not appear that notice was given of the time and place of settlement, as required by the statute. Such ix\u2019regularities may render the proceedings erroneous and voidable; but until they are avoided, unless absolutely void, they are entitled to the same credit as if in all respects regular. Borden vs. State use &c., 6 Eng 519.\nBut the defendants contend that as the settlement in this case was made under the territorial statute which does not deny the right to impeach the settlement when made, unless by bill in chancery for fraud, as our present statute does, that therefore such settlement may be impeached and falsified in a collateral proceeding. If this position be true, then in every instance where there is no express statute forbidding it, the truth of a record might be impeached in a collateral proceeding by extrinsic evidence; and the distinction between parol and record evidence broken down. So far from this, in the absence of any statute upon the subject, we do not hesitate, upon general principles of law, to hold that the record evidence of settlement can only be impeached by a direct proceeding in chancery for that purpose. So long as it remains a record, it is to be held as conclusive evidence of the facts therein contained. It follows, therefore, that the whole of the evidence offered in this case to show a different state of accounts from that shown by the record, was irrelevant and inadmissible.\nIf the defendants had appealed from the decision of the court, in sustaining a demurrer to so much of their answer as was in-, tended as a cross bill, the question as to its sufficiency would have been presented for our consideration; but as they have not complained of that decision as error, it becomes unnecessary for us to examine that point. Indeed the scope of our inquiry is limited to an enquiry as to the equitable rights of the complainants, upon facts which are, in effect, admitted by the answers to be true, for the denial of the truth of the settlements in effect, amounted to nothing.\nThe complainants, upon the facts properly admissible under the issue were clearly entitled to relief, and the Circuit Court erred in dismissing 1heir bill with costs.\nThe decree of the Lafayette Circuit Court in chancery, must be reversed, and the cause remanded with instructions to render a decree herein, in favor of complainants in accordance with the prayer of their bill.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the appellants.",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Dooley et al. Ex. vs. Dooley et al.\nThe final settlement of Executors with the Probate Court, is a record which cannot be impeached in a collateral proceeding, b.ut only by a direct proceeding in chancery for fraud.\nIrregularities in such settlement may render the proceedings erroneous and voidable ; hut until they are avoided they are entitled to the same credit as if in all respects regular.\n\u00c1nd so legatees, to whom the legacies have been paid, will not he permitted to question the settlement made by .the executors with the Probate Court, on a bill by the executors against them to refund, without making a direct issue by cross hill as to the validity of the settlement.\nAnd if such defence be set up in the answer, and the Circuit Court sustain a demurrer to so much of the answer, and the defendants fail to appeal, no evidence tending to sustain such answer will be before this court.\nAppeal from the Circuit Court of Lafayette county in Chdncery.\nThe Hon. Josiaii Gould, Circuit Judge, presiding.\nArgued and submitted at the January term, 1850.\nWatkins & Curran, for the appellants.\nAs the defendants did not appeal, no question is presented to this court as to the sufficiency of the crossbill: and the only matter for enquiry is whether a final settlement in the Probate Court can be impeached and opened by an answer without a bill. The settlement in the Probate Court, is conclusive, and cannot be impeached in a collateral proceeding {Borden et al. vs. State use of, 6 Eng. 519.) And the defendants.are entitled to no relief beyond what the scope of the bill will afford \u2014 any further relief could be obtained only by a cross bill. Pattison vs. Hull, 9 Cow. R. 756. 4 Ala. 452, 5 lb. 562. 3 Stew. R. 233.\nPike & Cummins, contra.\nThe facts set up in the answers are such as might be setup to defeat the recovery; inasmuch as they directly attack the whole foundation of the right set up in the bill; and no cross bill was necessary, Aylijfe vs. Murray, 2 Atk. 58 Story, Eq. PI. sec. 391. 6 Paige, 288.\nWhere a Probate Court does not act upon particular items, or property is concealed, or not brought into account, the settlement may be enquired into as to them. 14 Pick. 405, 7 lb. 1.\n6 lb. 222. And by the statute then in force (Steel S\u00a1- McCampt LHg.p. 71, sec. 35,) the accounts of the executor is conclusive,, only so far as he shows payments made in pursuance of apportionments made by the court."
+  },
+  "file_name": "0122-01",
+  "first_page_order": 122,
+  "last_page_order": 126
+}

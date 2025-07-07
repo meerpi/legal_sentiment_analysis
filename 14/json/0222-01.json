@@ -1,0 +1,66 @@
+{
+  "id": 1862640,
+  "name": "Ellis vs. Cossitt, et al.",
+  "name_abbreviation": "Ellis v. Cossitt",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "222",
+  "last_page": "224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 222"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 341,
+    "char_count": 4883,
+    "ocr_confidence": 0.54,
+    "pagerank": {
+      "raw": 2.5916105598991863e-07,
+      "percentile": 0.8186181897091298
+    },
+    "sha256": "e58149124479bdc11ae5875b94faf9286a4bd741d392c2a14a56ff7b3e6db33a",
+    "simhash": "1:0443d62e4e44db12",
+    "word_count": 874
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ellis vs. Cossitt, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis is a proceeding by attachment against Ellis, a non-resident defendant. A declaration in debt for $1,450 32, a bond for costs, an affidavit for $671 86, and attachment bond for $1500, all in due form, having been filed, the clerk of tbe Circuit Court of Phillips county issued a writ, which is not questioned otherwise than we shall presently state, commanding the sheriff \u201cto attach George W. Ellis, by all and singular his goods and chattels, bonds and tenements, credits and effects, or so much thereof as shall be sufficient to secure the sum of six hundred and seventy-one dollars and eighty-six cents, with interest thereon at the rate of 6 per cent, per annum, from the 23d day of April, A. D. 1851, together with the costs of this suit. And you are also commanded to summon the said George W. Ellis, if he be found in your county, to be and appear before the judge of our Circuit Court, at the court house, in and for said county of Phillips, on the 4th Monday in May next, A. D. 1852, it being.the 24th day of said month, then and there to ant wer, Frederick H. Cossitt, James M. Howard and Ira M. Hill, merchants, and partners, trading and doing business under their firm, name and style of Cossitt, Howard & Hill, the plaintiffs in this suit, in the premises, *as set forth and sworn to. And you are further commanded, <^c.\u201d\nTo this writ two pleas in abatement were filed, praying that it might be quashed; first, because the said writ wants these words \u201c in an action of debt for the sum of fourteen hundred and fifty dollars and thirty-two cents, debt, and two hundred dollars damages second, he says that the said writ of attachment wants these words \u201c as sworn to.\u201d To the first plea the plaintiffs interposed a demurrer, and replied to the second. And the issues in law and fact, severally, having been found for the plaintiffs\u2019 below, and the defendant taking exceptions and declining to answer further, final judgment w7as rendered against him and he appealed to this court.\nUpon the authority of the cases of Renner vs. Reed, (3 Ark. R. 339) and of Childress vs. Fowler, (4 Eng. R. 159) it is contended that the writ ought to have been quashed on the first objection.\nAllowing that the remedy by attachment, both in process and pleading, in all matters beyond the scope of the statutory provision setting it on foot, is to be governed by the general provisions of law applicable to other law suits, and that these statutory provisions themselves are to be construed in reference to our entire system of laws; and recognizing the compound nature of the process of attachment, in combining a proceeding in rent with a proceeding in personam, as inculcated in the case of Childress vs. Fowler, nevertheless this writ would be good under the reasoning and spirit of the case of Renner vs. Reed, because upon the face of it, the defendant is not only advised of the nature of the complaint in its being exhibited as a money demand, but he is advised of the precise amount sworn to by the plaintiffs, and has, therefore, a much more accurate data upon which to prepare a defence, than the face of an ordinary writ would give. So far as facilities for defence are concerned \u2014 and this is the ground Upon which the judgment in Renner vs. Reed was based \u2014 when the defendant is advised that he is proceeded against for a money demand, specific in amount and sworn to, and in a proceeding by attachment for service by seizure of property, we think it a sufficient notification to him of the nature of the complaint,\u2018to apprise him of the cause of action, and enable him to prepare his defence: more especially in view of our system of practice, which requires, that before any original writ shall issue, a declaration shall be first filed in the clerk\u2019s office, there to remain, subject to the inspection of all parties. (Dig. Pr. Law sec 3.) And if the decision in Renner vs. Reed unavoidably led to the consequence of holding the writ bad in this case, upon the objection taken, which it does not, as we have seen, we would be more inclined to depart from that case and return to what we conceive to be the true spirit of the statute than to be governed by it.\nWe think there is nothing in the other point made.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "English, for the appellant.",
+      "Traps all, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Ellis vs. Cossitt, et al.\nDeclaration in debt for $1,450 32, affidavit for $671 86 ; writ of attachment commanding the sheriff to attach defendant by his goods, \u00bfsc., to secure the sum of $671 86, interest and costs ; and to summon him to answer the plaintiffs \u201cin the premises as set forth and sworn to,\u201d instead of \u201c in an action of debt for the sum' of $1,450 36, debt, and $200 damages;\u201d the writ held sufficient on plea in abatement.\nAppeal from Circuit Court of Phillips county\nThe Hon. Thomas B. Hanly, Circuit Judge, presiding.\nEnglish, for the appellant.\nTraps all, contra."
+  },
+  "file_name": "0222-01",
+  "first_page_order": 222,
+  "last_page_order": 224
+}

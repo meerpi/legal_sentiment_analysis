@@ -1,0 +1,255 @@
+{
+  "id": 1862704,
+  "name": "Crittenden vs. Johnson, et al.",
+  "name_abbreviation": "Crittenden v. Johnson",
+  "decision_date": "1851-01",
+  "docket_number": "",
+  "first_page": "447",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dana 200",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Cranch 218",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        572746
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0218-01"
+      ]
+    },
+    {
+      "cite": "6 Littell 184",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Humph. 77",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8542554
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/26/0077-01"
+      ]
+    },
+    {
+      "cite": "8 Ala. 694",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8498167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/8/0694-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 217",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726912
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/5/0217-01"
+      ]
+    },
+    {
+      "cite": "2 Ohio, 507",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Stew. 4",
+      "category": "reporters:state",
+      "reporter": "Stew.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Ala, 843",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3079429
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/15/0843-01"
+      ]
+    },
+    {
+      "cite": "15 Ohio, 108",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        491985
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/15/0108-01"
+      ]
+    },
+    {
+      "cite": "6 Watts, 64",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ark. 693",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727924
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/5/0693-01"
+      ]
+    },
+    {
+      "cite": "2 Dev. 30",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        11276129
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/13/0030-01"
+      ]
+    },
+    {
+      "cite": "2 Verm. 3291",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Cush. 510",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Hill 134",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "20 Maine 260",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        570287
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/me/20/0260-01"
+      ]
+    },
+    {
+      "cite": "10 B. 4",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Watts 64",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Caines 202",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Ohio 235",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        589593
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/11/0202-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1431,
+    "char_count": 40432,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 1.257647048769482e-07,
+      "percentile": 0.6116543860279113
+    },
+    "sha256": "9407a7d4bbaf85420c4beb1b04565d2b728bb7d75c1714e28cc443e3e657d88f",
+    "simhash": "1:18cbbf446670addf",
+    "word_count": 7204
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting in this case."
+    ],
+    "parties": [
+      "Crittenden vs. Johnson, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott,\ndelivered the opinion of the court.\nThis case was here at the January term, 1850, when it was heard, and remanded for further proceedings, according to the principles of equity, and not inconsistent with the opinion therein delivered, the decision of the Circuit Court having been reversed. It appeared from the transcript, that at the hearing in the Circuit Court, in June, A.D., 1846, it was agreed of record by the respective parties, that the bill and answer in the cause were to1 be taken as true without any other or further proof to substantiate them, so far as they related to the right of the complainant to dower in the premises' in question; a portion of the answer having been previously stricken out. From the bill, and what, remained of the answer and the accompanying exhibits of both, it appeared that, on the 2d day of February, 1833, the petitioner was and had been long theretofore the lawful w;fe of Robert Crittenden, since then deceased, residing with him on the lands and tenements in question. That on that day, the said Robert was the legal owner in fee simple, and was seized and possessed of the said lands and tenements, and being so seized and possessed, he conveyed them, by deed in trust, without warranty, in which the petitioner did not join, to Cummins and Fowler, trustees, upon certain conditions expressed, for the benefit of Morris.\nThat the said Robert, having departed this life on the 18th of December, A. D. 1834, the lands and tenements in question were gold by the trustees, on the second Monday in January, 1836, in accordance with the provisions of the deed in trust, to the said Morris, \u201cin fee simple,\u201d as is alleged in the answer. That on the 22d of that month, Morris sold, assigned, and transferred to the respondent, Benjamin Johnson, all his right, title and interest in and to the same, and requested the trustees to convey the premises to the said respondent and his heirs. That in pursuance of that request the trustees did, on the 27th of February, 1836, by their deed of that date, convey the same to the \u201crespondent and \u25a0his heirs forever,\u201d and that from the last mentioned day the respondent had been, and was still in possession of the lands and tenements in question, \u201cas the owner and proprietor thereof in fee simple.\u201d It also appeared that Crittenden died intestate and wholly insolvent, and that the petitioner tarried in the premises, rent free, for a portion of the term of two years after the death of her husband, and received from the respondent the sum of two hundred dollars, as rent for the unexpired residue of said term of two years, and also received from the administrators household goods and other chattels, of the appraised value of one hundred and fifty dollars. The other facts that appeared need not be stated, as they related to questions that would arise in case only the main question should be found for the petitioner.\nUpon this state of facts this court decided, as questions of law raised by facts as they then appeared, that the widow\u2019s right of dower in the estate left by her husband, by the territorial statute {in force from the year 1817), was subordinate to the rights of creditors. That when the estate was insolvent, the specific articles and other personal property, to the amount of $150 at the appraised value, were in commutation and satisfaction of the dower rights in the personalty. That the two years tarrying in the mansion house and the plantations thereunto belonging, of which the husband died seized and possessed, all rent free, was in commutation and satisfaction of all dower rights in the lands and tenements or real estate of which her husband died seized and possessed.\nThat the widow was entitled to dower in lands aliened by her husband in his life time, in which she did not join, although his estate should be insolvent. And that a conveyance by the husband, by deed in trust to trustees, for the security and payment of a debt, was not a mere mortgage incumbrance upon the land \u00abconveyed, but an alienation of it. It will be seen from the foregoing facts that although it did appear the deed in trust was without a covenant of warranty, it did not appear in any way, that the only valid title, under which all the parties claim, was an after acquired one. On the contrary, it expressly appeared on the part of the petitioner, that Robert Crittenden was the \u201clegal owner in fee simple, and was seized and possessed\u201d of the premises in question, and conveyed them to the trustees. And on the part of the respondent, (who made his only claim of title 'from Crittenden through this deed in trust) that by the several deeds mentioned, the lands and tenements in question were from Crittenden conveyed to him and his heirs forever. And that from the date of the last of these deeds, he had been and was still in the possesion of the premises, \u201cas the owner and proprietor thereof in fee simple.\u201d And this, as we shall presently see, was in legal contemplation totally inconsistent with the existence of any after acquired title as that which the parties respectively had-alleged and admitted of record to have been conveyed and received.\nHence the decision of this court upon the points of law above' mentioned, as having arisen in the progress of this case, not only had no reference to any after .acquired title, but was predicated upon a state of facts which excluded the idea altogether.\nAfter the cause had been returned into the Circuit Court, new parties were there substituted in the stead of the respondent, who had in the meantime departed this life, and it was again heard there upon the bill, answer, replication and exhibits, and upon an agreed statement of facts signed by counsel and made a part of the record in the cause, the only change in the pleadings consisting of the re-instatement of so much of the answer as had been before stricken out, and this by consent. That agreement proceeds as follows to wit: \u201cBy consent of the parties aforesaid, the following facts are agreed upon, and ordered to be made of record in this cause, namely, \u2018that on and prior to the 2d day of February, A.D., 1833, the said complainant was the lawful wife of the said Robert Crittenden.\u2019 \u201d\n\" That on the 22d day of November, 1821, William Russell,. Henry W. Conway, Robert Crittenden, William Trimble, Robert C. Oden, Thomas P. Eskridge, and Joseph Hardin, who claimed to be and were recognized as original proprietors of the town of Little Rock, in said county, by their deed of that date, conveyed and quit claimed, without warranty, to Chester Ashley, blocks No. 27 and 42, as designated upon the plat of said town, now city of Little Rock. That on the 11th day of July, 1825, said Chester Ashley and Mary W. W., his wife, by their deed of that date, with covenants of warranty, conveyed the said two blocks to the \" said Robert Crittenden, and excepting one lot on the north-west corner of said block 27, which he had sold to one Elias Rector. Said Robert Crittenden died in the actual possession of said two blocks.\n\u201c That on the 2d day of February, 1833, said Robert Crittenden, together with John Morris and Absalom Fowler, and William Cummins, executed the deed of trust, a copy of which is on file in this cause, as exhibit \u201cA,\u201d to the complainants bill, and so-referred to and made a part hereof.\n\u25a0 \u201c That on the 18th day of December, 1834, the said Robert Crittenden departed this life intestate and insolvent, not having sufficient real or personal estate wherewith to pay the privileged debts allowed against his estate, leaving all other debts not privileged wholly unpaid, and that said complainant, as his widow received, on the 13th day of April, A.D., 1835, from Absalom Fowler and Ben. Desha, as his administrators, $150 worth of household furniture, and personal property of his estate, selected by her at their appraised value, and also tarried in the mansion-house, and messuage of said intestate, being the premises aforesaid, for a portion of the term of two years after his decease, and for the residue of said term sold her right so to tarry therein to the said Benjamin Johnson, for the consideration paid to- her by him, as set forth in his answer.\n\u201c That on the second Monday in January, A.D.,-1836-, the said Absalom Fowler and William Cummins as trustees underand by virtue of said deed, referred to as exhibit \u201cA,\u201d sold said premises to the said John Morris, the father of the complainant, an d \u25a0that said Morris, on the 22d day of January, A.D., 1836, by his deed of that date, sold and assigned his rights under and by virtue of said deed of trust and his purchase aforesaid, to the said Benjamin Johnson, and requested the said trustees to convey said premises pursuant to such sale, to the said Benjamin Johnson, a copy of which deed of sale and assignment is on file in this cause, as exhibit B, to the complainant\u2019s bill, and so referred to and made a part hereof.\n\u201cThat on the 27th day of February, A.D. 1836, said Absalom Fowler and William Cummins, as such trustees, by their deed of that date, conveyed said premises, to the said Benjamin Johnson, a copy of which deed is on file in this cause, as exhibit \u201cC\u201d to the answer of said defendant, and so made a part hereof.\n\u201cThat said Benjamin Johnson, by virtue of said last mentioned deed, and of his purchase subsequent thereto from said complainant of the residue of her unexpired term of two years, or right to tarry in said mansion house and premises, became possessed of the same, and he thenceforward, until his death, and the said defendants since have ever continued to be in possession thereof.\n\u201cThat said blocks 27 and 42 are embraced within the west fractional part (west of the Quapaw line), of the south-west fractional quarter of fractional section two, (south of Arkansas river), in township one north, of range twelve west.\n\u201cThat said fraction of land, containing 65-008 acres, was entered and purchased by Roswell Beebe, from the United States at the District Land Office, at Little Rock, on the 6th day of June, A.D. 1838, and a patent certificate then issued to him therefor, upon which a patent issued from the United States, bearing date the 25th day of September, A.D. 1830, granting to said Beebe the said tract or fraction of land, a copy of which patent is herewith filed, marked \u201cD,\u201d and so referred to and made a part hereof.\n\u201cThat such entry and purchase were made for the joint benefit of said Beebe and Ashley, and by agreement or understanding between them, said Beebe was to assure or make good the titles to all lots in the city of Little\"Rock, which had been previously sold or conveyed and warranted by said Ashley.\n\u201cThat on the 6th day of July, A.D. 1838, said Roswell Beebe-executed to the mayor and aldermen of Little Rock, his covenant of that date, a copy of which is herewith filed, marked \u201cE,\u201d and so referred to and made a part hereof.\n\u201cThat on the 1st day of January, A.D. 1840, Roswell Beebe and Clarissa his wife, by their deed of that date, referring to said covenant, to the Mayor and Aldermen, and pursuant thereto, released and forever quit claimed to the said Chester Ashley, said blocks 27 and 42.\n\u201cAnd upon the foregoing facts, so stated and agreed upon, it is subrtiitted to the court here to decide whether said complainant is \u00a1entitled to dower in said two blocks and premises (excepting the single lot aforesaid), and if so, from what period of time she is so Antitied, and in case the court should decree that said complainant is so entitled, that then it is agreed, that it shall be referred to the master in chancery, to enquire and ascertain the value of the yearly rents and profits of said premises, and the amount and value of the taxes and assessments thereon, and of repairs which were required to preserve them from decay by tim e, and wear and tear from use and occupation, and which were necessary for the comfortable use and enjoyment of the same, by the said Benjamin Johnson, and the present defendants since his decease, and take and state an account thereof, from such time as the court here shall decide her to be so entitled, to the time of taking such account, and make report thereof to this court.\nThat portion of the answer, which was thus by agreement reinstated, was as follows, to wit; \u201cBut this respondent in no way admits that said Chester and wife, or the. said Robert, or any, or either of them were seized or possessed, during the lifetime of the said Robert, of any legal or equitable right, title or estate in or to said blocks of lots, or any part of either, but on the contrary thereof, he is informed and so expressly, denies that they or either of them were so seized or possessed. And for other and further answer to the said petition, this respondent avers that the said Robert Crittenden never had, at any time during his life, nor did any person or persons, by, from, or under whom he claimed title in or to the said two blocks of lots, have at any time during his life any legal or equitable right or title in or to.the same or any part thereof. But on the contrary, the title in and to the same, remained in the government of the United States, nor did the said government part with her legal or eqrfitable right or title in or to said blocks or parcels of land, until after the death of the said Robert, and that the said Robert, who died, in-the actual use, occupation or possession of said two blocks of land and premises, and claiming to be the owner thereof, and of the equity of redemption therein, subject to his deed of trust aforesaid, was not, at any time during his life, seized or possessed, nor did he die seized or possessed of any legal or equitable estate in or to the same or any part thereof, whereunto the pretended right of downer of the said petitioner could attach.\u201d\nUpon this state of the case, as it is now before us, a question is made by counsel, as to whether or not the cause up res nova. It seeming to be supposed, upon the one side, that if it does not, the pleadings are so narrow that there is no place for the consideration of many of the facts that have been agreed upon and submitted to the judgment of the court, and consequently they must be disregarded, as evidence would be that was irrelevant to any given allegation, and such of them only considered as would support the denial of Robert Crittenden\u2019s seizin; there being, as contended, no allegations in the pleadings to let in proof to rebut that denial. While on the other hand, it is insisted that all other questions, except as to Robert Crittenden\u2019s title, were closed when the case was in this court before, and that the facts agreed upon were so stated and agreed solely with a view to the determination of this only remaining question, and that if the pleadings are not broad enough to admit such of the facts as support Robert Crittenden\u2019s title, to that extent only the pleadings ought to be considered as enlarged by force of the agreement, but not to the extent of opening the case res nova.\nIf the agreement had been less explicit than it was, that \u201cupon the foregoing facts, so stated and agreed upon, it is submitted to the court here to decide whether said complainant is entitled to dower in the said two blocks, &c.\u201d and the desired end had appeared more equitable than it seems, there would have been more of appai\u2019ent plausibility and fairness in this latter position. But when thus explicit; and the apparent end would seem to be, to enable the petitioner to maintain her claim of dower upon this issue by means of a fact, which, if it had been presented upon the determination of one of the issues she now claims to be closed, would have utterly and peremptorily excluded her from it, would seem to be neither plausible nor fair. Entertaining, however, different views from those seeming to be entertained by counsel, as to the issues legitimately opened by that portion of the answer that has been reinstated, and which are, in no degree, closed by any previous decision of this court in this cause, because never before entertained here, it will be unnecessary to decide the question thus mooted. For the reason, that when it might be conceded that the petitioner should have the fullest benefit of every fact contained in the agreed statement, in any way efficacious to rebut or repel the facts shown against her, under that portion of the answer in question, she must inevitably fall short of doing so, and hence would fail to maintain her case.\nIt will be remembered that the estate of Robert Crittenden being conceded to have been insolvent, his widow\u2019s claim to dower, in the lands alienated by him, rests essentially upon two facts: his title, in which hers inheres as a part, and his alienation of his title, in which hers thus inheres. When then it should be shown against any title which she might set up as his, that a valid title for the same lands had afterwards issued to a third person, from the primitive source of titles in this country, that fact would be no less efficacious to ignore the supposed alienation of the title originally set up by the petitioner, than to ignore the existence of that title in the husband as set up. If, therefore, in order to support her claim to dower thus attacked, the petitioner would be driven to show that her husband in his lifetime, was seized by relation of that identical new title, by reason of its having been acquired by her husband\u2019s grantor with warranty, she would be equally driven to show that this very new title, under which she now makes her claim, was also alienated by her husband in his lifetime. Because, if he did not alienate it, he died seized of it, and his estate being insolvent, she was entitled to dower in no lands of which he died seized. If the title first set up by the petitioner had no efficacy for Crittenden, or was overslaughed as to him by a new after-acquired one, it would be equally so for his widow, because her title inheres in his and is a part of it.\nIf Crittenden were alive and would be driven to claim an after acquired title, his widow, after his death, under like circumstances would be driven to that also, and claiming under that, if she should claim dower to land because of its alienation, it would be incumbent on her to show the alienation of the title she claimed under; otherwise her title to dower would not be made out when originally preferred, nor supported if attacked in such -a manner, If the fact had been otherwise, that Crittenden\u2019s estate was solvent and his widow made claim to dower in the lands of which he died seized and possessed, and it should be shown against such a claim of dower, that a title had afterwards issued from the Federal Government to a third person, the force of that fact would be fully repelled by a showing on the part of the widow, that that title hadbeen conveyed to her husband\u2019s grantor with warranty; because in snch a case, the only material part of the ground invaded, upon which her claim rested, was, that of her husband\u2019s seizure at his death, and consequently it would be necessary only for her to continue to support seizin in him at his death. But inthe case at bar this cannot avail her unless, in addition to the continued support of seizin in his lifetime, she also continues to support alienation. Both ingredients being as essential for the sup-r port of a claim of dower in the one case, as the one ingredient is in the other case.\nNow, how can she continue to maintain alienation in the case at bar? Can she do so by bringing up the alienation of the old 'title, which she has confessed to be bad and avoided by showing the subsequent acquisition of the new title by her husband in his lifetime? Can she exhibit the alienation of an old title, which she has confessed to be no title, and abandoned for a new one, because she could no longer maintain the old one, and claim this to be alienation of the new one, on which she is now driven to predicate her claim. Truly this is a question of \u201c identity of title,\u201d as remarked by the counsel for the petitioner in his argument, but not in the sense in which he used those terms.\nCan she claim that this court has adjudicated that question, and whether right or wrong, it is now the law of this cas'e, when, as we have seen by her own allegations and admissions of record, it was not only not presented here, but excluded by facts of record, which, as we shall presently see more distinctly, rendered it legally impossible that it could have been involved in any question adjudicated? How then, upon this record, can she show that the title, upon which she now grounds her claim, was aliened by her husband in his lifetime? Giving then to petitioner the full benefit of the argument urged for her, that the after acquired title was but the perfection of the old one \u2014 in which we confess we see no force, because the old title, as a title, was nothing and nothing has no properties \u2014 it would still result that she must show the conveyances from her husband of the perfected title, else the absurdity would ultimate, that the creditors of Critten-den \u2014 he having died insolvent and seized of it \u2014 would take the perfected title clear of any claim of dower, and still the widow would be endowed of it. Certainly then, in no other way upon this record can she maintain the alleged alienation, than by exhibiting the instruments of conveyance, which have been already held to have sufficient capacity to convey the supposed old title existing as that was alleged and admitted to exist from Crittenden to Johnson, not by way of mortgage incumbrance merely, but by way of absolute alienation.\nAnd this presents a point of law, which we have now to determine, and that is whether, previous to our statutory provision, (Dig. ch. 37, sec. 4), where one made a conveyance of land by deed containing no covenant of warranty, having at the time no title to the land, a title subsequently acquired by such grantor would enure to the benefit of the grantee.\nIt is evident from the numerous authorities which we have examined carefully, that a peculiar efficacy is given in the American courts to the covenant of warranty in a deed, for the transmission of an after acquired title to land. Its absence or presence is made almost invariably the sole test of the capacity of the deed for this purpose. The origin and growth of the doctrine, now almost universally recognized, that a deed with the covenant of warranty has, and one without it has not the capacity in question, is more curious and interesting than profitable, and although we have looked into it, and would, if necessary, be most inclined to favor the theory, plausible fo us, that it is really but little akin to the doctrine of estoppel, and is now resting on reasons beyond the mere prevention of circuity of action, we shall content ourselves with but the expression of our opinion, that the doctrine, as we have indicated it, is fully established by all the better considered opinions, when it has come in question in the American courts; and we therefore regard it as law. (See 2 Smith\u2019s Lead. Cas. Note to Doe vs. Oliver, p. 450, and the new work of Mr. Rawle on Covenants, ch. 9, generally, and page 323, for a citation in the notes of a number of American authorities.) In the enactment of our Legislature, however, before cited, this doctrine is so modified as to place all deeds, purporting to convey an estate in fee simple, or less estate, upon the same footiug; and it remains for us to determine whether that provision, which took effect on the 20th March, 1839, can have a retroactive effect. The question has never been expressly made and decided in this court. In the case of Cock vs. Brogan and Thorn, (5 Ark. R. 694), the court seem to have given it a retroactive effect. There is no indication from the report of the case, that any question was made on the point, nor does it appear, whether the deeds, to which it was applied, contained covenants of warranty or not; nor does the court say explicitly that the title in that case passed by force of the statute: such however is strongly inferable. For aught that appears from the report of the case, all the deeds in question may have contained covenants of warranty, and therefore such a construction in that case may have been, not only \u201caccording\u201d to the statute, but in accordance also with the law as it stood before, and therefore did not impair any contract, or disturb any vested right. At any rate there ceems to have been no question raised or discussed on the point. But although this is so, we would not lightly regard any ruling of this court if it seemed reconcilable with sound rules and principles of the law. This does not seem to us to be so. Its inevitable effect seems to be, to take the title of land from one and give it to another. The general rule, as to the construction of statutes, is that they \u201care not to be construed retrospectively, or to have a retroactive effect unless it shall clearly appear that it was so intended by the Legislature, and not even then if by such a construction the act would divest vested rights,\u201d (Smith Com. Const. and St., law, p. 679, and note C, citing authorities). So Chancellor Kent says, \u2022\u201cThe very essence of a new law is a rule for future cases.\u201d No-va constiiutio futur isfor mam imponer e d\u00e9bet et non praeteritis,\u201d is the language of Bracton, Liber IV, p. 228. So the same author says, \u201cA retrospective statute affecting and changing vested rights, is very generally conceded in this country, as founded in unconstitutional principles, and consequently inoperative and void,\u201d and he adds, \u201cBut this doctrine is not understood to apply to remedial statutes, which may be of a retrospective nature, provided they do not impair contracts, or disturb absolute vested rights, and only go to confirm rights already existing, and in furtherence of the remedy by curing defects, and adding to the means of enforcing existing obligations.\u201d\nUnder this latter quotation, doubtless, a statute of a retrospective nature, by which we understand of a capacity to retroact remedially, might be upheld as constitutional, and should be enforced to the extent indicated, if it clearly appeared that such was the intention of the Legislature; but although it might be of a remedial and retrospective nature, it could not be held to act retroactively in the absence of such clear manifestation of the intention of the Legislature, without violating the general rule of construction as to retrospective operation of statutes.\nThere is nothing in the whole statute, of which the provision in question is a part, to show clearly that the Legislature were making rules for any other purpose than for future cases. If we were then to give this provision a retrospective action, it would be without the clear manifestation of the intention of the Legislature, that it should have that effect. And even if that intention was plainly manifested, it would still be a debatable question, whether or not it would come within the constitutional sphere of retrospective statutes!\nUnder such circumstances we cannot hold it retrospective, feeling bound to hold it applicable to cases only which arose after its enactment.\nThe deed in trust made by Crittenden, and the conveyance under it, being without warranty, it but remains to conclude that in our opinion the defendant was rightfully entitled to the decree \u2022 of the court below, and it must be affirmed.\nWatkins, C. J., not sitting in this case.",
+        "type": "majority",
+        "author": "Mr. Justice Scott,"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellant,",
+      "Watkins & Curran, and Hempstead, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Crittenden vs. Johnson, et al.\nA widow\u2019s right to dower, under the territorial law, in the lands of-her husband, dying insolvent, depended upon her husband\u2019s title and his alienation of it; and as she must show both seizin and alienation by her husband, title in a third person, subsequently derived from the Government of the United Slates, disproves the facts of title in and alienation by her husband.\n\u2022G., in possession of lots in the city of Little Ruck, and holding under a deed with warranty, executed in 1825, from A., who derived title from persons claiming to be the original proprietors, conveyed the lots to trustees by deed, without warranty, and died in 1834: The trustees, in execution of the trust, sell and convey to J.; after-wards a patent lor the same laud issues from the United States Lo a third person: Held, that 0\u2019s. widow is not entitled to dower in the lots.\nAnd this, although the patentee, after the issuance of the patent, conveyed thelots by deed in fee simple, to A., who was the immediate grantor by deed with covenant of warranty, of 0., and jointly interested with the patentee in the purchase of the land from the United States.\nBefore the act of our Legislature, (Dig. ch. 37, sec. 4), which affects subsequent conveyances only, and has no retrospective operation, an after-acquired title by a grantor related to and perfected the title of his grantee only where he had conveyed by deed with covenant ol warranty.\nAppeal from the Circuit Court of Pulaski county in Chancery.\nHon. W. H. Feild, Circuit Judge, presiding.\nThis cause was argued and submitted at the January term 1851.\nPike & Cummins, for the appellant,\nas to the question whether Crittenden had such tifie in the lots that his widow was entitled to dower, said:\nThe question we malta is whether a grantee can use, against Ms grantor or the widow of Ms grantor, a new title which comes to Mm through the grantor, for which the grantor paid the consideration, and which the grantee obtains and takes by virtue of Ms original conveyance from that grantor, and in his right. There is no question of estoppel about it, either. It is a question of identity of title.\nWe do say, and insist, that, if the defendants have good title in fee; if they have obtained the whole of that title from Crittenden\u2019s conveyance, or\u00edn consequence of covenants made with and by Crittenden, they have not made out their defence: that the title conveyed by Beebe to Ashley connects,by relation, with Ashley\u2019s \u25a0original conveyance, for every purpose required by justice and right: that the alienee, having the benefit of this, must take it cum onere: that if by this relation, he holds the fee, he must admit that the same relation which completes and perfects Crittenden\u2019s title, ab initio, for his benefit, does the same for his widow: that if Crittenden\u2019s conveyance is made, by Beebe\u2019s relinquishment, operative by relation to pass the title to Johnson, to efiect which, the law necessarily holds that Crittenden was seized; then it will also, by the same fiction, hold him seized in order to secure to the widow her right of dower. This fictitious seizin by relation can not be, to Johnson, more than equivalent to actual seizin in law, if it had really existed: and it would certainly be more potent, if it, the substitute, could give him the widow\u2019s dower, when the reality would not have done so.\nInstances of the doctrine of relation are abundant. A sheriff\u2019s deed goes back, by relation, to the day of sale, so as to pass whatever title tlie judgment debtor had at the time of the lev3u Boyd vs. Longworth, 11 Ohio 235. Jackson vs. McCall, 3 Cowen 75. Jackson vs. Dickinson, 15 J. R. 309.\nThe acknowledgement of a deed relates back to the time of its \u00abexecution, so that an acknowledgment by a sheriff, after the terinitiation of his office, of a deed executed by him while in office,\u2019 is sufficient. Doe vs. Dugan, 8 Hamm. 87.\nDeeds executed under contracts relate back to the dates bf the contracts, so as to render valid intermediate sales by the vendees, and cut off statutory liens against the vendors. Jackson vs. Bull, 1 J. Cas. 81, Jackson vs. Raymond, id. 85, (n. a.) Johnson vs. Stagg, 2 J. R. 510. Jackson vs. McCall, 3 Cowen 75. Case vs. De Goes, 3 Caines 202. Jackson vs. Bard, 4 J. R. 234:\nThe doctrine of relation is simply this, \u201cWhere there ar\u00e9 divers acts concurrent to make a conveyance, estate, or other thing, the original act shall be preferred; and to this the oth\u00e9r acts shall have relation.\u201d Jackson vs. McCall 4 Cowen 80.\nA bargain and sale does not operate, unless enrolled within six months; yet, if enrolled, it relates, avoiding all mesne acts; so that the death of bargainor or bargainee before the enrollment, makes no difference. 2 Inst. 674. Wherever an act relates, it is the same as if it existed in fact, as if done immediately at the former time. Finch 7Or cited 2 Ves. 70.\nThe principle is not, that the newly acquired title vests directly in the last grantee; that is to say, in this case, that when Beebe relinquished, it was in law a relinquishment direct to Johnson! The principle is just the reverse. Brown vs. McCormick, 6 Watts 64, decides that when a grantor acquires title to land previously granted by him, the title so acquired by him passes immediately out of him into his grantees.\nThe truth is, that in such a case, when the new title comes to the vendor, he is held to be seized in trust for his vendee. Manley vs. Hunt, 1 Hamm. 257.\nWhen a title is consummated by all the necessary forms, it relates back to the date, and makes valid all intermediate acts which can only be supported by complete title. This is a fiction of law not allowed to prejudice third persons who are not parties or privies. Heath vs. Ross, 12/. R. 140.\nThe doctrine on this subject was much considered in The Bank of Utic\u00e1 vs Mersereau, 3 Barb. Ch. R. 567. The court said that-a Subsequent title obtained by bne who had previously conveyed with warranty, immediately vested in the grantee; \u201cso as to give the grantee, and those claiming under him, the same right to the premises, as if the subsequently acquired title or interest therein had been actually vested in the grantor at the time of the original conveyance from him with warranty.\nMr. Rawle, expressly says, that \u201cthe after-acquired title enures to the vendee by direct operation of law and becomes vested in him in the same manner as if it had originally passed to him by the conveyance.\u201d Rawleoncov. for title 319. That is precisely how, after Beebe\u2019s relinquishment, Judge Johnson held this property \u2014as if It had originally passed to him by Crittenden's conveyance; that is to say, precisely as if Crittenden had been seized in fee, when he made his deed of trust. If he takes the benefit of that, he must also take its disadvantages.\nAll the cases show that when a newly acquired title vests by estoppel, the matterstands as if the titlehadbeen good at the beginning.\nThus in Doe vs. Oliver, 6 Man. Sf Ryl. 202; 10 B. 4- Cres. 181; 2^Smith's Lead. Cas. 417, S. C., Bayley, J. said, \u201cWe are satisfied, upon, the authorities, that a fine by a contingent remainder man, though it operates by estoppel, does not operate by estoppel only; but has an anterior operation only when the contingency happens; and the estate which then becomes vested feeds the estoppel; and the fine operates upon that estate as though that estate had vested in the conusors at the time the fine was levied.\u201d That is precisely the doctrine of estoppel. He cited Weale vs. Lewer, Pollenf. 54. See also Bac. ab., Leases (6). Webb vs. Austin, 7 Mann. <\u00a7\u2022 Grang. 724. Co. Lit. 47 b.\nThus Crittenden at first had an estate by estoppel. When Beebe conveyed to Ashley, although Crittenden had died, the estate so conveyed \u201cfed the estoppel,\u201d and changed the nature of the estate from the beginning, making it ab initio an estate in interest. That is the plain lawr, and sensible law as well. And so it was held in Webb vs. Austin, ub. sup. And see 2 Smith's Lead. Cas., Am. Ed. 512, 513, where Mr. Smith says, of a case where a lessor without title, subsequently acquired title, \u201cthe lease which he-had previously made, took effect on the estate thus acquired*, and passed to the lessee so much of his interest in the property, as was necessary to satisfy the terms of the original contract.\u201d\nIn White vs. Patten, 24. Pick. 327, the court, after referring to the authorities, expressly say, (the case being that Thayer, having no legal title, conyeyed to White, and then Perry, who had the title, conveyed to Thayer). \u201cThe conveyance of the title by the deed of Perry to Thayer, after his deed to White, turned the estoppel which bound Thayer and his heirs and assigns, into a good estate in interest. So that, by the operation of law, the interest SHOULD BE CONSIDERED AS VESTED IN HIM IN THE SAME MANNER AS IF IT HAD BEEN CONVEYED TO TtlAYER BEFORE IIE CONVEYED TO WHITE.\u201d\nIn Baxter vs. Bradbury, 20 Maine 260, an action was brought on a covenant of seizin, by grantee, against grantor who had conveyed the land; and afterwards acquired a seizin. The right of recovery was held to be reduced to nominal damages.\nIn Bensly vs. Burdon, 2 Sim. <f Stu. 519, Francis Tweddell, in 1803, claiming a remainder in fee, made a lease and release, and grant of such remainder. At the time, he had no interest whatever. In 1835, he obtained by devise an estate for life. The Vice Chancellor held that the estate of the grantees \u201cwas the same as if the defendant Tweddell, had, at the date of the release of 1803, been legally seized of the remainder in question.\u201d\nMr. Smith fully recognizes the principle we contend for. lie says, on a review of the cases, \u201cHad the conveyance been by a fine, upon the subsequent passage of the legal interest to the grantor, it would have passed over to the plaintiff by estoppel, as fully as though it had been vested in interest at the time of levying the fine; and would, therefore, have remained unaffected by the subsequent mortgage.\u201d 2 Smith\u2019s Lead. Cas. Am. Ed. 528.\nOn a review of the cases, Mr. Rawle concludes, that where, by the high operation of an estoppel, the after-acquired estate actually vests by virtue of the covenant of warranty, in the purchaser, by mere operation of law, it would probably be held that this estate related back, and took effect as if it had passed by the conveyance to him; and that, in an action to recover damages for a breach' of the covenant of warranty, a verdict would be ordered for the defendant; or, if the action were on the covenant of seizin, the plaintiff would be entitled to nominal damages only. Rawle on Cop. for title, 428. See MeCarty vs. Leggett, 3 Hill 134. Cornell vs. Jackson, 3 Cush. 510. Baxtsr vs. Bradbury, 20 Maine, 260. Garjied vs. Williams, 2 Verm. 3291 Wilson vs. Forbes, 2 Dev. 30. Cowan vs. Sillman, 4 ib. 47.\nWatkins & Curran, and Hempstead, contra.\nWe think this case is settled by the decision in Crittenden vs, Woodruff, 6 Eng. 82, and the appellees have shown title out of Crittenden.\nThe legal title, (and for aught that appears, the equitable title also) when acquired by Ashley, vested at once, not in Crittenden, nor in the trustees, but in Johnson, the last vendee. Rev. Stat. Title, Conveyances, sec. 4. Cocke vs. Brogan, 5 Ark. 693. Sparrow vs. Kingman, 1 Corns. 247. , Brown vs. McCormick, 6 Watts, 64. Rawle on Cov. pr Title, 318, et seq. When Beebe (the patentee) conveyed to Ashley, Crittenden, if living, could have acquired no title or right in the lots, which he had conveyed, but the title would instantly have passed to Johnson.\nCrittenden never had the legal title, because he died long before the legal title passed out of the government. If he ever had any equity, the proof no where connects it with that legal title. But he had no equity at the time of his death, because he had conveyed whatever title he had. 4 Kent Com. 37, 42, 44. Miller vs. Wilson, 15 Ohio, 108. Rands vs. Kendall, ib. 671. Crabbe vs. Pratt, 15 Ala, 843. Edmondson vs. Montague, 14 ib. 371. 3 Stew. 4- Port. 447. 8 Porter, 326, 7 ib. 522. 2 Ohio, 507.\nThe main question is not merely whether Crittenden had such an intrust left as could be sold under execution; but whether he had any estate \u2014 whether he had any equity of redemption: for if he had, the widow was not entitled to dower. This transaction was, in effect, a mortgage with a power of sale. 4 Kent Com. 147. 2 Hill. dbr. 544. 1 Hill, ahr. 206, sec. 34- 5 Ark. 217. 2 Rob. Va. Rep. 530. 8 Ala. 694. 7 Humph. 77. ib. 72. 7 Sm 4* Mar. 319. Wherever the instrument is intended as a security for the payment of money, no form of the conveyance can ever change the character of the .transaction, or cut off the mortgagor or his representatives from the equity of redemption, which is an estate in the land. Casborne vs. Scarfe, 1 Atkyns 603. Howard vs. Harris,! Vernon 190. 6 Littell 184,2 Gowsn 324. 7 Cranch 218. 1 Dana 200."
+  },
+  "file_name": "0447-01",
+  "first_page_order": 447,
+  "last_page_order": 465
+}

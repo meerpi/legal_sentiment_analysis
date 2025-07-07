@@ -1,0 +1,163 @@
+{
+  "id": 1862653,
+  "name": "Mitchell vs. Gibson et al.",
+  "name_abbreviation": "Mitchell v. Gibson",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "224",
+  "last_page": "230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Pick. 226",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2033230
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/22/0226-01"
+      ]
+    },
+    {
+      "cite": "6 Cranch. 127",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Mass. 153",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028477
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/8/0134-01"
+      ]
+    },
+    {
+      "cite": "2 Bibb 199",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6401426
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/5/0199-01"
+      ]
+    },
+    {
+      "cite": "4 Litt. 235",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "case_ids": [
+        6807059
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/14/0235-01"
+      ]
+    },
+    {
+      "cite": "2 Litt. Rep. 306",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "case_ids": [
+        4217266
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/12/0306-01"
+      ]
+    },
+    {
+      "cite": "2 Bailey 362",
+      "category": "reporters:state",
+      "reporter": "Bailey",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Ark. 423",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Ark. 513",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727656
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0513-01"
+      ]
+    },
+    {
+      "cite": "8 Ala. 475",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 582,
+    "char_count": 11813,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06865149280904022
+    },
+    "sha256": "edc7b1059ae19a8c1f38a5f5f92e61104e3f2adb326a0522d21fec97443b5eae",
+    "simhash": "1:186aecac5c1af45f",
+    "word_count": 2128
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mitchell vs. Gibson et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis was a suit upon a bond given by the plaintiff in an action of forcible entry and detainer under the statute, and the other defendants in error, who were his securities. The bond was given, payable to the defendant in the action of forcible entry and detainer, and who is the present plaintiff, but it is conditioned strictly in accordance with the statute. The declaration makes profert of a true copy of the bond, alleging that the original is on file in the office of the clerk of the Circuit Court to which the writ of forcible entry and detainer was returnable, and not within the power or control of the plaintiff: and after setting out the bond and condition assigns for breach, that upon the execution of the bond, the sheriff proceeded to execute the writ by turning the.present plaintiff out, and putting the defendant, Gibson, in possession of the premises in question, and that such further proceedings were had in the action of forcible entry and detainer, that afterwards, to wit, &c., \u201csaid Gibson dismissed his said suit and abandoned and refused further to prosecute the same, whereupon by the consideration and judgment of the said court there,[a. judgment for costs was rendered in favor of said plaintiff herein against the said Gibson, and a writ of restitution awarded by said court, which costs amount to a large sum, to wit, the sum of --- dollars,\u201d all of which would appear from the record thereof remaining, &c., and avers that the said defendant Gibson did not restore to the plaintiff the possession of the premises described, and did not, nor would pay the said plaintiff all such sums of money as were adjudged against him in said action, and so the condition of the bond was broken and the same became forfeited, &c.\nThe plaintiff refusing to amend, after demurrer sustained to the declaration, final judgment went against him, from which he has appealed. The question is, as to the sufficiency of the declaration, to which various causes of demurrer were assigned in the court below, and some of which will be noticed.\nThe statute, Digest, Title, Forcible Entry and Detainer, sec. 7, provides that the writ of possession shall not be executed in any case, unless the plaintiff or some other person in his behalf shall execute a bond to the sheriff or other person, in a sum at least double the value of the property specified in the writ, &c. The \u201cother person\u201d in the statute does not refer to the defendant in the action, but means that the bond shall be executed to the sheriff or other officer to whom the writ is directed, and who may be charged with its execution, as for instance, the coroner, or in extreme cases, the constable, where the offices both of sheriff and coroner happen to be vacant. Thompson vs. Bremage, at this term. See Digest, Title, Replevin, sec. 10, from which the section in question was, no doubt, intended to be copied. The defendant in the action of forcible entry and detainer might have had the bond produced by a rule upon the sheriff, and would not be bound to accept it, if essentially informal, variant from the statute, or defective in the condition, and might have obtained an order upon the plaintiff to furnish a sufficient bond, on paiii of having his suit dismissed with judgment of restitution.\nBut the defendant in the action of forcible entry and detainer appears to have acquiesced in the form of the bond, and has signified his acceptance of it by the present suit. It does not lie in the mouth of the plaintiff in the action of forcible entry and detainer to question the sufficiency of the bond or its validity under the statute, nor ought they to be allowed to escape from it, if it can be upheld as. a common law obligation. It was executed to enable the principal to obtain possession of the property in controversy, and was a condition precedent to the execution of the writ: it was executed voluntarily and not under any duress, is not contrary to public policy or good morals, and not forbidden by any statute, or calculated to defeat its object. Nunn vs. Goodlett, 5 Eng. 89. See authorities collected in Whitset vs. Womack, 8 Ala. 475.\nThe allegation that the bond sued upon is on file in the clerk\u2019s office, and which is but inducement for the conclusion that is not within the power or control of the plaintiff, does not come up to the allegation in Nunn vs. Goodlett, that Hie bond was of record, and though confessed by the demurrer, does not show any sufficient excuse for not producing the original. The allegation that a paper is on file does not necessarily imply that it is so by authority of law, as to make it a record or a part of the record of any particular suit, unless from the character of the paper, the court would have to conclude that it was a matter of record. But if equivalent, this point was not noticed or decided in Nunn vs. Goodlett. The law has provided depositories for official bonds, and makes a certified copy, evidence in lieu of the original. So bonds for attachment and injunction, being prerequisites to the issuance of the writ, have to be filed with the clerk, so that if not technically and for all purposes a part of the record, of the particular suit or proceeding, they certainly are public records and in legal custody. Wilson vs. The State, 5 Ark. 513. So delivery bonds are required to be returned with the execution, and become part of- the record as the foundation of ulterior proceedings. In none of those instances would the legal presumption be that the plaintiff had the right to the possession of the deed or instrument declared on; and though he ought to make profer\u00ed of an authenticated copy for the aid of the court, and the information of the opposite party, Adams vs. the State, 1 Eng. 504, he is under no obligation to produce the original, which remains subject to the inspection of all persons intei\u2019ested. '\nBut the bonds in replevin and forcible entry and detainer are not required to be returned and filed so as to become in any sense a part of the record, unless made so by some proceeding or exception taken during the progress of the cause. They are taken and held by the sheriff for the benefit of the defendant, and ar\u00e9 to be assigned to him, if judgment be rendered for him in the action. This assignment follows of course, and the court will order it as a matter of right on the application of the defendant, in case the sheriff should refuse. So that when the defendant brings suit on such a bond, it is in legal contemplation in his possession, or under his control. It may be lost or destroyed, or for some unusual cause, beyond his control, but this ought to be shown, and to the extent that profert is necessary, in ordinary cases, as an excuse for the omission.\nThere is nothing in the case of Nunn vs. Goodlett which would dispense with a succinct and accurate statement of the judgment or recovery set forth in any assignment of breaches. Without enquiring as to the proper mode of making the averment which the decision in Butler vs. Owen, 2 Eng. 373, misapprehending Caldwell vs. Bell & Graham, 3 Ark. 423, has left in some confusion, the rules of pleading required that the plaintiff should set forth some certain amount adjudged to him for his costs, or if adjudged generally aver the amount under a vidclicit which would let in proof of the true amount to which the costs were afterwards taxed. Shelton vs. Clark, 2 Eng. 194. As the property is immovable and the successful defendant can always be restored by-writ of restitution, his costs, and perhaps also the rents and profits accruing after judgment, if he does not choose to avail him- \u2022 self of the writ of restitution, under the construction given to the statute in Fowler vs. Knight, 5 Eng. 43, constitute the gravamen of the, breach. From so much of that decision as holds that where the defendant succeeds he cannot have his damages assessed, but has his remedy upon the plaintiff\u2019s bond, we are not now prepared to dissent further than to observe that, according to the condition of the plaintiff\u2019s bond, it would seem the defendant can have no remedy upon it for any damages consequent upon eviction under the writ of possession, or the intermediate rents and profits, or even waste committed before judgment, unless recovered against the plaintiff in that action, so that the security afforded by the bond, is a mere delusion and the omission in the statute to provide for the assessment of damages, where the defendant has judgment of restitution, is one caliing for\u2019 prompt remedy by the Legislature.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Jordan, for the appellant.",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Mitchell vs. Gibson et al.\nThe \u201cother person\u201d in the statute, (sec. 7, Title, Forcible Entry and Detainer, Dig.,) to whom the bond is to be given before the issuance of the writ, does not refer to the defendant in tile action, but the officer to whom the writ is directed.\nRut though such bond be made payable to the defendant, in the action of forcible entry and detainer, the plaintiff nor his securities will be permitted to question \u2019 its sufficiency or validity under the statute.\nSuch bond is not required by law to be returned and filed, so as to become in any sense apart of the record; and therefore the averment in a declaration on the bond, that it is on file in the clerk\u2019s office, is not sufficient to excuse the profert and production of the original.\nIn describing a judgment, the rules of pleading require a succinct and accurate statement of the recovery, and -where a judgment for costs is stated, the plaintiff must aver that some certain amount was adjudged for his costs; or if adjudged generally, aver an amount under a videlicet.\nAppeal ft om the Circuit Court of Yell county.\nThe Hon. W. H. Feild, Circuit Judge, presiding*.\nJordan, for the appellant.\nAs the sheriff is required by the statute to return the bond given by the plaintiff in forcible entry and detainer, it is filed in court, and becomes a part of the record in the cause, (sec. 11, 12, ch. 71, Dig.,) and is therefore beyond the control of the defendant in such action, and he cannot make profer\u00ed of the original in an action on the bond. Nunn vs. Good-let et al. 5 Eng. 89.\nAs the statute (secs. 7, 14, ch. 71 Dig.) provides that the bond shall be executed to the sheriff or other person, it may well be executed to the defendant, as it is given for his benefit; if otherwise, however, it would not lie in the mouth of the plaintiff to object such defect, as that would allow him to take advantage of his own wrong. Nunn vs. Goodlett, ub. sup., 6 T. R. 702. 10 Price 54. 2 Bailey 362. 2 Litt. Rep. 306. 4 Litt. 235. 2 Bibb 199. 8 Mass. 153. 7 J. R. 549.\nThe breach is assigned in the language contained in the bond; .and shows a substantial breach of the condition. 1 Ch. PI. 332* Fletcher vs. Peck, 6 Cranch. 127. 5 J. R. 168. Sib. 111.\nNo allegation, that judgment was rendered in favor of the defendant, and execution issued thereon, was necessary in this action; the only remedy of the defendant in action of forcible entry and detainer, is on the bond; and not by writ of inquiry in that suit, to assess his damages. Fowler ad. vs. Knight, 5 Eng. 43. Nor is it necessary to allege any definite sum for costs.\nPike & Cummins, contra.\nProfer\u00ed must be made of a bond or a legal excuse given. (1 Ch. PI. 397, 8. Steph. PI. 436, 7, 8 and 9.) The excuse given in the declaration is simply that it was \u201con file in the clerk\u2019s office;\u201d but the pleader fails to show that it had become part of the public records.\nThe declaration fails to show any final judgment by the court in the former suit. This was indispensable.\nThe bond sued on wholly varies from the requisites of the statute and is therefore void. 1 Hill\u2019s N. T. R. 298. 4 Wash. C. G. R. 623. 3 Wash C. C. R. 10. 2 J. R. 74. 5 Pick. 226."
+  },
+  "file_name": "0224-01",
+  "first_page_order": 224,
+  "last_page_order": 230
+}

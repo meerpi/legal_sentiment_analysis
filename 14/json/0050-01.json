@@ -1,0 +1,121 @@
+{
+  "id": 1862613,
+  "name": "Price vs. The State Bank",
+  "name_abbreviation": "Price v. State Bank",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "50",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 50"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Ark. 244",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728724
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/4/0244-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. 9",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11267904
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0009-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 647",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. 254",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ark. 244",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Ark. 246",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Ark. 244",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 639,
+    "char_count": 14549,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 3.218634825678229e-07,
+      "percentile": 0.8669625140307408
+    },
+    "sha256": "15b56894c8254152c446e0863c6793be2130b1bb74adf01673ee001ae5524b67",
+    "simhash": "1:fff184b3fe0db8fb",
+    "word_count": 2533
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Price vs. The State Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the court.\nThe case here is, that the Bank exhibited her petition, under .the statute, against the appellant, alleging, that he, being indebted to her by note, in order to secure the payment of the same, executed his deed of mortgage to her of certain horses, and also of a tract of land, that the mortgage was duly acknowledged and recorded, and that consistently with its stipulations, the defendant Price, had continued in possession of the mortgaged property real and personal; that the debt remained wholly unpaid, and the condition of the deed had become forfeit: and praying judgment for the amount of the debt, with interest specified in the note and secured by the mortgage; that the defendant\u2019s equity of redemption in the mortgaged property might be foreclosed, and the property decreed to be sold, and the proceeds applied to the payment of the debt.\nPrice answered, admitting the indebtedness, and that he executed the mortgage, as alleged, in good faith, to secure the same; but that since its execution, the horses in question had died from disease while in his possession, without any fault or neglect of his; and that previous to the execution of the mortgage, one Charles Lewis had obtained a judgment against him, in the Circuit Court of the United States, for the Arkansas District, which was a lien upon the real estate described in the mortgage, and of which he was not aware at the time he executed it; that since then one Louis Refeld had become the purchaser, and was in possession of the land under execution had of the judgment in the Federal Court, and submitting that Refeld was a necessary party to the suit.\nThe complainant then exhibited an amendment to her bill, against Price and Refeld, alleging that Refeld\u2019s purchase was a sham, and collusive; that Refeld had bought the land with the money of Price, or held it by some secret agreement in trust for him. To this, the defendants answered, denying the fraud and combination charged; averring that the purchase by Refeld was in all respects fair and not colorable. Refeld set out his title under the Marshal\u2019s sale, by virtue of which he had obtained control of the land, and relied on his title as a defence to the bill.\nAt the hearing, upon bill, answer, replication and exhibits, it appearing that Refeld held the land by title superior to the mortgage, the bill was dismissed as to him; and because of the destruction of the personal property, no decree of foreclosure could be rendered; but the court decreed against the defendant, Price, that the complainant recover of him the amount of the debt and interest intended to be secured by the mortgage, and which remained unpaid.\nUpon the appeal of Price from this decree, it is contended for him, that the statutory remedy for foreclosure, if adopted, must be strictly pursued; and that whenever it appeared during the progress of the suit, that foreclosure could not be decreed because of the destruction of the personal property, and the failure of the mortgagor\u2019s title to the realty, the bill should have been dismissed for want of jurisdiction, the complainant for the mere recovery of her debt having a plain and adequate remedy at law.\nUpon the reading of the statute, Digest, Title, Mortgages, it would seem difficult to determine whether the framers of it intended the proceeding to foreclose mortgages should be had in a court of law or a court of chancery. Yet we think, as held in McLain & Badgett vs. Smith, 4 Ark. 246, that it is essentially a chancery proceeding, because, as now constituted, a court of chancery can, and a court of law cannot give effect to all the remedies contemplated by it. Without making any question whether the legislature, under the constitution, can deprive chancery of any of its peculiar jurisdiction, see Hempstead and Conway vs. Watkins, 1 Eng. 357, or may not invest courts of law with chan-/ eery powers, the present statute does not intend to do either, but rather to enlarge the jurisdiction of chancery.\nThe substantial provisions of the statute are, that mortgagees of real or personal estate, may proceed by petition in the Circuit Court, against the mortgagor, and the actual occupiers of any of the real estate, setting out the mortgage, praying that judgment may be rendered for the debt, and that the equity of redemption may be foreclosed, and that the mortgaged property may be sold to satisfy the amount due. All persons claiming an interest in the mortgaged property may be made defendants, and may plead any lawful matter in avoidance of the deed or debt. If upon trial, the mortgage money appears to be unpaid, the court is to render judgment for the debt, interest and costs, and make an order that the specific mortgaged property be sold, or so much as will be sufficient to satisfy the amount due. Upon this judgment or decree, a special writ of fieri facias issues describing the property, and commanding that it be sold to satisfy the mortgage debtso adjudged. The mortgagor has, in all cases, until the day of sale under the execution to redeem the mortgaged premises, by paying the amount due. The judgment or decree, as in other cases, is a general lien from its rendition upon the real estate of the mortgagor. If, upon the return of the special fieri facias, it appears that the mortgaged property failed to produce satisfaction of the debt, an execution may issue for the residue as on ordinary judgments.\nThis statute, so far from affording a harsh remedy and to be strictly construed, as one in derogation of the common law, ought to be favored and liberally construed: because it affords a remedy at once simple and comprehensive, efficacious for the mortgagee, and equitable for the mortgagor.\nThe statute does not take away, but its policy is to discourage, in practice, the common law right of the mortgagee to bring his action at law for the debt. Because, if the mortgagee obtains an independent judgment at law, the result might be exceedingly harsh and oppressive, if he be allowed to subject the estate of the debtor to the \u201csweeping desolation of an execution at law,\u201d without exhausting the mortgaged property, which the one had given and the other accepted as security for the debt. So, if the execution be levied on the mortgaged property, the question would arise whether the sale bars the equity of redemption, or whether the purchaser acquires the property discharged from or subject to the-mortgage; either way, the property is sold under the cloud of the subsisting mortgage, and a door is open for the commission of frauds to evade a sacrifice of property. Although the common law doctrine of strict foreclosure is unknown to our law, or never resorted to in practice, yet the effect might be the same if the mortgagee can become the purchaser of the equity of redemption, under his judgment at law for the mortgage debt, and so unite in himself the equitable and the legal estate.\nBut the statute carries out all the liberal notions of the law o\u00ed mortgages entertained at the present day. The mortgagor has the benefit of a fair public sale of the mortgaged premises, with assurance to the purchaser of a clear title, all the parties in interest having been before the court. The mortgagee has the benefit of the general lien of his judgment or decree for tbe debt, and, if this be not satisfied by the sale of the mortgaged property, he can at once sue out an ordinary execution for the residue, without being remitted to a court of law, to complete his remedy by obtaining a judgment in personam against the mortgagor for such residue.\nIn McLain & Badgett vs. Smith, the matter decided was, thatii it be made to appear that there is a tenant in possession, not a party, the court will require him to be made a defendant, and or. failure of the complainant to comply with the order, will dismiss the bill. Apart from the statute, the same rule of decision will apply to all other persons interested in the subject of the litigation, if susceptible of being made parties.\nThe report of the case of Jett vs. Cave & Schaffer, 5 Ark. 244, is, that a decree was entered up for the amount of the debt and costs, and that the mortgaged property be sold to satisfy it; and this court reversed the decree, because it did not foreclose or bar the equity of redemption as prayed for in the petition, and which was thought to be an indispensable requisite of the statute. We must conclude that the opinion in that case was not well considered. It may be doubted whether the statute contemplates any formal decree of foreclosure, in order to bar the equity of redemption, (see sec. 13,) and if it does, whether the decree for the debt, and for the sale of the property to satisfy it, is not a substantial compliance with the law. This point is much discussed, though without reference to any such statutory provision in the case of Lansing vs. Goelet, 9 Cowen 347. And if the omission to enter a formal decree of foreclosure be not a compliance with the statute,, it is difficult to see how the mortgagor could complain of it as erroneous. The decision there evidently proceeds on the ground that the statute affords a remedy to be strictly pursued. Our views of the statute are altogether different. It is the only statute regulating the law of mortgages in this State. It is to be' apprehended that many unfortunate consequences would follow, if without such a controling statute, we should have to fall back upon the common law and the statutes of England, prior to the fourth year of James the First, to determine the rights growing, out of such contracts.\nConceding the general proposition contended for by the appellant, that the defendant in chancery may object for the want of jurisdiction, because the complainant had an adequate remedy at law, by answer as well as by demurrer, and that the complainant may be turned out of court if the want of jurisdiction appear from the proofs at the hearing, else the submission of the parties to the forum might operate as a fraud upon the jurisdiction; yet, it should be borne in mind, that the evil to be guarded against is not so much the resort to chancery in the first instance, for relief, which a court of law can as well and more expeditiously afford; but it is the increase of litigation, the vexation and delay of a resort to chancery, to be relieved against judgments at law, where the complainant might have availed himself of the same ground of defence.\nBut the objection taken by the appellant is not tenable upon what we conceive to be the proper construction of the statute,the design of which is to confer upon chancery a jurisdiction it had not before, viz : that of rendering a judgment in personam for the mortgage debt, and of enforcing it as an ordinary judgment at law, if not satisfied after exhausting the mortgaged property by sale under the decree of foreclosure. True, the mortgagee connot go into chancery, and ask merely for a decree or judgment for his debt. But on the face of this bill and exhibits the court of chancery had jurisdiction to decree foreclosure as well as to render judgment for the debt. Upon the suggestion of the appellant, the adverse rights of a third party were brought before the court, thus calling into exercise one of the peculiar powers of equity jurisdiction. In order to determine that the complainant was not entitled to a decree of foreclosure and sale of the realty as against Refeld, it necessarily took cognizance of the cause and did adjudicate it. A court of chancery having jurisdiction of a cause for one purpose, and having all the parties in interest before it, will do complete justice between them and end litigation by disposing of all the questions in the cause, though any of them separately be of legal cognizance.\nHere the complainant was entitled to all the relief prayed for as against the defendant Price, and would have obtained it but for bis own wrongful act. His objection that the court of chancery decreed only a paid of the r\u00e9lief prayed for against him, has been determined without considering it to be unconscionable.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Piice & Cummins, for the appellant.",
+      "S. H. Hempstead, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Price vs. The State Bank.\nOn petition under the statute, to foreclose a mortgage of real and personal property, it appeared that the personal property had died in possession of the mortgager, and the real estate had been sold under a prior lien: Helb, that the court of chancery had jurisdiction to render a decree in personam, against the mortgager for the mortgage debt and interest, and award execution therefor.\nThe proceeding under the statute (Dig. Title, Mortgages,) to foreclose a mortgage, is essentially a chancery proceeding, and ought to be favored and liberally construed. The construction in Jett vs. Gave <$\u25a0 Schaeffer, 5 Ark. 244, questioned.\nWant of jurisdiction in a court of chancery, because the complainant had an adequate remedy at law, may be taken advantage of, by answer as well as by demurrer, and may be made at the hearing, if it appear from the proofs; but if the court have jurisdiction for one purpose, and have the parties in interest before it, it will proceed to do complete justice between them as to all questions-in the cause, though any of them separately be of legal cognizance,\nAppeal ft orn the Circuit Court of Arkansas county in Chancery. \u25a0\nThe Hon. J. C. Murray, Circuit Judge, presiding.\nPiice & Cummins, for the appellant.\nWe contend, that in this-proceeding, the court could not render a common law judgment for the debt alone, after it was shown that the property could not be reached; for where a statute gives a new special remedy, that remedy must in all things be pursued. (Jett vs. Cave Sf Schafer,. 2 Ark. 254. Denning vs. Corwin etal., 11 Wend. 647. Smith vs. Foiole, 12 Wend. 9. 15 J. R. 121. 19 ib. 7. 5 Har. $ John. 130,) and the court had no jurisdiction in this cause, unless it could decree, 1st, payment of the debt; 2d, foreclosure; and, 3d, that the specific property be sold. Secs. 4, 13, 17, ch. 110 Dig. McLain 4- Badgett vs. Smith, 4 Ark. 244. Jett vs. Cave fy Schaffer,, ub. sup.\nS. H. Hempstead, contra.\nThe question in this case would seem to be free from all difficulty, because the statute under which such proceedings may be had, expressly requires judgment to be rendered for the debt, interest and cost; and when the debt cannot be satisfied out of the mortgaged property, authorizes an execution to issue against the defendant, as in any ordinary judgment at law. Dig. ch. 110, title, Mortgages, secs. 13, 17, p. 747, 748."
+  },
+  "file_name": "0050-01",
+  "first_page_order": 50,
+  "last_page_order": 56
+}

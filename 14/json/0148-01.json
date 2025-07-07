@@ -1,0 +1,189 @@
+{
+  "id": 1862699,
+  "name": "Refeld et al. Exs. vs. Bellette et al.",
+  "name_abbreviation": "Refeld v. Bellette",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "148",
+  "last_page": "159",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Desaus. 617",
+      "category": "reporters:state",
+      "reporter": "Des.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Mass. 569",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Wend. 234",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Ired. 145",
+      "category": "reporters:state",
+      "reporter": "Ired.",
+      "case_ids": [
+        2104250
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/23/0145-01"
+      ]
+    },
+    {
+      "cite": "3 Ired. 366",
+      "category": "reporters:state",
+      "reporter": "Ired.",
+      "case_ids": [
+        8693264
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/25/0366-01"
+      ]
+    },
+    {
+      "cite": "4 Dev. 257",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        11276240
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/15/0257-01"
+      ]
+    },
+    {
+      "cite": "3 Leigh 682",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6727166
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/30/0769-02"
+      ]
+    },
+    {
+      "cite": "1 Bailey 504",
+      "category": "reporters:state",
+      "reporter": "Bailey",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "633"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Pick. 126",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2011475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/23/0126-01"
+      ]
+    },
+    {
+      "cite": "1 Wash. 308",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6716985
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/1/0534-01"
+      ]
+    },
+    {
+      "cite": "6 Pick. Rep. 129",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Leigh 682",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6727166
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/30/0769-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 844,
+    "char_count": 19490,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 9.856329383778582e-08,
+      "percentile": 0.5342728475675609
+    },
+    "sha256": "394d843a4c1c4ead1a37cf08fecb4f1a9aa76abd999032467a1112d663734aea",
+    "simhash": "1:f7da8274001af09f",
+    "word_count": 3419
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting."
+    ],
+    "parties": [
+      "Refeld et al. Exs. vs. Bellette et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.,\nThis is an action of replevin brought by the appellees against the appellants, for the wrongful taking of slaves. The defendants filed two pleas, non cepit and property in themselves, as the executors of the last will and testament of Frederick Notrebe, deceased. By written consent and agreement, an agreed statement of the facts was submitted to the court as a special verdict.\nThe facts or special verdict is substantially this: John Baptiste Bellette and his wife, Elizabeth Bellette resided with, or in the immediate vicinity of Frederick Notrebe, (who had married their daughter,) for twenty-five years, and during that time, and prior to the 17th of July, 1835, the said John Baptiste had rendered services to said Frederick, in the management of his business. In consideration of which and one dollar, on the day last aforesaid, the said Frederick, by deed in fee simple, conveyed to the said John Baptiste, two lots of land in the village of Arkansas. And at the same time, by a separate deed, for the same consideration, he granted, bargained, and sold to the said John Baptiste, five negro slaves, who with their incr\u00e9ase, are the slaves now in suit, as his absolute property and estate- And on the same day, said Notrebe also executed to the said Bellette\u2019the following instrument, to wit: \u201cKnow all men by these presents, that I, Frederick Notrebe, of the Post of Arkansas, Territory and county of Arkansas, declare to whom it may concern, that my father-in-law, John B. Bellette (alias Enselma) rendered me services 25 years, and by his care, economy and continued assiduity to protect my interests, has been an additional hand to help me in accumulating and saving some property. And in consequence a remuneration from me to him, is only just and equitable, and without any cause whatever prejudicial to my children, I am willing, and by these presents, do will that my said father-in-law be independent in his old age from the caprice of my said children, and for these reasons alone, (not including many others of some weight) and in case I die before him, as God and Providence best knows, I wish and intend, that he shall take out of my estate, before any dividend be made by my children, or their representatives, the sum of three thousand dollars, in lawful money, or the equivalent in property at a fair valuation, at his option; and I absolutely will and order that my heirs, executors, or administrators shall truly and honestly execute this act, as a legitimate compensation due to the said J. B. Bellette, the father of my dear and beloved wife, Felicite. I also wish and intend, that should my mother-in-law, Elizabeth Bellette, do service to my said father-in-law and myself, then, that she will receive the legal interest of the said donation of $3,000, for her lifetime, and request my children to add any surplus, (if they are able) to give her a full competency, and to render her happy. The house and the slaves given to my father-in-law, by two instruments of wi'iting, bearing the same date as this one, will be also her property for life, and shall have and keep possession, to enjoy.it as her own property.\u201d\nThese three instruments were duty executed and delivered to the said Bellette, in whose hands they remained until his death; until which time the female slaves continued in his possession and exclusiv\u00e9 use, and the males also, or others in their place. Notrebe, during the lifetime of Bellette, set up no claim to the slaves, but on the contrary, admitted the title to be in Bellette, by offering to buy or swap for one of them. He did, however, pay taxes on them in his own name. The families (Notrebe and Bellette\u2019s) lived pretty much as one family, though occupying different buildings. Notrebe furnished provisions for both. Bellette died in possession of the slaves in 1838. After his death Mrs. Bellette occupied a room in the same house with Notrebe as a member of his family. In 1843 or 1844 Notrebe denied Mrs. Bellette\u2019s right to the property. In 1843 he made his will, the tenth article of which is as follows: \u201cHaving already given as a gift by a deed, and a bill of sale under date of July the 17th, 1835, some property and slaves to the late John B. Bellette, (alias Enselma) my father-in-law, which has not been expended by him in his lifetime, the same property is to be revertible as a life estate to his widow, Elizabeth Bellette, my mother-in-law, and having also secured to the said late John B. Bellette deceased, by an instrument of writing, under date July 17th, 1835, a sum of three thousand dollars in property, at fair valuation, to be received from my estate after my decease, if in need of it, now the same clause is also in favor of, and revertible to the said Elizabeth Bellette, my mother-in-law, and my absolute will and desire are, that this promise be effected after my decease, if she is in want, and to be fulfilled to the last point. And I recommend my beloved wife, and my two heirs, John and Mary, to continue to cherish her in her old age, and to treat her well in procuring my mother-in-law as good a maintainance as circumstances will enable my wife and two heirs, John and Mary, for their good old mother and grandmother.\u201d\nIn 1849, Notrebe died, leaving his wife and mother-in-law, the plaintiffs in this suit, who under the facts above, claim jointly the slaves in controversy. The defendants on the other hand, claim the slaves as the executors of the last will of Mr. Notrebe.\nThe court below upon the agreed facts, or special verdict declared the law to be in favor of the plaintiffs and rendered judgment accordingly. From which decision, under the special reservation of exception in the submission of the facts to the court, the defendant excepted, and by appeal has brought the-case before us for decision.\nThere is in this case no question as to facts, they having been ascertained and agreed upon, and we are called upon to declare the law which arises upon them.\nAt the outset it is contended by the appellant, that the three first instruments bearing the same date and made touching the same subject matter, should be taken as one instrument; and that as the latter was testamentary in its character, the others must follow it, and thereby they should all be so considered. It is true that these several instruments werebetween the same parties, and were evidently intended for atwo-fold common purpose: to provide means for the present comfort and independent support of an aged relative, and also, in case of contingency to provide for further support after the death of the obligor or donor. The present wants of Mr. Bellette were supplied by an absolute deed for a house, and slaves to wait upon and work for him. The first two instruments, absolute and unconditional, effected this; and although there is manifested throughout a praiseworthy solicitude on the part of Mr. Notrebe to provide for his father-in-law, above all care for remuneration, still it is expressly admitted by him, and we must so consider it, that these instruments were made upon a full and valuable consideration. They are neither gifts nor legacies, but deeds of sale upon valuable consideration, not to take effect at a future day, but instantly, and which, in this instance, was followed up by the actual possession and enjoyment of the property. Mr. Notrebe admitted the property to be Mr. Billette\u2019s until after his death, and after that time, as we shall presently see, he might well have asserted claim to the property. The third instrument, it is true, relates to the same subject matter, and although that too, is acknowledged to be upon full consideration, and only what is due, it is made to depend upon two contingencies; first, the death of Mr.- Notrebe, and secondly, the pecuniary circumstances of Mr. Bellette. Admitting the testamentary character of this instrument in several leading particulars, we are not of opinion it can draw to it the other two instruments and defeat their obvious intent and legal effect.\nIf we were permitted to consider these as voluntary gifts, without other consideration than the respect and regard of Mr. Notrebe for his father-in-law, and a sense of duty to provide for him the means of support, after he, by his death, should be no longer permitted to do so, then the argument of counsel and authorities cited, to which we have given attentive consideration, would have their full force and application, but these instruments evidenced a sale of property to pay a debt, a debt admitted by Mr. Notrebe, and therefore conclusive upon him. By the force and effect of each of them, a perfect title vested in Mr. Bellette, which no subsequent act of Mr. Notrebe could defeat. If the effect of the third instrument, as contended for, is to constitute these three instruments one, and to make them all testamentary, then Mr. Notrebe would have had an unquestionable right to revoke them at pleasure during his life. But surely it cannot be contended that a bill of sale vesting an absolute title in slaves, upon full and valuable consideration could, after its execution, be revoked; and yet such must be the consequence, if the argument of counsel be correct. The very nature of these instruments forbids that they should be considered testamentary. In the case of Habergham vs. Vincent, 2 Ves. Jr. 204, the deed was executed after the will, made in reference to it, and could only exist in it: whatever title passed was in reference to the will. Here the bill of sale was at the same date, upon full consideration, and could well exist and take effect without reference to the third instrument. We are satisfied that the slaves passed to Mr. Bellette, and were held by him as his absolute property, and at his death, became the property of Mr. Notrebe, by virtue of his marriage with the daughter and sole heir of Mr. Bellette, subject to the dower interest of his wife, Mrs. Elizabeth Bellette. At the death of Mr. Notrebe, under the provisions of the tenth article of his will, Mr. Bellette acquired a life estate in the slaves. Of course, as Mr. Notrebe held them subject to her dower interest, he could only convey by will such interest as he had, which when taken in connection with her dower interest vested in her an absolute estate for life.\nWe have not overlooked the statute, sec. 56, Dig. ch. 4, which exempts property acquired by the widow from sale,to pay debts, &c., but that statute could not in our opinion affect the right of the husband to sell or devise the estate.\nThis being our conclusion, it follows, that Mrs. Notrebe has no present interest or estate in the slaves and was improperly made a party plaintiff in the suit.\nMrs. Bellette\u2019s right as devisee vested at the death of Mr. Notrebe, but the question is, can she assert such right by action at law against the executor. We should think not; at least until the debts are paid, or time allow'ed for paying them, because she takes her title under the will, subject to the payment of debts, and the estate passes into the hands of the executor in the first place to satisfy debts. Upon this point we have been referred to several authorities, which we think quite satisfactory. Andrews vs. Hunneman. 6 Pick. Rep. 129. Toller's Ex. 306. Lynch vs. Thomas, 3 Leigh 682, settle the question as to the right of the executor to hold the property in the first instance for the payment of debts. The right of the legatee to his legacy is suspended, until by the assent of the executor or the lapse of time, for the settlement of the estate, this suspension is removed. Thus in Mississippi, where A. bequeathed a slave to B., which was in B\u2019s possession at the testator\u2019s death, it was held that the executor might recover hire for the period of one year after the grant of letters testamentary, he having until that time to examine into and settle the estate. King vs. Cooper, Walker's Miss. Rep. 389.\nReplevin is a possessory action, and the plaintiff, in order to maintain it, must have at the commencement of his suit, a right to the possession. Under the circumstances of this case, it is consistent with the rights of the parties and the evidence, to suppose that the slaves w'ere, at the time of Mr. Notrebe\u2019s death, in. the possession of either Mrs. Bellette or himself. They both lived together; the slaves had been up to the death of Mr. Bellette, in his possession, and after his death became by operation of law, the joint property of Mr. Notrebe as heir, in right of his wife, and of Mrs. Bellette as the widow entitled to dower. If, after the death of Mr. Notrebe, she retained and possesed herself of the slaves, and the estate of Mr. Notrebe was clearly sufficient to pay his debts without drawing upon specific legacies, then slight circumstances might be sufficient from which to infer assent; such as continued acquiescence by the executor in her possession, after time had been allowed to examine into the condition of the estate. How this was, the facts as agreed upon do not show.\nIn view, therefore, of the whole case, without undertaking to say, from the facts before us, whether Mrs. Bellette might or not have maintained her action in replevin for the recovery of the slaves in her own right, it is very clear that no action could be maintained by Mrs. Bellette and Mrs. Notrebe jointly, because, as we have seen, Mrs. Notrebe had neither title nor right of possession to the slaves.\nThe court below therefore erred in deciding the question of law arising upon the agreed facts or special verdict, in favor of the right of the plaintiffs jointly to maintain their action, and in rendering judgment thereon for the plaintiffs.\nLet the judgment be reversed and set aside.\nWatkins, C. J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellants.",
+      "R. C. Farrelly and Curran, .contra."
+    ],
+    "corrections": "",
+    "head_matter": "Refeld et al. Exs. vs. Bellette et al.\nN. by deed, for valuable consideration, conveyed to B. a house and lot; at the same time, by a separate bill of. sale, and for the same consideration, conveyed to B. certain slaves; and at the same time, by another instrument of writing, in the nature of a will, gives other property to B. upon his (N\u2019s) death, and that the whole shall revert to B\u2019s widow for life: and by will after B\u2019s death, bequeaths the slaves to B\u2019s widow for life: Held, that the first two instruments were absolute, and the right to the property vested in present\u00ed: that upon the death of B., the slaves descended to N. in right of his wife, the heir of B., and passed by hisf will to B\u2019s widow.\nUnder such circumstances, the widow of N. has no interest in the slaves, and cannot join in an action by the widow of B. for their recovery.\nA husband may sell or beqneath slaves inherited by his wife during coverture.\nUpon the deathof a testator, his estate passes into the hands of his executor, in the first place to pay debts; and the right of a legatee to his legacy is suspended - until the assent of the executor or the lapse of time for the settlement of the estate. Quere, can a legatee assert a right to a specific legacy by action at law against the executor.\nAppeal f? om Arkansas Circuit- Court.\nThe Hon. Josiah Gould, Circuit Judge, presiding.\nPike & Cummins, for the appellants.\nIf the donation of 1835 was absolute to Mr. Bellette, and not controlled by the testamentary instrument concurrently executed, then, upon the death of Mr. Bellette, the negroes, subject to Mrs. Bellette\u2019s dower interest, descended to Mrs. Notrebe, and all her interest vested in Mr. Notrebe, as her husband, by virtue of his marital rights, and passed under his will to Mrs. Bellette.\nIf the instrument purporting to be a donation of the slaves, was qualified by that which undertook to create the second estate for life, and which was clearly a testamentary one, they were both such, and annulled by the will which conveyed to Mrs. Bellette a life estate in the negroes.\nIn either event Mrs. Notrebe has no interest in the specific negroes \u2014 no right of action for this specific property, and'was improperly made a party to the suit.\nAs to Mrs. Bellette, there is no possible mode by which she could maintain replevin. A legatee can only maintain an action at law for a specific legacy after assent by the executor; and in this case there is not the least evidence of assent. Paramour vs. Yardly, Plowd. 539. Burnley vs. Lambert, 1 Wash. 308. Andrews vs. Hunncman, 6 Pick. 126. Wilson vs. Bine, 1 Harr. Sf John. 188. The legal estate in a chattel devised, remains in the executor until he assents to the legacy. Moore vs. Barry, 1 Bailey 504. Lenoir vs. Silvester, id. 633. Lynch vs. Thomas, 3 Leigh 682. White vs. White, 4 Dev. 257. White vs. White, 4 Dev. Sf Beit. 401. Lillard vs. Reynold, 3 Ired. 366. Lewis vs. Smith, 1 Ired. 145.\nThe pleas are non ccpit, and property in the estate of Notrebe. There is a total failure of proof of any taking, and complete evidence of title in the estate to at least two-thirds.\nWe think the three instruments executed in 1835 were testamentary and ambulatory in their character. Executed and delivered at the same time, and one referring to and qualifying the other, and one being beyond dispute testamentary, surely they are to be taken as one instrument. We cite the following authorities to the point, that different instruments executed at one time, in regard to the same subject matter, and qualifying and referring to one another, are to be taken as parts of one instrument! Jackson vs. McKenny, 3 Wend. 234. Halbrookvs. Finney, 4 Mass. 569. Slow vs. Tefft, 15 J. R. 463. Jackson vs. Dunsbagh, 1 J. Cas. 91.\nThat these instruments were testamentary. Thorold vs. Thoroli,\\ Phillim.l. Bagnall vs,Downing, 2Feels. Rep. 12. Sand-ford vs. Vaughan, 1 Phillim. 39, 128. Harley vs. Bagshaw, 2 id. 48. Masteman vs. Maberly, 2 Hagg. 235. Habergham vs. Vincent, 2 Ves. Jr. 204. Milledge vs. Lamar, 4 Desaus. 617. 1 Jarman on Wills, 11, \u00a1fe. 1 Williamson Exrs.,p. 59. Peacock vs. Monk, 1 Ves. Sr. Tompkyns vs. Ladbroke, 2 id. 591.\nR. C. Farrelly and Curran, .contra.\nWe insist that the negroes in question belong to Mrs. Bellette and Mrs. Notrebe jointly, and that the action was properly brought \u2014 that one-third belongs to Mrs. Bellette for life, and two-thirds and the reversion of the other to Mrs. Notrebe.\nThe instrument of the 17th July, 1835, conveying the negroes to Bellette, was an absolute deed, not a gift, nor testamentary in its character; but upon a valuable consideration, and conveying the negroes in present\u00ed. That the deed operated as a sale, for a valuable and sufficient consideration, is conclusively settled by the case of Cook vs. Cook, 7 Eng.; nor is this conclusion affect-* ed by the case of Habergham vs. Vincent, 2 Ves. Jr., which seems to be mostly relied on by the appellant\u2019s counsel; for in that case the deed was without valuable consideration, and recited and depended upon the will, and was to take effect after the testator\u2019s death.\nOn the death of Bellette, one-third of the negroes conveyed to him. by the deed, became the property of Mrs. Bellette for life, and the other two-thirds with the reversion, the property of Mrs. Notrebe, and it is submitted that the common law rule is changed by sec. 56, ch. 4 Dig., and that upon the death of Notrebe without diposition of the property during his life, the absolute interest passed to his wife.\nAs to the issue upon the plea of non cepit, it is shown that at the commencement of the suit, the negroes were in the hands of the defendants; and the presumption is, there was a wrongful taking."
+  },
+  "file_name": "0148-01",
+  "first_page_order": 148,
+  "last_page_order": 157
+}

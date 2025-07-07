@@ -1,0 +1,132 @@
+{
+  "id": 1862684,
+  "name": "Faulkner et al. vs. Thompson et al.",
+  "name_abbreviation": "Faulkner v. Thompson",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "478",
+  "last_page": "482",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "24 Wend. 595",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Peters 486",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Wend. 587",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "pin_cites": [
+        {
+          "page": "607"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Peters 233",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3332043
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/40/0233-01"
+      ]
+    },
+    {
+      "cite": "3 A. K. Marsh. 554",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "case_ids": [
+        6424953
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/10/0554-01"
+      ]
+    },
+    {
+      "cite": "5 Peters 470",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        534536
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/30/0302-01"
+      ]
+    },
+    {
+      "cite": "1 Story 529",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 427,
+    "char_count": 7298,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43644397800798423
+    },
+    "sha256": "220370575a28f1f7c55b56dbee81ef34e3618304278e42d02830143883db5fc4",
+    "simhash": "1:83109494b9eaa466",
+    "word_count": 1325
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Faulkner et al. vs. Thompson et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker,\ndelivered the opinion of the Court.\nThe complainants, as Trustees of the Real Estate Bank, filed their bill in chancery against the defendants, in the Phillips Circuit Court, upon the following state of facts.\nOn the 11th day of September, 1839, the defendants executed to the Real Estate Bank of the State of Arkansas their promissory note, by which they jointly and severally promised to -pay to the Bank the sum of $2,400, for value received. On the 2d day of April, 1842, the Bank by deed conveyed its property, including its debts and choses in action, to the complainants and others, (one of whom was the defendant Biscoe) in trust for the payment of its debts. That said trustees and their successors remained in office until the 2d of April, 1844, at which time complainants and defendant Biscoe were continued as residuary trustees of said Bank.\nThat the Bank by her Cashier assigned the note, by written endorsement thereon, to the original trustees. ,That Biscoe accepted the trust and entered upon the duties thereof, and that the note remains unpaid, and cannot be recovered upon by a suit at common law.\nUpon demurrer to the bill final decree was rendered against the complainants, from which they have appealed to this court.\nThe grounds of demurrer were, first, that the complainant\u2019s remedy was at law and not in equity, second, that the cause of action was barred by the statute of limitation.\nThe first ground of demurrer, we think, is not well taken, Biscoe occupied the two fold attitude of payor and assignee, whereby he became also payee, in consequence of which the recovery by the trustees (if indeed they had any at law against either of the defendants) was not clear and adequate, such as to deprive them of the benefit of the more enlarged powers of the court of chancery to afford relief.\nBut we think the second ground of demurrer to the bill well taken. By the complainant\u2019s own showing five and a half years had elapsed between the time when the note fell due and the commencement of this action. The recovery was upon a simple contract debt. The statute had commenced running when the Bank, by her own voluntary act, transferred the note to one of the payors and others in trust. The defendants were not responsible for this; the principal in the note and one of his securities were in no way connected with the transaction. So that even if Biscoe\u2019s acceptance of the trust should, as to himself, be held a suspension of the operation of the statute, (which we think was not the case] it cerainly could not be said to affect the lights of his co-defendants. On the contrary thereof, the statute having commenced running before the assignment continued to run irrespective of it. That the statute may be relied upon as a bar to a recovery in chancery as well as at common law, as a general proposition, is ,well settled, and has been recognized by this court in the case of Taylor vs. Adams, July term 1853. And in cases of concurrent jurisdiction courts of equity act in obedience to the statute rather than by analogy in their application of it. That the statute may be interposed, and that this case is of that class, in which the courts of chancery act in obedience to the statute, there can be no doubt, and the question to be considered is as to whether the defence should be interposed by plea or answer, or whether when the facts appear upon the face of the bill, it may not also avail as a defence by demurrer to the bill.\nAs a matter .of practice this defence is most usually interposed by plea, or as in the case of Taylor vs. Adams, relied upon by the defendant in his answer; and we apprehend (unless where time under the circumstances of the case is to be considered in affording or refusing the relief sought,) that in all cases, over which the courts of .chancery exercise exclusive original jurisdiction, and in all others where the facts disclosed by the complainant in his bill do not show that the right to recover is barred by limitation of time, this defence must be interposed either by plea or be relied upon by the defendant in his answer.\nBut where the cause of action is one over which the courts of law and equity may be said to have concurrent jurisdiction, or where the cause of action is such that in a proceeding at law the statute bar could be interposed (in all of which we have seen thatthe courts actin obedience to the statute rather than by analogy in its application, and the bill upon its face shows that the right of action is barred by lapse of time) the practice seems to be well settled that the defect may be reached by demurrer .to the bill.\nSuch would seem to be the rule laid down by Judge Story in his Com. on Eq. Pr. 484, and Daniell's Ch. Pl. & Pr. vol. 1, 621; and Judge Washington in the case of Wisner vs. Barnett et al., 4 Wash. C. C. R. 632, concludes his review of the English and American decisions thus: \u201cUpon the whole I incline to think that in cases where from the allegations in the bill, the statute of limitations may be urged as a bar to the remedy, ifmay be done in the form of demurrer.\u201d\nThe case before us, both as regards the allegations in the bill, and the nature of the demand sought to be recovered, comes directly within the rule laid down by these authorities.\nThe demurrer was properly sustained.\nDecree affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Walker,"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellants.",
+      "S. H. Hempstead, for the appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Faulkner et al. vs. Thompson et al.\nWhen there is a general assignment to trustees, and among the assets assigned is a note made by three persons, one of the payors being also- one of the trustees? chancery has jurisdiction at the suit of the other trustees to enforce the pay ment of the note.\nIt is a good defence to the suit in chancery that the note in question was barred by limitation previous to the assignment; nor would the acceptance of such a trust have the effect to revive the debt solely against the trustee referred to, in view of the statute which requires a part payment or new promise in writing.\nWhere the cause of action is one over which courts of law and equity may be said to have concurrent jurisdiction, so that courts of chancery act in obedience rather than analogy to the statute of limitations, the defence is always available by demurrer, where it appears on the face of the bill, and is not anticipated and avoided by appropriate averments.\nAppeal from, Phillips Circuit Court in Chancery.\nThe Hon. Thomas B. Hanly, Circuit Judge, presiding.\nPike & Cummins, for the appellants.\nS. H. Hempstead, for the appellees.\nA court of equity had no jurisdiction of the case, as there was aplain and adequate remedy at law. Although Biscoe was one of the trustees and could not sue himself, the right to sue the other co-promissors was not affected by that circumstance, as the note was the several note of each maker.\nThe claim was barred by the statute of limitations which is as available in equity as at law, in relation to the same subject matter. 1 Story 529. 3 Brown\u2019s Ch. R. 639. 5 Mason 143, 527, 528. 5 Peters 470. 3 A. K. Marsh. 554.\nThe statute may be made available by way of demurrer to the bill, as the defendant is not bound to plead it. Wisner vs. Barret, 4 Wash. C. C. R. 631. Rhode Island vs. Massachusetts, 15 Peters 233. 24 Wend. 587, 607. 16 Peters 486. 3 Barb. Ch. R. 481. 24 Wend. 595. Story Eq. PI. 484*, 503."
+  },
+  "file_name": "0478-01",
+  "first_page_order": 478,
+  "last_page_order": 482
+}

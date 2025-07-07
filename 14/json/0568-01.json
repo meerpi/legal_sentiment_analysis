@@ -1,0 +1,629 @@
+{
+  "id": 1862713,
+  "name": "Biscoe et al. vs. Sandefur ad. et al.",
+  "name_abbreviation": "Biscoe v. Sandefur",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "568",
+  "last_page": "594",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 568"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Wend. 405",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Hill 377",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Munf. 269",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        2094050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/15/0107-01"
+      ]
+    },
+    {
+      "cite": "1 Chip. 51",
+      "category": "reporters:state",
+      "reporter": "D. Chip.",
+      "case_ids": [
+        2473068
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/d-chip/1/0051-01"
+      ]
+    },
+    {
+      "cite": "16 Wend. 562",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2149121
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/16/0562-01"
+      ]
+    },
+    {
+      "cite": "4 Humph. 383",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8543473
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/23/0383-01"
+      ]
+    },
+    {
+      "cite": "7 Ala. 175",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8495707
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/7/0175-01"
+      ]
+    },
+    {
+      "cite": "1 Dallas 337",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Dana 353",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        8519424
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/35/0353-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 550",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. 578",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848274
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0578-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 710",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Wend. 467",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2028371
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/26/0467-01"
+      ]
+    },
+    {
+      "cite": "26 Wend. 483",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Johns. 406",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 A. K. Marsh. 551",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Dallas 68",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Ark. 233",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 B. Mon. 224",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wash. 191",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6715029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/2/0705-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 278",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Ala. 304",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3008939
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/13/0304-01"
+      ]
+    },
+    {
+      "cite": "5 Ala. 55",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8492745
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/5/0055-01"
+      ]
+    },
+    {
+      "cite": "4 Ala. 427",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8494603
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/4/0427-01"
+      ]
+    },
+    {
+      "cite": "4 Ala. 543",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8495178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/4/0543-01"
+      ]
+    },
+    {
+      "cite": "3 Mon. 425",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 A. K. Marsh. 20",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "case_ids": [
+        6401903
+      ],
+      "pin_cites": [
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/8/0020-01"
+      ]
+    },
+    {
+      "cite": "4 How. 9",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 S. & M. 791",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "case_ids": [
+        8841087
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/miss/15/0791-01"
+      ]
+    },
+    {
+      "cite": "8 S. & M. 505",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "case_ids": [
+        8840460
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/miss/16/0505-01"
+      ]
+    },
+    {
+      "cite": "2 S. & M. 461",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 How. 419",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Peters 304",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wash. 96",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6714829
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/1/0428-01"
+      ]
+    },
+    {
+      "cite": "3 Munf. 449",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Munf. 454",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Munf. 153",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Munf. 433",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Brock. 385",
+      "category": "reporters:federal",
+      "reporter": "Brock.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Paige 561",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Ark. 209",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848221
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0209-01"
+      ]
+    },
+    {
+      "cite": "23 Wend. 501",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Denio 167",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 How. Pr. Rep. 262",
+      "category": "reporters:state",
+      "reporter": "How. Pr.",
+      "case_ids": [
+        1300751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/how-pr/3/0262-01"
+      ]
+    },
+    {
+      "cite": "4 Hill 621",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Hill 231",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Wend. 496",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Wend. 609",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 Wend. 607",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Johns. 548",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Mass. 105",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Mass. 500",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1999408
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/7/0418-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. 517",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Johns. 208",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Johns. 98",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Mass. 403",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Denio 578",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Watts & Serg. 251",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        1852637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/1/0251-01"
+      ]
+    },
+    {
+      "cite": "4 Bibb 490",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6422655
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/7/0490-01"
+      ]
+    },
+    {
+      "cite": "4 Denio 165",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        485428
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/4/0165-01"
+      ]
+    },
+    {
+      "cite": "2 Hill 331",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Wend. 490",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2025525
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/23/0488-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 126",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Cow. 194",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Ark. 550",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Ark. 578",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848274
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0578-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 710",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1787,
+    "char_count": 59146,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 1.8873572804659875e-07,
+      "percentile": 0.7285125503455993
+    },
+    "sha256": "2485a087cc6814e007625b159a6787d7c1d2b17c7db4dcf994f0f196a2b3534b",
+    "simhash": "1:b1838161092ee54b",
+    "word_count": 10473
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting."
+    ],
+    "parties": [
+      "Biscoe et al. vs. Sandefur ad. et al."
+    ],
+    "opinions": [
+      {
+        "text": "S. H. Hempstead, Special Judge,\ndelivered the opinion of the court.\nA serious objection exists to the judgment of May, 1848, which forbids us giving it.sanctity or effect. The act of the Legislature of 7th January, 1843', authorizing the Circuit Courts to recall judgments on delivery bonds, was pronounced unconstitutional and void by this court, in Byrd vs. Brown, 5 Ark. 710, chiefly on the ground that the General Assembly possessed no power to authorize a Circuit Court to revise its own judgments- rendered at a previous term. Nothing need be added to the reasoning in that case, because if any proposition is self-evident, it is, that if the Legislature can confer on the Circuit Courts authority to revise one class of erroneous judgments, the same power may be conferred in all cases, and thus effectually deprive this tribunal of its appellate jurisdiction granted by the Constitution. This cannot be done, and hence recalling the previous judgment and entering judgment anew on the delivery bond, were proceedings coram non judice; and consequently the execution which issued on this new judgment, the levy on lands, their appraisement and offer for sale, were mere nullities, and must fall with the judgment, because no valid thing can spring from a void thing. And this brings us to the first judgment on the delivery bond rendered in 1842. It was taken on mere motion, without process or notice, without detailing the facts otherwise than in the judgment itself, and was undoubtedly so erroneous, as to have been reversible on error, in a direct proceeding for that purpose, if that remedy had been sought by either party. It was, however, voidable merely, not void; and according to the doctrine in Borden vs. The State, 6 Eng. 519, must be regarded by this court as a valid judgment, since the court pronouncing it was a superior court in contemplation of law, and had jurisdiction over the subject matter. There is then no alternative but to treat it as a binding judgment.\nThe attempt of the same court at a subsequent term to recall it had no effect on it whatever. Fellows vs. Griffin, 9 Smedes & Marsh. 362. Dowd vs. Hunt, 11 Sm. & Marsh. 417.\nAnd it may be remarked, that in addition to the unconstitutionality of the law above alluded to, the court, on general principles, had no power to set aside its own judgments after the term had passed, inasmuch as jurisdiction over the subject matter had been exhausted, and to assume it again would be the same, in its effect, as acting in a case where there was an entire want of jurisdiction. This doctrine has been approved by this court in the cases of Ashley vs. Hyde, 1 Eng. 100; Cossitt vs. Biscoe, 7 Eng. 95, and Rawdon vs. Rapley, 14 Ark., and has become the settled law of this tribunal.\nThe execution which issued on the original judgment was levied on two slaves as the property of Naborne T. Nelson, one of the defendants, on the 27th of November, 1841, and were restored to his possession, upon his giving a delivery bond, signed by all the defendants in the original judgment, with Ambrose K. Ellett as security, and this bond was forfeited and judgment rendered on it, as stated, in 1842, for the whole debt; the slaves levied on having been of that value. The question then is directly presented as to the effect of a levy and delivery bond on the original judgment, and the difference between a simple forfeiture not pursued to judgment and an actual judgment on the delivery bond. And to a proper understanding of the subject in all its bearings, it will be necessary to advert to the previous and present law concerning delivery bonds, noting such differences as may exist, but still regarding those laws as forming one system, according to the ancient rule of exposition, that acts in pari materia are to be construed together.\nAs a system it is sui generis, and has afforded a fruitful field of litigation for more than ten years, and it would seem to be high time that something should be settled with regard to it. The counsel of the appellants have well said it is a \u201cvexed question,\u201d and although we might evade, yet we think it more compatible with duty to meet and decide it. s\n1.. And first as to a levy on personal property.\nA levy on personal property belonging to the defendant, to an amount equal to the debt, is a temporary satisfaction of the judgment. But if the' property is fraudulently withdrawn by the defendant, or by his procurement or agency from the custody of the officer, or the defendant by his own act procures the release of the levy and the property comes again to his possession, it does not amount to satisfaction. Ontario Bank vs. Hallet, 8 Cow. 194. Mickles vs. Haskin, 11 Wend. 126. Green vs. Burke, 23 Wend. 490. Ostrander vs. Walter, 2 Hill 331. Piper vs Elwood, 4 Denio 165. McGinnis vs. Sillard\u2019s Ex\u2019r, 4 Bibb 490. Morrow vs. Hart, 1 A. K. Marshall 292. Porter vs. Boone, 1 Watts & Serg. 251. The People vs. Hopson, 1 Denio 578. Peck vs. Tiffany, 2 Comstock 456.\nAnd this doctrine, so conformable to justice and common sense, and so abundantly sustained by the best authorities, has been sanctioned by this court in cases running through a series of years, from the organization of the court to the present time. Walker vs. Bradley, 2 Ark. 578. Caudle vs. Dare, 2 Eng. 46. Sullivan vs. Pearce, 5 Eng. 500. Whiting & Slark vs. Beebe, 7 Eng. 548. Kelly vs. Garvin, 7 Eng. 617. In the late case of Trapnall vs. Richardson, 13 Ark. 550, it was said that \u201cthe law is understood by the court to be, that a levy on personal property is a satisfaction while the property remains in legal custody, but is not a satisfaction where the property is restored to the debtor, or in any manner gets back to his possession, or when the levy being exhausted by the sale, fails to produce satisfaction. In any such case the plaintiff is entitled to have further execution, and when the levy has been exhausted by sale, it is a satisfaction pro tanto, and execution will be had for the residue.\u201d\nBy the term levy, as used in this connection, must be understood, an act of seizure, which deprives the debtor of the possession of his property, or in other words, places it in the custody of the law to meet the debt, since it would be monstrous to hold that a mere levy on personal property, without regard to the fact that the debtor was deprived of it, should work a satisfaction either temporary or absolute; for in such a case the hands of the plaintiff might be tied, while the defendant was in the actual enjoyment of the property.1 This would be intolerable.\nIt has undoubtedly been laid down in some books, that the defendants\u2019 property is altered by a seizure'in execution, and that thereby the debtor loses his goods. To that effect is the ancient case of Clerke vs. Withers, 1 Salk. 323, reported also in 6 Modern 293, and other cases which have followed it. In that case, Powell, J., said: \u201cthe property, by the execution, is out of the defendant, whose goods they were.\u201d Expressions of a similar import are ascribed to Lord Kelyng in 1 Levinz 282, to Lord Holt in Holt\u2019s Reports 647, and to Moreton, J., in 1 Modern Reports 31. And in Ladd vs. Blunt, 4 Mass. 403, Chief Justice Parsoxs, adopting that doctrine, said that by a lawful seizure, the debtor lost his property in the goods. Indeed the rule, that a levy is an absolute satisfaction, can rest on no other ground, and wherever it has been maintained, it has been on the authority alone of Clerke vs. Withers, as will be perceived by reference to the cases, Denton vs. Livingston, 9 Johns. 98. Hoyt vs. Hudson, 12 Johns. 208. But that doctrine is not correct, and has been effectually exploded. The officer by the seizure acquires a special property connected with the possession, and on that may maintain trespass or trover against any person who takes the goods away before the levy is legally disposed of. Willbrahan vs. Snow, 2 Saund. 47 and note c. 7 Term Rep. 398. But the general property in the goods remains in the debtor, notwithstanding the seizure. And this L; warranted even by the old cases. Shelton\u2019s case, Dyer 67, b. n. Milton vs. Ederington, Dyer 99 a.\nIn 1 Brownlow 41, it is said, \u201cif the sheriff shall by virtue of a fi. fa. levy the debt and damages of a man, and make return that the goods remain in his hands for want of buyers, the property remains still in the defendant, although-the sheriff hath possession of the goods.\u201d In Waller vs. Weedale, Noy\u2019s Rep. 107, the judgment debtor supported detinue against a sheriff, who had returned that he made the levy and had the goods but had not sold them. The court held that the sheiiff could not keep the goods and pay the debt with his own money. It would be difficult to account for this judgment, if the debtor had lost his property in the goods by the seizure. Justice Powell, in 6 Mod. 293, admits that if by any accident the execution determines, the debtor shall have his goods again. In Ayre vs. Aden, Yelv. 44, it is said that by \u201cseizing the goods the owner\u2019s property is not altered.\u201d Lord Hardwicks observed in Lowthall vs. Tonkins, 2 Eq. Cas. Abr. 381, that the property of the goods continues in the defendant until execution executed; which means until the sale of the goods. Thompson vs. Clerke, Cro. Eliz. 504. Shallcomb vs. Cross, 1 Ld. Raym. 251. Cooper vs. Chitty, 1 Burr. 30. Payne vs. Dreeve, 4 East. 523.\nAmerican decisions may be found in abundance to the same effect. Thus in Sadd vs. North, 2 Mass. 517, Parsons, C. J., says that the special property of the sheriff is defeasible by the defendant\u2019s paying the execution in money, before the sale of the goods. In Blake vs. Shaw, 7 Mass. 500, and Ludden vs. Leavitt, 9 Mass. 105, it was held that the general property in goods is not changed until a levy and sale by execution; or in technical language, until execution executed, Catlin vs. Jackson, 8 Johns. 548. It was never supposed that the property in an estray, or in goods distrained was lost or altered by the seizure; nor that goods pawned with a limited time for redemption, ceased to be the property of the pawnor. Yet in each of these instances, there is an inchoate act which renders the property liable to be altered and lost by the negligence, or inability of the owner; but it may be saved by his seasonable interposition. This is the true state of property seized on afi.fa. and in legal custody.\nIt is perfectly clear, on both authority and principle, that the sheriff' only acquires a special property in the goods by the seizure; the judgment creditor none at all, and that the general property remains in the debtor, until sale under execution.\nA mere levy then on personal property, without anything more, does not divest the title of the debtor, nor change it, nor does the levy amounts,to satisfaction, as before observed, 5 Eng. 502. The true rule is, that satisfaction takes place only when the execution has been so used as to change the title, or in some other way deprive the debtor of his property, to the amount of the judgment.\nThis includes the case of a levy and sale, and also the loss or destruction of the goods, otherwise than by the act of God, and without fault or misconduct on the part of the debtor. It does not divest a title, but only creates a lien on the property. The levy may be overreached by some paramount lien or be defeated by the act or misconduct of the debtor, or become entirely ineffectual in consequence of the property coming again to his possession and use, as upon giving a delivery bond. Another instance may be given. The idea of satisfaction rests on the main ground that the debtor is deprived of a sufficiency of property belonging to him to discharge the debt, and although the presumption is, that property seized belongs to the defendant, yet, if in point of fact, the contrary is true, and he has no' interest in it subject to execution, the levy, so far from being even a temporary satisfaction, can have no effect at all, because the debtor is deprived of nothing, and is not injured by a levy on property not belonging to him, and of course can derive no benefit from it. On no principle of law or reason can the seizure of property of one person satisfy an execution against another, 8 Cowen 194, 21 Wend. 607, 28 Wend. 609. In these and other cases falling within a like principle, there is no color for saying the judgment is satisfied or affected. The case of The People vs. Hopson, 1 Denio 578, is a decisive authority to sustain these positions and was cited with approbation by this court in Whiting & Slark vs. Beebe, 7 Eng. 548, and Kelly vs. Garvin, 7 Eng. 617, in both of which cases it was explicitly announced as a fixed rule, that a mere levy on sufficient personal property of a defendant, without anything more, never amounted to the satisfaction of a judgment, and that the only effect was, that so long as the property remained in legal custody, the other remedies of the creditor would be suspended. In Peck vs. Tiffany, 2 Coms. 450, the court o\u00ed appeals of New York, used this language, \u201cThere are some old cases in which dicta are found that a levy on sufficient personal property to satisfy an execution, is a satisfaction; but that doctrine has been long since exploded Where a sheriff levies on sufficient personal property, and through his negligence or misconduct it is lost, destroyed, or otherwise disposed of, so that the defendant is deprived of the benefit of it, there is no doubt it should be regarded as a satisfaction of the execution and the plaintiff must seek his remedy against the sheriff. But where the debtor has neither paid the debt, nor been deprived of his property, the simple act of levying upon it, is not a satisfaction, whether the debtor has been permitted to retain the property, either by his own misconduct, or by his request, or the voluntary act of the officer, because neither work any wrong to him.\u201d The court cited Greene vs. Burke, 23 Wend. 496. Ostrander vs. Walter, 2 Hill 231. Taylor vs. Rauney, 4 Hill 621. Voorhees vs. Gross, 3 How. Pr. Rep. 262.\nAnd this court, in Sullivan vs. Pierce, 5 Eng. 502, said that a mere levy on property did not constitute satisfaction.\nNow satisfaction depends on two things ; first, on the fact that a sufficiency of property belonging to the defendant, has been seized to meet the debt; and second, that the debtor is deprived of it. And even then the satisfaction is temporary, not absolute, subsisting only as long as the property remains in legal custody, and hence this court, in the case in 5 Eng. 502, correctly remarked, that the greatest extent, to which the authorities had gone, had been that where property was taken in execution, and remained in the hands of the officer unsold, it might be considered as a temporary satisfaction, to the extent that it must be disposed of before other property can be taken in execution. The effect of the levy in that case was held to be destroyed by the return of the property to the defendant on the order of the plaintiff, and which left the latter perfectly free to proceed on the judgment.\nIn Dugan vs. Fowler, 14 Ark., this court said it had been repeatedly held that, an existing unsatisfied levy on property, suffi\u25a0cient in value to satisfy the judgment, is a satisfaction, but not an absolute satisfaction in any event; that it must depend on circumstances connected with the future disposition of the levy, whether it is an absolute satisfaction or not; that the cases of Whiting & Slark vs. Beebe, and Trapnall vs. Richardson, had settled the general principle that a subsisting undischarged levy upon property sufficient to satisfy the judgment, is a satisfaction until, by the discharge of the levy by sale or otherwise, it proves to be partial or incomplete. It is almost superfluous to remark, that a levy is discharged or legally disposed of by giving a delivery bond, to retain the possession of the property. It is no longer in legal custody and the levy does not subsist for any purpose whatever.\nAs before intimated, it must be understood that if on a judicial sale the property in the hands of the officer proves insufficient, the judgment with all its consequences subsists in full force as to the balance of the debt; because pai'tial payment can never extinguish an entire demand, and the plaintiff is in no fault, because the property does not bring the whole debt. 4 Denio 167.\nWe think it must be regarded as a settled and inflexible rule in this State, that a judgment is neither satisfied nor affected when the property seized is fraudulently withdrawn by the defendant or his procurement or agency from the custody of the officer; or the defendant by his own act, as giving a delivery bond, procures its release, and it comes again to his possession and resumes its place among the mass of his property, or the property seized does not belong to the defendant. In such cases the judgment would not only maintain its vitality against the defendant, but its priority as to other judgment creditors; because the plaintiff has lost no lien by tampering with the levy; nor his priority by any agreement to release property; nor are his rights postponed or suspended by any act he has done, Greene vs. Burke, 23 Wend. 501. And cases falling within a like principle would necessarily be governed by the same rules.\nWe have said this much as to the effect of a levy on personal property, and how it may be discharged, because it was a necessary part of our inquiry, and for the further reason that some misapprehension seemed to exist with regard to it- As to this branch of the subject it only remains to say that the doctrine announced is considered to be just to both debtor and creditor; to the former, because protecting him from the oppression of a further levy, when suflicient property of his remains in the custody of the law to produce satisfaction; to the latter, because preserving to him rights not yielded, and appropriately rewarding his vigilance in their prosecution.\n2. As to the ejject of a delivery bond on the judgment.\nA delivery bond, under the law as it existed in the Revised Statutes, was required to be given to the plaintiff in double the value of the property seized in execution, with sufficient security to be approved by the officer. But on forfeiture it did not have the force and .effect of a judgment, nor could execution be issued against all the obligors, as is the case at present. Rev. Stat. 380; Digest 501, 502. It was intended for the ease and favor of the debtor, and formed a part of that system of legislative relief peculiar to some of the western and southern States, and which, jn its practical operation, is believed in mosteases to have proved detrimental to both the debtor and creditor.\nUnder the present law, no matter what the value of the property levied on is, the bond must secure the whole \u201cdebt, damages, interest and costs,\u201d and on forfeiture, execution issues on the statutory judgment, against all the obligors, for the whole amount upaid, Digest 502. And in view of this new feature we think, when the bond is returned forfeited, the clerk should in all cases note it on his judgment docket, setting forth the names of the obligors, the date of the forfeiture, and fhe amount of the debt, damages and costs, as in the case of judgments formally rendered in the Circuit Court, to the end that record evidence may exist; and the utmost publicity be given to a proceeding which, on a fair construction of our law, must necessarily operate as a lien on the real estate of the obligors in the county from the date of the forfeiture, Digest 626. The statute respecting the lien of judgments .and decrees does in spirit, although not in letter, embrace such cases, and the establishment of the rule is only carrying out what the Legislature must have intended, because otherwise the creditor might be placed in a worse situation than he was in before, and lose important rights without an equivalent.\nThe delivery bond under the previous law, afforded a cumulative remedy merely, of which the plaintiff might avail himself at his election. He was not obliged to do so, but could proceed on the original judgment, which was neither satisfied, extinguished, nor affected by the taking and forfeiture of the bond.\nBy electing however, to proceed on it to judgment, either in a summary manner by motion or by an ordinary suit, the effect could not be otherwise than to extinguish the previous judgment; because the creditor not only had a new one, but additional security, thus resembling in some respects accord and satisfaction. Pope vs. Tunstall, 2 Ark. 209. By thus proceeding, the plaintiff virtually accepted the new judgment in lieu of the original, and could not, on well established principles of law, resort to the latter to obtain satisfaction of the debt. And it followed as a necessary consequence, that all liens arising under the original judgment or executions issued on it were released, or in other words, such liens, the real judgment, and the delivery bond itself, on which the new' judgment was based, were all merged in such new judgment. 4 Bac. Abr. D. 149.\nAnd the recourse of the plaintiff was from thenceforward against the parties on the new judgment. In Purdy vs. Doyle, 1 Paige 561, it was held that where a creditor obtained a lien upon real estate by a judgment, and subsequently brought an action of debt on that judgment, and recovered a new one, the lien of the first judgment was lost. This is what Chief Justice Marshall in The United States vs. Graves, 2 Brock. 385, called \u201ca technical satisfaction\u201d of the previous judgment. When the plaintiff elected to proceed, and by his own voluntary act substituted the new for the original judgment, the case then stood on the same footing as it does in those States where the law accords to a forfeited delivery bond, the force and effect of a judgment, and on which an execution issues as a matter of right without further proceedings. Our present law concerning delivery bonds derived its main features from Virginia. Kentucky and Mississippi drew their law on this subject from the same fountain head. The decisions in those States, as to the proper construction and effect of this law, are entitled to great respect and should weigh heavily in arriving at a proper conclusion, although not absolutely binding on this court. In Virginia, if. a forthcoming bond is forfeited the execution is at an end, because the forfeiture had the effect of a judgment, and execution issued against all the obligors on this statutory or constructive judgment. Lusk vs. Ramsey, 3 Munf. 433. Cooke vs. Piles, 4 Munf. 153. The bond there covered the whole debt, regardless of the value of the property levied on, and on forfeiture had the effect of a judgment by express statute. 8 Hen. Stat. 326, 327. And the forthcoming bond was no satisfaction of a judgment until forfeiture. 3 Munf. 454. In the case above cited in 2 Brock. 385, Chief Justice Marshall, in reviewing the decisions of the courts of Virginia, said: \u201cThey have undoubtedly determined that a forthcoming bond when forfeited, is a satisfaction of the judgment on which the execution issued, and that no further proceedings can be founded on that judgment. The forthcoming bond is substituted for the judgment, and the recourse of the plaintiff is against the parties to that bond.\u201d And so a replevy bond in Virginia extinguished the judgment, for the reason that by statute the creditor approved the security, and the bond, as soon as executed, had the force of a judgment for the whole debt, and execution issued against all the obligors without any further proceedings. 3 Munf. 449; and it was said to be \u201cas complete an execution of the judgment as if the estate of the defendant had been sold to the full amount of the debt, and the party was left to pursue his own remedy upon the bond.\u201d Taylor vs. Dundass, 1 Wash. 96.\nIn Mississippi, the law of Virginia having been, as already stated, substantially adopted, a forthcoming bond covered the whole debt and had the force and effect of a judgment when forfeited, How. & Hutch. Stat. 653. No judicial action was necessary to produce that result, and execution issued on this statutory as upon any other judgment. Miner vs. Lancashire, 4 How. Miss. R. 350. Wanzee vs. Barker, ib. 369. Sanders vs. McDowell, ib. 9. United States Bank vs. Patton, 5 How. Miss. R. 200. McNutt vs. Wilcox, 3 How. Miss. R. 419. Annis vs. Smith, 16 Peters 304. Brown vs. Clarke, 4 How. S. C. R. 12.\nAnd so effectual is this satisfaction, that after a delivery bond taken and forfeited, a second execution, levy and bond on the original judgment are utterly void, and it was so expressly held in Witherspoon vs. Spring, 3 How. Miss. R. 60. The original judgment being entirely extinguished could only be revived by the quashal of the bond; until which time its lien was gone, and all levies made under it were released. \u201cThe forfeiture of the bond,\u201d says the court, in 3 How. 419, \u201cextinguishes or satisfies, as it is said, the original judgment; because it is a proceeding arising on it, and has in itself the force and effect, and is of equal dignity with a judgment, and a plaintiff is not entitled to two subsisting judgments on the same cause of action against the same individuals. It is like a second judgment, obtained by an action on the first; the plaintiff cannot proceed to enforce the first, but must rely on the second.\u201d 4 Bac. Abr. D. 149. Again in Clarke vs. Anderson, 2 How. Miss. R. 853, it was said that the forthcoming bond after forfeiture becomes, by operation of law, a judgment, and necessarily extinguishes the former judgment, because two judgments are'not allowed at the same time, against the same person on the same cause of action.\u201d And in Burns vs. Stanton, 2 S. & M. 461, it was decided that the original judgment after the forfeiture of the bond, was no longer in existence. And it has been further held, that as the forfeiture of a forthcoming bond is a satisfaction of the original judgment, the lien of it is extinguished and a new lien commences with the forfeiture of the bond, on new parties, and that any execution issued on the original judgment afterwards is a nullity, and a sale under it passes no title. McComb vs. Ellett, 8 S. & M. 505. Robinson vs. Tainter, ib. 613. Chilton vs. Cox, 7 S. & M. 791. The Supreme Court of the United States, in Brown vs. Clarke, 4 How. 9, took the same view of the subject.\nIt is there said that \u201cthe lien of the first judgment ceases, and a new and more comprehensive lien arises upon the statutory judgment, embracing the'property of both principal and sureties in the forthcoming bond, and no action of the court is necessary on the forfeited bond. As soon as the bond is forfeited the old judgment is extinguished, and a new lien attaches.\u201d\nThis new judgment is considered as possessing the qualities, force, effect and dignity of a judgment obtained in the ordinary mode of proceeding according to the course of the common law, and in a court of competent jurisdiction; a scire facias may be issued to have execution upon it, (3 How. Miss. R. 1,) and in another State it will be regarded as a judicial proceeding within the meaning of the act of'Congress of 1790. As a judicial proceeding it may challenge full faith and credit, and can no more be impeached collaterally than any other judgment. This precise question came under review in the court of appeals of Kentucky, in the case of Kelly vs. Lank, 7 B. Monroe 223, and was fully discussed and ably considered. It was an action of debt brought on one of these statutory judgments from the State of Mississippi, and the court held that while the statutory judgment remained in force, unreversed or annulled, it was record evidence of right in the plaintiffs, and could only be impeached by evidence of as high a grade as itself; and further, that nul ticl record was the only proper or admissible defence to it in their courts. In Kentucky, a delivery bond is for the whole debt, and on forfeiture has the force and effect of a judgment on which execution issues as of course. 1 Morehead & Brown's Laws Ky. 641. Joyce vs. Farquar, 1 A. K. Marsh. 20, 21. Chitty vs. Gleim., 3 Mon. 425. And so, as in Virginia, a replevy bond is held to be an extinguishment of the previous judgment, and of all liens created by execution, because the bond when made has the force and effect of a judgment, and execution issues against all the obligors for the whole debt.\nThe present law came before, this court in Reardon ex part, 4 Eng. 450, and was pronounced constitutional. Subsequently\u2019, in the case of Ruddell vs. Magruder, 6 Eng. 579, that case was confirmed, and it was held that the non-delivery of the property transformed the bond, by operation of law, into a statutory j udgment, on which execution might issue against all the obligors, for the debt, interest and cost remaining unpaid; that the forfeiture imparted to the bond the force and effect of a judgment, and that the sheriff\u2019s return of forfeiture was conclusive evidence of the fact, and could not be controverted by parol proof. Substantially, the doctrine of the cases in Mississippi is adopted by this, and undoubtedly where the law is the same, the decisions of the courts should correspond, as far as justice, comity and reason will permit. And we think it would be impossible to establish any other doctrine, without leaving the debtor exposed to greivous evils, without seriously impairing the harmony of the law, and without departing from the manifest intention of the legislature.\nIt will strike every one that it is not the fact of giving a delivery bond and its forfeiture, that works the extinguishment of the previous judgment. It is the fact that the forfeiture, by .express statutory enactment, ipso facto, has the force and effect .of a judgment, becomes a lien by necessary implication against new parties from the date of the forfeiture, and execution issues on this new statutory judgment against all the obligors; or .as was the case with the bond in question, where the forfeiture had no such effect, it was only when judgment was actually rendered by a court of competent jurisdiction, that the original judgment became extinguished, its lien destroyed and the execution ended. The mere giving and forfeiture of the bond could not affect the judgment, if the creditor chose to still proceed on it, and not proceed to judgment on the bond. As stated, the plaintiff was not bound to resort to the bond and thus surrender any security which the original judgment afforded, unless he felt disposed to do so. But if he elected to pursue that remedy to obtain the payment of his demand, he could not capriciously abandon it. 7 Eng. 547. In Campbell vs. Spence, 4 Ala. 543, it was held that a forfeited delivery bond was no satisfaction, and did not impair the lien of the judgment. And in Leach vs. Will iams, 8 Alab. 765, which was a case of conflicting liens, it was held that when goods seized were delivered to the defendant on his giving a forthcoming bond, which was forfeited, so that they could not be sold, the plaintiff might have a new execution, because it did not amount to' satisfaction in law. 4 Ala. 427. 5 Ala. 55. 13 Ala. 304. These cases are presumed to have been decided on a statute similar to our previous law.\nWe think it has been settled in this court, that a forfeited delivery bond, not having the force and effect of a judgment and not proceeded on to judgment, is no extinguishment or satisfaction of a judgment, either temporary or absolute, nor does it have the effect of breaking or interrupting the judgment lien as between judgment creditors. Thus in Caudle vs. Dare, 2 Eng. 46, after a delivery bond forfeited, which did not have the force and effect of a judgment, the plaintiff was allowed to proceed on the original judgment, and disregard the bond, the court remarking that \u201cpersonal property levied on by virtue of the original execution, being returned to the defendant, did not satisfy the execution,\u201d citing Walker vs. Bradley, 2 Ark. 278, where it was decided that levying an execution on the property of a judgment debtor is no satisfaction where the property does not remain in possession of the sheriff, but is re-delivered to the defendant on his giving a delivery bond.\nIn Whiting & Slark vs. Beebe, 7 Eng. 548, it was held that where a levy was made and a delivery bond taken and forfeited, and which by statute had the force of a judgment the levy was discharged, and the judgment on which the execution issued, satisfied. And various cases were cited which clearly sustained that position. In Kelly vs. Garvin, 7 Eng. 613, it was held that a forfeited delivery bond under the present law amounted to the extinguishment of the original judgment, and the creation of a new one by force of the statute.\nAnd it is proper to observe, that as a forfeited forthcoming bond, whilst in force under the existing law, is a satisfaction of the first judgment, a faulty or irregular bond may be quashed on motion, at the return term of the execution, and thus remove the. impediment to proceeding on the judgment. Downman vs. Downman, 2 Wash. 191. The rights and remedies of parties to the bond, and the time and manner of their assertion may be collected from the cases of Reardon ex parte, 4 Eng. 450; Ruddell vs. Magruder, 6 Eng. 578; and that of Kelly vs. Lank, 7 B. Mon. 224, and the authorities therein cited.\nOn a parity of reasoning a bond, which on forfeiture had not the force and effect of a judgment, could not possibly extinguish or impair the original judgment, interrupt its lien, or arrest proceedings on it; because to so hold would be to declare that inferior could destroy evidence of debt of the highest grade and dignity, and that a mere cause of action could extinguish the solemn judgment of a court of record. Such a doctrine would contravene every principle of law laid down in the books. Indeed the technical satisfaction springing up under the present law almost reaches the verge of constitutioual authority, and could not go much farther and be upheld and maintained.\nThe previous statute itself shows clearly that the mere taking and forfeiture of a bond, without proceeding to judgment on it, had no effect on the original judgment; because, upon the condition being broken, the officer could seize the same, \u201cor any other property of the defendant,\u201d and sell the same to satisfy the execution, thus in the amplest manner recognizing the judgment and execution as in full force and unsatisfied, Rev. Stat. 380. The plaintiff was not confined to the specific property levied on, and which had been released from legal custody on giving the bond. The officer was not obliged to seize it again on execution, but had the right to resort to any other property of the defendant, real, pei\u2019sonal, or mixed, subject to execution, and sell the same on five days notice, except land and slaves, which could only be sold on the usual notice; Cummins vs. Webb, 4 Ark. 233. This most clearly demonstrated that on that statute, as well as on general principles, after giving a delivery bond there never was the slightest reason for saying that the levy remained undisposed of, or that the property still remained in legal custody, subject to the execution, or that the plaintiff was precluded from resorting to other property until the levy was exhausted, or that it amounted to a satisfaction, or had the slightest influence on the original judgment, when the plaintiff elected to proceed on such judgment. Certainly it cannot be doubted that the restoration of property to'the defendant on giving a bond for its delivery, was such a legal and effectual disposition of the property as to remove or discharge the levy. 2 Dallas 68, Taylor vs. Royal Saxon. Wallace 326, Walker vs. McDowell. 4 Smedes & Marshall, 118. After that the officer was not responsible for the safe keeping of the property, or for its value, nor did the defendant hold it under, or for him, or for the plaintiff. It was no longer in legal custody, for if so no further levy could be made until that was disposed of. We have seen that a further levy might be made, and that other property might be seized on the same judgment and execution.\nThe officer had no special property, and could not maintain trespass or trover for injuring or converting the property, as he-could do if it still remained in legal custody. Although the officer, before the day appointed for its delivery, might see the property wasting or about to be alienated, yet he would have no right to become the curator of it, or interfere in any way, as he might and as it would be his duty to do if it was still in custodia legis.\nIn fact, all that the officer had to do to avoid responsibility, was to see that the security on the $bnd was sufficient, as the law made him answerable for that. But the property remained in the possession and under the absolute control of the defendant, and belonged to him for all practical purposes, and whether it was or was not charged with a lien could make no difference. The defendant might or might not deliver it at his election, because he might prefer to submit to the penalty for a failure; the law on a fair construction giving him that right.\nThe officer could take no measure to force the debtor to have the goods forthcoming at the day of sale; and if the officer was bound to receive a sufficient delivery bond when tendered, and part, with the possession of the goods, was in no manner liable for them, could take no measure to compel their delivery, and could bring no action concerning them; it follows inevitably, in the language of Lord Holt, that there was \u201cno person who could make title to the goods by virtue of the execution,\u201d and that the debtor was therefore restored to his rights over them, 6 Mod. 292; 3 Munf. 433. The idea of legal custody of them was utterly excluded, for, as has been shown, by the giving of the bond, the levy in contemplation of law was legally disposed of, and to still consider the goods as held under and by virtue of the execution would be an absurdity in itself. Malone vs. Abbott, 3 Humphries 532.\nIf there had been no authority on this point at all, the previous statute would settle the question; because if a forfeited delivery bond, not having the effect of a judgment and without judgment being sought or pronounced on it, could amount to the extinguishment of the original judgment and satisfaction of the execution, no further levy could possibly be made, and the plaintiffs, nolens volens, would be obliged to resort to the bond. But that law recognized both judgment and execution to be still effectual for all purposes. We have not lost sight of the fact that the 39th section of the execution law, authorizing the officer, when the condition of the bond was broken, to seize the same or any other property of the defendant subject to the execution, and sell the same on short notice to satisfy the execution, was repealed on the 3d December, 1840, Rev. Stat. 380; Acts 1840, p. 5. It was revived on the 6th of December, 1846. Acts 1846, p. 35. We have referred to, and argued from it merely to illustrate a general principle, and to evince the intention of the law maker at the time of the enactment of the system, as to the effect of a forfeited delivery bond pursued to judgment, and not pursued to judgment, and to demonstrate that such intention was in perfect harmony with general principles of law on the subject. Our reasoning and decision however, rest on the latter and not on any statutory provision.\nThe original judgment mentioned in the bill, was rendered on the 8th of October, 1851;y?. fa. issued thereon the 27th of November, 1841; delivery bonds executed on the 4th of March, 1842, and forfeited the 4th of April, 1842, and judgment was rendered on the delivery bond, on motion, at the April term, 1842. All these proceedings were had when the above section was not in force; and as the counsel for the appellants admit, that if there was no statute providing that the lien should remain, and the sheriff seize and sell without process, the lien of the levy and the sheriff\u2019s title are absolutely discharged by giving a delivery bond: we might say shortly that there being no such statute, when the proceedings were had, it would follow on their own reasoning, that there was no lien on the slaves levied on, to be asserted or pursued, and that the court very properly refused to recognize or enforce it, especially after such a lapse of time, and against bona fide purchasers at a public sale, who have ever been, and ought to be favorites of a court of equity, and whose titles or possessions are not to be disturbed except upon the strongest and most conclusive grounds, and certainly not on astute constructions, doubtful implications, or stale claims. There can be no question but that it is sound policy, as well as the duty of courts to strongly incline to uphold sales, made under the authority of law, and protect the title of puz\u2019chasers, because prudent men az\u2019e not disposed to risk their money in so precarious an izivestment as the purchase of law suits; and if szich a policy did not prevail the sacrifice of property at judicial sales would be as ruinous as it would be inevitable. But that proposition admits of a more conclusive answer, which is, fiz-st, that after the delivery bond the shez\u2019iff has no title to the goods of any sort, and the levy is released; and second, treating that section as not repealed, the effect would be the same,because in the constz\u2019uction of statutes, every part must stand it possible and that could only be effected, in cases circumstanced as this is, by holding that their lien could subsist no longer than the judgment remained in foz\u2019ce, and that if the plaintiff should abandon the original judgment and obtain a new judgment on the bond in cases where the property levied on was of equal value with the debt, he must abide by all the consequences flowing fz\u2019om that step; which have been declared to be, that the original judgment was thereby extinguished, its lien merged in the new judgment, and such lien as arose from the levy released and forever discharged, and the execution end-' ed. This, we think, was the true intention of the Legislature. This would operate as a postponement of the collection of the debt, and to that extent afford relief to the debtor, and for which the creditor is supposed to have obtained additional security on the responsibility of the officer as to taking a sufficient bond.\nAlthough not compelled, yet if the plaintiff elected to proceed to judgment on the bond, then it was like an ordinary case of waiving a lien created for his benefit, which waiver may be either express or implied. The statute fails to define exactly how long the lien of a levy, so called, shall last, or when it shall end, but that and the subsequent section authorizing the seizure of that or any other property of the defendant to satisfy the execution, when the condition of the bond was broken, and selling personal property on short notice, indicate clearly enough, when taken together, that the lien could not subsist, when the old was merged in the new judgment, since the accessary must follow' the principal. Harrison vs. Wilson, 2 A. K. Marsh. 551. And the reason of the rule is that the law', condemning a multiplicity of suits, which too often unnecessarily harrasss a defendant, will not as it has been said, suffer two subsisting judgments on the same cause of action against the same individual. Nor does this at all conflict with the rule, that a party, having several subsisting remedies, may pursue any one or all of them until he obtains actual satisfaction, (Taylor vs. Thomson, 5 Peters, 369); for that rule is not to be shaken or weakened.\nCases might and doubtless did occur under the previous law, where the property seized was less in value than the debt, and consequently the plaintiff had no choice and was obliged, by motives of self interest and necessity, to proceed on the original judgment, regardless of the delivery bond, thus showing that it could not have been intended, as it could not be in fact, a satisfaction, or tie up the hands of the plaintiff from proceeding on the judgment. This can never occur under the existing law, because the bond covers the whole debt, irrespective of the value of the property. The expression in the statute, that the \u201clevy shall remain a lien upon the property,\u201d means no more than that there is a lien upon it, not substantially different from that general one which an execution creates upon being placed in the hands of the officer. It does not mean that the property is in legal custody, or does not belong to the defendant in the same manner as his other personal property, and the authority to seize it, \u201cinto whose possession soever the same may have passed,\u201d was intended to guard against fraudulent alienations; but not to inhibit bona fide sales before execution executed. The provision, that \u201cno execution shall be a lien,\u201d but from the time such writ \u2022shall be delivered to the officer,\u201d (Digest, 498), has been repeatedly held not to alter the property of the goods until the execution is executed, (12 Johns. 406; 4 East, 536), and so, on a parity \u2022of reasoning, the provision above alluded to would have no greater effect. And this exposition we conceive to be in exact accordance with the policy of the law, which does not encourage liens \u2022on personal property when the possession is parted with, be-, \u2022cause such liens are of a secret nature, and tend to embarrass and obstruct the free alienation of property, so necessary in the trade and commerce of men. They open the door to the perpetration of frauds on innocent persons, and owing to the mobility of personalty, nothing can be more uncertain than such liens and in no case should they be extended or enlarged by judicial construction, 26 Wend. 483. In point of dignity and certainty they are not like liens on real estate created by judgments, or evidenced by recorded mortgages, for these are public and notorious, and preserved in the records of the country, to which all have access, and of which all are bound to take notice, in all cases where the law makes such 'records operate in that way.\nThe Legislature might have considered that the seizure of property to answer the debt, the release of the levy on giving a delivery bond, (8 Yerger, 161), and the passing of the goods out of the possession and custody of the officer into the hands of the defendant again, might, in the absence of any enactment, be construed into the loss of all lien whatever; on a principle sound in law, that as a general rule, possession of personal property is essential to the creation as well as to the continuance of a lien on it. 2 Kent, 639. When a party voluntarily parts with the possession of the property, upon which a lien has attached, such lien is divested, because it has been well said, that if it was to follow the goods after they had been sold or delivered, the incumbrance would become excessively inconvenient to the freedom of trade, and the safety of purchasers. 1 Stra. 536; 1 East. 14; 2 East. 235; 7 East. 7; 26 Wend. 467; 7 Eng. 572. It has been said by this court that the lien is only co-existent with the possession of the article, and being once surrendered, cannot be revived by any subsequently acquired possession. 2 Eng. 256. It is true that this doctrine, arising from a different lien, could not apply in terms, but only by analogy to the lien of an execution, and to what we consider as the same in effect \u2014 the lien of a levy, since the latter too originates under the execution and stands on the same footing. The Legislature therefore might not have thought it labor thrown away to exclude the conclusion that might otherwise have been drawn from the restoration of possession to the defendant.\nBut however full and inflexible and public the lien might be, still it could not discharge nor affect a judgment, nor amount to satisfaction, because it is indisputable, on both authority and principle, that a lien is neither a right in or to the thing, but is simply a right on the part of the creditor to have the property, charged with the lien, appropriated for the purposes of satisfaction, if he shall feel disposed to do so. 1 Peters. 443; 1 Mason, 221; 2 Peere Wms., 491. The fact, that the lien exists, does not place the property in legal custody, nor appropriate it to the payment of the debt.\nThe two negroes, originally levied on and released upon giving the delivery bond, were sold under an order of court, at public sale, by the administrator, as the property of Norbone T. Nelson, deceased, on the first of January, 1846, and purchased by Draper and Williams, two of the appellees.\nFrom the views above expressed it is manifest, that the Real Estate Bank, had no lien on, or claim to them, and the decree of the court dismissing the bill as to them was correct.\nThomas M. R. Bankhead, as administrator of Norbone T. Nelson, answered the bill and insisted that the claim set up by the complainants had not been presented and authenticated according to law against the estate of his intestate within two years from the date of letters of administration, and that the same was barred. The court being of that opinion, dismissed the bill as to\u00bb him. This decree we think was right. It falls within the principle decided by this court in Walker vs. Byers, 14 Ark., where it was held that, with the exceptions therein specified, all claims and demands against the estates of deceased persons, whether legal or equitable, must be exhibited properly authenticated, within the period of two years, or be forever barred. This claim is not within any of the exceptions and therefore that case is a decisive authority on the question that the appellants can have no relief against the estate of Norbone T. Nelson, or his heirs, ordistributees.\nWhatever errors exist in the decree as - to Joanna T. Carrington, administratrix of Robert Carrington, deceased, Charles T. Nelson, and Ambrose K. Ellett, cannot be noticed as these parties have not appealed, and certainly there is nothing,of which\u00bb, the appellants have a right to complain.\nLet the decree be affirmed.\nWatkins, C. J., not sitting.",
+        "type": "majority",
+        "author": "S. H. Hempstead, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellants..",
+      "Curran, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "Biscoe et al. vs. Sandefur ad. et al.\nThe case of Byrd vs. Brown, 5 Ark. 710, declaring unconstitutional the act of 7th January, 1843, as to recalling judgments on delivery bonds and rendering judgment anew; the case of Borden vs. The State, use, S\u00a1c., 6 Eng. 519, as to void and voidable judgments, the cases of Ashley vs. Hyde, 1 Eng. 100, Cossitt vs. Biscoe, 7 Eng. 95, Rawdon vs. Rapley, 14 Ark., that a court cannot set aside its judgment after the term, cited and approved.\nA levy on personal property belonging to the defendant to an amount equal to the debt is a temporary satisfaction. But if it be fraudulently withdrawn by the defendant from the custody of the officer, or the defendant procures a release, or it comes again to his possession, it does not amount to satisfaction, as held in the cases of Walker vs. Bradley, 2 Ark. 578. Caudle vs. Dare, 2 Eng. 46. Sullivan vs. Pearce, 5 ib. 500. Whiling <$\u2022 Slark vs. Beebe, 7 ib. 508. Kelly vs. Garvin, ib. 617. Trapnall vs. Richardson, 13 Ark. 550.\nA mere levy on personal property without anything more does not divest the title of the debtor, nor change it, nor amount to satisfaction. Satisfaction of the judgment takes place only where the execution has been so used as to change the title, or in some other way deprive the debtor of his property to the amount of the judgment \u2014 ashy a levy and sale, or the loss and destruction of the goods otherwise than by the act of God and without fault or misconduct on his part,\nA judgment is neither satisfied nor affected when the property seized is fraudulently withdrawn by the defendant, or by his procurement or agency, from the custody of the officer, or the defendant by his own act, as giving a delivery bond procures its release, and it comes again to his possession, or the property seized does'not belong to the defendant.\nUnder the act of 1839, (Rev, Stat. ch. 60,) upon the return of a delivery bond for feited, the plaintiff could not proceed on the original judgment, which was nei* ther satisfied, extinguished, nor affected by the taking and forfeiture of the bond. But if he elected to proceed on the bond to judgmant, either in a summary manner by motion, or by any ordinary suit, the effect was to extinguish the previous judgment; and all liens arising under it or executions issued on it were released \u2014the liens, the original judgment and the delivery bond being merged in the new judgment.\nUnder the act of 1846, (Dig. ch. 67, secs. 46, 47, 48,) execution issues upon the statutory judgment, on the return of a delivery bond forfeited, against all the obligors for the whole amount unpaid; and when t]xe bond is returned forfeited the clerk should note it in his docket, setting forth the names of the obligors, the date of forfeiture and the amount of the debt, .damages and costs, as in the case of judgments formally rendered in the Circuit Court.\nThe statutory judgment extinguishes the original judgment, is a lien on the lands of the obligors in the county from the time of forfeiture, may be revived by scire facias, and will be regarded as a judicial proceeding within the meaning of the act of Congress of 1790, and cannot be impeached collaterally.\nThe restoration of the property levied upon to the defendant, upon his giving a delivery bond, is a legal and effectual disposition of the property and the levy. The property is no longer in legal custody: the sheriff has no title to it of any sort and the levy is released.\nThe decision in Walker vs. Byers, (14 Ark.,) that the statute of non-claim is the rule of limitation as to claims against the estates of deceased persons, cited and approved.\nAppeal fi om Hempstead Circuit Court in Chancery.\nThis was a bill in chancery decided before the Hon. John Q,uillin, Circuit Judge, at the May term, 1851. The material facts are, that, on the 8th of October, 1841, the Real Estate Bank recovered a judgment against Naborne T. Nelson, Charles T. Nelj son and Robert Carrington, upon which a Ji. fa. issued and was levied on two slaves of Naborne T. Nelson. A delivery bond was given by the defendants and Ambrose K. Ellett as their security, which was forfeited and judgment rendered thereon at the April term; 1842, of the Circuit Court, without notice and on mere motion. At the May term 1843, a revocation of the judgment was entered under the act of 7th January, 1843, and judgment anew rendered on the delivery bond. An execution was issued on this last judgment, which was levied upon lands of N. T. Nelson, which were appraised; but were afterwards sold under paramount claims. Naborne T. Nelson died previous to 1844, and administration on his estate was granted on the 26th of August 1844. The two negroes, for which the delivery bond was given, were sold by the administrator for payment of debts on the first of January, 1846, and purchased by the defendants, Draper and Williams, at public sale, without actual notice of the levy or delivery bond. The bill was filed by the Trustees of the Bank, on the 30th August, 1849, to obtain payment, praying that their lien on the slaves be enforced by way of foreclosure, that they be sold to satisfy the judgment, and for general relief.\nThe administrator of N. T. Nelson answered, and claimed that no decree could go against him, because the claim had never been presented for allowance, admitted that all the other debts were paid, and that he had assets in hand to the amount of $970 44. Charles T. Nelson relied on the limitation of five years and want of equity in the bill. Draper and Williams claimed protection as bona fide purchasers without notice and insisted that the lien of the complainants was lost.\nThe court decreed in favor of the administrator of N. T. Nelson, Draper and Williams, and against the other defendants. The complainants appealed to this court.\nPike & Cummins, for the appellants..\nThe judgment after the revocation, not being void and never reversed, was a lien on the real estate, when letters were granted on the estate of Naborne T. Nelson; and as the levy and appraisement created a specific lien, the claim was entitled to be placed in the third class. The statute (Dig. ch. 4 sec. 85,) does not require such judgments tobe exhibited to the administrator; but it is his duty to present to the Probate Court, and class all judgments which are liens on real estate. Nimmon vs. The Commonwealth, 4 Hen. <\u00a7* Munf. 57. 5 Dana 353.\nBy a levy on personal property the title to it is changed and vested in the sheriff. The property in the goods then is his; and in virtue of it he may sell, and is obliged to sell, and that is why a vend. ex. will go to him to make him do his duty. After the levy, his property in the goods continues; the goods are his own, and he may sell when he pleases unless otherwise ordered by the court. Thompson vs. Bhillips, Baldwin 267. Clerk vs. Withers, 1 Salk. 323. 6 Mod. 293. 1 Dallas 337. 11 Serg. Sf Raiole 304. Cumberland Bank vs. Hann, 4 Harris 166. Layton vs. Steel, 3 Harring 512. Leavitt vs. Smith,7 Ala. 175. Lester\u2019s Case, 4 Humph. 383. Earl vs. Camp, 16 Wend. 562. And if he leaves them in the custody of the defendant or a ;.third person for safe keeping, or they are sold under another execution, he may maintain trover. Brewster vs. Vail, 1 Spencer 56. 1 Chip. 51. 1 Munf. 269. 7 Greenl. 178.\nWhen the execution is levied on personal property and a delivery bond given, the statute expressly declares that if the property be not delivered according to the condition of the bond, the levy shall remain a lien upon the property taken for the satisfaction of the judgment into whose possession soever the same may have passed.\nIf the lien existed the court should have compelled the administrator to deliver the property from it, as far as the assets in his hands would go. And if the lien was lost, the bill was maintainable as in the nature of a sci.fa. to revive, and there should have been a decree against the administrator to be paid out of the assets of the estate.\nCurran, for the appellees,\ncontended that the claim should have been exhibited to the administrator of Naborne T. Nelson within two years from the grant of letters of administration: Walker ad. vs. Byers, 14 Ark.; that if the lien under the statute continued to exist after the delivery bond, it would be considered dormant after so long a delay, (Bliss vs. Ball, 9 /. R. 132. Kellogg vs. Griffin, 17 J. R. 274. 5 Hill 377. 12 Wend. 405: that the judgment taken on the delivery bond and the subsequent levy on other property had the effect to extinguish the delivery bond, and to waive or extinguish the lien of the original levy; that the original judgment, levy and delivery bond were absolutely extinguished and merged by the subsequent judgment on the delivery bond. ."
+  },
+  "file_name": "0568-01",
+  "first_page_order": 568,
+  "last_page_order": 594
+}

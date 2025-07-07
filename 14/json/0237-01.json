@@ -1,0 +1,98 @@
+{
+  "id": 1862702,
+  "name": "Beirne & Burnside vs. Imboden et al. admr.",
+  "name_abbreviation": "Beirne & Burnside v. Imboden",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "237",
+  "last_page": "244",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 237"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Cow. 210",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156669
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/1/0210-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. 35",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032781
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0035-01"
+      ]
+    },
+    {
+      "cite": "4 Denio, 142",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 646,
+    "char_count": 14474,
+    "ocr_confidence": 0.504,
+    "pagerank": {
+      "raw": 7.225613060718544e-07,
+      "percentile": 0.9677820984930009
+    },
+    "sha256": "28db126a3999f411aaab0663b8bf5a3041156376896ce32423ebc1e5218dd971",
+    "simhash": "1:c76e202be49ff154",
+    "word_count": 2487
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beirne & Burnside vs. Imboden et al. admr."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nIt appears from,, the transcript that at the July term, 1851, of the Probate Court of Randolph county, this cause originally came on to be heard \u201c in the matter of the presentation to the court by Beirne and Burnside, of a claim for allowance and classification against\u201d the defendants, as administrators of the estate of Thomas O. Man*, deceased: And that, when the claimants offered to read in evidence the promissory note on which the claim for allowance was founded, the defendants objected, and moved the court to enter a judgment of non-suit against the claimants, because the claim in question had not been properly authenticated and presented for allowance, which motion the court granted, and adjudged costs against the claimants.\nThe claimants took a bill of exceptions, and appealed to the Circuit Court for Randolph county, and at the May term, 1852, the latter court, the cause having been heard on this bill of exceptions, and an assignment of the supposed error of the Probate-Court, the judgment was affirmed with costs; and the cause has been brought here by writ of error.\nIt appears from the bill of exceptions that the note offered in evidence was as follows, to-wit:\n\u201c $872 64.\nNew Orleans, December 20th, 1848.\nSix months after date, we, or either of us, promise to pay to the order of Beirne & Burnside, eight hundred and seventy-two dollars and sixty-four cents, for value received.\nJ. M. SHEPPERD,\nTHOS. O. MARR.\u201d\nAnd attached to it was an affidavit in the following words,,to-wit :\nSTATE OF ARKANSAS,)\nCounty of Randolph. )\nI, Thomas M. Cory, do solemnly swear that nothing has been-paid or delivered towards the satisfaction of the above demand,, except what has been credited thereon, and that the sum of eight hundred and seventy-two dollars and sixty-four cents, principal, and seventy-five dollars and sixty-one cents interest, above demanded is justly due.\nTHOMAS M. CORY.\nSworn to and subscribed before me, J. W. James, an acting Justice of the Peace, this 18th day of July, 1850.\nJ. W. JAMES, J. P.\nUpon which affidavit and note were the following endorsements, to-wit:\nPresented, examined and rejected this 15th of August, 1850.\nJ. H. IMBODEN,\none of the admlrs of the estate of Thos. O. Marr, deceased.\nFiled September 2d, 1850.\nB. F. PAYNE, Clerk,\nBy W. S. Walker, Deputy Clerk'.\nIt also appears by the transcript of the proceedings of the Probate Court, that the cause was twice continued in that court by \u201cconsent of parties,\u201d before it was finally heard and determined there; and upon the latter ground it is insisted here that the want of authentication (if this court should hold the affidavit insufficient) was matter in abatement; and therefore the motion for non-suit, after these continuances, was out of time.\nIn the case of Ryan et al. vs. Lemon ad. (2 Eng. R. 78) this court concluded upon this point that this objection and motion might be made at any time prior to final judgment, and at the present term, in the case of Walker ad. vs. Byers, we have held that the objection, for want of authentication, might be taken either by plea, on motion, or by way of objection to the admissibility of evidence offerred to establish the claim. There is therefore, nothing in this objection.\nAnother question, however, is directly raised upon this record, and it is the only remaining one involved in the cause; and that is, as to the sufficiency of the authentication. The promissory note, on which the claim is founded, is payable to Beirne & Burnside. It does not appear to have been endorsed to any one, and the proceedings for its exhibition are in their name, while the affidavit, in due form, as provided by the statute, appears to be made by Thomas M. Cory. Is this such an authentication as is contemplated by the statute ?\nThe authority of the Legislature to enact the law, requiring one who has a claim against the estate of a deceased person to authenticate his claim by his own affidavit, before evidence shall be heard to sustain it, may be safely assumed. There can be no pretence that such a regulation cuts off all remedy, or that it clogs it in any such degree, even upon small demands in favor of distant creditors, as to be obnoxious to the objection that the obligation of the contract is thereby impaired within the meaning of the constitution. Although the cost of an affidavit might be greater than the amount of the claim authenticated thereby, it would be no more onerous upon the claimant to advance the amount than it would be to advance the cost of a writ in an ordinary proceeding, when his claim might be less than the cost of the writ. No constitutional question then will be considered as involved in the point that we are to determine. And there is no question as to whether or not this is such a claim as is required by the statute to be authenticated, as there was in the case of Walker ad. vs. Byers. Nor is any question presented whether, when there are joint claimants, the affidavit of one of them only sufficiently authenticates the claim. The precise question here is, whether the affidavit of Cory, who does not appear as a claimant at all, is sufficient authentication within the provisions of the statute.\nIt is insisted.that by a fair and sensible construction, the affidavit of any one, who can make it truly from his own knowledge of the facts, would be sufficient authentication, whether it be that of the creditor,'or one of them, or his or their agent, or attorney, or other person, or at any rate if it be that of the agent, or attor-5 ney.\nIt may be remarked in the first place that so much has been expressed by the Legislature on the point, in an unambiguous manner, that but little is left to be interpreted; and that little must necessarily be interpreted in direct reference to the general policy of our administration system; of which the enactments in. question constitute a part. All claims are to be barred unless exhibited properly authenticated,\u201d within the two years specified (Dig. p. 125, sec. 85;) Both exhibition and authentication are the creatures of the statute, and are alike applicable to all claims, and the latter is a prerequisite of the former, whether the exhibition be the act of the parties or by means of a proceeding, either on the law or chancery side of the Circuit or in the Probate Court. Executors or administrators have to authenticate their own. claims against the estates committed to their hands by the \u201csame affidavit required of other claimants,\u201d (sec. 84). Actions pending against any person at the time of his death, which survive against his executor or administrator, are considered as exhibited without authentication, (sec. 86). When a claim is exhibited by the act of the party out of court, the \u201c claimant shall append to his demand an affidavit.\u201d (sec. 88). When he exhibits by means of a proceeding in court, the affidavit must be produced, and it must appear to have been made prior to the commencement of the proceeding, (sec. 93). The general form of this required affidavit is prescribed, (sec. 88), and when authentication is made in behalf of a corporation, or by an executor, administrator, or assignee, a special affidavit prescribed, is declared to be sufficient, (sec. 91). The officers, before whom affidavits are to be made in this State, are specified, and provisions are made for their authentication, when made beyond the limits of the State, (sec. 96). Persons who swear falsely in making the required affidavit are declared guilty of perjury, (sec. 96). When a debt is due to a corporation, the cashier or treasurer is to make the affidavit, (sec. 90). If the debt be assigned after the debtor\u2019s death, the authentication is to be made by means of both the affidavit of the person, who held the debt at the death of the debtor, as well as that of the assignee superadded, the one in the general, the other in the special form prescribed, (sec. 92, 91), and it is in express terms provided that \u201c before any executor or administrator shall pay or allow any debt demanded as due from the deceased, the person claiming such debt shall make an affidavit, as aforesaid,\u201d (sec. 89). And there are several other provisions touching exhibition and authentication, which, when all considered together, seem clearly enough to show that the Legislature used as synonymous the terms, \u201c creditor\u201d and \u201c claimant,\u201d and the terms debt, claim and demand. There is much light thrown upon the question at issue, by these various provisions, affirmative and negative, general and special. Perhaps, however, it is not necessary to look beyond the provisions of sections 89, 90, 91 and 92, when considered together, andin generalreferencejonly to the policy of our administrative system, to solve satisfactorily the point to be determined. If it had been designed that the affidavit of the agent or attorney of the creditor should authenticate the claim under any circumstances, the provisions made for the authentication of a claim on the part of a corporation, would* have been totally unnecessary.\nSo, if it had been designed that the affidavit of any person whomsoever, whether the creditor or his agent, or attorney, who could make the affidavit truly from his own knowledge of the facts, should be' sufficient authentication, neither the provisions as to corporations, nor those as to assignees would have been necessaiy, because, in the case of a corporation creditor, a knowledge of the facts on which the affidavit would be based, necessarily lay in some natural person, who was not in contemplation of law the creditor; and in the case of claims assigned after the death of the debtor, such knowledge would, in general, lay either in the holder of the debt at the time of the death, or of some other person, not the- assignee. Because, as to the assignee, it could not be possible, in contemplation of law, that any thing could have been paid on the debt after the death of the debtor, and before its exhibition ; and any knowledge as to the original consideration, or of its failure, either before or during this interval, would, in general, be better known to some other person than the assignee.\nSo, also against the idea that any person may make the affidavit whose knowledge of the facts would enable him to do it truly, and in such case the affidavit of the creditor may be dispensed with, it is apparent, from this provision in reference to corporations, executors, administrators and assignees, when those made in reference to the latter are contrasted with those in reference to the other three, that an affidavit is more readily dispensed with from a third person, who could make it positively upon his own knowledge, than from the creditor himself, who could only make it on belief from information.\nWhen then considering together the provisions of the four sections we have grouped, in their connection with our administration system and in direct reference to its policy, we think it perfectly clear that the Legislature has not only enacted affirmatively as a general rule, that the creditor in person must authen j ticate his claim by his own affidavit, but that rule is re-affirmed by inevitable inferences from the provisions as to corporations, exeeutors, administrators and assignees, which constitute the exceptions to, and limit and qualify this general rule as to who shall authenticate, and the mode of authentication.\nThis we conceive to be the true interpretation of the enactment in question, and it is in accordance both with the letter and the spirit of the statute. And nothing is to be inferred against it from the form of the affidavit prescribed ; which is evidently but a general form, applicable in its precise terms to debts at maturity, upon which there may be credits endorsed, and is, of course, to be often varied in its terms, so that the substance is preserved, to correspond withucases where the debt may 'not have matured \u2014may have no credits \u2014 when the claim may sound in damages, (Dig. p. 125, sec. 80), or he uncertain in amount, for want of the settlement of complicated accounts, sought by proceedings in court to be settled; in which latter cases the party could only swear to the best of his knowledge and belief to some specified amount of damage or balance due him.\nIt but remains to be said that we are of opinion that the supposed authentication in this case was insufficient, and finding n,o error in the record the judgment must be\u00abaffirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Fairchild, for the plaintiffs.",
+      "'Byers & Patterson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Beirne & Burnside vs. Imboden et al. admr.\nThe creditor must authenticate, by his own affidavit, his claim against the estate of a deceased person : and such authentication cannot be made by an agent or atttirney, even where they can make it truly of their own knowledge.\nThe objection for want of legal authentication, may be taken at any time before final judgment, (Ryan et al. vs. Lemon, ad. 2 Eng. 78), either by plea, on motion^ or by way of objection to the admissibility of evidence, (Walker ad. vs. Byers, at this term) or after continuances by consent.\nWrit of Error to the Circuit Court of Randolph county.\nThe Hon. B. H. Neely, Circuit Judge, presiding.\nFairchild, for the plaintiffs.\nThe affidavit to authenticate a claim against the estate of a deceased person, may be made by ,any one who can make it truly, whether the creditor, or his agent ,or attorney. See the cases of The People vs. Fleming, 4 Denio, 142. The People vs. Duchess co. Judges, 5 Cow. 35. Ex parte Holbrook, 5 Cow. 35. 1 Cow. 210. 2 John. Gas. 169. 1 Overton, 184. The same principle and reasoning were adopted in Taylor vs. Ricards Sf Hojfman, 4 Eng. 384, and applied to an attachment bond. To require any affidavit, as a pre-requisite to establish a claim, is a restriction upon the right of the creditor; and by a fair construction of the statute, which must be strictly constru.ed, the affidavit may be made by the person claiming the debt, \u2022whether he claim it as owner, agent, trustee, of representative for .another.\nThe objection to the affidavit was in the nature of matter in abatement, and unavailable upon the trial, after an appearance .and continuance of the cause.\n'Byers & Patterson, contra.\nThe affidavit is insufficient, as dhe statute requires that it should be made by the persons claiming the debt, who are Beirne & Burnside, the plaintiffs in the .suit, {Rev. Slat. p. 129, sec. 89,) and the affiant in this case, appears to have no interest whatever in the claim."
+  },
+  "file_name": "0237-01",
+  "first_page_order": 237,
+  "last_page_order": 244
+}

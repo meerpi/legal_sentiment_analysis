@@ -1,0 +1,553 @@
+{
+  "id": 1862689,
+  "name": "Merrick & Fenno vs. Avery, Wayne & Co.",
+  "name_abbreviation": "Merrick v. Avery, Wayne & Co.",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "370",
+  "last_page": "389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 370"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Wend. 599",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Dana 257",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        11268278
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/37/0257-01"
+      ]
+    },
+    {
+      "cite": "4 How. 317",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        1503928
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/45/0317-01"
+      ]
+    },
+    {
+      "cite": "2 Story Rep. 555",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "case_ids": [
+        11641888
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/9/0266-02"
+      ]
+    },
+    {
+      "cite": "10 Mo. Rep. 619",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Ohio 585",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        491997
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/15/0585-01"
+      ]
+    },
+    {
+      "cite": "16 Ohio 276",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        494315
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/16/0233-01"
+      ]
+    },
+    {
+      "cite": "12 Ohio Rep. 341",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        487653
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/12/0341-01"
+      ]
+    },
+    {
+      "cite": "11 Ohio Rep. 458",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        589530
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/11/0391-01"
+      ]
+    },
+    {
+      "cite": "1 Story Rep. 244",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "case_ids": [
+        6566033
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/20/0354-02"
+      ]
+    },
+    {
+      "cite": "7 Peters 240",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Cow. 2901",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Story Rep. 461",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Story Rep. 144",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Sumn. 73",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "case_ids": [
+        6582112
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/18/0009-01"
+      ]
+    },
+    {
+      "cite": "8 Pick. 298",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Peters 675",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        11340134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/27/0675-01"
+      ]
+    },
+    {
+      "cite": "5 Pick. 28",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2033199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/22/0028-01"
+      ]
+    },
+    {
+      "cite": "2 Conn. 215",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754411
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/2/0215-01"
+      ]
+    },
+    {
+      "cite": "2 Hall 1",
+      "category": "reporters:state",
+      "reporter": "Hall",
+      "case_ids": [
+        1361737
+      ],
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/2/0001-01"
+      ]
+    },
+    {
+      "cite": "15 Mass. 477",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Ohio 178",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        494384
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio/16/0150-01"
+      ]
+    },
+    {
+      "cite": "5 Pet. 525",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Story 456",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Paine 577",
+      "category": "reporters:federal",
+      "reporter": "Paine",
+      "opinion_index": -1
+    },
+    {
+      "cite": "24 Pick'. 13",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2069256
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/41/0013-01"
+      ]
+    },
+    {
+      "cite": "10 Mass. 47",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2027017
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/10/0056-01"
+      ]
+    },
+    {
+      "cite": "7 Peters 344",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Sumn. 87",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wheat. 611",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1429842
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/25/0611-01"
+      ]
+    },
+    {
+      "cite": "14 Conn. 404",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754645
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/14/0404-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 438",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4708
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/17/0438-01"
+      ]
+    },
+    {
+      "cite": "9 Wheat 409",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421264
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/22/0409-01"
+      ]
+    },
+    {
+      "cite": "1 Paine 620",
+      "category": "reporters:federal",
+      "reporter": "Paine",
+      "case_ids": [
+        6572329
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-cas/20/0869-02"
+      ]
+    },
+    {
+      "cite": "12 Howard 450",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Howard, 450",
+      "category": "reporters:state",
+      "reporter": "Howard",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Wend. 40",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Story 69",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Peters 340",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Ohio, 359",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        496127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio/17/0359-01"
+      ]
+    },
+    {
+      "cite": "17 Ohio, 125",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        496134
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio/17/0125-01"
+      ]
+    },
+    {
+      "cite": "16 Ohio, 91",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        494354
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio/16/0077-01"
+      ]
+    },
+    {
+      "cite": "14 Ohio, 408",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Ohio, 461",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Ohio, 384",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        588099
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio/10/0384-01"
+      ]
+    },
+    {
+      "cite": "1 Mich. 171",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1173499
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/1/0171-01"
+      ]
+    },
+    {
+      "cite": "3 Scam. 150",
+      "category": "reporters:state",
+      "reporter": "Scam.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Law. Rep. 421",
+      "category": "reporters:state",
+      "reporter": "Law Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Law. Rep. 488",
+      "category": "reporters:state",
+      "reporter": "Law Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Story 464",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Wheat. 428",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434769
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/23/0428-01"
+      ]
+    },
+    {
+      "cite": "12 Ohio Rep. 341",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "case_ids": [
+        487653
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio/12/0341-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1466,
+    "char_count": 41226,
+    "ocr_confidence": 0.524,
+    "pagerank": {
+      "raw": 2.5685786677668583e-07,
+      "percentile": 0.8160247952679867
+    },
+    "sha256": "7b8698d1bc682bc2285a69275269af69757f7e6e99ea35e708e85ea0e55789fb",
+    "simhash": "1:9b4fb4db1a88be7d",
+    "word_count": 7187
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Merrick & Fenno vs. Avery, Wayne & Co."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis was a suit in chancery, instituted by the appellees, Avery, Wayne & Co., Thomas Hite and others, against Merrick & Fenno, and William Fisher.\nFrom the record sent here, the material facts of the case appear ;to be as follows :\nThe complainants residing at Cincinnati, Ohio, having furnished supplies to the steamboat P. H. White, then running in the Ohio river, and owned by William Fisher, settled their respective demands against the boat, on the 7th August, 1849, by taking the note in some instances of the owner, and in others of the master of the boat, either due presently or at so many days from date. Soon afterwards the boat left the Ohio, and in the latter part of August, was brought by Fisher into the Arkansas, -where she continued to run. While navigating the Arkansas river the boat became indebted to the defendants, Merrick & Fenno, residing at Little Rock, for advances and supplies furnished in this State, amounting to near four hundred dollars; and -on the 6th of October, 1847, they took a bill of sale of the boat from Fisher, expressed to be in consideration of their having just \u25a0claims against the boat, which he was desirous should be paid. The bill of sale contained a stipulation to the effect, that when .all the claims then held by Merrick & Fenno should be paid and satisfied, they would in good faith, re-sell, re-convey, and re-deliver the boat, her engine, tackle, &c., to Fisher, on his reasonable request, and in the meantime render accounts of the business of the boat, or permit him to inspect its books on request. This instrument, which clearly was a mortgage security, was never filed for record. It is fully proved that Merrick & Fenno, notwithstanding the positive denial and averments in their answer, immediately upon the execution of the bill of sale, took possession of the boat and commenced running her, for the purpose of re-imbursing what she owed them, and that such was the intention of the parties in executing the bill of sale, is inferable from its tenor.\nWhether the boat left the Ohio river with the knowledge or consent of the complainants does not appear. Down to the time of taking the bill of sale so called, Merrick & Fenno had no notice of the claims of the Ohio creditors against the boat, but of which they were shortly afterwards apprized. Those creditors pursued Fisher to Arkansas, and brought suits in personam, against him* for the amount of their respective demands, in all of which judgments were rendered against Fisher, on the common law side of' the Pulaski Circuit Court, on the 25th April, 1848.\nIn the meantime the boat, not paying the expenses of running; her, and continuing to fall in debt to Merrick & Fenno, so that-including what they had advanced before undertaking to run the-boat for Fisher\u2019s account, she owed them for supplies, stores,, cash advances, wharfage, &c., a balance of $1,751, and on the-7th of June, 1848, they advertised her for sale at auction on the-19th day of that month.\nTwo days before this sale took place, the complainants filed-their bill, the scope of which was, that by the law of Ohio, their claims were liens upon the boat, entitled to be specifically enforced and satisfied against her, in preference to any claim which the defendants, Merrick & Fenno, might have subsequently acquired. The complainants had. caused executions to be issued upon their judgments at law against Fisher, which being returned milla bona they claimed, in another aspect of their bill, to be entitled in equity, as judgment creditors of his, to subject the boat or its proceeds in the hands of Merrick & Fenno to satisfy the judgments; upon the ground that Merrick & Fenno had no real or valid claim, and in respect of which they prayed a discovery and account, but only held possession of the boat as trustees for Fisher.\nThe boat, when sold, did not bring enough to pay the balance due Merrick & Fenno, who received the proceeds of the sale,., amounting to $1,250.\nAt the hearing it was agreed that the law of Ohio, in regard to claims against boats and vessels, should be read in evidence, and it was admitted that the supplies &c., originally furnished by the complainants in Ohio, were such as 'were provided for by that law. The chancellor allowed Merrick & Fenno to retain the amount of their demand, being four hundred dollars, against the boat at the time of the execution of the mortgage, but decreed that they should pay the residue of the proceeds arising from the sale, to be distributed pro rata among the complainants.\nWhile the appellants contend that the complainants below had no lien, it is argued that, conceding they might have had such lien, they lost it by taking notes of the master or owner, thereby giving a personal credit to them, and also by merging their demands in judgments against the owner. If these were the only questions to be decided, we might have no difficulty in holding, that where by analogy to maritime law or usage, a material man has a triple remedy against the master, the owner, and the boat, he may pursue them all, independently of each other, until one satisfaction is had. In such cases a reasonable credit is allowed to be extended to the boat for the benefit of commerce, else there would be no necessity for any lien. So the taking of a note not negotiated or outstanding would not waive the lien, unless some additional security were obtained, or under circumstances manifesting an intention to do so. According to what is the law of the place, the simple contract demand might be merged in the note, and a judgment in personam would bar another action on the note; but that judgment while unsatisfied, being but a security, would be no bar to a distinct proceeding in romiot the same debt, supposing such were the case here.\nBut the essential enquiry is, whether the complainants upon the facts stated, had any lien in Ohio, which they can enforce in this State as against the defendants, and this enquiry involves many considerations of serious difficulty. In the first place the the distinction between the different kinds of lien is to be observed. The common law lien is a right to retain a thing until some claim upon it is satisfied, and if possession be given up the lien is lost. Statutory liens, among which are chattel mortgages, do not depend upon possession of the thing. They import a right to prior satisfaction out of the property bound by the lien, and being the creatures of positive law, are usually regiilated by a system of registry, operating as constructive notice; so that they take effect, and are to be satisfied according to priority of record! A maritime lien does not depend upon possession or registry of any contract which confers the lien. It excludes the idea of possession or registry. Nor do such liens take effect according to priority of time; in many instances, when they come to be satisfied the order of priority is inverted. The maritime law is part of the law of nations, a peculiar system supposed to be based on principles of the most enlightened equity, and proceeding according to rules of its own wholly unlike the common law. It concerns vessels which navigate the seas,- and the classes of persons engaged in navigating, or who contract in respect of such vessels! The maritime lien is one of the necessities attending commerce between foreign countries. It is a claim upon the vessel and the lien consists in the right to enforce it by seizure or proceeding in rent. Unlike the liens given by the local law of any nation, which if respected out of its jurisdiction, are only so by comity, this light to satisfaction out of the vessel, where it exists,' adheres to and follows her everywhere. So the judgment of the admiralty court in rem is of universal obligation, and conclusive upon all persons interested in the subject of its adjudication.\nBy the federal constitution, the\" judicial power of the United States extends to all cases of admiralty and maritime jurisdiction. The States, for wise reasons, divested' themselves of all right to exercise any jurisdiction over the subject, unless in the absence of any legislation by Congress, or by its sufferance or permission.\nCongress by the judiciary act of 1789, in organizing the federal courts, conferred original jurisdiction in all such cases exclusively upon the district courts, saving to suitors in all cases, the right of a common law remedy, where the common law is competent to afford it. The courts of the United States, unconsciously adopting the prevailing practice and definition of admirality jurisdiction in England, and without considering its true nature and design, were not disposed to extend their jurisdiction beyond cases occurring upon the high seas, or where the tide ebbs and flows; The Jefferson, 10 Wheat. 428; Thackeray vs. The Farmer, Gilpin 524: and the decisions of the State courts have proceeded upon the idea that all authority, though in the nature of admiralty jurisdiction, not falling within that definition, rightfully belonged or had been relinquished to therm At an early day the necessity arose for local legislation on this subject in the Atlantic States. In New York, Massachusetts and Pennsylvania liens were given by statute to mariners, and to those building, equipping, or furnishing materials for ships in domestic ports. The United States courts in admiralty recognized and enforced such liens where they were expressly given by the local laws. But these statutes were carefully guarded, and their beneficial operation was to extend the privilege of the maritime lien upon seagoing vessels, for their building or equipment in domestic ports, just as that lien existed in Europe, and would have prevailed in England, and so descended to this country, but for the jealousy of the common law. The States, for all the purpose of admiralty jurisdiction, were regarded as foreign to each other; the maritime lien attached to ships belonging to one State, repaired or equipped in the ports of another State; and any local legislation attempting to limit or control this jurisdintion, would be disregarded, as unconstitutional; The Barque Chusan, 2 Story 464.\nThe growing commerce of the new States upon the waters of the Mississippi, where the admiralty courts never had assumed jurisdiction in any form, required som'e legislation of a different character for affording prompt and efficient remedies against boats and vessels. The statute of Ohio passed in 1840, enacts \u201cthat steamboats and other water crafts navigating the waters within or bordering upon this State, shall be liable for debts contracted on account thereof, by the master, owner, steward, consignee, or other agent, for materials, supplies or labor, in the building, repairing, furnishing or equipping the same, or due for wharfage; and also for damages arising out of any contract for the transportation of goods or persons, or for injuries done to persons or property by such craft, or for any damage or injury done by the captain, mate, or other officer thereof, or by any person under order or sanction of either of them, to any person who may be a passenger or hand on such steamboat, or other water craft, at the time of the infliction of such damage or injury.\u201d For any such demand the person aggrieved may proceed against the master and owner, or against the craft itself. The remaining sections provide, that upon complaint, an affidavit being made, the vessel may be seized, and unless security be put in on behalf of the owner, it is held in the custody of the court, and sold on execution to satisfy such judgment as may be rendered; the overplus of proceeds if any being returned to the owner or his agent, and if the proceeds of the sale fall short of satisfying the judgment, the balance remains to be collected \u00aen execution as upon ordinary judgments.\nIn the case of The Velocity, 3 Law Reporter 61, decided by Judge Conklin, of the northern district of New York, the question was whether material men, claiming a lien under this law of Ohio for supplies furnished in that State to a vessel subsequently libelled and sold under proceedings in admiralty in New York, could have their claims satisfied out of the surplus proceeds in court arising from the sale of the vessel.\nAs the admiralty courts would enforce liens of a maritime nature, when made so by local statutes, such claimants would also be allowed to come in for a share of any surplus proceeds. The question was therefore presented, whether the statute of Ohio gave any such lien, and upon a thorough review of it, Judge Conklin was of opinion, that it did not confer a lien either expressly or by necessary implication. He refers to the legislation in the Atlantic States, and quotes the provisions of the New York statute, which explicitly gave a lien on vessels, subordinate to that of seamen\u2019s wages, for work and materials, and stores furnished within that State, and so for wharfage and port expenses, which liens are accurately defined, and limited in duration, and the mode of enforcing- them prescribed so as to ensure publicity, and an opportunity for all claimants to interplead. And after contrasting the provisions of the Ohio statute, which neither contained the word \u201clien\u201d or any expression of like import, which made the boat liable, not merely to mechanics and material men, but for all damages though unliquidated, arising from any breach of contract in the transportation of freight or passengers, or for injuries to the same, and for torts committed by any officer of the boat without limit as to place of injury or duration of the liability for it, and without any safeguards to ensure'to adverse claimants publicity in the adjudication, his opinion was \u201cthat in declaring a vessel liable for debts contracted on her account, and for the damages specified in the act, nothing more was intended than to confer the privilege of arresting the vessel by mesne process as the property of the delinquent party, and unless security should be given, of having it detained in the custody of the law to satisfy the judgment, if any, which the plaintiff might recover.\u201d In short, that it was nothing more than a special attachment law where the process is against the boat instead of the person, and the lien is by virtue of the levy of the attachment.\nIn the subsequent case of Glenny vs. The Globe, 3 Law. Rep. 488, Judge Conklin carried the foregoing views to a much greater extent. The case was that the Globe, a Michigan vessel, owned in Detroit, was libelled by Glenny, in May, 1850, in the admiralty court in New York, under the act of Congress of 1845, for supplies and materials, which he had furnished to her at Buffalo, prior to the 10th of September, 1849. A claimant of the vessel answered that she had been sued and seized in a court of Ohio under the statute of that State, for supplies furnished to her at Cleveland after the 20th of September, 1849, in which suits judgr ments were rendered in February, 1850, upon which the vessel was sold in March following, and under that sale he derived his title. Judge Conklin thought the Ohio statute was void, because against natural justice, inasmuch as it did not contemplate or profess to provide any means of notice, actual or constructive, beyond the act of seizure, of the pendency of the suit to adverse claimants; and that the State court had no jurisdiction, because the statute was an interference with the admiralty jurisdiction of the United States courts. Though his opinion may be a forcible argument against the policy, if not the validity of the Ohio statute, the decision was reversed on appeal to the Circuit Court. The Globe, 5 Law. Rep. 421. Judge Nelson held that the State Court had a concurrent jurisdiction, reserved to it by the act of Congress of 1845, that its judgment was, upon a proceeding in rem, obligatory upon all the world, not affected by the absence of notice to any party interested, and that the sale under it passed a complete title to the purchaser. His opinion, however, might have rested on another ground, stated as existing in the case, that the libellant had appeared to the suits in Ohio, and contested the proceedings.\nThe statute of Wisconsin is almost the same in terms as that of Ohio, and in the case of Pulteny vs. The Sloop Celestino, 4 Am. Law Journal 164, where a domestic vessel was libelled in admiralty by domestic creditors, under the act of 1845, the district judge refused to entertain jurisdiction because the statute of Wisconsin did not confer a lien which the courts of the United States in admiralty could recognize. In the case of Davis vs. A New Brig, Gilpin 473, Judge Hopicinson entertained jurisdiction in such a case, upon the phraseology of the Pennsylvania statute, making vessels in certain cases liable to workmen, material men, &c., \u201c in preference to and before any other debts due and owing from the owners thereof.\u201d So the Arkansas statute on this subject gives a similar preference to certain classes of creditors against the boat, over all other debts due from her owners, (except wages of mariners and boatmen,) which might materially influence the construction to be given to it.\nThe Supreme Court of Missouri decided in Noble vs. The steamboat St. Anthony, 12 Missouri, 261, See also, The steamboat Rariton vs. Pollard, 10 ib. 584; that the water craft law of that State, authorizing suits against boats and vessels, had no extra territorial operation, and would only be enforced in the courts of that State for demands accruing within the State against vessels navigating its waters.\nIn the case in 12 Missouri, it was admitted that the plaintiff\u2019s claim accrued against the boat while in Pennsylvania, where by statute it was a lien upon the vessel. The court said: \u201cThe Pennsylvania law, like ours, is local and must be enforced in the mode pointed out in their statute, and in the courts acquiring jurisdiction under it. Our statute does not authorize the lien acquired under the laws of Pennsylvania to be enforced here, and there is no principle of common or international law which will justify sucha pretension.\u201d Yet the same court, in Finney vs. The steam boat Fayette, 10 Missouri, 619, not appearing to take any distinction between a domestic and foreign judgment, accord.ed to a proceeding in Illinois, under a like statute of that State, for the attachment of boats and vessels, the conclusive and uni\u2022versal obligation of an admiralty sentence in rem.\nIn Frink vs. King, 3 Scam. 150, it was held that, under their statute, the affidavit to obtain process would be clearly defective, jf it did not state that the claimant\u2019s services on the boat had been rendered whilst she was running in the navigable waters of fhat State.,\nIn Louisiana, as would appear from the case of Lee vs. His creditors, 2 Annual Rep. 599, the privilege or lien on boats owned, or coming within the jurisdiction of that State, for work or materials furnished, is limited to sixty days, and in the distribution of proceeds among creditors, priorities are regulated by the law of the place where the vessel is found, disregarding privileges given by the law of the place where the contract was made, and though, as in that case, the contest was among non-resident claimants.\nThe Supreme Court of Michigan, in Robinson vs. The steam boat Red Jacket, 1 Mich. 171, decided upon the statute of that State, passed in 1839, providing for the collection of demands against boats and vessels, that it only gave a new and cumulative remedy, and as it did not give a lien on the vessel until seizure under the attachment, there was no reason why foreign creditors should not be allowed to come into the courts of Michigan and avail themselves of the remedy to assert their claims against a boat. See also, Moses vs. The steam boat Missouri, ib. 507. But under the construction of a subsequent statute, passed, in 1847, and. which gave a specific lien on vessels in favor of certain demands,, the court, were constrained, much against their views of its policy or propriety, to limit its operation to contracts made and injuries-received within that State. Bidwell vs. Whitaker, ib. 469.\nThe construction of the water craft law of Ohio has been the-occasion of much difficulty to her own courts. Notwithstanding; what was said in The steamboat Monarch vs. Finley, 10 Ohio, 384, that the law in question gives a lien upon crafts for certain, claims against them, the court, in the case of The Canal boat Huron vs. Simmons, 11 Ohio, 461, take a clear distinction betweem the statute of New York, which is a lien law, and that of Ohio,., which treats the boat as a person, and makes it responsible for all debts contracted for its use and for injuries done by its officers and crew. And in Jones vs. The steamboat Commerce, 14 Ohio, 408, it was directly decided that the statute in question gives no lien except by providing for the seizure of the craft, which binds the property and creates the lien. Although this construction made the statute nothing more than an attachment law, it could not be used as a remedy for the collection of demands or for causes of action' which accrued beyond the limits of that State, Champion vs. Juntzen, 16 Ohio, 91, Goodsell vs. The brig Lewis, ib. 178; and this, notwithstanding the supplies were furnished in Michigan, where by comity under a like statute, Ohio creditors \u25a0 might have sued.\nThe Ohio law continued to be so construed until 1848, when,, by statute its operation was extended to all cases, whether they arose within or without the territory of the State of Ohio. The schooner Aurora vs. Dobbie, 17 Ohio, 125.\nAnd yet the Supreme Court of that State, following the leaning of previous cases, decided in Prevost vs. Wilson, 17 Ohio, 359, that a mortgage upon a vessel, executed and duly registered in-New York, where she belonged, should be .postponed to demands against the vessel subsequently accrued in Ohio, where she was attached under the water craft law. And so it was held in Johnson vs. Rogers & Sherlock, 9 West. Law Journ. 88, that the statutory debts against a steamboat must be first paid in preference to a prior mortgage.\nThe court argued, that if the lien of the mortgage could take precedence over a subsequent seizure, it leads to this result, that if a steamboat or other water craft is under mortgage, no suit could be prosecuted against her, notwithstanding the provisions of the law of 1840; and to give the statute that construction would be to add to it a proviso, \u201c that such boat shall^not be encumbered by mortgage,\u201d affording the owners of boats a very convenient method of avoiding the force of the act.\nAnd in Johnson vs. Rogers & Sherlock, the court concluded that \u201c it was the object of the Legislature to enable a mechanic who labored on a boat, or any party supplying her with necessaries, to retain a lien on her superior to that even of any owner or mortgagee.\u201d Because, as the court said, he who takes a chattel mortgage on a boat may protect his mortgage if he will keep the boat in his possession, but the moment he suffers her to run on the river, he gives a license to those in charge of her to contract debts on the faith of the boat, which shall attach as a lien superior to his mortgage. This principle is of the essence of a maritime lien, anfi the court there stated the true ground on which it proceeds, that is, the implied authority of those having a vessel in charge, to make her liable to all who labor or furnish materials on the faith of the boat, without regard to her owners.\nAt the same time the Ohio statute is so unlike a maritime law that it does not purport to give any lien for the wages of mariners or boatmen, and it was not without a struggle against the strong opinion of part of the court, Lewis vs. The schooner Cleveland, 12 Ohio, 341, that they were admitted at all as claims against the vessel.\nAmidst all this apparent confusion and uncertainty, the argument, fairly stated in favor of the parties here claiming a lien under the law of Ohioj may be considered as having much, force. We find that the proceedings against boats and vessels, under the various local laws of the States, have always assimilated themselves to proceedings in admiralty. The judgment in rem, is usually held conclusive every where, upon all those interested in the boat, or having demands against her, prior to the condemnation and sale. See also, The steamboat Rover vs. Stiles, 5 Blackford, 483. Steamboat Raritan vs. Smith, 10 Missouri, 527. Where the statute gives a lien, in the nature of a maritime lien, the courts of admiralty have enforced it as such, paramount to any sale or mortgage by the owner, Peroux vs. Howard, 7 Peters 340; and in The Jerusalem 2 Gallison, 345, a local common law lien was so enforced. The schooner Marion, 1 Story 69. The rule in admiralty is adhered to, that as between claims which rank in the same class, or where no preferences are given by the statute, or -where it makes the lien to consist in the seizure, the diligent creditor who first seizes has the preference, and other claimants are to be satisfied out of the res, in the order of their suits, The People vs. The Judges of New York, 1 Wend. 40; opinion of Judge Nelson in the Globe. There would seem to be the same necessity for a law of our inland rivers as for a law of the seas. The interests involved are equally important. Steamboats are no more chattels than ships, and no less migratory between ports in jurisdictions foreign to each other.\nIn most of the leading subjects of admiralty jurisdiction, the analogies are the same, and the like reasons exist why certain liabilities should attach specifically to the vessel. It might be said, that though the Ohio statute gives no lien, it gives the claim against the vessel, and the right to seize in satisfaction of that claim; and this is the substance of a maritime lien. The rightto proceed against the res in admiralty, is called a lien, but it is by no means an absolute or unqualified right of preference. For it is a settled principle of the maritime law, though the rules on the subject rest much in discretion and are not clearly defined, that all such liens ought to be enforced by suit within a reasonable time, and they may be waived, postponed, or lost by neglect. The leading idea which pervades these local statutes is, that the boat and the owner are distinct from each other, so that the boat js liable, as it were apon her own contracts, or for her own torts. The master or owner may be liable in personam, for the same, ,and the boat may be liable for the general debts of the owner; but the boat is first liable for her own debts, which, by analogy \u2022with the maritime law, ought to follow her every where, and without regard to any sale, or incumbrance upon her by contract of the owner, into the hands of a purchaser with or without notice.\nBut admitting that the policy of the Ohio statute is to confer a lien, though it does not do so in express terms, there are opposing reasons conclusive to our minds, why such a lien should not be specifically enforced in this forum, in preference to any subsequent lien or liability,, valid by the laws of this State, which has accrued against the same vessel, whilst engaged in navigating our waters. In coming to this conclusion we are not influenced by the refusal of the Ohio courts to acknowledge a reciprocal obligation to enforce similar liens, which accrued in other States. For that matter, the amendment to the statute of Ohio in 1848, allowing foreigners to pursue in that State the remedy against boats given by her own law, is inconsistent with the idea of enforcing a specific lien which accrued under a foreign law.\nIn admiralty cases it is the nature of the contract or liability, which confers jurisdiction, without reference to the law of the country where the liability was incurred, the contract made, or to be performed; or as regards the federal courts, the citizenship of the parties. Because the admiralty law is one of universal obligation, pervading all countries where its rules are in theory at least, the same. If, therefore, the courts of this State could be called on to enforce, by analogy to the maritime law, a lien upon a boat or vessel, which accrued in Ohio, we would not do so upon any rule of comity between States, foreign, or in some respects foreign to each other. We should enforce it, not because the local law of Ohio had given the lien; but because the maritime law or usage gave it. Wo question ought to arise of conflict between the laws of this ,or a foreign State, or whether we would enforce such lien, provided it did not interfere with the rights of our own citizens, but because the lien, valid in one place, is valid every where, and followed the vessel into this State. Upon the same principle we should respect a judgment in rem, with all its conclusive consequences, pronounced in the court of an'other State. But by act of Congress, in 1845, the admiralty jurisdiction of the district courts was extended over the lakes and rivers connecting the same. The constitutionality of this act was sustained by the Supreme Court of the United States, in the case of 'The propeller Genesee Chief vs. Fitzhugh, 12 Howard, 450, a decision fraught with the most important results. The court, overruling the case of the Jefferson, held that the grant of admiralty and maritime jurisdiction was of the subject matter over public navigable waters, where commerce maybe carried on between different States or nations, and not according to the accidental defininition of it in England, where tide water and navigable water are, with unimportant exceptions, if any, synonymous terms.Upon the same distinction the States had not hesitated to extend their rights of sovereignty over inland navigable streams. The decision in 12 Howard, was the unavoidable consequence of admitting the several States to be sovereign and foreign to each other, in respect of all powers and jurisdictions, not delegated to\u2019 the Federal Union.\nIt follows from the reasoning in that case, that the judicial power of the federal courts in admiralty, heretofore dormant*\u00bb really extends over all public navigable rivers, by means of which intercourse may be carried on between different States. If this be so, it is difficult to conceive how any vestige of such jurisdiction (apart from disputes about its confines) could exist in the' State courts. The act of 1845, apparently framed as a cautious-experiment adapted to the exigencies of commerce upon the lakes,, does not confer it upon them, but only leaves to suitors the option, which they had under the judiciary act of 1789, of pursuing' any concurrent remedies that may be afforded by the State laws.But those are common law remedies, and though moulded by statute to resemble admiralty proceedings, the lien is local and the' sentence of condemnation upon it can have no more extra territorial operation than a discharge under a State bankrupt law, or a judgment in rem, upon an ordinai-y attachment suit, which, however conclusive upon persons and property found within the State, would not conclude the paramount title of any one beyond the jurisdiction, and who could not be made subject to it. In the absence of legislation by Congress, now certainly much needed, extending the admiralty jurisdiction over our western rivers, it would be unwise and impolitic for the State courts to assume any such jurisdiction, dependant on the caprice o r vicissitudes of local legislation. The decisions of the State courts, proceeding according to the course of the common law, and without any common appellate tribunal to harmonize inevitable conflicts, would only render more insecure the titles to the vast amount of property passing between different States. The owner of a vessel in such case would seldom realize its value, because the purchaser could not know whether it was free from incumbrance. The only safety is found to be in the settled aversion of the common law, which couples the idea of a lien with possession, to all restrictions, in the shape of secret or contingent liens, upon the alienation of personal property.\nChattel mortgages, where the mortgager, being entrusted with the possession, is enabled to practice a fraud upon innocent purchasers in another State, are but hazardous securities, and there would be no imperative obligation upon the foreign jurisdiction to prefer the claim of the mortgagee pursuing the property, though he come in the character of owner, having title by contract. In every view of this case, we must say, that if the Ohio claimants, now before the court, had any lien by the law of that State, it was lost when they suffered the boat to depart beyond the jurisdiction of Ohio.\nRegarding the suit as a creditor\u2019s bill, and without considering any objection to the form of it as such, the relief sought must also be denied.. Waiving any doubt as to the correctness of the decision in Main vs. Alexander, 4 Eng. 112, and conceding that Merrick & Fenno had no lien either by virtue of a mortgage recorded, or a pledge in possession, in the absence of any allegation or proof of a fraudulent combination with Fisher, his deed of mortgage to them was certainly valid and binding, as between the parties to it. The complainants seeking equity, and within the scope of the bill, could only charge Merrick & Fenno, as the trustee, or debtor of Fisher, for such residue as might remain in their hands after their admitted claims against him were satisfied.\nDecree, that the relief sought by the complainants be denied, and the bill dismissed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Puce, for the appellants.",
+      "Cummins and Bertrand, for the appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Merrick & Fenno vs. Avery, Wayne & Co.\nA material man does not waive his lien upon a vessel for supplies, &c., by taking a note and prosecuting the same to judgment and nulla bona; unless, by some additional -security obtained or other circumstance, he manifests an intention to do so.\nWhere supplies are furnished to a boat or vessel, in Ohio, which under the water\u00a7 .craft law of that State, become alien, by virtue of the right of the material man to cause the vessel to be seized and held in legal custody for the satisfaction of his demand, such lien does not attach to and follow the boat into Arkansas; nor will it be enforced in preference to a demand subsequently accruing against the boat while navigating the waters of the State.\nFrom apparent necessity, and for the want of a general maritime law, such liens or privileges, though springing out of the statutes of the different States of the Misssisippi valley, have been heretofore assimilated in many respects, to maritime liens; but there are insuperable obstacles to the enforcement of them, as maritime liens, by the State courts, proceeding according to the course of the common law, \u2014 and without any appellate tribunal to harmonize inevitable conflicts of decision.\nIt follows from the opinion of the Supreme Oourt of the United States, in the case of The Propeller Gennesse Chief vs. Fitzhugh, 12 Howard 450, that the judicial power of the Federal Courts in Admiralty, heretofore dormant, really extends over all public navigable rivers, by means of which, intercourse may be carried on between different States.\nIn the absence of legislation by Congress, extending the Admiralty jurisdiction over our western rivers, and regulating its exercise, it would be unwise and impolitic for the State Courts to assume any such jurisdiction, dependant on the caprice or vicissitudes of local legislation.\nThe only safety for the titles to the vast amount of property passing between the different States, is found to be, in adhering to the settled aversion of the common law, which couples the idea of a lien with possession, to all restrictions in the shape of secret or contingent liens upon the alienation of personalty.\nA bill of sale of a boat for advances and supplies, with a stipulation for a re-sale on payment of the claims due, is a mortgage security, and good between the parties though not recorded : And other creditors seeking in equity to charge the boat in the hands of the mortgagee, in the absence of fraud between him and the mortgagor, could only charge the mortgagee as trustee or debtor of the mortgagor, for such residue as might remain in his hands after his own claims were satisfied.\nAppeal from the Circuit Court of Pulaski county in Chancery.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nPuce, for the appellants.\nThe first question presented is, whether the complainants had a lien at all, even before they took the notes, by the law of Ohio.\nThe maritime law is, that there is a lien on a vessel for supplies furnished in a foreign port, which is enforceable in the admiralty, and every port is foreign to her which ,not in the same State to which she belongs, The Brig Nestor, 1 Sumner 73, and such lien does not require possession of the vessel. The Robert Fulton, 1 Paine 620. 9 Wheat 409. But by the common law material men have no lien on the vessel for articles furnished, and therefore in case of supplies iurnished on inland waters, they have no lien except by virtue of some express statute of the State in which the supplies are furnished. The General Smith, 4 Wheat. 438. The Schooner Marion, 1 \u2122Story 68. 14 Conn. 404. North vs. Brig Eagle, Bee 78, and the statute of Ohio does not give a lien until the arrest of the vessel. The Velocity, 3 Law. Rep.JN. S. 61.\nBut if the complainants had a lien, they waived it by taking' a note payable at a future day; Ramsey vs. Allegro, 12 Wheat. 611. The Brig Nestor, 1 Sumn. 87. The William, Money, 2 Hagg. 136. 4 Wash. G. G. R. 453. 7 Peters 344. 10 Mass. 47. 24 Pick'. 13. Bee 100. 1 Paine 577, unless the statute giving the lien authorizes the taking of a note for the supplies, &c. The Barque Chusan, 2 Story 456.\nIf the complainants had a lien, such lien did not follow the boat into this State; nor will the courts of this State enforce it as against its own citizens having subsequent liens, Story Conf. of Laws, sec. 322 b. to sec. 372. Lee vs. His Creditors, 2 Ann. Rep. 509. 5 Pet. 525. Noble vs. Steamboat St. Anthony, 12 Misso. 262. S. B. Raritan vs. Pollard, 10 Misso. 533. Goodsill vs. The Brig St. Louis, 16 Ohio 178.\nThe defendants in this case were bound under the bill of sale or agreement to run the boat, and were responsible for repairs and supplies, (15 Mass. 477. 2 Hall 1, 121. 2 Conn. 215;) and may recover back from the true owner, the amount so paid. Ring vs. Franklin, 2 Rail. 1. Weston vs. Perriman, 1 Mason 317, and therefore entitled to pay, first, out of the profits or proceeds of the boat, the amount subsequently advanced.\nIf the bill be regarded as a creditor\u2019s bill, the defendants are entitled to hold against any other creditors, all money in their hands to the full amount due them, from Fisher on any account whatever. Andrew vs. Ludlow, 5 Pick. 28. 2 Peters 675. 8 Pick. 298. 1 McCords Ch'. R. 167. 4/. C. R. 687.\nCummins and Bertrand, for the appellees.\nBy the civil law, and by the maritime law as to foreign ships, all persons who repair or fit out a ship, or advance money for that purpose, have a lien on the vessel without any express contract. Abbot on Ship. 142, 143. And such lien does not include or require any possession of the thing, The Brig Nestor, 1 Sumn. 73 ; nor is it defeated by the departure of the vessel, with or without the consent of the material man; 4 Wheat. 438. 2 Story Rep. 144. 1 Paine\u2019s C. C. R. 180; nor by taking a bond or note for the amounts Barque Ghusan, 2 Story Rep. 461. 6 J. R. 310. 1 Cow. 2901 Bee\u2019s Rep. 78, 100. 10 Mis so. 48,403. Story\u2019s Eq. sec. 1224 \u00bfpc. and notes.\nAs to domestic vessels, the lien is governed by the local law; and if that gives the lien, it will be enforced everywhere in the admiralty courts. Pensoux and others vs. Howard et al., 7 Peters 240. Schooner Marion, 1 Story R. 68. Read vs. Hull of a new brig, 1 Story Rep. 244. 1 Paine\u2019s C. C. R. 620. 1 Pet. Adm\u2019l Dec. 229. 2 Galli. 190. 10 Misso. R. 585. Finney, Lee \u00bfp Co. vs S. B. Lafayette, ib. 619. And the law of Ohio, where the supplies were furnished, clearly gives a lien upon the boat. The Canal Boat Huron vs. Simmons, 11 Ohio Rep. 458. Lewis vs. Sch. Cleveland, 12 Ohio Rep. 341. 16 Ohio 276. 15 Ohio 585. 10 Mo. Rep. 619.\nLiens of this character can always be enforced in admiralty courts; but where no such courts exist, courts of chancery will take jurisdiction and enforce them. Fletcher et al. vs. Morey, 2 Story Rep. 555.\nThe expenses incurred by the appellants in running the boat, after they obtained the possession, formed no claim against Fisher, nor were they a lien upon the boat; but the hire and income of the boat should have been applied to the payment of the mortgage debt. 2 W. Sp Min. 55. 1 S. ^ M. Ch. R. 366. 4 How. 317. 5 Eng. 411.\nAs the mortgage was not recorded, it was not valid as against other creditors of the mortgagor., Rev. Stat. ch. 110, sec. 2. Maine et al. vs. Alexander, 4 Eng. 112. 11 Shop. 311. 7 Dana 257.\nA mortgagee will not be .permitted to tack on subsequent advances or indebtedness, which the mortgage was not given to secure! 2 Cowen 293. 2 Wend. 599."
+  },
+  "file_name": "0370-01",
+  "first_page_order": 370,
+  "last_page_order": 389
+}

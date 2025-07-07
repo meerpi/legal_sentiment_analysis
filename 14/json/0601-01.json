@@ -1,0 +1,66 @@
+{
+  "id": 1862716,
+  "name": "Marlow vs. Robins, Exr.",
+  "name_abbreviation": "Marlow v. Robins",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "601",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 214,
+    "char_count": 3300,
+    "ocr_confidence": 0.486,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.3192821280314026
+    },
+    "sha256": "d21305954a95f712c2184cde6d4d9ad441ccd7e32195b88925d08421ed829a91",
+    "simhash": "1:d9b6db852e668ce0",
+    "word_count": 580
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marlow vs. Robins, Exr."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker,\ndelivered the opinion of the Court.\n'* Elijah D. Robins, in his life time, obtained a judgment before a-justice of the peace against William Marlow, and for the purpose of\u2019 having execution against the real estate of the defendant, as provided for by the statute, Dig. ch. 95, filed a transcipt of such judgment in the Circuit Court clerk\u2019s office; but before satifaction thereof was had, the plaintiff died, and his executor, John Robins,' sued out scire facias to revive the judgment in his name as such: executor! At the return term the defendant filed his plea to the jurisdiction of the Circuit Court, which plea, on motion of the plaintiff, was stricken out, and judgment rendered in favor of the plaintiff.\nIf this had been an original suit upon the contract sued upon, or upon the judgment rendered in the justice\u2019s court thereon, there can be no doubt but that the Circuit Court had no jurisdiction to hear and determine the same, because the amount in controversy is a matter of contract for some $35, a matter exclusively within the jurisdiction of a justice of the peace. But this was a proceeding under the statute to reach the real estate of the debtor to satify a judgment rendered before a competent tribunal. The transcript, when filed, had under the statute the force and effect of a judgment rendered in the Circuit Court, as well to-bind the real estate by lien, as for process and sale under it, with-no reference, however, to any adjudication upon the cause of action, because that had already been adjudicated, but solely by the aid of the process of the Circuit Court to have satisfaction of the judgment,-\nSuch being the object of the statute, such transcript when filed has the force and effect of a judgment in that court for that purpose. The object would, in cases like the present, fail unless the court has the power to keep its process alive by reviving the judgment, so as to enable the plaintiff to sue out process. It is true that, in a limited sense, a proceeding by sci. fa, is a suit upon which an issue may be formed, but that issue is substantially an -enquiry into the right of the plaintiff to have execution of the judgment, and is not an infringement upon the constitutional jurisdiction of the justices of the peace.\nThe plea of the defendant was therefore insufficient, and upon demurrer should have been so adjudged; but as a matter of practice, as settled by this court in the case of Sanger vs. State Bank, at the present term, the objection could not be reached by a motion to strike the plea from the files!\nFor this error the judgment of the Circuit Court must be reversed and the case remanded for further proceedings to be had \u00abot inconsistent with this opinion.",
+        "type": "majority",
+        "author": "Mr. Justice Walker,"
+      }
+    ],
+    "attorneys": [
+      "Bertrand, for the appellant.",
+      "Jordan, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Marlow vs. Robins, Exr.\nTbe testator obtained a judgment before a justice of the peace, and filed a transcript in the Circuit Court under the statute to obtain execution against the real estate of the debtor, and died; his executor issued sci. fa. to revive in tho Circuit Court and the defendant pleads in abatement to the jurisdiction of the court: Held, that such plea would be bad on demurrer; but could not be stricken out on motion:\nAppeal from Pulaski Circuit Court.\nHon. W. H. Feild, Circuit Judge, presiding.\nBertrand, for the appellant.\nJordan, contra."
+  },
+  "file_name": "0601-01",
+  "first_page_order": 601,
+  "last_page_order": 603
+}

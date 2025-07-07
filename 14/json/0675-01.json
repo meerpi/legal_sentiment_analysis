@@ -1,0 +1,175 @@
+{
+  "id": 1862644,
+  "name": "In the matter of the Will of Cornelius",
+  "name_abbreviation": "In re the Will of Cornelius",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "675",
+  "last_page": "687",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 675"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dev. 471",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wend. 155",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Harr. 86",
+      "category": "reporters:state",
+      "reporter": "W.W. Harr.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Watts 153",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/watts/10/0153-01"
+      ]
+    },
+    {
+      "cite": "1 Barb. 534",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Wend. 331",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ark. 486",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Wharton, 392",
+      "category": "reporters:state",
+      "reporter": "Whart.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Watts & Serg. 21",
+      "category": "reporters:state",
+      "reporter": "Watts & Serg.",
+      "case_ids": [
+        483258
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts-serg/8/0021-01"
+      ]
+    },
+    {
+      "cite": "10 Paige 89",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Ark. 380",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728170
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/13/0380-01"
+      ]
+    },
+    {
+      "cite": "10 Watts 153",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "case_ids": [
+        1850927
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/watts/10/0153-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 486",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "504"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1081,
+    "char_count": 27559,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 4.177282293840602e-07,
+      "percentile": 0.9124219211235868
+    },
+    "sha256": "46d54291c066ccda623a83d2ea5270fdd74867e1e5c10bbe996688b62d2b4707",
+    "simhash": "1:fb6ffeb0a4a8f47b",
+    "word_count": 4833
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the matter of the Will of Cornelius."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court,\nIt appears from the record in this case that on the 14th of February, 1852, the clerk of the Hempstaad Probate Court, in vacation, granted letters of administration to Jester Cornelius upon the estate of William Cornelius, deceased, and that after-wards, the last will and testament of the deceased was found, and that it was admitted to probate, and allowed as such by the clerk in vacation, on the 12th of April. At the July term, 1852, of the Probate Court, the clerk produced the will, together with the proofs taken before him in support of the same. Jester Cornelius, who was one of the executors named in the will, appeared and resisted the probate, filing various exceptions thereto. The exceptions being considered, were overruled by the court, which proceeded to adjudge that the probate of the will in question, as taken and made before the clerk in vacation, be approved and confirmed; that the letters of administration granted to the contestant be revoked, and letters testamentary issued, or in lieu thereof, letters of administration with the will annexed, in case the executors named should refuse to act. Jester Cornelius excepted to this decision and appealed to the Circuit Court, which being of opinion that there was no error appearing in the judgement of the Probate Court, affirmed the same; and from the decision of the Circuit Court he has appealed to this court.\n\"Waiving the enquiry suggested, whether any question was technically well reserved by the bill of exceptions taken by the appellant to the judgment of the Probate Court, and which the Circuit Court, under the statute, would have to determine, in order to ascertain whether the Probate Court had erred in relation to any material question of law or fact, before proceeding to try the matter denovo; and allowing to the appellant the full benefit of every objection he may have designed to make to the probate of the will, as it appears upon the record, another enquiry, and one of more general concern presents itself; and that is, whether the appellant had any right to be heard before the Probate Court, in opposition to the probate of the will, or any right to appeal from its decision, whereby that could be made available as a mode of testing the validity or invalidity of the supposed will.\nWhile that portion of the statute of wills, which prescribes the requisites of a valid will, and the formalities attending its execution, once understood and familiar to the minds of the people 'at large, ought to remain unchanged, unless for some urgent reason \u25a0of public policy, there are some other provisions relating to the proof and establishment of wills, difficult to harmonize as a system, and which would seem to need a careful revision. The \u25a0authors of the revised code of 1839, in framing this title, evidently intended to adopt the leading features of the New York Statute of 1836, while they have retained some of the provisions of the Territorial Statute of wills, with such omissions and changes as they thought proper to make.\nIn the first place wills of realty and personalty are put on the \u25a0same footing, and however proper this may be, and in accordance with the administration law, making lands assets and, under some circumstances, a primary fund in the hands of the administrator for the payment of debts, it might be difficult to determine, upon the whole statute, what effect is intended to be given to the probate of a will as evidence, prima facie or conclusive, as a muniment of title, or upon creditors, legatees, or fieirs, who may, upon various contingencies, be interested in the estate. It is made the duty of the clerk in vacation, as well as cf the.Probate Coui\u2019t, when informed of the existence of a will, to issue process to compel its production in order that it may be probated. The clerk is required to take proof of any will, and grant a certificate of probate, or a certificate of rejection; a judicial function, falling so clearly within the principle adjudged in Kennedy ex parte, 6 Eng. 598, holding that a master in chancery cannot issue a writ of injunction, and Scoggin vs. Taylor, 13 Ark. 380, that no power could be conferred upon the same officer to issue a writ of ne exeat, that if these cases are adhered to, so much of the statute would be unconstitutional, were it not for the further provision, that the act of the clerk, in pursuance of the power conferred on him by the statute, is \u201csubject to the rejection of the court;\u201d by which we understand it to be the duty of the Probate Court, in all cases, to confirm or set aside the proceedings had before the clerk, whose authority is temporarily executed for the immediate preservation of the estate, and who acts ministerially in certifying the evidence, and preparing the subject matter for the adjudication of the court in term time.\nThe constitution indicates the court of probate as the proper forum, where provision should be made by law, for the determination of all controversies respecting the validity of wills, with the right of appeal as in other cases. No good reason is perceived why this should not be so : and in this country, where all courts are statutory, there is no foundation for jealousy between common law and chancery or ecclesiastical jurisdiction, nor is-there any substantial reason, in the supposed superiority of the landed interest, for excluding the salutary jurisdiction of chancery, in cases proper for its interposition, by making the validity of wills affecting real estate triable only at law. Yet the statute, Digest, Title, Wills, sec 32, et seq., contemplates an issue, upon-petition in the Circuit Court, to be tried by a jury, and treated as a common law proceeding, as the proper, if not the only conclusive mode available to any person interested, for establishing or' rejecting any will, which had been previously rejected or established by the court of probate; while at the same time the proceedings before the Probate Court, as well as its clerk in vacation, appear to be summary and ex parte; nor did the original re-visors of the statutes make any provision for an appeal from the\" decision of the Probate Court, in establishing or rejecting a will.It is true, by sec. 176, Title, Administration, appeals are allowed1 from all orders revoking letters testamentary or of administration, but that obviously relates to cases where the executor or administrator may be removed for alleged misconduct and the like,- and could hardly be construed to include a case like the present,, where the accidental circumstance exists, that the appellant having been appointed administrator, as in cases of intestacy, was' necessarily superseded by the establishment of a will brought to-' the notice of the Probate Court.\nBut by an- amendatory statute, passed January 4th, 1849, it was enacted that, \u201cappeals shall be granted from any final order,judgment or decree of the Probate Courts of this State, to the appropriate Circuit Courts, in the same manner as they are now' allowed in certain cases from the Probate Court.\u201d Though very much in doubt, whether this act was intended to include decisions of the Probate Court in admitting or rejecting a will, in cases where those classes of persons, whom the law would presume to be adversely interested, had not been summoned or notified, and were not necessarily before the court, or bound by the adjudication, as a proceeding in rem, yet such an exception would not be warranted by the explicit and comprehensive language used: and the conclusion is inevitable, that the appellant had the right to appeal from the decision of the Probate Court, establishing the will, and consequently the right to be heard there in opposition to it. Though possibly as the law now stands, this result might follow: that an unbidden suitor in the Probate Court, would be concluded by the adjudication, to which he had chosen to make himself a party, should he afterwards attempt to assert the validity or invalidity of the same will by an independent proceeding before the Circuit Court.\nThe appellant made the objection in the Probate Court, and is entitled to have it considered here, to so much of the testimony as appeared to be in response to leading interrogatories put by the clerk, who took the proof of the will. The two subscribing witnesses appeared before the clerk, who caused their testimony to be reduced to writing, signed by them, and which he certified in accordance with the statute. To one of those witnesses he propounded certain interrogatories, some of which are clearly leading. However improper such a mode of examination may be, even when conducted by a disinterested officer, in the discharge of his duty, and objectionable unless the leading questions are explanatory, or allowed, in the discretion of the court or officer, to be put to a reluctant witness, the objection made here is not available to the appellant, because the testimony of the other witness, given in the form of a statement, and to whom the interrogatories do not appear to have been addressed, is full and conclusive as to all the points relied on to establish the will, and corroborative also of the witness, who responded to interrogatories.\nIt is also insisted for the appellant that the will is invalid, because it was not signed in the testator\u2019s presence; and numerous authorities are cited in support of what would be a very plain proposition under the statute of 29th of Charles II. The facts are, in this case, that after the testator made his mark, the two attesting witnesses walked out into the gallery, or entry as one of them calls it; and signed their names as witnesses, and which, as they state, was done merely for convenience. It does not appear whether the testator could have seen them if he had desired to do so. However desirable it might always be, when practicable, to have the attestation of a will completed by the signatures of the witnesses in the presence of the testator, it is not necessary to its validity under the statute of 1839, as held in Rogers vs. Diamond, 13 Ark. 486. And as both of the witnesses appeared in person before the clerk, there is no place for the strained application of the inconsistent sections 19 and 20, of the statute, which seem to require that where a subscribing witness is unable to attend, or lives abroad, his deposition, if taken under a commission, must state certain things, and among them that the deponent subscribed his name to the will as a witness, in the presence of the testator.\nThe identity of the will prepared according to instructions given by the testator, the bona fide execution and attestation of it within the terms of the statute, are fully proved, unless it is to be held invalid, because of the remaining objection, which we now proceed to consider. At the end of the will, the- subscription and attestation are as follows: \u201cSigned in Hempstead county Arkansas, date above written.\nhis\nWM. j*j CORNELIUS, mark.\nSigned in the presence of us, and we witness the same in the presence of each other date first written.\nJ. H. NELSON,\nE: W. MATHEWS.\u201d\nThe proof is, that the will was prepared by one William Elk-ins, who, when it came to be executed, wrote the name of the testator, William Cornelius, at the end of the will for him, at his request, and the testator signed the same by making his mark, as appears on the face of the will. The language of the statute sec-. 4, is that every will \u201cmust be subscribed by the testator at the end of the will, or by some person for him, at his request.\u201d The succeeding section 5, is as follows: \u201cEvery person, who shall sign the testator\u2019s name to any will, by his direction-, shall- write his own name as a witness to such will, and state that he signed -the testator\u2019s name at his request.\u201d The first clause quoted seems to have been retained from the Territorial Statute, Steele & McCamp. Dig. Title, Winns, sec. 1, which required the will to-be signed by the testator, or by some other person in his presence and by his direction; while section 5 is taken.from the New York Statute, before referred to, which, without any express provision, that the testator\u2019s name may be signed for him.-by another person, implies that in case of a will, as in other acts-, what is done by the direction of the testator is done by him, inasmuch as it provides, that \u201cthe witnesses to any will shall write opposite to their names, their respective places of residence; and every person, who shall sign the testator\u2019s name to any will by his direction, shall write his own name as a witness to the will. Whoever shall neglect to comply with either of these provisions, shall forfeit fifty dollars,\u201d &c. But such omission shall not affect the-validity of any will-; nor shall any person, liable to the penalty aforesaid, be excluded or incapacitated on that account, from testifying respecting the execution of such will.\u201d The entire section quoted explains itself; but the partial, and, we had almost said, inconsiderate adoption of it in- our statute has a very different effect: and there is no room to doubt, that where another person signs the testator\u2019s name by his direction, the will is invalid unless such person shall also write his own name as a witness: in other words, the requirement of the statute, that the witness in such case shall also write his own name, is not merely directory, to secure better evidence of the due execution of the will, but is a necessary ingredient of the attestation itself. Where this requirement is wanting, the paper not being holographic, might perhaps., under certain circumstances, he established as a nuncupative will, but for all other purposes, it would be an attempt at testamentary disposition, the same as a paper without any subscribing witness, though in fact executed and published, animo tcslandi, in the presence of witnesses.\nThe enquiry, then, is whether this is a case within the meaning of the statute, where another person has signed the testator\u2019s .name to the will by his direction; or whether the testator, by making his mark, did subscribe the will, so as to dispense with the attesting signature of the person by whom the testator\u2019s name was written. And in view of the peculiar phraseology and context of the statute, requiring, as it does, but two witnesses, making acknowledgment by the testator equivalent to subscription, dispensing with the ceremony of simultaneous attestation by both witnesses at the time of subscription or acknowledgment or a subscription by either witness in the presence, actual or constructive, of the testator, it must be conceded that the intention, to be gathered from it, is doubtful. The argument, on the one hand, is that the power of testamentary departure from the usual and equitable course of descents and distributions, and which incites fraud by its unavoidable association with unpaired judgment and enfeebled will of the testator, ought to be strictly pursued. And we are warned, by the successive deviations, tolerated and afterwards regretted by eminent judges, from the statute of Chas. 2, and which could only have been allowed by construit4g the statute to mean, that it was not so much the will or paper itself that was to be attested, but the act of the testator in executing and publishing it as his will, to adhere to what seems to be the policy indicated in the changes made by our own statute.\nIt is clear, from the statute, that where the testator does not bimself subscribe the will, the formal attestation of the person who signs his name for him is required. In this mode illiterate persons could execute a will; and the decision here must be in favor of the appellant if the statute thereby intended to exclude subscription by means of a mark, and to insure the identity of the will by preserving evidence of hand writing, either that of the testator, or of the person who signed for him.\nBut we cannot t\u00edonclude that such was the intention of the statute; and for the reasons following must hold this will to be sufficiently executed. It is to be presumed that our statute was enacted with a knowledge of the statute of 29 of Car. 2, and the construction put upon it in England, and by the courts of this country upon similar statutes, as adopted in the several States. Under that statute, which authorized the will to be signed by the devisor, or by some other person in his presence, and by his direction, it has been uniformly held that a signature of the devisor by making his mark, is good. And it was not so held because that was the only mode in which ignorant persons, otherwise capable of devising, could sign. There might be an obvious propriety in allowing a devisor, exhausted by sickness, to sign by a mark. In Baker vs. Denning, 8 Adol. & Ellis, 94, where the question was, for the first time, made in England, whether a de visor, who could write, might sign by his mark, from .choice, and without any apparent necessity for doing so, it was held to be a sufficient signing, though with some hesitation. Mr. Justice Patterson, however, said, \u201cIf it be once conceded that a mark by way of signature, is a signing within the act, it is too much to say that in every particular case, we are to enquire minutely into the ability of the party to write his name. It would be inconvenient to enter into such a question, and there is always the attestation: so that when a mark appears, there are means of enquiring into the circumstances; and the enquiry in such a case is, of course, more close than in ordinary cases. But I am not prepared to say, that a man may not, at any time, sign by merely putting his mark, whether he can write his name or not.\u201d So, the attestation by the mark or initials of a subscribing witness was held good in Harrison vs. Harrison, 8 Vesey J. 185. Addy vs Grix, id. 504. Notwithstanding what Lord Hardwick said in Grayson vs. Atkinson, 2 Vesey sen. 459, that the statute requiring the will to be signed undoubtedly meant some evidence to arise from hand writing, there seems to be no adjudged case in England under the statute, that a will may not be made or attested by persons, who do not write their names, and he was there speaking of signing in opposition to sealing. It is true that Mr. Justice Washington, in the case of Stevens vs. Vancleve, 4 Wash. Ct. Ct. 269, arising upon the New Jersey Statute, which required the will to be signed by the testator, omitting the words, \u201cor some other person in his presence and by his express direction,\u201d argues in favor of a mark being a good subscription by a testator; because the statute could not have intended to deny the privilege of making a will, to those who from accident, disease or want of education, could not write. And the argument may be good for that purpose, without leaving it to be inferred that the testator must write his name in all cases, where he may be able to do sol The recent English statute of 1839, applying to real and personal estate, does not differ materially from that of 29 of Car. 2, and the interpretations put upon it, except in these particulars; that it must be signed by the testator at the foot or end, and that such signature, or the testator\u2019s acknowledgment of it shall be made before two or more witnesses present at the same time. Under this statute also it has not been doubted that a signature by initials or mark of the testator would be good. In the goods of Savory, 6 Eng. Law. & Eq. 583. In re Field, 3 Curteis, 752. In re Bryce, 2 ib. 225.\nAdmitting the marked difference between this feature of the New York Statute and our own, the one being directory and the other imperative, still the cases in New York are authority upon the point involved; that is, when the testator\u2019s name is written and he makes his mark \u2014 is that a subscription by him, or a signature for him by another person? Our statute evidently uses the words, subscription and signing at the end as synonymous. In Chaffee vs. Baptist, Miss. Con. 10 Paige 89, Chancellor Walworth did not hesitate to say that the testator might subscribe by making his mark, and it was not necessary that he should be able to write his name, though the statute also recognized the mode of the testator\u2019s name being subscribed for him by his direction. In Butler vs. Benson, 1 Barb. Sup. Ct. Rep. 533, the court, in giving a summary of their statute, say: \u201cThe testator must subscribe his name at the end of the will, which may be by his autograh, or by his mark, or if he is unable to write, by another in his presence and by his express directions.\u201d\nOur statute, which undertakes to remedy some of the evils growing out of the decisions under the statute of Charles 2, by requiring subscription at the end of the will, and publication or some declaration by the testator, at the time of subscription or acknowledgment, of his knowledge of the testamentary character of the instrument, and an attestation by witnesses at his request, as an equivalent for the security afforded by their attestation in his presence, or according to the late English Statute, their simultaneous attestation, does not in other respects differ from it. It allows the testator to subscribe by another person for him at his request. There is no indication in it, that a testator, who from ignorance or physical inability is unable to write his name, or from choice, may not well subscribe by making his mark or his initials, which is vouched for by the attestation of the witnesses, sufficiently clear to change the rule of law as heretofore understood. And we think we are giving full effect to the 5th section above quoted, by holding that when the testator\u2019s name is signed to a will by his direction, and he does nothing more, thereby adopting such signature as his subscription, in such case the person, so signing for the testator, must also write his own name as a witness, and state that he signed the testator\u2019s name at his request, and that it ought not to apply to a case where the testator does himself sign though by making his mark.\nAn examination of the cases cited for the appellant, from the Pennsylvania reports, satisfies us that they can have no decisive bearing upon this question. In that State the abuses and uncertainties of the construcci\u00f3n of their previous law\u2019s concerning wills, induced a change by act of 1833, requiring \u201cthat every will shall be in writing, and unless the person making the same shall be prevented by the extremity of his last sickness, shall be signed by him at the end thereof, or by some person in his presence and by his expiess direction; and in all cases, shall be proved by the oaths or affirmations of two or more competent witnesses, otherwise such will shall be of no effect.\u201d The decisions in Dunlop vs. Dunlop, 10 Watts, 153. Cavett's Appeal, 8 Watts & Serg. 21, and Gabrill vs. Barr, 5 Pa. State Rep. 441, to the effect that the testator must sign his name to the wii], unless proved by two witnesses that he was prevented from doing so by the extremity of his sickness, and that the mark of the testator will not suffice, the only substitute for his name, written by himself, being the writing of it by some person at his request, which must also.be proved by two witnesses, are in harmony with the statute. And in that State, where the witnesses are required by the statute to attest the execution of the will, but are not required to subscribe it, and never were, Stricker vs. Groves, 5 Wharton, 392, it is not surprising that the courts should defend the policy of the statute, by insisting upon the security of the better evidence intended to be preserved by the autograph signature of the testator, in all cases where it would have been possible to procure it.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Pike Sf Cummins, for the appellant.",
+      "Curran & Gallagher, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "In the matter of the Will of Cornelius.\nThe.person to whom administration has been granted on the estate of a deceased person, has the right to be heard in the Probate Court upon proceedings .to establish the validity of a will subsequently produced; and if the decision of the Probate Court be in favor of the validity of the will, to appeal to the Circuit Court, under the act of 4th of January, 1849.\nHowever improper it may be, on the part of the court or officer, to put leading interrogatories to the subscribing witness to a will, and objectionable, unless the leading questions be explanatory, or allowed, in the-discretion of the court or .officer, to be put to an unwilling witness, an objection for such cause will not avail where the testimony of the other witness, given as a statement of facts, is full and conclusive as to all the points relied on to establish the will, and corroberative of the witness who responded to interrogatories.\nThe decision in Rodgers vs. Diamond, 13 Ark. 486, confirmed; that it is not necessary, under the statute of 1839, to the validily of a will, that the attestation of the subscribing witness, if he proves the will in court or before its officer, should have been made in the presence or within view of the testator.\nWhen a testator\u2019s name is signed to a will by his direction, and he does nothing more, thereby adopting such signature as his subscription, the person so signing for the testator must, under sec. 5, ch. 170, Dig. also, write his own name as .a witness and state that he signed the testator\u2019s name at his request; but such \u25a0does not apply to a case where the testator signs himself though by making his mark.\nAppeal from Hempstead Circuit Court,\nThe Hon- Shelton Watson, Circuit Judge, presiding.\nPike Sf Cummins, for the appellant.\nSeveral of the interrogations put to the witness, Nelson, are leading, Clark's ad. vs. Moss, 740; and it is error. Rogers vs. Diamond's exr. 13 Ark.\nThe requisitions of the statute ol wills must be complied with, {ch. 170, Rev. Stat.); or no will can exist. Rogers vs. Diamond, 13 Ark. Remson vs. Brinkerlioff, 26 Wend. 331. Butler vs. RemAon, 1 Barb. 534.\nSec. 5, ch. 170, Rev. St,, requires that the person who signs the will for the testator, must sign as witness; and sec. 4 requires, such subscription by testator, or some one for him at his request.\nA mark by testator furnishes no means of identifying the will. Jackson vs. Van Dusen, 5 J. R. 154. Grayson vs. Atkinson, 2 Yes. sen. 458. Smith vs: Evans, 1 Wils. 313. Ellis vs. Smith, 1 Ves. jun. 11. Wright vs. Wakeford, 17 Ves. 458. And hence the statute intends the substitute, the signature and hand writing of the witness, as a means of identification.\nIn this case, the person who signed the will for the testator is not a witness: that this is a fatal departure from the statute, see Grahill vs. Barr, 5 Barr\u2019s Rep. 445. Dunlop vs. Dunlop, 10 Watts 153. Canett\u2019s appeal, 8 Walls Serg. 21. Den vs. Matlock, 2 Harr. 86.\nNo one but a party in interest can have a will probated. En loe vs. Sherill, 6 Iredell, 212.\nCurran & Gallagher, contra,\ncontended that it was no error in the clerk, a disinterested officer, in propounding leading questions to the witness: the case being different from that of an interested party who produces a witness and endeavors to put words into his mouth.\nThat it was the duty of the clerk to have the will probated, and it was immaterial who produced the will for probate: sec. 56, ch. 170, Dig.\nThat the signature of the testator by his ruarle was a sufficient signing. Jackson ex dem. vs. Van Dusen etal. 5 J. R. 144. Dun-lop vs. Dunlop,' 10 Wend. 155. That a mark is a sufficient signature. 1 Greenl. Ev. 350. sec. 272. 8 Aid. Ellis, 94. 5 J. R. 144. 1 Dev. 471. 2 Greenl. Ev. sec. 677."
+  },
+  "file_name": "0675-01",
+  "first_page_order": 675,
+  "last_page_order": 687
+}

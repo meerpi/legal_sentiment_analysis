@@ -1,0 +1,225 @@
+{
+  "id": 1862670,
+  "name": "Conway vs. Ellison; Ellison vs. Conway",
+  "name_abbreviation": "Conway v. Ellison",
+  "decision_date": "1852-01",
+  "docket_number": "",
+  "first_page": "360",
+  "last_page": "368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 360"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Leigh 96",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        4445455
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/28/0041-01"
+      ]
+    },
+    {
+      "cite": "1 J. J. Marsh. 470",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "case_ids": [
+        5543210
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/24/0470-01"
+      ]
+    },
+    {
+      "cite": "7 Johns. 297",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Hayw. 342",
+      "category": "reporters:state",
+      "reporter": "Hayw.",
+      "case_ids": [
+        11983418,
+        11983494
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/3/0342-01",
+        "/nc/3/0342-02"
+      ]
+    },
+    {
+      "cite": "4 Munf. 130",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        4442733
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/18/0057-01"
+      ]
+    },
+    {
+      "cite": "4 Munf. 469",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        4442378
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/18/0227-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728492
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/1/0186-01"
+      ]
+    },
+    {
+      "cite": "1 A. K. Marsh. 313",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "case_ids": [
+        6425116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/8/0313-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 653",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 John. 559",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "pin_cites": [
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Wheat. 527",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Ala. 571",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        11257064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/2/0571-01"
+      ]
+    },
+    {
+      "cite": "2 McLean 59",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "case_ids": [
+        6601909
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/23/0389-01"
+      ]
+    },
+    {
+      "cite": "10 Peters 468",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "pin_cites": [
+        {
+          "page": "475"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Peters 162",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 853,
+    "char_count": 16229,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 5.791685910870166e-07,
+      "percentile": 0.951126494247348
+    },
+    "sha256": "2bb98ba5032b3233fd9b72cd1d6786d65d6582f385d0d6189e30c7bfa0920647",
+    "simhash": "1:2f0587c79dfb1fad",
+    "word_count": 2896
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting in this case."
+    ],
+    "parties": [
+      "Conway vs. Ellison. Ellison vs. Conway."
+    ],
+    "opinions": [
+      {
+        "text": "Hon. S. H. Hempstead, Special Judge,\ndelivered the opinion of the Court.\nThis bill was filed by Conway, to enjoin proceedings on a judgment at law, obtained by Ellison against him in the State of Tennessee, on the 24th January, 1846, upon personal service of process. After stating that he had been appointed guardian of George M. Gray, who was a brother-law of the defendant, had sent him to Nashville, to perfect and complete his education, and paid all the expenses and charges attending the same, which were allowed him in the settlement of his accounts, had ceased to be guardian on the 13th of January, 1842, on the ward\u2019s reaching the age of twenty-one, and had turned over to the ward his property, the complainant alleged, in substance, that he never had any transactions with, nor did he ever owe Ellison anything individually; that in 1840 the defendant wrote one or two letters to the complainant, claiming compensation for the board of George M. Gray, to the amount of about forty dollars, to which the complainant replied by letter, that he expected to receive a large sum of money for the use of his ward, and if the account was sent duly probated, he would pay it out of his own funds: that in 1843 Ellison visited Hempstead county, where complainant resided, and saw him on many occasions, but that no claim was prefered or mentioned by Ellison, and complainant supposed that it had been adjusted by Gray, and gave himself no concern about it; that in October, 1845, the complainant visited Nashville, Tennessee, and was there served with a writ requiring him to answer said Ellison to a plea of debt, and in which writ the complainant was described to be \u201cGuardian of George M. Gray;\u201d that he consulted an eminent lawyer in Nashville, and truly represented to him all the material facts of the case, who assured the complainant that the action could not be maintained nor a recovery had, without proof that he was still guardian of Gray, and the attorney pledged himself to attend to and defend the action; and see that the necessary proof was adduced to defeat it, in the event there should be no failure of evidence on the part of the plaintiff; that knowing that the claim was unfounded and never could be proven, and relying on his attorney to defeat the suit at the trial, he gave no further attention to it, and heard nothing more from it until 1849, when an action was brought on the judgment, which appeared to have been rendered for $174 debt, and $53 damages and costs; that his attorney, \u201ceither by fraud and collusion with said Ellison, or from some unaccountable conduct,\u201d failed to appear and defend the suit as he had promised to do, and judgment was rendered against the complainant by default, without the intervention of a jury, or the production of any evidence whatever to establish the demand.\nThe defendant answered, denying the material allegations\u2019\u2122 the bill, and claimed the benefit of the judgment, and also set up in the answer that the defence, if available, should have been made at law, and that a court of equity had no jurisdiction to grant the relief prayed for in the bill.\n1. The judgment of a court of another State can only be impeached for want of jurisdiction over the subject matter or person, or on the ground of fraud, and hence it is not competent for the court, where the remedy is sought, to inquire into mere irregularities, such as whether judgment was pronounced with or without a jury; or evidence was or was not adduced, or matters of a like nature; because it must be manifest, that to tolerate such objections, would be in effect to exercise a revisory power over the judgment in a collateral proceeding, and thus destroy its validity; The judgment itself closes the door to such defects, and hence if the imputed irregularities and errors in the bill had been proved, still they could have no effect whatever in the decision of this cause, 2 Peters 162. 10 Peters 468, 475. 2 McLean 59.\nThere is but one allegation which approaches towards laying a foundation for relief, and that is a general one, insinuating fraud and collusion between the attorney and Ellison, to obtain the judgment. It is not a direct charge of fraud, since it was made alternatively, and coupled with an allegation of \u201cunaccountable conduct\u201d in the attorney, the meaning of which is not defined, nor are we informed of what precise acts it consisted, or by what standard to be measured.\nAs fraud is never to be presumed, it follows that, where it is relied as a ground of relief, the facts and circumstances constituting the fraud, must be stated in the bill with distinctness and precision, so that an issue will be formed which may apprize both parties of proof proper to be taken. Kennedy vs. Kennedy, 2 Ala. 571. Penderton vs. Galloway, 9 Ham. 178. Pleadings in equity and at law are designed to apprize parties and the court of the material facts on which the asserted right depends, and to invoke attention to the points to which testimony should be directed, Crockett vs. Lee, 7 Wheat. 527. Necessity imposes it as a duty, and justice requires that the decree in all cases should conform to the allegations and proofs, and indeed, the relaxation of these rules to any great extent would be productive of confusion, uncertainty and injustice. This doctrine was in effect recognized in Blakeney vs. Ferguson, 3 Eng. 276, and is not only entirely conformable to reason, but amply supported by the best authorities. James vs. McKennon, 6 John. 559, 564. Cresset vs. Milton, 1 Ves.jr. 449. 3 Wend. 653.\nWhatever is essential to the rights of the complainant and within his knowledge ought to be alleged with such degree of certainty, as to give the defendant full information of the case he is called on to answer; or on his failure to appear and defend, that the court may decree on the face of the bill in favor of the Complainant, 1 Daniell\u2019s Ch. Pr. 411, 421. Story Eq. Pl. 28. The same precision of statement is neither required or attainable in equity as in pleadings at law, but the meaning of the rule is, that the substantial grounds of relief must be stated with such general certainty and precision, as to apprize the defendant of the tz\u2019ue zzature of the case, and the points to which testiznony should be applied; and justice demands that in all cases, the rule should be observed. It is plain that the allegation in the bill lacks the requisite certainty in the matter of the fraud, but even if it was sufficient, no proof whatever was taken or ofiered, either express or circumstantial, to sustain it; nor was it even proved that counsel had been l\u2019etained at all. There can be no imputation more sezious or grievous against an attorney than that by fraud or collusion with his adversaiy, he suffered azi unjust judgment to be obtained against his client, and it should not only be distinctly charged and cleai'ly pi-oved, but one so regardless of the duties and forgetful of the obligations of a high and honorable profession should be promptly stricken from its rolls.\nIf the complainant was zzot indebted to the defendazzt, it was a strictly legal defezzce, and should have been made in the suit at law in Tennessee. Dewees vs. Richardson, 1 A. K. Marsh. 313. He was bound to make it at law, and could have no relief in equity unless he shows that he was prevented from doing so, by accident, surprise or mistake, or by the fraud of the opposite party, without his own fault or negligence. Andrews vs. Fenter, 1 Ark. 186. Hempstead vs. Watkins, 1 Eng. 356. Lansing vs. Eddy, 1 Johns. Ch. R. 51. Duncan vs. Lyon, 3 Johns. Ch. R. 351. Foster vs. Wood, 6 Johns. Ch. R. 89. This rule has. been too often recognized and enforced in this court to need further demonstration. It is true that where courts of law and equity have concurrent jurisdiction, a party may make his election as to the tribunal in which he will bring forward his defence. If he prefers submitting it to a court of chancery, he must neither make nor attempt a defence at law; because the tribunal to which he first submits himself, must of necessity determine the matter conclusively between the parties. Bently vs. Dillard, 1 Eng 84 Hempstead vs. Watkins, 1 Eng. 356. And this doctiine waB re* affirmed in Arrington vs. Washington, decided at July term 1853, by this court, and in which case it was held that the inquiry in such cases was, not what kind of defence was made, but whether a defence atlaw was attempted at all, and if so he was precluded from coming into chancery. The rule does not apply, where the defence offered is of an equitable nature, and could notbe made at law, because in that case there is but one tribunal competent to afford relief. Hawkins vs. Depreist, 4 Munf. 469. Saunders vs. Marshall, 4 Hen. & Munf. 459. Spencer vs. Wilson, 4 Munf. 130. Fish vs. Lane, 2 Hayw. 342.\nAnd it is quite immaterial whether the party defends at law or not; for in either event, he is not barred from asserting his right in equity, as to his eqitable defence, by which expression is intended a defence not available at law in any contingency whatever. But the defence set forth in the bill was not of that character. It was purely legal, unaccompanied by equitable circumstances, and no sufficient excuse has been stated to show why it was not made in the suit in Tennessee. The complainant was not ignorant of the facts on which the defence rested, for he avers that he communicated them fully to his counsel, and was informed by the latter that the action could notbe maintained, and he chose to rest easy on that advice. No accident is pretended to have prevented it, and fraud and collusion are distinctly denied and not proved. The claim for relief is narrowed down to the common case of a person, who having a strict legal defence, neglects to make it at law, and thus forever loses its benefit. Even if a retainer had been proved and gross' negligence in the counsel, unaccompanied by fraud, or unfairness, still to attempt to relieve from its consequences would be to venture into a vast ocean of litigation without chart or compass to guide us. It would, in fact, amount to an extension of privileges to one class of persons, which are denied to others, thus destroying that equality which is the boast of a court of equity, and should never be lost sight of in its decisions and decrees.\nThe injured party, however, is not without redress; since the attorney is responsible in a civil action for damages, arising from negligence and inattention to the interests of the client. Denton vs. Noyes, 7 Johns. 297.\nIt was said correctly and pertinently, in Barrow vs. Jones, 1 J. J. Marsh. 470, that \u201c courts cannot give redress against the other party tQ the suit, but it? must be sought in a new action. And in Lawson vs. Bettison, 7 Eng. 417, this court held that where a party employed an attorney at law, either to prosecute or defend his suit in the courts of the country, he presents him to the opposite party and to the world as his accredited agent, and as such he must be concluded by his acts or omissions where no fraud or unfairness is made to appear. The bill, taking every statement on that subject to be true, fails to show due diligence on the part of the complainant; but, on the contrary, evinces that he gave himself no concern about the suit, and never attempted to furnish evidence, if any existed, to prevent a recovery, and certainly that was not the duty of the attorney. It is a cardinal rule in equity, commended by its good sense, that no man can be relieved from the consequence of negligence, carelessness or inattention; because to do that would be to make litigation endless, rob the vigilant of their advantages, and overwhelm courts of equity by the pressing multitude of slothful suitors. In their organization courts of equity are properly and necessarily vested with a large discretion, but still it is a discretion depending on established arid well defined principles, and in every view of the subject, it is clear that the complainant was not entitled to the relief prayed for in his bill, and the same should have been dismissed.\nUnless in aid of a suit at law, no injunction should be granted where the applicant for it does not submit to a judgment at law, or as it is technically termed \u2014 confesses judgment. Matthews vs. Douglass, Cooke 136. Nelson vs Owen, 3 Iredell Ch R. 178. The reason is, that if he does not succeed in equity, he might still go on and defend at law, prosecute a writ of error, or take an appeal and thus unreasonably delay his adversary in the obtainment of his rights. 1 Madd. Ch. 132, 1 Vernon 120. No person can be allowed to litigate at law and in chancery at the same time, as to the same subject matter, and an election to resort to the latter forum, lias the effect of closing the door of the former to him, so far that if he fails his adversary may, without further litigation, avail himself of his recovery at law by means of an execution.\nWhen an action has been commenced, Lord Roslyn said a plaintiff must be permitted to go on to trial and judgment, and that the injunction only stayed execution. Franco vs. Franco, 2 Cox 420. Eden lays down this rule, that \u201cthe plaintiff may proceed so far as to be able to take out execution the instant that the injunction is dissolved.\u201d Eden on Injunctions 97. Therefore after an interlocutory judgment, as by default or a demurrer, the plaintiff at law may go on to ascertain his damages, 3 P. Wms. 147. Daniell adopting the language of Eden, says that after the commencement of a suit at law, the plaintiff may proceed so far that he may be in a situation immediately on the dissolution of the injunction, to take out execution. 3 Daniell's Ch. Pr. 1819. In Warwick vs. Norvale, 1 Leigh 96, it was expressly decided that an injunction can only be granted on condition that the defendant confesses judgment at law, and if a party refuses to submit to such judgment, the injunction will be denied, or if one has been granted it may for such cause be dissolved. And this is not a rule of practice to be changed or modified at pleasure, or to be enforced or not, as the chancellor shall think fit \u00bf but it is one resting on ancient and well defined principles of justice and equity, and having in view the suppression of litigation and the preservation of the just rights of the adverse party. Ham vs. Schuyler, 2 Johns. Ch. R. 140.\nAs far as the record indicates in this case, the proceedings at law seem to have been arrested at the commencement, and no judgment to have been confessed at law, and if that is the fact the defendant is now entitled to judgment for his demand. If judgment was rendered he is entitled to execute it without further delay.\nThe decree must be reversed and the cause remanded with directions to dissolve the injuction with damages according to the statute, that the defendant be allowed to proceed at law, and the bill be dismissed at the costs of the complainant.\nWatkins, C. J., not sitting in this case.",
+        "type": "majority",
+        "author": "Hon. S. H. Hempstead, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Pike <& Cummins, for Conway.",
+      "Watkins & Curran, for Ellison."
+    ],
+    "corrections": "",
+    "head_matter": "Conway vs. Ellison. Ellison vs. Conway.\nThe judgment of the court of another State can only be impeached for want of jurisdiction over the subject matter, or person, or on the ground of fraud, and not for any irregularities.\nWhen fraud is relied on as a ground of relief, the facts and circumstances constituting the fraud, must he stated in the bill with distinctness and precision, so as to apprize the defendant of the true matter of the case, and the points to which testimony should be supplied.\nA strictly legal defence must he made at law; if the party fails to make it there, he cannot come into a court of equity for relief, unless he shows that he was prevented from doing so by accident, surprise or mistake, or by the fraud of the opposite party, without his own fault or negligence.\nUnless in aid of a suit at law no injunction should he granted where the applicant for it does not submit to judgment; as he cannot he allowed to litigate at law and in chancery at the same time as to .the same subject matter.\nAppeals from Hempstead Circuit Court in Chancery.\nThe Hon John Quillin, Circuit Judge, presiding.\nPike <& Cummins, for Conway.\nWatkins & Curran, for Ellison.\nArgued and submitted at the January term, 1852."
+  },
+  "file_name": "0360-01",
+  "first_page_order": 360,
+  "last_page_order": 368
+}

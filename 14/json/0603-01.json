@@ -1,0 +1,404 @@
+{
+  "id": 1862641,
+  "name": "Cox, et al. vs. Morrow",
+  "name_abbreviation": "Cox v. Morrow",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "603",
+  "last_page": "620",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Call, 447",
+      "category": "reporters:state",
+      "reporter": "Call",
+      "case_ids": [
+        6716421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/6/0369-01"
+      ]
+    },
+    {
+      "cite": "3 Litt. 276",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Stew. 375",
+      "category": "reporters:state",
+      "reporter": "Stew.",
+      "case_ids": [
+        8494922
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/stew/3/0375-01"
+      ]
+    },
+    {
+      "cite": "4 Day 306",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Bibb 175",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Call, 491",
+      "category": "reporters:state",
+      "reporter": "Call",
+      "case_ids": [
+        6716450
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/6/0383-01"
+      ]
+    },
+    {
+      "cite": "1 Munf. 115",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Aik. 458",
+      "category": "reporters:state",
+      "reporter": "Aik.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Mon. 523",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Litt. 255",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Humph. 548",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8543733
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/21/0548-01"
+      ]
+    },
+    {
+      "cite": "1 Wash. 30",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6714339
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/1/0371-01"
+      ]
+    },
+    {
+      "cite": "4 Ala. 350",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8493969
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/4/0350-01"
+      ]
+    },
+    {
+      "cite": "2 Murph. 351",
+      "category": "reporters:state",
+      "reporter": "Mur.",
+      "case_ids": [
+        8696523
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/6/0351-01"
+      ]
+    },
+    {
+      "cite": "4 Dev. 512",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        11277022
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/15/0512-01"
+      ]
+    },
+    {
+      "cite": "1 Dev. 456",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        8696475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/12/0456-01"
+      ]
+    },
+    {
+      "cite": "1 Dev. 310",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        8691106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/12/0310-01"
+      ]
+    },
+    {
+      "cite": "4 Litt. 356",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Mon. 93",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Pick. 480",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2045780
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/39/0480-01"
+      ]
+    },
+    {
+      "cite": "14 Pick. 352",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2018911
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/31/0352-01"
+      ]
+    },
+    {
+      "cite": "12 Pick. 175",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 B. Mon. 524",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4436199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/43/0524-01"
+      ]
+    },
+    {
+      "cite": "2 Robinson 370",
+      "category": "reporters:state",
+      "reporter": "Robinson",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Porter 36",
+      "category": "reporters:state",
+      "reporter": "Port.",
+      "case_ids": [
+        8495817
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/port/8/0036-01"
+      ]
+    },
+    {
+      "cite": "1 B. Mon. 152",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Dana 108",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 B. Mon. 471",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Littell 281",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Call. 494",
+      "category": "reporters:state",
+      "reporter": "Call",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Leigh 442",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        4445560
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/32/0170-01"
+      ]
+    },
+    {
+      "cite": "10 Ala. 885",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        11257671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/10/0885-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 147",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728351
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/3/0147-01"
+      ]
+    },
+    {
+      "cite": "15 Conn. 539",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754813
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/15/0539-01"
+      ]
+    },
+    {
+      "cite": "1 Wash. 30",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6714339
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/1/0371-01"
+      ]
+    },
+    {
+      "cite": "4 Ala. 350",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8493969
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/4/0350-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1447,
+    "char_count": 38613,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 2.3964335534224556e-07,
+      "percentile": 0.798445391990035
+    },
+    "sha256": "7563e5d5539ec92654b7def1f44b6933bfca48ed8b1ad1866fe042787901852d",
+    "simhash": "1:2385bd86948ac2e3",
+    "word_count": 6809
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cox, et al. vs. Morrow."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nWaiving any objection to the manner in which the questions of law, supposed to be involved in this case, were sought to be-reserved in the court below, we may assume, for the consideration of them here, that the facts (and which might readily have-been put into the shape of an agreed case, or a special verdict by the court below sitting as a jury), are as follows. In 1808 Asa Grant died in North Carolina, leaving a will, one clause of which is in these words, \u201c I further give unto my beloved wife, (Jemmima), one negro woman, known by the name of Harriett,- and her issue, during her natural life, and after her death the said negro woman Harriet and her issue, I give and bequeath-unto my beloved daughters, Clarissa Grant and Polly Grant, to be equally divided amongst them.\u201d Jemmima Grant, the widow,. married Arthur Morrow;, and they moved to Tennessee, and from thence to Arks ansas, where she died in the year 1848. Clarissa Grant married Eli Cox, in Tennessee, where they continue to live! Polly Grant married Hiram Williams and they moved to Texas, where she died in the year 1845, leaving several children, the issue of their marriage, who are still living. In 1849 Williams sold and conveyed all his right, title and interest in the slaves in controversy to Pack and Cates, two 'of the appellants. From the time of his marriage with Jemmima Grant, Morrow always had possession of Harriet and her; issue, in right of his wife, and after her death, in 1848, he continued to keep them in possession, never until then claiming them as his own. The negroes now in controversy pre Delia, who is the daughter of Harriet, and George the child of Delia.\nUpon the refusal of Morrow to surrender them, when demanded by the appellants, they sued him by action of replevin in the detinet. The defendant pleaded non-detinet, and a special plea asserting property in himself, with a traverse of property in the plaintiffs. The court sitting as a jury found upon the evidence, for the defendant, and he had judgment accordingly.\n1. The action of replevin in the detinet, as now regulated by statute, is very similar to detinue, and may be said to lie in all cases where the plaintiff has the right of property, either general or special, and the right to immediate possession of a chattel taken or detained by the defendant, and differs from detinue in this; that in replevin the plaintiff obtains possession of the chattel in advance of the trial, and the defendant is supposed to be protected from the harshness of the remedy by the affidavit and bond of the plaintiff, and the short period of limitation prescribed for it! The plea of non-detinet (Digest, Title, Replevin, sec. 34), puts in issue, not only the wrongful detention of the chattel, but the property of the plaintiff therein, and the special traverse pleaded here had no other effect than to tender a distinct and formal issue of the plaintiffs\u2019 property, general or special, and right to possession at the time of suit brought. The action may be maintained, not only for the breach of a contract of bailment, but the allegation of bailment is fictitious and not traversable; so that replevin in the detinet extends to all cases where the property of one man is wrongfully in the possession of another, though that possession may have been, in its inception, both peaceable and lawful; as in the case of a bailment determinable by demand. It results from the nature of the action, which is to recover possession of a specific chattel, that if there be several part owners of it, they ought all to be joined as plaintiffs in the suit, and the non-joinder or misjoinder of parties in interest, who ought to be plaintiffs, is available in bar as well as in abatement. Although classed among actions ex delicto, and in theory the remedy for a tortious taking, replevin in the detinet differs essentially from actions ex delicto, where, for the injury, loss or destruction of personal property, owned by two or more persons in common, each part owner might consistently recover several damages, which would be commensurate with his interest in the chattel, though the chattel itself be not susceptible of division. We think, therefore, the plaintiffs were required, under the pleadings in this case, to show that, as against the defendant, they were the persons and the only persons having such right of property, as would entitle them to present possession of the slaves in controversy.\n2. There is no where upon the record any allegation or proof of what was the law in North Carolina, the domicil of the testator when his will took effect in the year 1808, or of Tennessee, where Williams and Polly Grant were married, or of the law of Texas, where Polly Williams resided at the time of her death, in 1845; all of which were legitimate subjects of proof, and might perhaps have been important in determining the rights of the parties; in the first instance, as to the character of the limitation, by way of executory devise, in the will of Asa Grant; in the second, for ascertaining what right Williams acquired, by his marriage, to the property in possession or expectancy of his wife; and lastly, whether by the law of Texas he succeeded at her death, as heir or distributee, to her property or right of property in the slaves.\nIt must be assumed, as a settled proposition, that the courts of one State or sovereignty cannot judicially take notice of the laws of another and foreign State. They will by comity respect the foreign law, by protecting rights acquired under it, and will interpret and fulfill the obligation of contracts made in a foreign State, or with reference to its laws, but those laws are to be proved as facts upon which the claim or defence is based, though this rule of comity is subject to exceptions, where the right claimed under the foreign law is contrary to good morals, public policy or positive legislation in the country where it is sought to be enforced. The origin and peculiar relations of the American States involve the consideration of this subject, so liable to expand itself, in many perplexities. In Connecticut it seems, Hale vs. The New Jersey Steam Navigation Co., 15 Conn. 539, that by statute, comity is carried to the extent of requiring her courts to notice judicially the statutes and the reports of decisions by the courts of other States of the Union; thus imposing upon them, as may readily be imagined, a most delicate as well as difficult duty. Notwithstanding the law of this State only relaxes the rule of evidence by providing, that the printed statute books of other States, purporting to be published by authority, shall be received as evidence of their contents, several cases are to be found in the reported decisions of this court, not the least Remarkable among which is Moody vs. Walker, 3 Ark. 147, where counsel argued and the court referred, for the rule of decision, to what was understood to be the common or statute law of other States, without any admission or proof of it appearing to have been made in the inferior court.\nThe courts of every State are bound to take judicial notice of the public laws and treaties of the United States; because, to the extent of the powers delegated to the federal government, and the subjects about which Congress may rightfully legislate, they form one country: while on the other hand, the life of the federal judiciary and its stronghold on the affections of the people depend upon respecting the reserved sovereignty of the States, and the due administration of their respective systems of law or local usage, under which private rights have vested. And unless with the anomalous exception of the civil law procedure in Louisiana, good policy has always dictated a conformity with the remedies furnished by the State laws. So that, in a case like the present, a court of the United States, otherwise acquiring jurisdiction by citizenship of the parties and value in dispute, would be enabled to know judicially the law of any State, and all modifications of it affecting the title to the slaves in controversy upon the facts here proven. And where two countries have the same origin, or were at one time associated, the courts of each are bound to take judicial notice of what the law was, when it was common to both. Thus, before their separation, the laws of Missouri extended over what is now Arkansas; and the courts of the new States, formed out of territory which belonged originally to one of the thirteen colonies, might have to look to the jurisprudence of the parent State, while its laws were in force over the entire territory. No such relation has ever existed between Arkansas and Carolina, Tennessee, or Texas.\nOur English ancestors, who colonized America, brought with them certain fundamental principles of the common law, such as the right of trial by jury, and the privilege of habeas corpus, which were essential to the enjoyment of civil liberty in England, as they are here. But it cannot be said that the great body of the common law, or the English Statutes, passed in aid of it, prevailed in the colonies, 1 Black. Com. 107, and it cannot be presumed that it prevails now entire in any of the States of this Union. Even if the periods of its adoption could be ascertained, and a distinction taken between the common and statute law of England, we must know, as matter of legal history, that in every American State many of its leading features have been abrogated or changed by legislation, or essentially modified by local common law or usage. Of so much of the common law, as has been expressly adopted, or is tacitly recognized, the reported decisions of the courts in England ought to be regarded as its expositors. But even such adoption is partial, and disjointed: nor .are the decisions of the courts of this country, federal as well as State, in harmony with one another, or with those of the courts in England, upon a variety of purely common law questions. Even in cases involving commercial law, where#uniformity is so much to be desired, the decisions of each State, liable to be influenced by local considerations, not appreciable in another, cannot there be always safely followed as precedents. We need not look beyond the case under consideration for examples of such diversity of law. It is to be inferred from a provision contained in the Revised Statutes of North Carolina, vol. 1, ch. 37, sec. 22, passed in the year 1823, and the decisions in that State, cited in Inge vs. Murphy, 10 Ala. 885, that previous to the statutes referred to, a limitation of a remainder in a chattel after a life estate, like that contained in the'will of Asa Grant, would be effectual in North Carolina, by way of executory devise, but such limitation, if made by deed, would not have been valid, and the first taker would have the absolute estate.\nIn Newton, ex\u2019r vs. Cocke, ex'r. 5 Eng. 169, where suit was brought here by one claiming to be a foreign executor, by virtue of the statute authorizing foreign executors and administrators, appointed in other States or territories of the United States, under the laws thereof, to sue in any of the courts of this State in their representative capacity with like effect as if they had been qualified under the laws of this State, in as much as the exemplification of the record of the will in Kentucky produced an oyer, did not afford any evidence of the appointment or qualification of the plaintiff, suing as executor, and there being no evidence of what the law of Kentucky was, and it could not be judicially recognized here, .this court felt itself called upon to presume that the law of England, as it stood at the time of the American revolution, prevailed in Kentucky, and to determine with apparent reference to it, the sufficiency of the evidence adduced to prove the appointment and qualification of the plaintiff, as executor. \u25a0 And that course seemed unavoidable because the statute, by referring to the law of the State under which the executor derived his authority, excluded the idea that his qualification was to be tested by the law of this State. But apart from that or like exceptions., which might be occasioned by unguarded legislation, the courts of this State have no warrant for knowing judicially, and so administering the law of any other State or country foreign to this: and outside of the federal compact the States of this Union are to be regarded as foreign to each other. In 1816 the Territorial Legislature of Missouri, formally adopted and declared in force the common law of England of a general nature and all statutes of the British Parliament in aid of, or to supply the defects of the common law, made prior to the fourth year of James the first and of a general nature, and not local to that kingdom, and which common law and statutes were not contrary to the laws of that territory, and not repugnant to, nor inconsistent with the constitution and laws of the United States, as the rule of decision in that territory, until altered or repealed by the Legislature: and that statutory adoption has ever since continued to be in force under the territorial and State governments in Arkansas. Having thus introdnced the common law, without indeed the benefit of any of the judicious statutory reforms in England since the fourth year of James the first, when we administer that law, or what is left of it consistent with our own codifications, we do so, not because it is the law of England, but because it is part of our own law. It is therefore the law of the forum, to which they have submitted, that, in the absence of proof or admission of any other, is to determine the rights of the parties, no matter where the transactions occurred out of which those rights may spring. If the contract, for a breach of which suit is brought here, was made, or to be performed in another State, the law of that State, unless shown to be different, is presumed to be the same as our own. So that if either plaintiff or defendant, asserting or resisting a demand by suit, claimed that the law, peculiar to another State and applicable to the case, arising upon the facts proven, is different from that of the forum, he can only obtain the benefit of the foreign law, by making it a part 'of the case in evidence,\n3. One of the questions mainly argued is, whether Williams succeeded as distributee to the choses in action of his deceased wife, or her chattels not reduced into possession during the coverture; and, supposing that he would be entitled to them, whether he or any assignee of his could bring- an action for their recovery, without taking out administration upon his wife\u2019s estate and suing in a representative capacity. It will be conceded, that at the common law, the custom grew up for the husband to be entitled to receive from the ordinary the delegated power of administering upon the wife\u2019s estate, and, becoming possessed of the goods as administrator, he was allowed to retain any surplus after the payment of the debts, without being required to make distribution to her next of kin. But neither the statute of 22 Chas. 2, requiring administrators to make distribution; nor that of 29th of Chas. 2, exempting the husband, administering in right of his being such, from the duty of making distribution, and thus recognizing his legal right to'retain the surplus, ever had any force or operation in this State. And for the source of the husband\u2019s right to administer, it would hardly be necessary to go back to the common law; superseded here by a statutory system of administration.\n. According to the Territorial law, Steel & McCamp, Dig., Title Administration, sec. 4, the husband or wife had the preference, before the next of kin, in administering upon the estate of the other; and that law, ib. Title Descents and Distributions, undertook to define accurately what interest the husband, surviving \u2022his wife, should take in her real estate and slaves and personal estate in possession or in action, varied by the contingencies of her dying with or without issue. The Revised Statutes succeeding the Territorial law, re-enacted so much of it, Title, Administration, sec. 6, as required letters to be \u201cgranted to the representatives of the intestate who may apply for the same and are qualified, preferring first, the husband, or wife,.or one of the persons entitled by law to a distribution of t]ie intestate\u2019s estate,\u201d and though the language there used, would seem as if intended to apply to a state of Case, where by law the husband or wife surviving would succeed, as distributee, to the whole, or some part of the estate of the other, yet the statute of Descents and Distributions, as re-modelled by the revisors, negatives any such apparent intention. The first section of that chapter provides, that \u201cwhen any person shall die having title to any real estate of inheritance or personal estate, not disposed of nor otherwise limited by marriage settlement, and shall die intestate as to such estate, it shall descend and be distributed in parceny to his kindred, male and female, subject to the payment of debts and the widow\u2019s dower, in the following manner; first to children or their descendants in equal parts,\u201d &c. In addition to that section, which would impose upon every administrator the duty of making distribution in accordance with it, because no exception is any where made in favor of the husband, the 7th section excludes all right of his by providing, that in the event of there being no children or their descendants, or any paternal or maternal kindred capable of inheriting, the whole estate shall go to the wife or husband of the intestate, and if there be no husband or wife, then to escheat. Though an examination at large of this subject, and especially as connected with a more recent enactment of December 8th, 1846, enabling married women to become seized or possessed of property, real or personal, in their own right, while the former law, denying to them the general power of testamentary disposition, is retained in force, would disclose much of lamentable uncertainty and inconsistency, we have no discretion to construe away what appears to be the necessary result of the statute, whether so intended or not, 1 Swift Digest 28. Reeves Dom. Rel. 16. Bunch's ad. vs. Hurst's adm'r 3 Dessau. 289. Gough vs. Crane. 3 Maryland Chy. Rep. 127, and must conclude that as the law now stands, the husband surviviving is entitled only to the preference in the administration of the estate of the wife, to enable him to recover her choses in action not disposed of or converted by him, and her personal property, not reduced to possession during coverture, for the purpose of paying her debts and making distribution of the surplus among her next of kin, to all of whom he is postponed in the succession.\nIt is not pretended that two of the plaintiffs have sued here in a representative capacity; and assuming the law to be as we have stated it, we need not enquire further whether the husband, entitied as distributee of the wife\u2019s estate, should nevertheless sue as her administrator; though we apprehend, that in such case he would come under the general rule, that in an action at law to recover the personal property of an intestate, the plaintiff must derive title by or through an administrator.\n4. Conceding that Morrow, upon the death of his wife, who had the use of the negroes during her life, ceased to have any right to detain them from those entitled in remainder, the only remaining ground contended for in argument, upon which the present plaintiffs can expect to recover, is that the interest of Polly Grant in the negroes being a vested one, though in remainder, it became also, upon her marriage with Williams, transferred to and vested in him as absolutely as it was in her. The argument is, that the negroes were not choses in action, but property, the possession of which is always presumed to be with the title; that the possession of Morrow, in right of his wife and during the continuance of her life estate, was not adverse but consistent with the title of .those in remainder, and consequently, his possession was their possession, in like manner as if he had been a mere bailee.\nPlausible as that may appear, we apprehend the law to be Well settled, that marriage is a gift to the husband of personal property and choses in action of the wife, subject to the condition of his reducing them to possession during coverture, and that being accomplished the gift becomes absolute. By the marriage he becomes liable for her debts previously contracted, but such liability ceases upon the dissolution of the marriage by her death, if not before that time enforced by suit against him. The creditors of the wife would then be without remedy, unless they can resort to the separate property of the wife, or her chattels, or choses in action, not reduced to possession by the husband during coverture. According to the law in England and many of the United States, the husband surviving is entitled to all such property of the wife, which he is entitled to recover as her administrator, thus affording a fund for the payment of the debts of the wife whilst sole, and he retains the residue absolutely, succeeding to it in the character of husband. The\u2019 husband during coverture, may sell or transfer by assignment, legal or equitable, for a valuable consideration, his wife\u2019s choses in action, her chattels not reduced to possession, or, in more general terms, all her right to the present or future enjoyment of them; but if he die without making such disposition, the title to them has not been changed and they survive to the wife in preference to the administrator of the husband. So that the marriage does not operate transfer to the husband as an absolute gift, all the property to which the wife may be entitled, but only the power, by virtue of her right of property, of recovering or reducing it to his possession during the coverture; though indeed there may be a variety of vexed questions in practice, not affecting the theory, concerning what acts of the husband will constitute a reduction to possession. The later decisions in England not only hold that as against the wife surviving, the husband must have exercised his power of alienation during the coverture, but they go to the extent of making the validity of the husband\u2019s alienation contingent upon a reduction to possession by the assignee during the coverture, not only in respect of sales of reversionary interests of the wife, which might not fall in, but of all choses in action, though at the time of assignment susceptible of being immediately reduced into possession; proceeding upon the ground that such being the extent of the husband\u2019s power, his sale or assignment passes no greater authority than he himself had. If that apparent change in the common law is induced by a desire to enlarge the equitable claim of the wife to a settlement or possession for her support, similar to that policy which has prompted the recent statutes in this country, allowing the wife to take and hold a separate property, it may be defective because its benefits are precarious; but it has the merit of enabling a court to afford, in harmony with the common law, an adequate provision for the wife where she needs it, and without any of the jealousies and heart-burnings attending a separation of interests while the married relation subsists. But without reference to what may be termed a new feature in the law, it does seem that, upon old and established principles applicable to the present case, the husband, Williams, did not acquire any absolute property in the slaves in controversy. The two daughters had a vested remainder, which gave them a fixed right of future enjoyment, but the beneficial use of the slaves was in the mother during her life.\u2019 The right of possession was with the temporary use, which Williams could not lawfully disturb, and as his wife died before the determination of the life estate, it was not possible that he, or any assignee of his could have reduced it to possession during coverture. At her death, without any previous disposition of them by him, his power to sell her choses in action, or rights of property in expectancy ceased, equally with his own right to recover them! It is true, those entitled in remainder to a specific chattel have an interest in preserving it, and may by injunction prevent its removal, or restrain those having the temporary use, from acts tending to injure or deteriorate it, and not necessary to a reasonable or judicious enjoyment. If destroyed they might have a remedy in trespass for damages, equivalent to the value of their interest in remainder; but there could be no remedy for those in remainder, inconsistent with the temporary right of possession in the person having the particular estate.\nUpon an examination of the cases cited for the appellant in support of the position, that Williams by his marriage acquired an absolute title to his wife\u2019s estate in remainder in the slaves even though she died before the determination of the particular estate, and not subject to any contingency of the property being reducible into possession during the coverture, it will be found that the doctrine had its origin at a very early day in Virginia, the first reported case being that of Dade vs. Alexander, 1 Wash. 30, and the sole reason given in the report of the case, was the statement of the President of the court of appeals; that such had been the constant decision of the old general court from the year 1653, to the revolution, since confirmed in the then court of appeals in several cases, and that it had thus become a fixed and settled rule of property. In Wallace vs. Taliafero, 2 Call., the same court, evidently embarrassed by having to adhere to another and inconsistent rule of the common law, yet respected the former decisions and upheld them upon the only intelligible ground, assigned by the President of the court, that he \u201chad considered the principle as a fixed rule of property tending to quiet disputes.\u201d The same remark is applicable to Robinson\u2019s adm\u2019r vs. Brock, 1 Hen. & Munf. 224, and Wade vs. Boxley, 5 Leigh 442. In Dummon vs. Sneed, 2 Call. 494, the sale by the husband surviving, of a slave to which his wife had been entitled in remainder, was sustained on that ground, and also because he was empowered to sell as administrator. It was natural that the course of decisions on this subject in Virginia, the parent State, should have been adopted in Kentucky. The first case where it appears to have been followed is Pinkard vs. Smith, Littell Sel. cas. 336; and there the court say, \u201cExcept for the purpose of ascertaining the proper parties to the present contest, it is not however material whether the husband was entitled to the remainder in the slaves, merely as surviving husband, or in virtue of his right to administer on the wife\u2019s estate.\u201d In Bank\u2019s adm\u2019r vs. Marksberry, 3 Littell 281, the rule was distinctly asserted, though it may have been influenced by a statute of Kentucky there quoted, and the court enter into the same argument used here, to establish a difference between choses in action, which do not vest in the husband unless reduced into possession during the coverture, and his marital rights in the wife\u2019s expectancies in remainder; an argument which implies that the rule sought to be introduced was an innovation, and not a familiar principle of the common law! It has been since followed in that State, Ewing vs. Handley, 4 ib. 346. Jackson vs. Sublett, 10 B. Mon. 471, though an attempt to reconcile all the cases, Tilford vs. Anderson, 7 Dana 108. Turner vs. Davis, 1 B. Mon. 152. Thomas vs. Kennedy, 4 ib. 236. Hord vs. Hord, 5 id. 83. Bowling adm\u2019r vs Bowling, 6 id. 33. Ring vs. Baldridge, 7 ib. 535. Davenport vs. Brewett, 9 ib. 95, bearing upon the rule contended for, would result in demonstrating it to be an exception, which the courts of that State have been endeavoring to limit in its application to the precise state of ease occurring in Dade vs. Alexander, where but for the exclusion of the creditors, if any, of the wife dum sola, it would be immaterial whether the husband surviving took as such, or as administrator of the wife. The case of Magil vs. Toland, 8 Porter 36, stands upon its special circumstances, as would appear from the subsequent case of Bibb vs. McKinley, 9 ib. 637, and decides only that the possession of the guardian is the possession of the ward. The case of Pitts vs. Curtis, 4 Ala. 350, (not within reach) has also been cited for the appellants,but as referred to and qualified in Broome vs. King, 10 ib. 821, it appears to have been based solely upon the authority of Dade vs. Alexander and Banks vs. Marksberry. And in this connection it is worthy of remark that the doctrine of some of the later cases in England, Hornsby vs. Lee, 2 Mad. Chy. 16. Parden vs. Jackson, 1 Russ. 1, and Honnor vs. Morton, 3 Russ. 65, before alluded to, has been formally recognized by the court of appeals in Virginia, Browning vs. Headley, 2 Robinson 370, though it may be subject to their peculiar distinction between the wife\u2019s remainder in a chattel and her choses in action.\nOn the whole, we conclude that, whatever may be the result in a suit between other parties, or under a different state of proof, according to the case made by the record before us, upon the death of Polly Williams, her estate in the slaves in controversy devolved upon her next of kin, according to the statute of distributions, and would be recoverable by her administrator for their benefit, and consequently two of the plaintiffs, claiming as assignees of the husband, have failed to establish any legal title in themselves.\nAffirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the appellants.",
+      "English, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Cox, et al. vs. Morrow.\nThe action, of Replevin in the detinet, as now regulated by statute, may be said to lie in all cases where the plaintiff has the right of property, either general or special, and the right to immediate possession of a chattel taken or detained by the defendant.\nWhere there are several part owners of a chattel, they ought all to be joined as plaintiffs in the action of replevin for it; and the non-joinder or misjoinder of parties in interest is available in bar as well as in abatement.\nSt is, and must be assumed, as a settled proposition, that the courts of one State or sovereignty, cannot judicially take notice of the laws of another and foreign State. They will, by comity, respect the foreign law, by protecting rights ac. c[uirecl under it, and will interpret and fulfill the obligation of contracts made in a foreign State, or with reference to its laws, but those laws are to be proven as facts, upon which the claim or defence is based. And in the absence of proof the law of the foreign S tato is presumed to be the same as that of the forum.\nThe husband does not succeed as distributee to the choses in action of his deceased wife, or to her chattels not reduced into possession during the coverture: nor can he bring an action for their recovery without taking out administration upon the wife\u2019s estate, and suing in a representative capacity: and such property will be assets for the payment of her debts, contracted before marriage, and the surplus distributed among her next of kin, to all of whom the husband is postponed in the succession.\nA testator bequeaths slaves to his wife for her natural life, with remainder to his two daughters; one of the daughters marries, and dies before the determination of the estate for life. In such case the husband did not acquire an absolute property in the slaves; and at the death of his wife, without any disposition of them by him during the coverture, his power to sell them ceased equally with his right to recover them.\nAppeal from the Circuit Court of Saline county.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nS. H. Hempstead, for the appellants.\nIt is well settled that if any interest in a chattel vest in a female before or during coverture, although a particular estate may exist undetermined, so that no actual possession is acquired by the husband during the life of the wife, the right will belong to the husband in case he survives, and pass to his administrator: and the husband is entitled even to her contingencies as much as to any other species of property. Ewing\u2019s Heirs vs. Handley\u2019s Exrs. 4 Liliell, 356. Banks Admr.vs. Marksberry,3 Litt.276. 1 Str. 230. 2 Sir. 726. Toller\u2019s Ex. 220. 1 Ch. PI. 18, 19. 1 Swift\u2019s Dig. 28. Fetch vs. Ayer, 2 Conn. R. 143.\nThe chattels and choses in action of the wife belong to the husband absolutely, whether reduced to possession or not. Scuyler vs. Hoyle, 5 John. Ch. R. 206. 2 P. Wms. 49, 441. 2 Bro. Ch. R. 589. 1 Tern. 303. Toller 221,224. Miller vs. Miller,.! J. J. Marsh. 169. Whitaker vs. Whitaker, 6 J. R. 102. Martin vs. Pogue, 4 B. Mon. 524. 12 Pick. 175. 14 Pick. 352. 22 Pick. 480. South vs. Hoy, 3 Mon. 93.\nA reversionary right to slaves cannot be considered as a chose in action. It is a vested right. The possession of the tenant for life is not adverse, but consistent with the title of the reversioner. And in this case the possession of Morrow was constructively the possession of those in remainder, and consequently the right of the daughters was a certain, absolute, present and vested right, which the law transferred to their husbands on marriage, and which they might well sell and convey, without any further reduction to possession. Bank's adm'r vs. Marksberry, 3 Litt. R. 276,283. Ewing's heirs vs. Handley's ex'r. 4 Litt. 356. Whitaker vs. Whitaker, 1 Dev. 310 Gransberry vs. Mhoon, 1 Dev. 456. Petlijohn vs. Beasley, 4 Dev. 512. Armstrong vs. Simonton, 2 Murph. 351. Pitts vs. Curtis, 4 Ala. 350. Magee vs. Poland, 8 Porter, 36. Ordinary vs. Geiger, 2 Nott. McCord, 151. Davis vs. Rhame, 1 McCord's Ch. 195. Saussey vs. Gardner, 1 Hill S. C. R. 191. Upshaw vs. Upshaiv,2 Hen. SfMunf. 381. 3 Call's Rep. 447. Dade vs. Alexander, 1 Wash. 30. Caplinger vs. Sullivan, 2 Humph. 548. Merriwcther vs. Booker, 5 Litt. 255. Thomas vs. Kelsoe, 7 Mon. 523.\nWhether the husband, surviving the wife, succeeds to her property jure mariti, or as her next of kin is not material. When her choses in action or personal property -are left undisposed of at her death, the husband, who survies her, must of course take by virtue of the relation of marriage with as good a right and title at law as the heir takes the undevised estate of his ancestor; Stewart vs. Stewart, 7 J. C. R. 246. Schuyler vs. Hoyle, 5 /. C. R. 207. 1 Ves.p. 49. 1 Aik. 458. 14 Fes. 372: and he may sue without administering on his wife\u2019s estate. Chichester's ex'r vs. Vass' ad'r, 1 Munf. 115. 3 Atk. 526. 1 Wils. 168. Robinson vs. Brock, 1 Hen. Sp Munf, 213. 1 Wash. 30. 2 Call, 491. Whitaker vs. Whitaker, 6 J. R. 112.\nIt is manifest that the life estate of Mrs!. Morrow, and the remainder over vested at the same time. She was the tenant of the particular estate and entitled to the use of the property devised; but the general property was in her daughters; the general property drew to it the possession; 3 Litt. 283i 4 Bibb 175. 1 Ch. Cl. 194,195. 2 Saund. 147 a. n. li 3 Wils. 136. Angel\u00ed on Lim. 472. 3 Peters, 43. 11 /. R. 385. 4 Day 306. 2 J. R. 285. 2 Bl. Com. 164, 5, 6, 7, 8; and it was impossible for Williams to acquire the actual possession during the life of Mrs. Morrow.\nEnglish, for the appellee.\nThe personal property of the wife, in possession vests absolutely in the husband on the marriage (2 Kents Com. 143. Clancy on Husband and Wife,p. 2 et seq); but if the husband dies without reducing her choses in action and personal property into possession, they go to the wife as survivor, and not to the representatives of the husband. Ctancy 4, 109. 2 Kent, 135. Purdew vs. Jackson, 1 Russ. 42, (Eng. Chan. Rep. vol. 1 ,p. 42.)\nThe husband may assign the choses in action of the wife, to which she is presently entitled during coverture. Clancy 120, .et seq.', but he cannot assign the wife\u2019s property or choses in remainder, so as to bar her right of survivorship. Purdew vs. Jackson, 1 Russell, p. 70. Horner vs. Horner, 3 Russ. 65, (3 Eng. Ch. Rep.) Clancy, p. 140. Reeves\u2019 Dom. Rel. 5, n. (1.)\nThe exact and great question in this case is, what becomes of the choses in action or outstanding personal property of the wife, not reduced to possession, during the marriage, by the husbaud, on the death of the wife, the husband surviving? Do they go to the wife\u2019s representatives? Or to the husband in his individual right, and may he dispose of them as such (without administering) and enable his assignee or vendee to recover them in an action at law?\nIt may be conceded that in England, under the statutes of 22 and 23 Charles the II, and 29 Charles II, the husband is entitled to administer on his wife\u2019s estate, and as such administrator, may recover her personal estate not reduced into possession in her lifetime, and retain the residue after payment of her debts dum sola: Bright on Husband 4* Wife, vol. l,p. 41. Reeve on Dom. Rel. 12. 2 Kent Com. 135. ClancyonH. 4\u2019 W. 4,11. 2 Black. Com. 515. Mayfield vs. Clifton, 3 Stew. 375; and in the States of New York and Kentucky, under special statutes, the rule is the same. Whitaker vs. Whitaker, 6 J. R. 112. Stewart vs. Stewart, 1 J. Gh. R. 246. Schuyler vs. Hayle, 5 J. Gh. R. 207. 3 Litt. 276. 4 Lift. 356; but at common law, and'in such of the States as have not changed the rule by special statute, the personal estate of the wife, not reduced to possession by the husband during the coverture, go to the representatives of the wife, and not to the husband. Reeve on Dem. Rel. p. 12. Bibb vs. McKinley, Hopkins et al. 9 Porter, Ala. Kep. 636. ' Wallace et ex'r vs. Taliaferro et ez'r. 2 Call, 447. Robinson vs. Brock, 1 Hen. Munf. atp. 224-5.\nWilliams never reduced the interest of his wife in the slaves into possession during her life, nor afterwards, but during the whole of his wife\u2019s life, Morrow and wife had the legal as well as the actual possession of the slaves.\nNo proof was offered as to the law of Texas in reference to the-right of the husband to administer, or as to his interest in her outstanding choses; and if this case is to be governed by the laws of England the husband can recover only by administering on his wife\u2019s estate; if by the law of the forum, the plaintiffs, Pack and Cates, can claim no title to the slaves through Williams, as her children would take in preference to her husband. Dig. Gh. 56,. sec. 1 and 7."
+  },
+  "file_name": "0603-01",
+  "first_page_order": 603,
+  "last_page_order": 620
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1862633,
+  "name": "Newton vs. The State Bank",
+  "name_abbreviation": "Newton v. State Bank",
+  "decision_date": "1848-07",
+  "docket_number": "",
+  "first_page": "9",
+  "last_page": "17",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Dev. 295",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        8690330
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/12/0295-01"
+      ]
+    },
+    {
+      "cite": "5 Blackf. 260",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "case_ids": [
+        1379480
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/blackf/5/0260-01"
+      ]
+    },
+    {
+      "cite": "3 Littell 131",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cow. Rep. 644",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Wend. 86",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Ala. 58",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8492771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/5/0058-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 743,
+    "char_count": 17387,
+    "ocr_confidence": 0.513,
+    "pagerank": {
+      "raw": 3.320178675995921e-07,
+      "percentile": 0.8729591956905596
+    },
+    "sha256": "7a0f041cf8a82139824e4d848551468000d39c9654b2383ec9620551362a7371",
+    "simhash": "1:5e7703e041639045",
+    "word_count": 3102
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mr. Chief Justice Watkins, not sitting."
+    ],
+    "parties": [
+      "Newton vs. The State Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThis was an action of ejectment, brought by Newton'against the Bank, for the recovery of certain lots of land in the city of Little Rock.\nNewton claimed title to the lots as a purchaser at sheriff\u2019s sale, and at the trial of the case produced a record showing a judgment against the Bank, an execution duly returned, showing a regular levy on the lots, their advertisement and sale according to law, and also, the sheriff\u2019s deed, duly acknowledged and recorded.\nThe Bank (the defendant in execution) then offered to prove by parol evidence that the sale to the plaintiff was made without notice, on a day subsequent to that stated in the sheriff\u2019s return; to the introduction of which the plaintiff objected, upon the grounddhat such evidence-was inadmissible to contradict the return of the sheriff, and the recitals in the deed in that particular. But the Circuit Court overruled the objection, and permitted such evidence to be given to the jury; to which the plaintiff excepted. And the admission of this evidence over the objection of the plaintiff, presents the only important question to be determined.\nThe act of the Legislature, which requires the sheriff to recite the names of the parties, the date of the writ and of the judgment, together with a description of the time, place,, and manner of the sale; and which makes such recitals evidence of the facts so recited, was intended by the Legislature to supersede the necessity for producing the record, from which such recitals were made, as a matter of convenience, and to furnish evidence of the authority under which the officer acted, as well as the manner in which he had executed his authority in the deed itself. Not that the recitals should be conclusive evidence of the facts recited; for that would exclude all inquiry into the authority under which the sheriff acted; but that it should be legal, competent evidence, until falsified by evidence of a higher and more authentic character. The acts of an- officer done in obedience to the law, when required to be certified and returned, form a part of the records of the case in which they are had; Lawson v. Main, 4 Ark. 186; and being part of the records, the return, as well as the execution and the judgment, imports absolute verity, and is alike conclusive as the judgment, upon the rights of the parties to the record. It is upon this principle that this court, in the case of Jamison v. May, 6 Eng. 374, held parol evidence inadmissible to contradict a sheriff\u2019s return upon a writ of summons. And this decision of ours is fully sustained by numerous authorities, and adjudged cases, in several of which the question arose under circumstances strikingly similar to the case before us. Thus, in the case of Love & Williams v. Powell, 5 Ala. 58; in a suit to try title, where the plaintiff claimed under a sheriff\u2019s deed, the court held parol evidence inadmissible to contradict the sheriff\u2019s return, and in conclusion the court said, \u201c Our conviction is that the deed is conclusive and cannot be impeached on a collateral issue, except for fraud in the execution of the deed, when*the process under which the land was sold is supported by an existing unsatisfied judgment.\u201d\nIn the case of Jackson vs. Roberts, 7 Wend. 86, the sheriff\u2019s deed described the sale as having been made under execution in favor of Hill & Stubbins. The defendant sought to disprove the truth of this recital bypai\u2019ol evidence. The court said, the question is \u201cCan that part of the sheriff\u2019s deed be contradicted by parol evidence, which sets forth the writ under which the sale was made ?\u201d The court then refers to, and approves its former decisions in the cases of Jackson vs. Vandenhayden, 17, John. 167, and Jackson vs. Croy, 12 John. R. 427, in which parol evidence was held inadmissible to contradict a sheriff\u2019s deed, and after commenting upon the effects of a different rule, the court concluded its opinion with the following remarks : \u201cWe see no formidable mischief likely to result from the operation0of such a principle. A party who may be injured by the mistake of a sheriff can have relief by a summary application to the courts under whose authority the sheriff acts, or through the medium of a court of equity ; and it is much better that he should be confined to this mode of redress, than to render all titles derived under judicial sales doubtful, and subject to be defeated by allowing the written instruments, by which they are evidenced, to be attacked collaterally by parol evidence.\u201d\nChief Justice Sharkey says, in Minor vs. Select Men of Natchez, 4. S & Mar. 619. \u201cThe purchaser is not put upon enquiry as to the regularity of the judgment. In the official character of the sheriff and his general power derived from that character, purchasers have a guaranty that they will be protected in their title.\u201d Savage Ch. J., in the case of Jackson vs. Caldwell, 1 Cow. Rep. 644, said, \u201cIt may therefore be considered as settled law, that a bona fide purchaser at a sheriff\u2019s sale acquires a valid title as against the defendant in the execution, unless it is not only voidable but absolutely void.\u201d\nThe case of Trigg vs. Lewis, 3 Littell 131, lays down the general rule, and shows that it is peculiarly applicable to sheriff\u2019s returns. The court says, \u201c It is a general rule that the acts of a ministerial officer, as far as the rights of the parties affected thereby are concerned, must be taken as true, when brought into contest collaterally, and can only be impeached by a direct proceeding, such as makes the officer a party. This rule is peculiarly applicable to returns of sheriffs on process. Hence this court decided in the case of Hornback vs. Smith, that the return of a sheriff on the writ of habere facias possessionem is conclusive. It is therefore clear that it was not competent for the defendant to aver and prove any thing against the return of the officer in this instance; such as the proof tendered by the replication, that the land was not in fact sold, and that the proceedings relative thereto were not real.\u201d\nThe decisions are directly in point, and may be considered as conclusively settling the questions; First, that the return of the sheriff must be considered and treated as part of the records in the case; and secondly, that parol evidence is inadmissible to contradict it. The door for re-investigation is closed upon the parties to the record. It is not to be questioned by them; and this because they are parties to the record, and have day in court; and it is not only their interest but their duty to look to the regularity of the proceedings, and when passed without objection they may be said in effect, to have received the approval of the parties. And so with regard to the execution of final process. It is executed for their benefit by the officer of the law, and during the whole time up to the sale and acknowledgment of the deed, they have day in court, and it is their duty to see that the sale is conducted fairly; at least, if they should fail to do so, they have but little cause for complaint. The purchaser, a stranger, who had no agency in producing the irregularity, and no power to control or direct the action of the officer in any respect, who has bought in good faith, and acquired a legal title, valid and regular upon the face of his deed, should be protected in that title against those parties to the record, who have stood by and-without objection, suffered him to pay the purchase money, the benefit of which they receive, and receive a deed, sanctioned and approved by the court without objection from,them. Under such circumstances, as between the purchaser and the parties to the record, it would be wrong to suffer them, in a collateral proceeding, to introduce parol evidence to contradict the record evidence of the purchaser\u2019s title.\nThis question has been substantially settled by the decision of this court in the case of The State Bank vs. Noland and others; decided at the last term of this court, where it is held that after the purchaser has acquired title by sheriff\u2019s deed approved and ordered to be recorded, at no subsequent time, after the lapse of that term, shall his title be questioned for fraud, accident, or mistake, or for any irregularity in the proceedings, which must as of necessity (in most instances) arise out of one or other of these causes, upon motion, or in a proceeding at common law. But where the proceedings were such as, in the first instance, to vest in him a legal title to the estate therein conveyed, or, in the language of the court, when delivering its opinion in that case, \u201c When his legal title is perfect, and when the validity of the title itself is assailed for fraud, accident or mistake, arising out of the irregularity of the proceedings, or the acts of the parties, he has a right to be heard before a tribunal that can rightfully exercise jurisdiction in such matters, with power and process to bring all the parties in interest before it, to put them upon their consciences to answer; to cancel the deed; to restore possession ; and to award equitable compensation.\u201d\nHow far, or under what circumstances the return of the sheriff and the recitals in the deed may be questioned in a direct proceeding in chancery, for that purpose, or where fraud is alleged in the execution of the deed, we are not now called upon to decide; because, in the case before us, no offer was made to introduce evidence to prove fraud. It is true that proof that the sale was made after the day fixed by law, and without notice, might, when taken in connection with other evidence, conduce to prove fraud. And if the defendant had proposed this in connection with other evidence, for that purpose, the question would have arisen as to its admissibility in a common law court- upon a collateral issue. But the avowed object of the defendant was to falsify and disprove the return of the sheriff, as to the time of the sale and the notice given. This, we have said, could not be done. And upon examination of the authorities cited by counsel, in which parol evidence was admitted to disprove the return of the officer, it will be found that in Tennessee such evidence was allowed to prove a want of notice, because the statute of that State declared the sale void, without notice. And so also in Kentucky, as to the quantity of land to be sold. The statute forbid the sale of more land than would pay the debt. This was a violation of a prohibitory, not a directory statute. In the case in 5 Blackf. 260, the strongest, case referred to by counsel, the evidence was admitted to prove a fraud. And none of them are applicable to the state of case before us. , The counsel has, in an ingenious argument, endeavored to bring them to bear upon this case, by assuming that if the sale should be proven to be on a day subsequent to the first day of the return term, it would be void, because the execution was not then in force, and conferred no power on the sheriff to sell, and that parol evidence was admissible to prove the sale void, as held in Tennessee, Kentucky and Indiana. This ground- was, we apprehend, taken under a misapprehension of the statute. It is true that the statute directs the sale to be made on the first day of the return term, but makes the writ returnabl\u00e9 on the second day of the term, Dig. Ch. 67, sec. 9; andthis, as appears from the defendant\u2019s own evidence, was theday on which the sale was in fact made, although returned by the sheriff as made on the first day of the term. A sale made on the return day of the writ is valid. Blaisdall vs. Sheife, 5 New. 11, 201. Tayloe vs. Gaskins, 1 Dev. 295.\nThe sale then was not void for want of power in the sheriff to sell, and as regards the irregularity in selling on a day different from that directing sheriff\u2019s sales and without notice, these are irregularities which arise in the exercise of power conferred. A departure by the officer from the statutory directions, as to the manner of executing his power, does not affect the title of a bona fide purchaser at sheriff\u2019s sale. This has been so repeatedly decided by this court that it may now be held as settled law. Adamson et al. vs. Cummins ad. 5 Eng. 541. Byers & McDonald, vs. Fowler,et al. 7 Eng. 218. Whiting & Slark, vs. Beebe, et al. 7 Eng. 421.\nBut even if a doubt could arise as to the correctness of these decisions in ordinary cases, it is very questionable whether this case would come under the rule as laid down by the authorities most favorable to the defendant\u2019s case; for the statute in regard to sales made after the property has been regularly advertised and bid off, and where the purchaser refuses to pay the sum bid, directs a re-sale, but is silent both as to the time and manner of sale. No doubt the officer may, on the same day, re-offer the property for sale, and then there would be no necessity for notice, but suppose, as is no doubt the case in most instances, in counties where there is much litigation, that the sheriff should not find time after selling, to hunt up the purchaser and make his settlement with him, or upon a refusal of the purchaser to pay the sum bid, to re-sell the property at once. It is evident that in many instances a large number of sales would be postponed by sham bids, procured to be made by irresponsible bidders, and if the sheriff is not allowed to sell the property on another day, it would result in incalculable delay and mischief. When, however, he comes to fix the day, the law is silent both as to time, place and notice. Should he refer to the statute he could derive no aid from it as a precedent, for it was certainly not intended to wait until the first day of the next succeeding term ; nor as regards notice, that thirty days should be allowed ; but on the contrary of this the statute is silent, and by its other provisions seems to contemplate a summary sale, by which, however, the defendant and the plaintiff are both protected against ultimate loss, by holding the first bidder responsible over for any loss which may arise, in case the property should not sell for as much at the second as it did at the first sale. Thus the first purchaser is made to stand between the defendant and loss occasioned by his refusal to pay the price for which the property sold at the appointed time by law and upon regular notice.\nIn the case under consideration the defendant, by her attorney, was the first bidder, to whom the property was struck off, at a sale admitted to be in all respects regular. Upon a refusal of the attorney to pay the sum bid, the property, as appears by the sheriff\u2019s return, was thereupon at once re-s\u00f3ld, and as the defendant contends, it was sold the next day after. The second sale then was the result of the act of the defendant, who became, under the statute, responsible for any loss that might accrue by reason of the second sale. If loss, then had accrued, it would have been his own fault, and upon his own responsibility. Bnt in truth no loss in this instance accrued; for the property sold for as much at the second, as it did at the first sale, and consequently no injury resulted from the second sale.\nIf the officer, uninfluenced by the conduct of the purchaser, had abused his official power to the prejudice of the rights of the Bank, he is responsible to her for damages, or if, by the combined action of the officer and the purchaser a fraud has been perpetrated to the inj ury of the Bank, she must apply to a court competent to afford relief; but in a common law court the validity of a sheriff\u2019s deed cannot be questioned by parol evidence touching irregularities, not affecting the power and authority in the officer to sell and execute such deed.\nThere is no doubt but that the Circuit Court erred in permitting parol evidence to be given to the jury to contradict the return of the sheriff and the recitals in the deed. And for this error the judgment of the Pulaski Circuit Court must be set aside and reversed, and the cause remanded for further proceedings to be had according to law, and not inconsistent with this opinion.\nMr. Chief Justice Watkins, not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "ME Pike and Fowler, for plaintiff.",
+      "Watkins & Curran, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Newton vs. The State Bank.\nThe return of a sheriff to a writ of execution must he considered and treated as a part of the record in the case ; and parol evidence is inadmissible to contradict such return, or the recitals in a sheriff\u2019s deed, in a collateral proceeding at law\u2014 suchas ejectment by the purchaser against the defendant in the execution.\nIf a sheriff commit irregularities in the exercise of a power conferred; as where he sells without notice, or on a day different from that prescribed for sheriff\u2019s sales, the title of \u00e1 lona fide purchaser will not be affected by such irregularity.\nIf in such case the sheriff abused hir, official power to the prejudice of the defendant, without fault of the purchaser, he is responsible in damages : and if, by the combined action of the officer and purchaser, a fraud hasbeen perpetrated to the injury of tthe defendant, she must apply to a court competent to afford relief; a court of law can afford none touching irregularities, not affecting the power of the officer.\nWrit of Error to Pulaski Circuit Court.\nThis canse was argued at length at the July term, 1848, by\nME Pike and Fowler, for plaintiff.\nWatkins & Curran, for the defendant."
+  },
+  "file_name": "0009-01",
+  "first_page_order": 9,
+  "last_page_order": 17
+}

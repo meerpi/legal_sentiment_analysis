@@ -1,0 +1,56 @@
+{
+  "id": 1862709,
+  "name": "The State Bank vs. Fowler et al.",
+  "name_abbreviation": "State Bank v. Fowler",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "543",
+  "last_page": "543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 543"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 111,
+    "ocr_confidence": 0.579,
+    "sha256": "5c0aaac3d0a9d874ea99f5a5b6aa7bfe3811460e889a379550c18fa4460dc5cf",
+    "simhash": "1:2c000c050a268189",
+    "word_count": 18
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State Bank vs. Fowler et al."
+    ],
+    "opinions": [],
+    "attorneys": [
+      "Hempstead, for the plaintiff.",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "The State Bank vs. Fowler et al.\nError to Pulaski Circuit Court.\nHempstead, for the plaintiff.\nFowler, contra."
+  },
+  "file_name": "0543-02",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

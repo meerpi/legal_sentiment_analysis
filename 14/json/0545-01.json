@@ -1,0 +1,115 @@
+{
+  "id": 1862628,
+  "name": "McDaniel vs. Coleman",
+  "name_abbreviation": "McDaniel v. Coleman",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "545",
+  "last_page": "548",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 545"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 214",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726900
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/5/0214-01"
+      ]
+    },
+    {
+      "cite": "1 Morris 89",
+      "category": "reporters:state",
+      "reporter": "Morris",
+      "case_ids": [
+        6665723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/morris/1/0089-01"
+      ]
+    },
+    {
+      "cite": "4 Dana 633",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        2059183
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/34/0633-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 214",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0214-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 470,
+    "char_count": 8460,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 1.0844801079441518e-07,
+      "percentile": 0.563325313560752
+    },
+    "sha256": "7a7c10c8449e6e4286d6d0e849906c26c14fc057546223f2d3a2e3d311e39165",
+    "simhash": "1:b9ebccf95f035e2e",
+    "word_count": 1485
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McDaniel vs. Coleman."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Waticins\ndelivered the opinion of the Court!\nColeman applied to the White Circuit Court for a rule upon McDaniel to show cause why a mandamus should not be awarded to compel him to issue execution upon a judgment which, the petitioner alleged, he had obtained against one Walter, on the trial had before McDaniel, as a justice of the peace, of a suit in which the petitioner was plaintiff and Walker was defendant, on the 6th day of September, 1851, to which day the summons issued by the justice in that suit and which had been duly served on Walker was returnable. The magistrate, in his response, admitting that he had rendered such judgment, as set forth in the alternative writ, further stated that afterwards and on'the same day the judgment was rendered, an application was made to him by Walker\u2019s counsel, to set it aside and grant a new trial, because an offset, offered to be filed on the part of Walker, had been improperly ruled out at the trial in question; and he, the respondent, being satisfied that he had erred in rejecting the offset, did set aside and vacate that judgment and grant a new trial, of which new trial the petitioner, Coleman, had notice. That upon a second hearing of the case, a judgment was rendered against Coleman, which stands in full force upon the respondent\u2019s docket as a justice of the peace, unsatisfied and unappealed from; and there being no longer any such judgment as that alleged by the petitioner, the respondent submits whether he can or ought to issue execution upon it. Upon the hearing the court below adjudged that a peremptory mandamus issue.\nThis case presents a question of no little interest to the numerous class of suitors before magistrate\u2019s courts,- that is, whether a justice of the peace can set aside a judgment and grant a new trial. And it is one of some difficulty; because justices of the peace being judicial officers, it would seem that so much discretion ought to be confided to them, as would enable them to correct their own erroneous judgments, by granting anew trial. But the Legislature has not thought proper to provide for such remedy, and the power cannot be inferred as one inseparable from a court of such inferior and limited jurisdiction. While the General Assembly could not deprive justices of the peace of any part of the jurisdiction given to them by the constitution, or even so legislate as to clog or impair it, or prevent its exercise by omitting to legislate Moore vs. Woodruff, 5 Ark. 214, there can be as little doubt that the mode and manner of exercising their jurisdiction may be controlled and regulated by law. The various provisions of the statute concerning justices of the peace and regulating the proceedings in suits before them, are so minute and specific, as by intendment to exclude the power of granting new trials in contested cases, to which no allusion is made. A justice of the peace may adjourn causes from day to day until the business qn his docket is disposed of, Digest, Title, Justices of the Pf.ace, sec. 11; may adjourn a case, ifhe deems it necessary, not exceeding thirty days, ib. sec. 71; may grant continuances for cause shown on the application of either party not exceeding sixty days, ib. sec. 75; may set aside a judgment of non-suit or by default, if applied for within fifteen days; ib. sec. 89, and then the justice is required to make out and cause to be served, in the same manner as a summons, a notice to the opposite part\u00bf of the time and place fixed for the new trial, ib. sec. 91. Either party aggrieved by the judgment of a justice may appeal within thirty days (except from a judgment of non-suit, or by default, where no application is made within fifteen days to set it aside) to the Circuit Court, where the trial is de novo upon the facts and merits, ib. see. 174, et seq., whereby the party aggrieved is relieved from all apprehension of irreparable injury by means of an unjust and erroneous decision, and if the right of appeal be lost without any fault of the party, or is attempted to be taken away by the legislature, the supervising controll of the superior courts may be exercised in some other appropriate mode.\nLeaving out of view any case where the new trial might be granted by consent of parties, or where the appearance to the merits by both parties at the new trial might amount to a submission to the jurisdiction \u2014 there being no limitations or restrictions upon the granting new trials by justices of the peace, where there has been a trial and judgment, and no power conferred except in the cases specified of judgments of non suit or by default, the assumption of such .a power in all cases would be productive of the utmost confusion and uncertainty and might lead to gross abuses. The number of new trials, the causes for which they should be granted, the kind of notice to the opposite party, the time beyond which the magistrate should cease to have contrail over judgments rendered by him, would, as the law now stands, be left to the discretion of a vast number of inferior courts, only quasi courts of record, having no clerk, no seal, no perpetual succession or continuance of office, and without terms of fixed and limited duration.\nIn Kentucky and Indiana it seems that justices of the peace may grant new trials, Hotten vs. Greenwell, 4 Dana 633, where certain, limitations upon the power are prescribed. Robideau vs. Ewing, 5 Blackfield, 552, where it appears to be expressly allow-, ed by statute; and in that State justices\u2019 courts are courts of record. Hooker vs. The State, 7 ib. 272. And in Kentucky justices of the peace by statute have powers wholly unknown to our laws. Breckenridge vs. Coleman, 7 B. Monroe, 331, while in New York, and some other States, they are treated as jurisdictions even more inferior and limited than with us.\nBut in Missouri, under a system very similar to ours, the power of justices to grant new trials not being conferred by statute, is utterly denied. Cason vs. Tate, 8 Missouri, 45, referring to Downing vs. Gainer, 1 ib. 751, and Rutherford vs. Winn, 3 ib. 14. So in Iowa, Helmich vs. Johnson, 1 Morris 89.\nOur opinion is that if Walker, the defendant in the suit before the justice, was aggrieved by the decision there, his appropriate remedy was by appeal, and that all the proceedings of the-justice subsequent to the rendition of the first judgment mentioned in the pleadings were unauthorized by law.\nThis conclusion is not predicated upon any want of capacity-in justices of the peace to set aside the verdicts of juries and grant new trials in causes pending before them, but upon the distinct ground that the Legislature, having the power to regulate the exercise of their jurisdiction, intended, according to what seems to be the proper construction- of the statutes- on the subject, the trial de novo upon appeal as a substitute for the granting of new trials by the justices themselves.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Waticins"
+      }
+    ],
+    "attorneys": [
+      "Scott, for the plaintiff.",
+      "Jordan, contra."
+    ],
+    "corrections": "",
+    "head_matter": "McDaniel vs. Coleman.\nThe general assembly cannot deprive justices of the peace of any part of their jurisdiction given to them by the constitution, or even so legislate as to clog and impair it, or prevent its exercise by omitting to legislate (Moore vs. Woodruff, 5 Ark. 214), but may control and regulate by law the mode and manner o\u00ed exercising their jurisdiction: And as the legislature, in the minute and specific provisions regulating the proceedings in suits before justices of the peace, has not authorized them to set aside the verdicts of juries and grant new trials, they pos.ssss no such power \u2014 the trial de novo upon appeal seeming a substitute therefor*\nError to White Circuit Court.\nThe Hon. B. H. Neely, Circuit Judge, presiding.\nScott, for the plaintiff.\nA magistrate\u2019s court is a court of limited jurisdiction. but to the extent of that limit, its jurisdiction is \u2022co-extensive with that of the Circuit Court. It has all the powers, to the extent of its jurisdiction, conferred upon the Circuit Court, among which is the discretionary power of granting a new trial. Const. Arks., Art. 6, sec. 15, Dig. ch. S\u00e9, page 254.\nJordan, contra.\nA justice\u2019s court, under our system of. laws is the lowest court known to the law. A justice of the peace has no power or authority to proceed in a cause, unless specially granted. The only instance in which a justice is by law authorized to set aside a judgment and grant a new trial, is a judgment \u2022of non suit or by default. Dig. ch. 95, sec. 88."
+  },
+  "file_name": "0545-01",
+  "first_page_order": 545,
+  "last_page_order": 548
+}

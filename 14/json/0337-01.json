@@ -1,0 +1,67 @@
+{
+  "id": 1862665,
+  "name": "Couch, Ex parte",
+  "name_abbreviation": "Ex parte Couch",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "337",
+  "last_page": "339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 259,
+    "char_count": 3722,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 1.1700737612033331e-07,
+      "percentile": 0.5861654482558636
+    },
+    "sha256": "0384a82e802a6574b457df105d609c4d678ce4c92833d2c7aebc79e7500922f0",
+    "simhash": "1:cc7557f744819191",
+    "word_count": 647
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C J., not sitting\u00bb"
+    ],
+    "parties": [
+      "Couch, Ex parte."
+    ],
+    "opinions": [
+      {
+        "text": "Mr .Justice Scott\ndelivered the opinion of the Court.\nAt the October term, 1852, of the county court of Pulaski county, certain proceedings, to which Couch was a party, touching a public road, were finally decided adversely to him. He took a bill of exceptions, filed an affidavit, and prayed an appeal to the Circuit Court, which the County Court granted. On the 6th of December following, a certified transcript of the proceedings was filed in the Circuit Court, and on the 20th of January, 185#; on motion of the attorney general, Couch being present and resisting, the Circuit Court dismissed the supposed cause, to which Couch, by his attorney, excepted, and sued out a writ of error to this court.\nThere was really no cause in the Circuit Court to dismiss. The prayer for an appeal,, and the action of the County Court upon it had no legal effect to transfer the cause to the Circuit Court: nor did the filing of the transcript there, on the part of Couch, have any such effect. Not that the Circuit Court had no appellate jurisdiction of such a cause, but because no steps had been taken to invoke that jurisdiction. Such steps can be taken in the Circuit Court only in the absence of statutory regulations, touching such cases, of which we have none, beyond the act of the 21st December, 1846, (Dig. p. 313, sec. 12), investing the Circuit Court with intermediate appellate power, but making no regulations for its exercise.\nUntil the Legislature shall think proper to make such regulations, the Circuit Courts, at the instance of parties, must use their common law and other means known to the law, to give effect to these intermediate appellate powers thus invested in them as (Carnall vs. Crawford county, 6 Eng. R. at p. 613), to matters properly cognizable in the County Courts, and not provided for by the act of the 4th January, 1849, (Pamph. Act p. 59). The case of Carnall vs. Crawford county, was within the provisions of this latter act and was brought into the Circuit Court in accordance with its regulations, and it was held that in such ca.ses the Legislature contemplated a qualified trial de novo in the Circuit Court, as provided for appeals from the Probate Court. Cases like this at bar, however, being unprovided for by statute, remain, as at common law, and are subject to be quashed or affirmed only in the Circuit Court, as the case may be. The process in the Circuit Court performing the functions of a writ of error, (ib. at p. 614).\nNeither the constitution nor any statute of this State invests the county court with exclusive j urisdiction in matters of public roads, closed to superior review; on the contrary these courts are doubly open to the primary review of the Circuit Courts clothed, as they are, with constitutional power of superintending and statutory power of intermediate appeal. Doubtless, therefore, when the party in this case shall properly present his case in the Circuit Court, he will be entitled to have it heard and have the doings in the County Court either quashed or affirmed.\nFinding no error in the action of the Circuit Court, its doings in this case must be affirmed.\nWatkins, C J., not sitting\u00bb",
+        "type": "majority",
+        "author": "Mr .Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Curran and Trigg, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Couch, Ex parte.\nThe Circuit Courts have a superintending control over county courts, and appellate jurisdiction from their orders and judgments, but where no mode is provided by statute for the exercise of that jurisdiction, the proper remedy is by certiorari and not by appeal.\nWrit of Error to the Circuit Court of Pulaski county.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nCurran and Trigg, for the plaintiff.\nThe Circuit Court erred in refusing to take jurisdiction of this case. See Dig. Ark. page 313. 6 Eng. Rep. 604, Carnall vs Crawford county."
+  },
+  "file_name": "0337-01",
+  "first_page_order": 337,
+  "last_page_order": 339
+}

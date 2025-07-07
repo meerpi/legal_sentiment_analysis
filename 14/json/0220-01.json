@@ -1,0 +1,78 @@
+{
+  "id": 1862736,
+  "name": "Thompson vs. Haislip",
+  "name_abbreviation": "Thompson v. Haislip",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "220",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Ark. Rep. 386",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728743
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/1/0386-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 221,
+    "char_count": 3457,
+    "ocr_confidence": 0.558,
+    "pagerank": {
+      "raw": 2.6524571085622063e-07,
+      "percentile": 0.8241789386176569
+    },
+    "sha256": "cd35c2e19473ef6897267076ed8ec47df1245b91d98dee155686b9123577e4ba",
+    "simhash": "1:cff3b5884b1a8892",
+    "word_count": 600
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thompson vs. Haislip."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe first ground of exception in this case is as to the correctness of the decision of the Circuit Court in sustaining the plaintiffs demurrei'jto the defendants plea in abatement. The matter pleaded in abatement was a var\u00eden ce between the writ of summons and a copy of the summons served upon the defendant. This was no ground for abating the action; at most it was an indirect attack upon the sheriff\u2019s return. If the sheriff had not, in fact, served the defendant with a true copy of the writ, and had falsely returned a valid service, it might become the subject of inquiry upon a direct proceeding against him for a false return, but was no ground whatever for abating the writ. Hughes vs. Martin, 1 Ark. Rep. 386. The plea should have been stricken out! There was no necessity for demurring to it, but the objection by demurrer was also good. An issue-upon it, if tendered, would, in fact, have settled nothing beyond a question of service.\nThe second ground is that after a judgment by default and upon inquiry of damages before the jury, the defendant was dened the privilege of cross-examining the witnesses introduced to establish the amount of damages sustained.\nIn this we think there was error. By failing to appear and. defend, or after having appeared and pleaded in abatement, the failure of the defendant to plead in bar, was a confession of the plaintiff\u2019s right to recover damages, and although after such default or failure to plead, the defendant could not be heard to deny that some damages were recoverable, still, it was not an admission of any particular amount of damages. If so, there would be no necessity for a writ of inquiry of damages; and although we have not found any adjudicated case settling the practice in such cases, we can see no good reason why the defendant should be deprived of his right to cross-examine the witnesses introduced by the plaintiff upon the trial of the inquiry of damages, in order to show truly what damages had been sustained.\nIn this case we do not know what the question intended to be asked was, nor do we know the range of enquiry indulged upon the examination in chief. The opinion of the court would seem to deny all cross-examination, irrespective of the nature or extent of the enquiry. Without, therefore, knowing what the particular state of case was, or intending to be understood as deciding that any and all evidence, which, under proper issues formed, would tend to lessen the amount of damages, may be offered by the defendant upon an inquiry of damages, under the state of case pre sented we think the Circuit Court erred in refusing the defendant permission to cross-examine the plaintiff\u2019s witnesses. And for this error the judgment of the Circuit Court must be reversed, and the cause remanded.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "English, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Thompson vs. Haislip.\nA variance between the summons and the copy served upon the defendant, is no ground for abating the writ; and a plea in abatement for such cause should be stricken out; though the plea may be met by demurrer.\nA judgment by default after demurrer sustained to a plea in abatement, is an admission of the plaintiff\u2019s right to recover damages, but not as to the amount of damages ; and upon a writ of inquiry the defendant has a right to cross-examine the plaintiff\u2019s witnesses.\nError to the Circuit Court of Ouachita county.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nEnglish, for the plaintiff."
+  },
+  "file_name": "0220-01",
+  "first_page_order": 220,
+  "last_page_order": 221
+}

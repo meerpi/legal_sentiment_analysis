@@ -1,0 +1,282 @@
+{
+  "id": 1862635,
+  "name": "Ryburn vs. Pryor",
+  "name_abbreviation": "Ryburn v. Pryor",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "505",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "24 Pick. 196",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2069261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/41/0196-01"
+      ]
+    },
+    {
+      "cite": "2 Dev. 179",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        11276471
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/13/0179-01"
+      ]
+    },
+    {
+      "cite": "11 Ark. 262",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Conn. 502",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Wend. 144",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2151897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/21/0144-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 132",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Conn. 247",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754619
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/3/0247-01"
+      ]
+    },
+    {
+      "cite": "3 Dev. 340",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        8693833
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/14/0340-01"
+      ]
+    },
+    {
+      "cite": "3 Yerg. 60",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        8542277
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/11/0060-01"
+      ]
+    },
+    {
+      "cite": "2 Hawks. 183",
+      "category": "reporters:state",
+      "reporter": "Hawks",
+      "case_ids": [
+        11276100
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/9/0183-01"
+      ]
+    },
+    {
+      "cite": "2 Call. 275",
+      "category": "reporters:state",
+      "reporter": "Call",
+      "case_ids": [
+        6715664
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/6/0315-01"
+      ]
+    },
+    {
+      "cite": "5 Pick. 410",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2033217
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/22/0410-01"
+      ]
+    },
+    {
+      "cite": "9 Wend. Rep. 472",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2011144,
+        2011182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/9/0472-01",
+        "/wend/9/0472-02"
+      ]
+    },
+    {
+      "cite": "3 J. J. Marsh. 717",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "case_ids": [
+        8524032
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/26/0717-01"
+      ]
+    },
+    {
+      "cite": "2 John. Rep. 282",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Cow. Rep. 83",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Wend. Rep. 235",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Ark. Rep. 122",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Johns. Rep. 234",
+      "category": "reporters:state",
+      "reporter": "Johns. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Dana Rep. 233",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Litt. Rep. 14",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "case_ids": [
+        6806400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/13/0014-01"
+      ]
+    },
+    {
+      "cite": "4 Bibb Rep. 270",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6404548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/7/0270-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 903,
+    "char_count": 20357,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 3.137229141013764e-07,
+      "percentile": 0.8616539033742894
+    },
+    "sha256": "ddbe3138784f723e33f3869b66716d4c23dc7c07319d738199d398d5b9f9f303",
+    "simhash": "1:89bff0580662a582",
+    "word_count": 3608
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mr. Chief Justice Watkins, and",
+      "jMr. Justice Scott, not sitting."
+    ],
+    "parties": [
+      "Ryburn vs. Pryor."
+    ],
+    "opinions": [
+      {
+        "text": "Strain, Special Judge,\ndelivered the opinion of the Court.\nThis is an action of trover from the Hempstead Circuit Court, instituted by Pryor against Ryburn, for a negro woman and her two children. There was verdict, and judgment for the plaintiff, motion for new trial, which was overruled and Ryburn appealed to this court.\nFor the purpose of establishing his claim to the negroes, Pryor proved in the court below, that in the year 1826, he was married to Martha Ann Ryburn, the sister of the defendant and the daughter of Matthew Ryburn, in the State of Tennessee; and that Matthew Ryburn gave the negro woman to Pryor after the marriage: and that some time afterwards, when the negro was about to be sold for Pryor\u2019s debts, Matthew Ryburn expressly refused to forbid the sale, saying that he had given the negro to his daughter,. Mrs. Pryor; and that Pryor held continued possession of her until 1835 or 1836, with the exception of a year or two about 1830, when Pryor\u2019s father held the negro in possession. In the fall of 1836, Matthew Ryburn removed from Tennessee to Texas, and on his way received the negro woman from Pryor and took her to Texas with him, Pryor furnishing her with a horse to ride. On the road to Texas Matthew Ryburn called her Pryor\u2019s negro. She was hired for the year 1837, as Pryor\u2019s negro, with the rest of his negroes. In the year 1838, Pryor and his father-in-law made a crop together, and the negro woman was put in as Pry- or\u2019s property with his other negroes, and Pryor received one-third of the crop. They continued thus to live and crop together till about February, 1843, when Matthew Ryburn, having moved away, sent his son, Montgomery Ryburn, who came with a gun and took the negro woman forcibly from Pryor. After this, Matthew Ryburn kept the negro in possession till the 1st January,. 1844, when he executed a bill of sale for her and her child Maria, to the defendant, for $750, and delivered them to him Since 1826 the negro woman has had three children, now in possession of the defendant. Pryor also introduced a witness to prove that in 1837 or 1838, Matthew Ryburn declared more than once that the negro woman was the property of Pryor or Pryor\u2019s wife. The competency of the evidence of this witness was objected to by Ryburn, but overruled by the court and the evidence permitted to go to the jury.\nAnother witness stated in his depositions: \u201cThat E. L. Pryor continued to hold said negro as his property, till the year 1830, when I as constable levied an attachment on her as E. L. Pry or\u2019s property in favor of Sami. Pryor as will more fully appear by the transcript from the Comity Court of Montgomery county, Tennessee, hereto annexed,, marked A., which is made part of this deposition. My recollection is that at the sale of the negro above named under said attachment, Sami. Pryor, the father of plaintiff, purchased the said negro girl. He took her into possession and retained possession for some time, and sent the negro to E. L. Pryor, who had removed to the Western District of Tennessee. I think this was in 1831 or 1832,1 am not certain which.\u201d\n\u201cAttached to this deposition was what purported to be a transcript containing, First: A copy of a writ of attachment, issued out of and returnable to \u201cthe County Court of Pleas and Quarter Sessions,\u201d of Montgomery county, Tennesse, dated 20th January, 1830, commanding E. L. Pryor to be attached to answer the complaint of Sami. Pryor; Second: Copy of affidavit of indebtedness-by Sami.. Pryor, sworn to the same day before Charles Barby, a justice of the peace, who issued and signed the writ: Third, Attachment bond of Sami. Pryor and surety; Fourth: Return on the writ; showing levy, after levy of other attachments in favor of Hynes & Slaughter, upon many articles of personal property, Pryor\u2019s interest in 80 acres of land, \u201cone negro girl, Julia,\u201d and \u201cone negro boy, Armstead.\u201d Levy endorsed as made 20th Jan uary, 1830. Fifth. Judgment in favor of Sami, Pryor vs. E. L. Pryor, for $1,427 50, and a memorandum that execution issued to the sheriff of Montgomery county, on the 5th of August, 1830, but had not been returned.\u201d\nRyburn then offered to prove by a witness that his father, Matthew Ryburn, had frequently on various occasions declared in. 1842 and 1843, that he had merely loaned the negro woman to. Pryor, and that Pryor had often re-delivered her and acknowledged the loan. The testimony was objected to and rejected by the court.\nPryor objected to all testimony as to the statements of Matthew Ryburn since 1826, offered to show that he had only loaned the negro to Pryor..\nThe following instructions to the jury were asked by Pryor and given by the court, and excepted to by Ryburn:\n1st. That the measure of damages was the value of the property at the time of conversion, and interest thereon at six per cent.\n2d. That taking a bill, of sale for the negro, assuming and claiming ownership, acting as owner and denying Pryor\u2019s claim, constituted a conversion; and no demand was necessary.\n3d. That a bill of sale is not necessary to pass the title to negroes, but they may as weU pass by delivery; and a. gift accompanied by actual deliveryjmd subsequent peaceable possession can no more be revoked i^R a sale.\n4th. That as to the valujpf the woman and child, the defendant not having produced tfin, and shown them not to be of the best quality, the jury mayTairly presume the strongest against him, and make the highest value proven the measure of damages.\u201d\nAmong other instructions asked by Ryburn and given by the court, the three following were objected to by Pryor and excluded by the court, to which Ryburn excepted:\n1st. \u201cThat if the jury-^\u00c9felieve from the evidence that Matthew Ryburn held and retained possession of the negro slaves sued for, as his own property and claimed them as such, the jury are bound to find for the defendant, unless there was some instrument of writing duly recorded, showing that the title was not in said Matthew Ryburn.\u201d\n2d. \u201cThat if the jury believe from the evidence that the negroes in controversy, before the alleged sale, were merely loaned by Matthew Ryburn to Pryor, temporarily, with the right to reclaim them at any time, no sale under execution or otherwise, or process against Pryor, would alter, take away, or destroy the rights of Ryburn, unless he (Ryburn), so concealed such loan as to enable Pryor, by using the property as his own for a length of time, to acquire credit on the strength of that possession of the property. But if there was no such concealment on the part of Ryburn, either actual or constructive, he might reclaim the property after such sale, to the same extent as before, whether the property remained in the hands of the purchaser at such sale, or in the hands of a subsequent purchaser.\u201d\n3d. \u201cThat the sale in Tennessee, if any such sale and subsequent gift took place, (and the jury are to determine from the evidence whether any such sale or gift took place) in no respect changed the attitude of Ryburn and Pryor, in regard to the property.\u201d\nRyburn filed his motion for new trial on the ground,\n1st. The admission of irrelevant and incompetent evidence for plaintiff; 2d, The exclusion of projK- and competent evidence offered by the defendant. 3d, Giv jBPimproper instructions for the plaintiff. 4th, Refusing instrucW asked by the defendant! 5th, Verdict contrary to instructioiw 6th, Verdict contrary to law and evidence. 7th, Verdict ex(0t ve and unwarranted by proof. This motion the court over'. s <\u25a0., and Ryburn took his bill of exceptions.\nIt appears from the bill of exception hat Ryburn filed \u00e1 plea of the statute of limitations of three years, in bar of the action, which, on motion of the plaintiff was stricken from the files, to which the defendant excepted. ife-\nist. The court below, in striking from the files the defendant\u2019s plea of the statute of limitations of three years, committed no error. We think it clear the period of three years does not apply to an action of trover. This case does not come within section 6, of the Revised Statutes, in relation to limitations. \u201cTrover is not an action ior taking or injuring goods or chattels. It goes on the ground of a finding and conversion.\u201d The defendant having filed his plea of five years in bar, the plea applicable to this case, the court decided correctly, in striking the other plea of three years from the files.\n2d. It appears that during the trial, the plaintiff, to prove the gift of the negro, offered the declarations of the donor made subpequent to the alleged gift, but before the donor parted with his interest to the defendant. The defendant, in order to rebut this, and to show that the negrb was merely loaned and not given, offered the declarations of the donor made during the same time. The court below received as evidence the declarations of the donor in favor of the plaintiff and rejected his declarations offered in behalf of the defendant. The principle is well established, by repeated adjudications, that although a man\u2019s declarations are not evidence for him, they are evidence against him, andhis subsequent vendee must abide those declarations. If the plaintiff had relied alone on the evidence of the gift and delivery of the negro, without resorting on his part to the subsequent declarations of the donor, although competent for him to do so, the declarations of the donor offered by the defendant against the plaintiff ought to have been rejected. But as the plaintiff thought proper to resort to the declarations of the donor to ascertain his intention, that testimony like every other ought to be given entire. We therefore think the court erred in excluding the declarations of the donor offered by the defendant in this case. But in as much as the court did permit the defendant to prove by John W. Ryburn and Montgomery Ryburn, the subsequent declarations of the donor against the plaintiff, in substance the same as that rejected, we think the case should not be reversed for this error. Sims vs. Sanders, 1 Harp. R. 374. 1 Bailey\u2019s R. 113, 116.\n3d. Although the copy of a writ of attachment, the affidavit, attachment bond, the return on the writ showing the levy and judgment, made an exhibit in the deposition of Jenkins, are no evidence of the legality of the proceedings therein contained, or of the validity of the subsequent sale of the negro under them^ yet as facts or circumstances connected with the acts and declarations of the donor and in relation to which they took place, we think was good evidence to prove the negro was given and not loaned, and for this purpose it was competent.\n4th. The four instructions asked and given on the part of the plaintiff, we consider substantially the law. The only doubt that can reasonably arise is as to the 4th instruction, the substance of which is, \u201cthat the jury might make the highest value proven the measure of damages.\u201d This we take to be the law.\n5th. The first instruction asked and excluded on the part of the defendant is clearly erroneous. An instrument in writing' has never been held necessary to pass the title to negroes.\n6th. The second instruction asked and excluded on the part of the defendant was also erroneous. For the reason that the title of the lender might be divested in more ways than the \u201cperson in possession obtaining credit on the strength of the property,\u201d as for instance, standing by and encouraging the sale of his pro* perty. The court, therefore, correctly excluded it.\n7th. The 3d instruction asked and excluded on the part of the defendant was likewise erroneous. For the reason that the sale, taken in connection with the admissions and acts of the donor, was evidence of the fact that the negro had been given and not loaned. Otherwise the sale and all the proceedings connected therewith would have been irrelevant and should have been excluded. The instruction, therefore, was not applicable, and therefore properly excluded-\nThe only remaining question to be considered is as to the amount of damages given by the jury.\nOne witness testified that he knew the negro woman in 1841 1842- \u2014 -thinks she had one child, and they were worth about $800, Another witness testified that he owned negroes and knew the value of them; and that the negro woman and her child in 1844, were worth $1300. Another testified that in 1844 the negro wor snqn was worth $650, or $700, and her child $300. Montgomery Ryburn testified that at the time of the trial the negro woman and her three children were worth about $1250.\nThe jury, at the May term, 1852, rendered a verdict for $1875. Upon this evidence we think the verdict of the jury might wel} be sustained.\nJudgment affirmed with costs.\nMr. Chief Justice Watkins, and\njMr. Justice Scott, not sitting.",
+        "type": "majority",
+        "author": "Strain, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Fowler, for the appellant.",
+      "Pike, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Ryburn vs. Pryor.\nThe limitation, m the action of trover, is five years, and not three years: a plea of limitation of three years was therefore properly stricken from the files.\nWhere a plaintiff, in an action of trover against the vendee of a donor, resorts to the declarations of the donor subsequent to the gift, to prove that he had given and not loaned property to his child, ho thereby makes all the declarations \u2022 of the donor evidence \u2014 as such declarations ought to be given entire.\nBut though the court improperly reject such declarations, yet if other declarations be given in substance the same as that rejected, this court for such cause will not reverse the judgment.\nThe copy of a writ of attachment, &c,, though not evidence of the legality of the proceedings or of the validity of sale under them, may be competent, as facts or circumstances connected with the acts and declarations of the donor to prove that the property was given not loaned.\nThe measure of damages in an action of trover is the value of the property at the time of conversion, and interest thereon; and taking a bill of sale for property, claiming to be and acting as owner and denying the plaintiff\u2019s claim is a conversion, and renders a demand unnecessary.\nA bill of sale is not necessary to pass the legal title to negroes; and a gift accompanied by delivery and subsequent peaceable possession, can no more be revoked than a sale.\nThe title of a lender of property may be divested by his standing by and encouraging the sals of it as the property of the person to whom it was loaned.\nAppeal from the Circuit Court of Hempstead county.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nFowler, for the appellant.\nThe declarations and statements of a grantor or assignor, in relation to his title to the property, whether real or personal, made whilst he is in possession and before he parts with his title, are good evidence not only against himself, but against those who claim under him; yet if made after he has parted with the possession, they cannot be used as evidence at all. Carrell vs. Early, 4 Bibb Rep. 270. Sharp vs. Wickliffe, <fc., 3 Litt. Rep. 14. Baker vs. Dobyns, et al. 4 Dana Rep. 233. Jackson vs. Bard, 4 Johns. Rep. 234. Gullett and wife vs. Lamburtin, 6 Ark. Rep. 122. Sower lye vs Arden, I John. C/i. Rep. 358. Turpin vs. Marksberry,3 J J. Marsh. Rep. 627. Abbey vs. Kvngland, Sf Co. 10 Ala. Rep. (N. S.) 360. Van Dyne vs. Thayre, 14 Wend. Rep. 235. And if admissions, made by the grantor or assignor after be had parted with the possession, be admitted in favor of the grantee, the admissions and declarations so made, should be admitted as evidence against him.\nIn trover a jury may give as damages, the value of the property at the time of the conversion with interest thereon; or they may give as damages the highest value of the property at any time from the conversion to the verdict: but the usual damages allowed is the mere value of the chattel. West vs. Beach, 3 Cow. Rep. 83. Story on Con. Sec. 722. Wilson vs. Conine, 2 John. Rep. 282. Beals vs. Guernsey, 8 ib. 453. 2 Saund. PI. Sp Ev. 887. And the instructions in this case were objectionable, because the first instruction assumes that \u201cthe true rule of damages\u201d is the value at the time of the conversion with interest, and the fourth is that the measure of damages is the highest value proven, without any reference to the time of the value, whether at the conversion or afterwards: from which instructions the jury might have found the highest value proven, some time after the conversion, with interest from the date of the conversion; The instruct tions were then calculated to embarrass and mislead the jury; and in such case a new trial ought to be granted. Cain vs. Cain, et al., 1 Ben. Mon. 213. Yocum vs. Polby, ib. 360. Breckenridge vs. Anderson, 3 J. J. Marsh. 717.\nThe court erred in striking out the plea of limitation of three years. Although the conversion is the gist of the action of trover, it lies for taking chattels wrongfully or tortiously, wherever trespass for a taking would lie. 2 Saund. PI. Sp Ev. 869, 881. 9 Wend. Rep. 472: and by our statute in \u201call actions for taking or injuring any goods or chattels,\u201d the limitation is three years. Ark. Dig.p. 696, sec. 7.\nPike, for the appellee.\nThe declarations or admissions of Matthew Ryburn, made after he delivered the negro to Pryor, and before he sold to the defendant, were admissible in favor of Pry- or, to show that the negro was given and not merely loaned to him. Cow. Phill. 656. Waring vs. Warren, 1 J. R. 340. Strong vs. Wheeler, 5 Pick. 410. Marks vs. Barker, 1 Wash. C. C. R. 185, n. A. Walthol vs. Johnson, 2 Call. 275. Jonson vs. Patterson, 2 Hawks. 183. Cowle vs. Harrington, 7 Ear. Sp John. 147. Stewart vs. Gheatam, 3 Yerg. 60. Forsyth vs. Keakboam, 7 Mem. 99.\nBut his statements, made years after the delivery, claiming the property as his own, and offering to prove that there was only a loan, and not a gift to Pryor, were not admissible against Pryor in favor of the defendant. Sasser vs. Herring, 3 Dev. 340. Wilson vs. Woodruff, 5 Misso. 40. Of course all declarations made at one and the same time must be taken together, but except in such case, the broad rule is \u201cthat in no case are the declarations of the grantor, vendor, &c., as declarations, evidence for those claiming under him. Waring vs. Warren, 1 /. R. 340; Enos vs. Tuttle, 3 Conn. 247.\nThere can be no manner of doubt that the court laid down the true rule as to damages, in trover, for property of the nature of that in question here. Sedgwick on Damages, 517. Stevens vs. Low, 2 Hill, 132. Briszee vs. Maybee, 21 Wend. 144. Barry vs. Bennett, 7 Mete. 354. White vs. Webb, 15 Conn. 502. Jacobs vs. Lanussat, 6 Serg. dp R. 350. Dillenback vs. Jerome, 7 Cowen, 294 The rule of damages in such case as this is a pure question of law, and is the value at the time of conversion and interest.\nThat the taking by the defendant \u00f3f a bill of sale, acting as owner, claiming ownership and denying Pryor\u2019s claim, amounted to a conversion and prevented the necessity of a demand, has been settled by this court in Prater vs. Frazier, 11 Ark. 262. Beebe vs. DeBaun, 8 id. 564.\nThe defendant not having produced the property and shown them not to be of the best quality, the jury might fairly presume the strongest against him, and take the highest value proven, as the measure of damages. Amony vs. Delamire, 1 Str. 505.\nWhere one loans property by parol a purchaser from the party in possession can get a good title as well where the lender stands by and sees the property sold without objection, or the party in possession dealing with it as his own, as where he conceals the fact of the loan and so gives the holder credit on the strength of the property. Pickard, vs. Sears, 6 Ad. dp Ellis, 474. 1 Story Eq. sec. 385. Nicholson vs. Hooper, 4 Mylne dp Craig, 179. Bird vs,. Denton, 2 Dev. 179. Governor vs. Freeman, 4 id. 472. Smith vs,. Cudworth, 24 Pick. 196. Dewey vs. Field, 4 Mete. 381.\nThe testimony of the constable who sold the property under an execution in attachment, was not offered to prove a legal judicial sale, sufficient to pass title to the purchaser. There was no such question in the case. It was offered to rebut the testimony of Ryburn; as proving an additional fact inconsistent with the hypothesis of a loan. It was unimportant whether the sale was legally made or illegally; under an execution or without. The testimony was offered, not to prove title, but to prove the conduct and the tacit and express admissions of Matthew Ry-burn. *"
+  },
+  "file_name": "0505-01",
+  "first_page_order": 505,
+  "last_page_order": 514
+}

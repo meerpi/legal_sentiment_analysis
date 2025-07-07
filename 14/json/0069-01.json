@@ -1,0 +1,139 @@
+{
+  "id": 1862625,
+  "name": "Ringgold vs. Waggoner",
+  "name_abbreviation": "Ringgold v. Waggoner",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "69",
+  "last_page": "76",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 69"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Hill, 424",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Paige 215",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2050465
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/4/0215-01"
+      ]
+    },
+    {
+      "cite": "6 Humph. 509",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        11268243
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/25/0509-01"
+      ]
+    },
+    {
+      "cite": "5 Mon. 484",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Paige 87",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2054743
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/7/0087-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 301",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034818
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/7/0301-01"
+      ]
+    },
+    {
+      "cite": "8 Paige 417",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        480801
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/8/0417-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 672,
+    "char_count": 15293,
+    "ocr_confidence": 0.477,
+    "pagerank": {
+      "raw": 6.730352618551962e-07,
+      "percentile": 0.9631302828852184
+    },
+    "sha256": "7d78b64560ef8ede04d700c694c562ee8e780917bbf784be735ec3337e778f26",
+    "simhash": "1:058182a4294cccef",
+    "word_count": 2727
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ringgold vs. Waggoner."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe appellant, who was the complainant below, exhibited his bill in chancery against John Waggoner, Edmund P. Waggoner, Edwin T. Burr and William Hooper, setting forth that he, being the assignee and owner of an obligation made by John W., for the payment of money to certain persons to whom he was justly indebted, dated the 1st of January, 1841, and the same remaining due, and unpaid to the complainant, he, on the 3d day of January, 1844, instituted suit to recover the same against John W. on the law side of the Independence Circuit Court, the process being returnable to the ensuing term,holden on the IstMonday in February, and on the 12th of February, 1844, a day of that term, the complainant recovered judgment in his .action at law, against John W- for the amount of the debt and damages then in suit: that on the 27th day of January, 1844, and while the action at law was pending, John W. who was the owner of a certain tract of land in that county, on which he resided, executed his deed of that date, conveying absolutely the land in question to Edmund P. for the consideration therein expressed, and acknowledged to have been received, of $400, which deed was acknowledged by the grantor, and filed for record, on the 30th of the same month. That this conveyance was fraudulent and without consideration, and contrived between John W. and Edmund P. to hinder, delay and defraud the creditors of John W. and among them the complainant, whose suit was then pending, and at the same time and with the like intent, John W. gave a bill of sale absolute on its face, to Edmund P. of all his stock of horses, cattle, farming utensils and household furniture, for the nominal consideration of four hundred and twelve dollars, no part of which was paid. That these conveyances were fraudulent and void as against the complainant, and that the judgment at law, obtained by him, became and continued to be a lien upon the land in question as the property of John W.\nThat on the 24th of October, 1844, the defendant, Burr, procured a conveyance to him for the land in controversy, from Edmund P. for the consideration expressed, of six hundred dollars paid to him by Burr, which deed was acknowledged by Edmund P. and filed for record on the day of its date. That before Burr obtained this deed, the complainant notified him of the judgment he had obtained against John W., which was a lien upon the land in question by reason of the fraudulent conveyance from John W. to Edmund P., and that he. intended to have the land sold under his judgment as the property of John W., and that Burr, in other ways, had notice that the conveyance from John W. to Edmund P. was fraudulent and without consideration. That if Burr paid, or agreed to pay any thing as the consideration for the conveyance from Edmund P. to him, it was solely for the benefit of John W., and that in obtaining such deed he had colluded with the other defendants to enable John W. to hinder and delay his creditors. That the judgment at law in the complainant\u2019s favor remaining unsatisfied, on the 19th day of June, 1845, he caused execution to be issued thereon, returnable to August term following, which was levied upon the land in question as the property of the defendant, John W., which being duly advertised was exposed to sale by the sheriff under such execution, and the complainant became the purchaser, and the same was duly conveyed to him by sheriff\u2019s deed, dated, acknowledged, and recorded on the 19th of August, 1845. That, afterwards, the complainant obtained peaceable possession of the land in controversy, and the defendant, Hooper, acting under the authority of Burr, intruded himself into the possession, and withheld it from the complainant. A transcript of the judgment at law, execution and return, the deed from the sheriff to complainant, and copies of the deed and bill of sale from John W. to Edmund P., and of the deed from Edmund P. to the defendant, Burr, are made exhibits to the bill, which prays that the conveyances from John W. to Edmund P. and from him to Burr, be canceled as fraudulent, that the possession of the land be restored to the complainant, and his title thereto established and quieted, and for an account of the rents and profits against Burr and Hooper. A decree pro confesso was taken against the Waggoners and Hooper, and the cause was heard on the bill and exhibits, the answer of Burr, replication and the depositions on file. The court below being of opinion that the complainant had failed to show himself entitled to \"the relief prayed, dismissed the bill.\nUpon the facts proved, the fraudulent character of the conveyance from John W. to Edmund P. becomes transparent. The grantor was a man of family, involved in debt beyond his means, had been sued in a number of cases ; the grantee was his son, a young man without property, or credit, unless to a very limited extent, who was then living with his father, as a member of his family, and continued to live with him while he remained in the country; the deed was absolute, but no apparent change of ownership took place in the property, and John W. continued in possession as before, from the time of the conveyance to his son, until he abandoned the place subsequent to the purchase of it by Ringgold, under execution. No money was paid, either for the land or personal property, but it seems to have been the understanding that the sales were made to Edmund P. for the purpose of paying the debts of John W. The debts were not specified; and it does not appear that the grantee ever paid a cent. The deed for the land acknowledged the receipt of the consideration* when it had not been paid, and the grantor took no note or obligation for its payment. Besides these unmistakable badges of fraud, which, before a court of chancery passing upon the facts proven, are conclusive as to the fraudulent intent, there is proof of other circumstances, the cotemporaneous acts and declarations of the parties to these conveyances, all conducing to show that their intention was to prevent the creditors of John W. from taking his property in execution ; and the inevitable effect of the whole transaction was to hinder and delay his creditors.\nSuch being the conclusion of fact, it follows that the conveyance from John W. to Edmund P. as against the complainant, was void, and the judgment, subsequently obtained by him, became a lien upon the land as the property and estate of the fraudulent grantor, and the complainant, by his purchase of the land under execution, acquired a valid title to it as against the parties to the fraudulent conveyance!\nThe only question in the case is whether the defendant, Burr, is entitled to be protected as an innocent purchaser. Although the defence is informally set up, yet taking all the allegations of the answer together and in order to arrive at what appears to be the merits of the cause, we shall make no question here whether the answer is sufficient to let in proof of every substantial fact necessary to- constitute Burr an innocent purchaser. But there are some other statements in the answer that are to be considered in connection with the proof. Burr admits that after his purchase, and after the deed from Edmund P. to him had been filed for record, the complainant, Ringgold, notified him that he had a judgment against John W., which was a lien upon the land in question, and he intended to have it sold under it, and that the sale from John W. to Edmund P. was fraudulent and without consideration, &c., and he goes on to state that supposing what the complainant said was true, and that the judgment spoken of was a lien, he told the complainant that if such was the case, he would not contend for the land, and would do nothing the law did not sustain him in. That in a day or two afterwards, he saw Edmund P. and informed him of what the complainant had said, when Edmund P. earnestly denied all attempts or design, to defraud the complainant, and gave a narrative of the transaction, which, it would seem from the answer, was the first information Burr had of it, and was, in substance, that the conveyances from his father to him were fair, and that he was to pay the debts of his father as the consideration for them, that his father wished to prefer other creditors to the complainant, whom he did not acknowledge as a creditor, and did not intend to pay him unless compelled to do so, because that debt, or a large portion of it had been paid, for which no credits had been given! Burr states that he then took legal advice, and upon investigation became satisfied that the conveyance from John W. to Edmund P. was fair, that the complainant\u2019s judgment was not a lien, and determined that ho would endeavor to hold the land under his purchase from Edmund P., and immediately notified the complainant that such was his intention. It must be inferred from the answer that the defendant means to say that all the information he had of the character of the conveyance from John W. to Edmund P., that the former was indebted, and that the latter had no means, was obtained after his purchase from Edmund P. was complete. He states further, that he paid, as part of the consideration a debt of Edmund P. to the State Bank, at Batesville, of about $400 and to Edmund P. about $280, and also transferred to him an account against his father for $60.\nNumerous depositions on behalf of both parties were read in the cause, and excluding all the evidence that might have been objectionable, and regarding it in the most favorable light for the defendant, Burr, it does incontestibly prove the following facts : That Burr made two distinct contracts for the land in question and took two conveyances for it from Edmund P., within a few days of each other. That the first contract and conveyance were canceled, and at Burr\u2019s solicitation the money, about $40, which he had paid to Edmund P. on the purchase, was refunded to him! That the reason why the first contract was so canceled was, that B\u00fcrr had heard of Ringgold\u2019s judgment against John W. and his claim upon the land in consequence of the alleged fraqd, and had become dissatisfied with the purchase. That before he purchased ho was informed of Ringgold\u2019s claim to the land. That Edmund P. had not paid or assumed any debt for John W. in the \u2018Bank: that Burr paid Edmund P. $100 and not exceeding that sum; that he undertook to paya part of .the consideration by substituting his note in Bank for the indebtedness of John W., and as the residue of the consideration Edmund P. took up the indebtedness of John W. to Burr, amounting to about $300. That John W. was, and had been for some time previous, notoriously insolvent; and that Edmund P. was destitute of means, that John W. was all the while in possession of the land and personal property, using it at his own; that all the parties lived in the same vicinity, and that Burr had full opportunity for being-apprised of all the circumstances material for him to know.\nLeaving out of view the positive proof of notice brought home to Burr, by at least two witnesses, we should be forced to the conclusion, from other circumstances in proof, that he had sufficient notice to have put him upon enquiry as a man of ordinary prudence and experience in business transactions; and when the means of information are afforded to a party, he will not be allowed to protect himself by the want of notice, because he did not choose to be informed.\nIn a case involving no doubtful questions of law, and upon proofs apparently so plain we cannot hesitate to decide that the decree here appealed from is erroneous. The judgment of this court will be that the decree be reversed, and the cause remanded, with instructions to the Circuit Court to decree in favor of the complainant, that the conveyance for the land in controversy from John W. to Edmund P. Waggoner, and the conveyance for the same from him to the defendant, Burr, are void as against the complainant, and that the same be canceled; that the defendants surrender the posssession of the land to the complainant, and that his title thereto be as against them confirmed and quieted; that the defendants, Burr and Hooper, pay the complainant the value of the rents and profits of the land from the time it is shown to be in their possession at any time after the complainant\u2019s purchase of the same under execution; and that the Circuit Court direct an account to be taken of such rents and profits, unless satisfied to decree the same upon the proofs already taken.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Byers & Patterson, for the appellant, contended",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Ringgold vs. Waggoner.\nAn insolvent debtor, sued in a number of cases, conveys absolutely all his land and personal property to his son, a young man without property, and a member of his family, for a consideration expressed, but not paid or in any manner secured, and remains in possession: these are unmistakable badges of fraud, and in a court of chancery are conclusive of a fraudulent intent to hinder and delay creditors.\nAnd under such circumstances a judgment afterwards rendered against the grant- or was a lien upon the lands so conveyed : and a purchaser of the land under execution on the judgment, acquired a valid title to it, as against the parties to the fraudulent conveyance.\nA purchaser from a fraudulent grantee, having sufficient notice to have put him upon enquiry, as a man of ordinary prudence and experience in business transactions, will not be allowed to protect himself by the want of notice, as an innocent purchaser. \u2022\nAppeal from the Circuit Court of Independence county in Chancery.\nThe Hon. W. C. Scott, Circuit Judge, presiding.\nByers & Patterson, for the appellant, contended\n1st. That John Waggoner was indebted to the appellant, and while so indebted and after suit brought, but before judgment, being in failing circumstances, conveyed all his lands and personal property to his son, Edmund P., who was a member of his family and insolvent, for the purpose of hindering and delaying his creditors ; and such conveyance was void as against creditors. Reid vs. Emery, 8 Paige 417. Edgall vs. Lowell, 4 Term. Rep. 405, cited 4 Kent\u2019s Com. 464, note. Jackson ex. dem. Merrit vs. Serry, 13 J. R. 4711 Jackson ex. dem. Van Bur\u00e9n vs. Meyers, IS J. R. 4251 20 J. R. 5, 7 Cow. 301. Ib. 732 9 lb. 73 7 Paige 87. 9 Sml \u00bfp Mar. 192.\n2d. That the judgment obtained by the appellant against John W. WaearoneiL was a lien on all the lands conveyed under such circumstance to Edmund P., his son. 5 Mon. 484. Sands vs. Codwise, 4 J. R. 536. 2 Walls, cited 4 Kent's Com. (5 ed.) 464, notea. Trottenvs. Watson, 6 Humph. 509. 2 Kelly 1. 11 Sm. \u00bfy Mar. 469. 4 Ri56 166, 232.\n3d. That the purchase of the land by Burr, after the rendition of the judgment, with notice of the fraudulent convej'-ance, was void as to Ringgold. Dickinson vs. Tillinghast, 4 Paige 215. Gouvcrneur vs. Lynch, 2 Paige, 300. 2 Story's Eq. sec. 1502, note 2. 4 Hill, 424. Hard. Ch. PI. cy Pr. 775, 818, 819.\n4th, That Burr was a purchaser with notice of the fraud, is fully proven by the testimony; but if there was such doubt as to put a prudent man upon enquiry, it is sufficient. Story's Eq. 400. 10 J. R. 347. \u2022 Sug. oh Vend. ch. 17, sec. 2. 1 /. G. R. 264 4 lb. 38.\nFowler, contra."
+  },
+  "file_name": "0069-01",
+  "first_page_order": 69,
+  "last_page_order": 76
+}

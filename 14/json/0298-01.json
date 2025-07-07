@@ -1,0 +1,68 @@
+{
+  "id": 1862679,
+  "name": "Bankhead, ex. vs. Hubbard, et al.",
+  "name_abbreviation": "Bankhead v. Hubbard",
+  "decision_date": "1852-07",
+  "docket_number": "",
+  "first_page": "298",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 365,
+    "char_count": 6338,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 5.68518132180156e-07,
+      "percentile": 0.9493933816218629
+    },
+    "sha256": "d6822ce56f6430dcd83eb40ef965e807d8f896cc3e769ca79bac8b44aee30e78",
+    "simhash": "1:91eff425fc3e628f",
+    "word_count": 1085
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J. not sitting."
+    ],
+    "parties": [
+      "Bankhead, ex. vs. Hubbard, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Hempstead, Special Judge,\ndelivered the opinion of the Court.\nThe constitution of this State vests in the Probate Courts such jurisdiction in matters relative to the estates of deceased persons, executors, administrators, and guardians, as may be prescribed by law. Const, sec. 10, Art. 6. The administration law authorizes the clerks of Probate Courts to grant letters testamentary, and of administration, subject however, to the confirmation or rejection of the court {Digest 110), and requires bond from the person to whom letters testamentary or of administration are granted with two or more securities, residents of the county, to the State of Arkansas, in such sum as the court or clerk shall deem sufficient, not less than double the amount of the estimated value of the estate. If the bond is taken by the clerk in vacation, it is subject to the approval or rejection of the court in term time. Digest, 112, 113. And as to securities, it is ^enjoined as a duty to take persons who are solvent and sufficient, and who are not bound in too many other bonds, and testimony may be taken to ascertain these facts. And an additional bond may be required in certain cases, and on failure to give it, the letters may be revoked. Digest 116.\nThese provisions speak for themselves, and are too plain to Require construction or argument. They indicate the general policy of' the act to be to require security in all cases. This security is for the benefit of creditors, heirs, devisees and legatees, and there are but few instances in which it should be dispensed with. Perhaps, in the case of a sole heir or devisee, being appointed executor or administrator, and no debts against atf estate, bond and security need not be given, because waste or mismanagement of the estate would be guarded against by motives of self interest, and in any event could injure no one but himself, and there may be other cases within a similar reason.\nBut the case should be clear, because a doubt in the scale ought to operate in favor of requiring security, that being a general requisition, which the Legislature had the power and thought proper to make. The clerk stands in a different position from the court, and has, in our opinion, no discretion on the subject, and must therefore take bond and security in all cases. His act must pass under the review of the court, and must be confirmed or rejected. The court has discretion, but the clerk none, and his act is merely ministerial/\u2019\nWe are not to be understood as deciding that letters granted without security are absolutely void; because we do not deem the bond a condition precedent to the validity of the letters. We think the statute is directory, and that the court may, in some instances, dispense with security.\nBut in granting, rejecting, or revoking letters, or taking, or dispensing with security, or requiring new security, the Probate Court possesses under the law a large discretion; which will not and should not be controlled by this court, unless there has been such an outrageous abuse of that as to produce manifest injustice. The case must be a strong one to call for our interposition.\nIn this case we regard the action of the Probate Court as entirely proper, and within the scope of its legal authority. But if otherwise, we would not interpose for another reason, which is, that oral testimony might be taken on these investigations; and where, as in the case here, the bill of exceptions fail to show either expressly or by necessary implication, that it contains all the testimony adduced on the investigation or trial, the presumption must be in favor of the judgment. Everett vs. Clements, 4 Eng. 480. Collins vs. McPeak, 4 Eng. 558. That is the settled law of this court, and is directly applicable.\nWatkins, C. J. not sitting.",
+        "type": "majority",
+        "author": "Hempstead, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the appellant.",
+      "Pike fy Cummins, for the appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Bankhead, ex. vs. Hubbard, et al.\nIn granting letters testamentary upon estates of deceased persons, by the Clerk of the Probate Court, in vacation, he has no discretion in any case to dispense with the bond and security required by the statute: but he is bound to require bond and security in all cases \u2014 even where the will directs otherwise.\nBut in granting, rejecting or revoking letters, or taking or dispensing with security, or requiring-new security, the Probate Court has a large discretion, which will not be controlled by this court, unless there is such outrageous abuse of it as to produce manifest injustice.\nWhere the bill of exceptions fails to show that it contains all the testimony adduced on the trial, the presumption is in favor of the judgment, as ruled in Everett vs. Clements, 4 Eng. 480, Collins vs. McPeak, 4 Eng. 558.\nAppeal from Hempstead Circuit Court.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nThe last will and testament of Thomas M. R. Bankhead, was duly probated in vacation, before the clerk of the Probate Court, who granted letters testamentary to the executrix therein named, without requiring bond and security, under the following clause in the will: \u201cLastly, I appoint my beloved wife sole executrix, and direct that she shall not be required to give bond.\u201d\nUpon motion in the Probate Court, by the executrix, to confirm the grant of letters testamentary by the clerk, in vacation, the appellees, as creditors of the estate, appeared and filed their motion, protesting against the confirmation of the letters testamentary, because the same had been granted without bond and security; whereupon the Probate Court refused to confirm the grant of the letters testamentary, because they had been improperly granted by the clerk, and ordered that they be rejected and that the executrix give bond and security : She excepted to the ruling of the Probate Court, and appealed to the Circuit Court, where the judgment of the Probate Court was affirmed, and she again, excepted and appealed to this court.\nArgued and submitted at the July term, 1852.\nWatkins & Curran, for the appellant.\nPike fy Cummins, for the appellee,\ncited sec. 10, Art. 6, Const.; \u00a1ce. 5, ch. 48, Nig., as to the jurisdiction of the Probate Courts, in regal'd to estates : and sec\u2019s. 1,15 and 17, ch. 4 and 16 and 18 ch. 170, as to the power of the clerks of the Probate Courts to take probate in vacation, and their duty to require bonds of the executor or administrator, subject to the confirmation and approval of the court."
+  },
+  "file_name": "0298-01",
+  "first_page_order": 298,
+  "last_page_order": 301
+}

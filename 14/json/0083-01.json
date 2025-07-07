@@ -1,0 +1,66 @@
+{
+  "id": 1862662,
+  "name": "Brown vs. Hutchings",
+  "name_abbreviation": "Brown v. Hutchings",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "83",
+  "last_page": "86",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 362,
+    "char_count": 6662,
+    "ocr_confidence": 0.529,
+    "pagerank": {
+      "raw": 2.6008548580962377e-07,
+      "percentile": 0.8194800160163778
+    },
+    "sha256": "dd39932c474d55812a82a1272f071d6a7107176adeb662f65ac8dd84b046d3e2",
+    "simhash": "1:007174909ea6b5b0",
+    "word_count": 1191
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brown vs. Hutchings."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nOn the 24th March, 1851, Brown sued Hutchings before a justice of the peace, on a note for $31 15, payable the llth day of April, 1845, with interest at the rate of 10 per centum per'annum, from the 8th of September, 1841, and obtained a judgment. Hutchings appealed to the Circuit Court of Pulaski county, and upon aerial de novo judgment was rendered for Hutchings, and Brown appealed to this court, having taken a bill of exceptions to the ruling of the Circuit Court in excluding certain testimony, and for alleged improper instructions to the jury.\nIn the latter court, as well as in the former, non assumpsit and the statute of limitations were interposed, and upon the trial of the issues formed in short by consent, Brown, after having read in evidence the note sued on, proposed, in the language of his bill of exceptions, toread to the jury an- endorsement on the back thereof, in these words : \u201cRec\u2019d two dollars, 59 cents on this note, in recording, &c., in 1848;\u201d and to prove aliunde that said endorsement was made on the note by the plaintiff before it was barred by the statute of limitation; but the court refused to admit such evidence, deciding that an actual part payment must be proved, and rejecting said endorsement, and the testimony proposed by the plaintiff to show that it was made before the note was barred: and upon this decision plaintiff closed his case, excepting to the decision of the court in so excluding such evidence. And thereupon, the defendant offering no evidence, the court told the jury to take the case and find from the face of the note whether it was barred or not, and that they had nothing to do with the endorsement thereon. To all of which the plaintiff excepted.\u201d\nThe endorsement, accompanied with the proposed evidence aliunde, was competent; because it conduced to establish the fact of the alleged part payment. Not that the endorsement of a eredit in any case of itself removes the statute bar; it has no such effect, but it is merely evidence to be considered by the jury among the circumstances going to show an actual part payment. And when proven to have been actually made by the lawful holder of the note, within the statute bar, it is admissible in evidence upon the general ground that at the time it was made, it was against the interest of such holder to make it. Its effect, when so admitted, as has been several times holden in this court, (Wood vs. Wyld, 6 Eng. R. 758. State Bank vs. Wooddy et al, 5 Eng. R. 641) is to make aprima facie case for the plaintiff in the absence of other evidence to repel the presumption raised thereby. If other facts and circumstances shown in evidence repel these presumptions, the plaintiff must necessarily make further proof of the alleged part payment; otherwise he must fail.\nIn the case of The State Bank vs. Woddy et al, those presumptions were repelled, and the prima facie case, which would have been otherwise for the Bank, was overset by the additional testimony, w\u2019hich was introduced in her behalf.\nSo, in any case, if circumstances tending to show that the endorsement was not made Iona fide, appear in the_ evidence adduced on either side, they should always be considered by the jury in coming to their conclusion whether or not an actual part payment was in fact made, as alleged and attempted to be proven by the endorsement, as a medium of evidence. If, for instance, a very small credit endorsed, was proven to have been made the day before the bar was complete on a large debt, this circumstance would be worthy of some consideration by the jury. Like any other fact, it is the especial province of the jury to determine from the evidence adduced before them, whether in such a case the part payment alleged was actually made. If they find that it was made, then in the absence of facts and circumstances in proof to the contrary, they would be authorized to find that it was appropriated by the debtor to the part payment of the debt upon which they had found it was paid. And on this foundation would be authorized to find a promise by the debtor to pay the balance of that debt, which promise, by force of the law removes the statute bar interposed as a defence.\nIn the case at bar we have said that the endorsement in question, accompanied by the evidence aliunde offered, was admissible in evidence, because it conduced to prove the alleged part payment. This is certainly true in the case of a credit endorsed generally, or endorsed as paid in money, and we can conceive of no sound reason why the rule should not apply as well when the payment is endorsed as having been in labor and services, as in property, or in a note of an account, which would otherwise be matter of set off. Because, in either case, to enter a credit within the statute bar would be equally against the interest of the creditor, and it is manifest that, in all these cases, greater facility would be afforded the defendant to repel by proof the prima facie case made against him, as in this case, that Brown did not owe him the amount credited, or that he had never consented to such \u00e1n appropriation of it, than when the endorsement might merely purport to be a credit generally, or one because of the payment of money.\nWe think therefore that the court erred both in excluding the testimony and in giving instructions to the jury.\nLet the judgment be reversed, and the cause be remanded to be proceeded with.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "English, for the appellant.",
+      "Bertranb, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Brown vs. Hutchings.\nAn endorsement upon a note of a part payment in cash or labor, &c., with evidence aliunde that such endorsement was made before the note was barred, and when it was against the interest of the holder to make it, is prima facie evidence of such part payment having been actually made, in the absence of rebutting evidence of facts and circumstances to repel the presumption of such part payment thereby raised.\nAppeal from Pulaski Circuit Court.\nThe Hon. W. H. Feild, Circuit Judge, presiding^\nEnglish, for the appellant.\nPart payment will take a note out of the statute, or form a new point from which the statute will run again ; and it may be established by proving that the holder of the note endorsed a credit thereon before the note was barred, and when it was against his interest to make such endorsement. Alston vs. State Bank, 4 Eng. R. 455 and cases cited.\nBertranb, contra,\nadmitting that part payment will take a ease out of the statute, contended upon the authority of Alston vs. State B,ank, 4 Eng. 455, that it must be shown that the \u201cpart payment was expressly made and appropriated by the debtor,\u201d not merely that the creditor so endorsed such payment."
+  },
+  "file_name": "0083-01",
+  "first_page_order": 83,
+  "last_page_order": 86
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1862719,
+  "name": "Jones et al. vs. State use of Pope County",
+  "name_abbreviation": "Jones v. State ex rel. Pope County",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "170",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Ark. 382",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0382-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 26",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0026-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 50",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728307
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/1/0050-01"
+      ]
+    },
+    {
+      "cite": "5 Ark., 468",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0468-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 323,
+    "char_count": 4818,
+    "ocr_confidence": 0.507,
+    "pagerank": {
+      "raw": 6.3209170177845e-07,
+      "percentile": 0.9584753782942558
+    },
+    "sha256": "ecf3b474dd8068c2f6590c2fa95ddff71506bb8a665763fe1fb9dd30bfed0039",
+    "simhash": "1:8e2b83e4d21bca71",
+    "word_count": 841
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jones et al. vs. State use of Pope County."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis is an action upon a collector\u2019s bond, brought against the sheriff and ex-officio assessor and collector of taxes of Pope county, and his securities. After setting out the bond and condition the breach assigned is, \u201cthat the said John W. Jones did not well and truly collect and pay over the said sum of thirteen hundred and seventeen dollars and seventy-seven cents so ordered to be levied for the purposes of revenue of the said county of Pope,\u201d whereby the said writing became and is forfeited, &c.\nThe endorsement on the writ would show a regular service on the defendants, but it does not appear to be signed by the sheriff. For this apparent diminution a writ of certiorari would be awarded ex-officio, if necessary in order to affirm. The entry of the judgment is quite inartificial, leaving it doubtful whether the defendants appeared, so far as-to waive the necessity of a jury to enquire into the truth'of the breaches, and assess the damages, and consent that they should be assessed by the court sitting as a jury, though that seems to be the purport of the entry. And so, presuming everything possible in favor of the court below, it might be gathered from the whole entry, that the court below ascertaining the defalcation of the collector to be $113 08, and the penalty accrued upon it, tobe $226, intended to give judgment for the penalty of the bond, and that execution be awarded for the amount of the damages assessed, together with the accruing forfeiture of five per cent, per month upon the amount of the original defalcation from the rendition of the j udgment until the same should be paid and satisfied with costs, &c.\nBut waiving the consideration of those matters assigned for error, the judgment will have to be reversed upon the third assignment which questions the sufficiency of the declaration. Upon the principle adjudged by this court in the case of Outlaw vs. The Governor, 5 Ark., 468, relating to the mode of ascertaining and fixing the liability of the principal and securities upon an administration bond, it was necessary for the declaration in this case to contain an averment, either that the collector had settled with the county court and failed to pay over the amount due, Dig. Title, Revenue or Counties, secs. 6 and 7, or that he failed to settle, and that the county court proceeded to adjust his accounts, and finally proceeded to render judgment against him, for the amount due, with the penalty added thereto, and fifty per centum per annum thereon, ib. sec. 34, et seq. Carnall vs. Crawford county, 6 Eng. 624. Trice vs. Crittenden co., 2 Eng. 159.\nThe county court is the forum where the liability of the collector, upon which that of his securities depends, is to be ascertained and evidenced by its records. An adjudication in that forum is conclusive evidence against the securities, as well as the collector, in an action upon his bond in the Circuit Court. There can be no liability upon the collector\u2019s bond without such adjucation unless the Circuit Court can, in an action upon the bond draw to itself, in a collateral way, a jurisdiction to investigate and settle the accounts of delinquent officers for the collection of revenue, which appropriately belongs to the county courts.\nThe judgment will be reversed, and the cause remanded to the court below, with leave to be further proceeded in, if the plaintiff' shall file an amended declaration within such time as may be allowed by rule of that court, the defendants being considered as having due notice of the pendency of the suit.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "Jones et al. vs. State use of Pope County.\nIn an action upon a collector\u2019s bond for collecting and failing to pay over county revenue, the declaration must aver either that the collector bad settled with tbe county court, and failed to pay tlie amount due; or that he failed to settle, and the county court had proceeded to adjust his accounts, and render judgment against him.\nAn adjudication by the county court is conclusive evidence against the securities, as well as the collector in an action upon his bond in the Circuit Court.\nIt appearing from the transcript of the record, that the return to the original writ is regular but not signed by the sheriff, and the judgment being by default, this court would, ex-ojjlcio, award a certiorari in order to affirm.\nWrit of Error to Pope Circuit Court.\nThe Hon. W. H. Feild, Circuit Judge, presiding^\nS. H. Hempstead, for the plaintiffs.\nThe judgment must be reversed, because it does not appear that the plaintiffs in error were served with process. 1 Ark. 50. 2 Ark. 26. 1 Eng. 453. 4 Eng. 21.\nThe truth of the breaches should have been found; and for this \u2019 error, the judgment must be reversed. 2 Ark. 382. 3 Eng. 477. ib. 353. 4 ib. 362. 5 ib. 258."
+  },
+  "file_name": "0170-01",
+  "first_page_order": 168,
+  "last_page_order": 171
+}

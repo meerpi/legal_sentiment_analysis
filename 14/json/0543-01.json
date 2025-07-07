@@ -1,0 +1,56 @@
+{
+  "id": 1862721,
+  "name": "The State Bank vs. Lawson et al.",
+  "name_abbreviation": "State Bank v. Lawson",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "543",
+  "last_page": "543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 543"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 119,
+    "ocr_confidence": 0.515,
+    "sha256": "390fa6e0508216ab7b7b320836bd000af5995ff07b44c3214c56c38cbf46446b",
+    "simhash": "1:b70857051e2ed309",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State Bank vs. Lawson et al."
+    ],
+    "opinions": [],
+    "attorneys": [
+      "Hempstead, for the plaintiff.",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "The State Bank vs. Lawson et al.\nError to Pulaski Circuit Court.\nHempstead, for the plaintiff.\nPike & Cummins, contra."
+  },
+  "file_name": "0543-01",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

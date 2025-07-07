@@ -1,0 +1,114 @@
+{
+  "id": 1862688,
+  "name": "Welch et al. vs. Cole et al.",
+  "name_abbreviation": "Welch v. Cole",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "400",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 400"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Bibb 196",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "pin_cites": [
+        {
+          "page": "340"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Munf. 373",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        2094043
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/15/0146-01"
+      ]
+    },
+    {
+      "cite": "2 Blackf. Rep. 329",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 B. Mon. 396",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 J. J. Marsh. 673",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ark. Rep. 121",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 403,
+    "char_count": 7826,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 1.7710994026850012e-07,
+      "percentile": 0.7117385994318588
+    },
+    "sha256": "bd1c1e5c3143abebc6e15fb16927250c7df3ed44c39498a67ab96cc7c8c57082",
+    "simhash": "1:9eff8e14b116e8c2",
+    "word_count": 1409
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Welch et al. vs. Cole et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe appellants, in right of the petitioner, Ann Welch, filed their petition to the Union Probate Court against the administrators and heirs at law of Joseph Rhem, deceased, for dower in the estate of said deceased.\nIt is alleged that the estate consists of lands, slaves, and personal estate, now in the administrator\u2019s hands, and also a large amount of money, arising from the hire of the slaves, in all of which she claims dower. That the estate is solvent, and under the statute, she is entitled to receive, out of the goods and chattels of the estate, over and above her dower, the sum of $ 150, at the appraised value thereof; and prays that the administrators be made to account and that dower be assigned her.\nThe administrators answer, to which a special replication is filed, by which issue is taken to so much of the defendant\u2019s answer as denies the right of the petitioners to dower in the slave Cato, named in the petition, and to so much of the answer as relates to the hiring of the slaves, and the sum for which the administrators should account.\nThe case was tried upon petition and answer.\nUpon the hearing of the case, the Probate Court refused to allow the widow dower in the slave Cato; and also refused to charge the administrators with such an amount of hire as petitioners thought themselves entitled to receive.\nFrom the decision and judgment of the Probate Court the petitioners appealed to the Circuit Court, where the judgment of the Probate Court was affirmed. The exceptions taken before the Probate Court present the only questions for our consideration'. They relate alone to the right to dower in the slave Cato, and in respect to the hire of the slaves. The defendants admit that Cato was one of the slaves inventoried, and held by them for a time as part of their intestate\u2019s estate; but set up in avoidance or excuse for not accounting for the slave, that by an order of the Probate Court, he was discharged from their custody!. If such was really the case, and if the Probate Court had power to order such discharge, as this was affirmative matter, with regard to which the defendants\u2019 answer could not be received as evidence, (See Scott, White & Co. vs. Henry & Cunningham, 13 Ark. Rep. 121,) the defendants should have introduced the record, or other competent evidence to prove that fact. As this appears not to have been done, that slave stood in the same situation that the other slaves did, and should have been taken into account in decreeing dower. The defendants did not attempt to' account for the hire of the slaves; indeed, they assume that they were, under the circumstances, not bound to account for hire. They admit that the slaves belong to the estate and were held and controlled by them, but state that the slaves were most of the time, kept upon the intestate\u2019s farm at work, and that they accounted for the proceeds of their labor in their settlement with the court; that they were induced to pursue this course, because it had been pursued by their predecessors in administration, and because they were so requested to act by the widow, (the claimant for dower.)\nIt was certainly the duty of the administrator to put the slaves to labor at public or private hire, whether so ordered by the Probate Court or not; or, whether hired or not, they were at all events accountable for the reasonable value of the services of the slaves. The proceeds of the labor of the slaves, whether employed on a farm or otherwise, is not the measure of the1 admin-tors\u2019 accountability, but the ordinary value of the services of tbe slaves at hire. This Is the only safe standard of accountability easily to be arrived at by putting slaves to public hire upon notice, or by proving the rate of hire for such slaves at a given time. The proceeds of the labor of the slaves is so dependent upon the Mnd of labor to which they were put, their management, the value of produce, and like considerations, as to render it extremely difficult to arrive at any just estimate of the sum so realized, and is unwarranted by the\u2019 nature of the trust reposed in the administrators. If (as alleged) the widow did sanction and direct the course pursued by the administrators, so far as they pursued such direction, they may be protected, as against her claim to dower, to a stricter account. But of this there is no evidence ; nor is there any evidence of the amount realized from the labor of the slaves. Reference is made in defendants\u2019 answer to a settlement made with the court, in which they charge themselves with the sum so received, but such settlement is not made an exhibit, nor is it to be found in this record ; nor is there evidence here to be found sufficient to take an account for hire, or to assign dower except as to the slaves.\nThe Circuit Court should have sustained the exception taken by the petitioners in the Probate Court, and have proceeded to try the case de novo. Upon such trial all the evidence which might legally have been introduced in the Probate Court upon the hearing of their cause there, would have been alike admissible upon the trial de novo in the Circuit Court, so as to enable the court upon such trial to render a final decree according to the rights of the parties upon the facts presented.\nThe judgment of the Circuit Court must be reversed and set aside, and the cause remanded to that court to be proceeded in according to law and not inconsistent with this opinion.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Carleton, for the appellants.",
+      "Lyon, for the appellees,"
+    ],
+    "corrections": "",
+    "head_matter": "Welch et al. vs. Cole et al.\nPetition for dower: answer alleges, as to Cato, one of the slaves in the inventory, that by order of the Probate Court, he had been discharged from their custody as administrators; and as to the hires of the other slaves, that they had not been hired out, but kept at work on the plantation at the instance of the petitioner, and the proceeds of their labor accounted for \u2014 case submitted on bill, answer and replication: Held, That the administrators were bound to have proved the affirmative allegations in their answer, in order to deprive the widow of dower in Cato, or estop her from having a strict account of the hire.\nIt is the duty of an administrator to hire out the slaves of the estate (at public or private hire,) whether so ordered by the Probate Court or not, and if he fails to do so, he is accountable for the reasonable value of their services.\nAppeal from the Circuit Court of Union county.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nCarleton, for the appellants.\nThe widow is entitled to one-third of the reasonable hire of the slaves of which her husband died possessed, until dower be assigned her, or a sum of money equivalentto herinterest in said hire. Dig. ch. 4, sec. 60. 3 Engl Rep. 41. 4 Kents Com. 70. 5 John. Ch. 482. It is the duty of the administrator to hire out the slaves; Dig. ch. 4, sec. 122, and if he does not, but takes them and uses them as his own, he is chargeable with reasonable hire. Blakey\u2019s Ex\u2019r vs. Blakey et al., 3 J. J. Marsh. 673. 7 B. Mon. 396. 3 Eng. R. 254.\nThe allegations in the answer, that the slaves were not hired out by consent and direction of the petitioner and that the boy Cato had been discharged from their custody as administrator\u2019s by order of the Probate Court, were matters in avoidance and should have been proven. Simpson vs. Hart, 2 Blackf. Rep. 329.-Payne vs. Cole, 1 Munf. 373. 1 Bibb 196, 340.\nLyon, for the appellees,\ncontended that as the Probate Court would take judicial notice of its own order as to the boy Cato; and of the accounts settled by the administrator, accounting for the profits of the farm and negroes, as alleged in the answer; and no evidence was given of any order of the court to hire out the negroes, the Circuit Court correctly presumed in favor of the judgment of the Probate Court on appeal."
+  },
+  "file_name": "0400-01",
+  "first_page_order": 400,
+  "last_page_order": 403
+}

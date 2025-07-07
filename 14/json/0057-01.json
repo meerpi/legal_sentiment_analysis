@@ -1,0 +1,68 @@
+{
+  "id": 1862710,
+  "name": "Arnett vs. Arnett et al.",
+  "name_abbreviation": "Arnett v. Arnett",
+  "decision_date": "1852-01",
+  "docket_number": "",
+  "first_page": "57",
+  "last_page": "58",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 57"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 240,
+    "char_count": 3724,
+    "ocr_confidence": 0.484,
+    "pagerank": {
+      "raw": 5.906608903744815e-07,
+      "percentile": 0.9528874077214541
+    },
+    "sha256": "1cd66db0b6cfc510a4b84381dbc79125792083f582f8c729df0781cd13f06947",
+    "simhash": "1:0f497d93851d8b87",
+    "word_count": 659
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting in this easel"
+    ],
+    "parties": [
+      "Arnett vs. Arnett et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walkee\ndelivered the opinion of the Court.\nThe complainant filed her bill against the heirs, and the administrator of the estate of William Arnett, and against Ephraim Myrick and Sheridan W. Williams, in which she alleges that she is the widow of said intestate, who died seized and possessed of two slaves, Green and Edy, in whom she claims a dower interest! The heirs and administrator do not contest the complainant\u2019s right to dower; but Myrick and Williams, who have the slaves in possession, assert title to them as purchasers at judicial sale.\nBy an agreed statement of the facts signed and entered of record, it is admitted that the slaves were duly levied upon and taken into possession on the first of January, 1849, under a valid execution against the intestate: that after the levy and before the return day of the writ, on the 22d January, 1849, the intestate died: that afterwards, at a regular sheriff\u2019s sale, the defendants, Myrick and Williams, bought and paid for the slaves, and took them into possession. All other facts conceded, the question of contest was whether the intestate was so seized and possessed of the slaves at the time of his death as to entitle the widow to dower. The court below decided against her right to dower, and dismissed her bill. And in this she alleges there is error.\nThe statute, Dig. ch. 59, sec. 20, provides that, \u201c A widow shall be entitled, as part of her dower, to one-third part of the slaves, \u25a0whereof her husband died seized or possessed, during her natural life, and one-third part of the personal estate in her own right.\u201d This section, unlike that which allows dower in real estate, limits the wife\u2019s right to dower to the slaves of which the husband was, at the time of his death, seized or possessed, and cuts off all claim to dower where the slaves have been disposed of prior to his death, and this without her co-operation, or assent. The whole question then turns upon the effect of the levy, which, although insufficient to divest the defendant in execution of title to the property levied upon, for that does not pass until after sale, 'does, when made on personal estate, disseize the defendant and dispossess him of the property levied upon; for whether the officer takes the property into possession or not, it is, in contemplation of law, in his custody; he is responsible for it, and has a right to hold it against the claims of the defendant in execution, and all others. It is taken in satisfaction of the debt, and is held and taken as such until sold, or the levy is otherwise discharged. The levy, in this case, was not only a disseizin in law, but also in fact, for the property was not only actually taken out of his possession, but beyond the control of the defendant, or his power to reclaim or reduce it to possession by mere force of legal right.\nThe defendant in execution, therefore, had not at the time of his death, such seizin or possession as to entitle the complain ant to dower in the slaves, and consequently there was no error in the decree of the court below.\nDecree affirmed.\nWatkins, C. J., not sitting in this easel",
+        "type": "majority",
+        "author": "Mr. Justice Walkee"
+      }
+    ],
+    "attorneys": [
+      "Hempstead, for the appellant",
+      "Watkins & Cueean, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Arnett vs. Arnett et al.\nTlio slaves of the husband were levied upon and taken into possession by the sheriff, under a writ of execution \u2022 before the return day the husband died ; and the slaves were sold under the execution after his death : Held, That the husband was not so seized and possessed of the slaves at the time of his death, as to entitle the widow to dower in them.\nAppeal from the Circuit Court of Hempstead county, in Chancery.\nThe Hon. John Quillin, Circuit Judge, presiding.\nArgued and submitted at the January term, 1852.\nHempstead, for the appellant\nWatkins & Cueean, contra."
+  },
+  "file_name": "0057-01",
+  "first_page_order": 57,
+  "last_page_order": 58
+}

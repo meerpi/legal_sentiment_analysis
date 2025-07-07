@@ -1,0 +1,67 @@
+{
+  "id": 1862693,
+  "name": "Bowen vs. Cook",
+  "name_abbreviation": "Bowen v. Cook",
+  "decision_date": "1852-01",
+  "docket_number": "",
+  "first_page": "202",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 168,
+    "char_count": 1976,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 3.215143786105387e-07,
+      "percentile": 0.8667399141803248
+    },
+    "sha256": "0407e19b4fae9b4bde98cdc12b4bee14b4c4b0d48f37d079b9074f4378bf63b4",
+    "simhash": "1:b522777d2404c331",
+    "word_count": 356
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watiuns, O. J., not sitting."
+    ],
+    "parties": [
+      "Bowen vs. Cook."
+    ],
+    "opinions": [
+      {
+        "text": "Hon. S. H. Hempstead, Special Judge,\ndelivered the opinion of the court.\nThis case was before this court at a previous term, (5 Eng. 309,) and was reversed. The evidence on the second trial, if not identically, is at least substantially the same as reported. It has become the settled law of this court, that a refusal to grant a new trial, on the general ground that the verdict is contrary to law and evidence, will not be reviewed, unless there is a total lack of evidence upon one or more points necessary to the maintainance of the action, or making out the defence. Where the question simply is as to the weight or sufficiency of the evidence, this court will not disturb either the finding of the court sitting as a jury, or the verdict of the jury. Drennen vs. Brown, 5 Eng. 140. Sparks vs. Beaver, 6 Eng. 630. State Bank vs. Conway ante, Mitchell vs. State Bank, ante.\nThese rules we are disposed to adhere to; but averse as we are, to disturbing the verdict of a jury, yet there are cases in which it is necessary to the attainment of justice, and to decline that duty altogether, would imply, that we regarded jurors as infallible, which is far from being the fact. We would not invade their constitutional authority, but at the sam\u00e9 time we would not have it understood that they are final arbiters of life, liberty and property.\nIn the case now before the court, the verdict is without evidence to sustain it, and falls within the rule above laid down, and the judgment must be reversed.\nWatiuns, O. J., not sitting.",
+        "type": "majority",
+        "author": "Hon. S. H. Hempstead, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "Bowen vs. Cook.\nAlthough it is the settled law of this court, that a refusal to grant a new trial on the general ground that the verdict is contrary to law and evidence, will not he reviewed; it is otherwise where the verdict is without evidence to sustain it.\nError to the Circuit Court of Ouachita county.\nThe Hon. John Quillin, Circuit Judge, presiding.\nThis cause ,was submitted at January term, 1852, by\nWatkins & Curran, for the plaintiff."
+  },
+  "file_name": "0202-01",
+  "first_page_order": 200,
+  "last_page_order": 201
+}

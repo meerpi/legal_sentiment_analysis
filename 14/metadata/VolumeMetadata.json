@@ -1,0 +1,24 @@
+{
+  "volume_number": "14",
+  "title": null,
+  "publisher": "Stillwell & Wassell",
+  "publication_year": 1854,
+  "start_year": 1853,
+  "end_year": 1854,
+  "series_volume_number": "",
+  "jurisdictions": [
+    {
+      "id": 34,
+      "name": "Ark.",
+      "name_long": "Arkansas"
+    }
+  ],
+  "id": "32044078573748",
+  "harvard_hollis_id": "005372524",
+  "spine_start_year": 1853,
+  "spine_end_year": 1854,
+  "publication_city": "Little Rock, AR",
+  "second_part_of_id": null,
+  "redacted": false,
+  "nominative_reporter": null
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1862667,
+  "name": "Crittenden vs. Woodruff",
+  "name_abbreviation": "Crittenden v. Woodruff",
+  "decision_date": "1851-01",
+  "docket_number": "",
+  "first_page": "465",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 465"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 541,
+    "char_count": 10792,
+    "ocr_confidence": 0.51,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.30221163473237245
+    },
+    "sha256": "daadaf9a195836fd28e733c0b21f25b53823f3008469dd95cf6a23a2548f3b50",
+    "simhash": "1:175b11e8ec1f75c1",
+    "word_count": 1913
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C J., not sitting."
+    ],
+    "parties": [
+      "Crittenden vs. Woodruff."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nWhen this cause was in this court before, at the January term, A. D. 1850, several points of law were determined, the decree of the court reversed, and the cause sent back to be reheard with leave to both parties to take additional testimony, (Crittenden vs. Woodruff, 6th Eng. R. 82.) After the cause had reached the Circuit Court again, it was agreed of record between the parties, that William Russell claimed to be, and was recognized as one of the original proprietors of the town, now city of Little Rock, and that as such, he claimed lots No. 7,8 and 9, in Block No. 34; the same being the lots in which the appellant claims dower. That Robert Crittenden, the grantor of the appellee, held a regular chain of title and conveyances for said lots, through Robert C. Oden, from said Russell to himself and that said lots are embraced wdthin the lot or south fractional part (south of the Arkansas river and west of the Quapaw line) of the northwest fractional quarter of fractional section two, in township one north of range twelve west. That said Crittenden and said Oden, claimed to have been two of the original proprietors of Little Rock. That the covenant of Roswell Beebe to the Mayor and Aldermen of the city of Little Rock, whereby he bound himself, upon the conditions expressed therein, to convey title to all persons who held lots, by a regular chain of conveyance, from the original proprietors of the town, should be read in evidence. That the fraction of land aforesaid, of which the lots in controversy are \u00a7 part, was granted to Roswell Beebe by the United States, by patent bearing date the 25th of September, 1839, in pursuance of an entry and purchase made by him in the Land Office at Little Reck, on the 6th day of June, A. D. ] 838, when a patent certif\u00edcate was issued to him upon which said patent for the land afterwards issued. In the chain of conveyances from the original proprietors of the town of Little Rock, Crittenden conveyed to Woodruff, on the 9th of July, 1825, by deed with general warranty, during the coverture. After the land had been patented to Beebe, in consideration of the improvements that Woodruff had made upon the lots, and of the sum of five dollars in hand paid, Beebe conveyed the lots to Woodruff by a deed with general warranty wherein he referred to his covenant to the Mayor and Aldermen of Little Rock, and recited that he had made various quit claim deeds under said covenant, and had given due notice to all persons interested to apply for titles at their peril within a specified time, and that Woodruff had failed to apply.\nThe entry of Beebe, the patent to him, his covenant to the Mayor and Aldermen, and his deed to Woodruff, were all subsequent to the death of Crittenden, and regularly shown in support of the answer of Woodruff, and in accordance with the ruling of this court in this cause, when it was here before, that the vendee of the husband is not estopped from affirmatively showing a want of title in his vendor. There was also a number of depositions taken after the cause had been sent back into the Circuit Court, touching the value of the lots, the improvements, rents, and other matters not necessary to be noticed; because they relate to questions that would arise only after the main question of the right of dower should be held in favor of the appellant. The cause was regularly reheard upon the petition, answers, exhibits, agreed facts and evidence, and the court, being of opinion against the appellant, denied her prayer and dismissed her petition, and she appealed to this court.\nThe widow\u2019s title to dower lives in her husband\u2019s title to the land. Until actual admeasurement by metes and bounds, it is a mere potential interest, amounting to nothing more than a chose in action, and is not subject to seizure and sale by execution. (Pennington vs. Yell, 6th Eng. R. 236, and authorities there cited.) After it is set out she has an estate in dower of which she is the tenant, holding in virtue of her husband\u2019s title in which hers inheres and is a part. When, therefore the title of the husband is overthrown, that of his wddow to dower must of necessity fall with it. When then Woodruff in this case shows that Critten \u25a0 den had no title to the lots in question, he necessarily show's his widow has no title to be endowed of them, unless she can avoid this by showing that the title acquired from the Government which ignores her husband\u2019s title, enured to him by some means as fully as if he had been actually seized in his lifetime. In this case there is no pretence that the husband was in fact seized in his lifetime, of this after acquired title, because it issued from the Federal Government after his death; and none that it passed to him in point of law through the instrumentality of instruments of conveyance executed before his death, relating to a point of time anterior to that time, because the title, since its emanation from the government, has passed into no such channel. On the contrary, it has passed directly from Beebe to Woodruff and cannot, by mere operation of law, ascend to Woodruff as it would have descended to Crittenden and through him to Woodruff, had Beebe granted to some grantor of Crittenden with warranty, the latter having granted to Woodruff in 1825 by deed of this class. This title was not the mere legal title, issued by the government to unite with some equitable title against the government existing before the entry of Beebe, but the complete title to the land, consummating the title of Beebe commencing by his entry. The entry of Beebe and the emanation of the patent to him in pursuance thereof, w\u2019ere the beginning and ending of a complete title; and it is altogether different from a case where a husband might make an entry, procure the patent certificate, assign that certificate to another, and he obtain thereby the patent in his own name.\nSuch facts, if shown against his widow\u2019s claim to dower, would only ignore her husband\u2019s mere naked legal title. But here a complete title is shown to have been acquired from the government, after the death of Crittenden, which excludes any title in him in his lifetime, and the inseparable claim of his widow to dower in virtue of it, unless she can avoid it by showing that this new title was her husband\u2019s in his life time, either in fact or in law.\nTo do this she sets up the covenant of Beebe to the Mayor and Aldermen, and insists that Beebe\u2019s deed to Woodruff should be regarded as having been made in pursuance of that covenant,although upon its face the contrary appears.\nConceding, for the sake of the argument, that this deed should be so regarded, the result would not be sufficient for her, because the covenant of Beebe in no way provides for the transmission of title to Crittenden. If he had lived the title could never have reached him, unless he had held under a conveyance from Woodruff and by this means brought himself within the description of persons provided for by the covenant, as Woodruff in fact was. And then he would have obtained it, not because' he had before executed one of the instruments of conveyance' which constituted the regular chain from one of the original pro-prietors of the town of Little Rock, or because he was himself one of these proprietors, but simply because he held lastly under' this chain of conveyances as Woodruff did.\nThe covenant of Beebe in no way recognizes any rights in the-original proprietors as such, or in any grantee in any chain of conveyances from one of themfbut the moving cause of the covenant, which seems not otherwise than a gratuity on his part, seems to be to make provisions for a class of persons, who held lots under a supposed title, which had proven entirely worthless. When, therefore, one derived his claim to a conveyance of title from Beebe under his covenant, by-means of a chain of conveyance from one of the orignal proprietors, this whole chain and each of its links served but to identify him as the individual who was entitled, under the covenant, not to receive the title of the proprietor, who formed the first link, or any of the subsequent grantors who constituted the other links, but the title of Beebe himself, which displaced all other pretended titles and recognized' none of them. These conveyances then were relatively no more meritorious in procuring the title from Beebe, than the ink and paper upon which they were written \u2014 all serving the office of but means of identity.\nAnd the result as to the appellant would be the same upon the supposition, that the government had passed her Undisputed title to Beebe upon the trusts expressed in his covenant, because, in that case the only recognized equity would be that of the holders of the lots, without any regard to its derivation, further than for purposes of identity, the very recognition of equity in the particular class recognized, resting upon the same ground that they alone could claim it, whereby all others were excluded from the trust in not being provided for. And Crittenden, his widow and his heirs, being in this last category, could not possibly claim any benefits from a trust that was not wide enough to include them, and by this means claim a title that that trust declared should be conveyed to another. In any view then, it seems clear that under the covenant of Beebe, and consistent with it, it is not possible that the.title of Beebe could have ever been in Crittenden, either in fact or in law, and in no other view presented to \u00fcs, have we been enabled to see that Crittenden had any interest or estate, beyond a mere possession under an invalid title, much less such an estate as that in which a right of dower would inhere. And hence this after acquired title, thus set up and in no Way avoided, must we think, be held to be an effectual bar to the appellant\u2019s claim to dower in the premises.\nWe think therefore that the decree of the court below ought to be affirmed.\nWatkins, C J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Fowler, for the appellant.",
+      "Watkins & Curran, for the appellee!"
+    ],
+    "corrections": "",
+    "head_matter": "Crittenden vs. Woodruff.\nC. holding a regular chain of title from persons recognized as the original proprietors of the city of Little Rock, conveys by deed certain lots to W., and dies; a patent for the same land issues from the United States to B., who had executed a covenant to assure the title of all persons having a regular chain of title from the original proprietors, if claimed within a specified time: after the time stated, B. for other considerations conveys the lots to W.: Held, That O\u2019s widowisnot entitled to dower in the lots.\nAppeal from the Circuit Court of Pulaski county in Chancery.\nHon. W. H, Feild, Circuit Judge, presiding.\nThis cause was argued at the January term 1851.\nFowler, for the appellant.\nWatkins & Curran, for the appellee!"
+  },
+  "file_name": "0465-01",
+  "first_page_order": 465,
+  "last_page_order": 470
+}

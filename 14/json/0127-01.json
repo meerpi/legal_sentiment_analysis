@@ -1,0 +1,96 @@
+{
+  "id": 1862611,
+  "name": "Ellis vs. Dunham",
+  "name_abbreviation": "Ellis v. Dunham",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "127",
+  "last_page": "131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "11 Mo. Rep. 574",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cranch, 162",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 B. Mon. 228",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4441713
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/47/0228-01"
+      ]
+    },
+    {
+      "cite": "9 John. 122",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 482,
+    "char_count": 10033,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 1.5366676434809485e-07,
+      "percentile": 0.6721003811419122
+    },
+    "sha256": "bf62dd4d27d7f3c4e51d30c84025cc15886f99b90c719ae685a64dc10f615155",
+    "simhash": "1:bb72a8449807c32f",
+    "word_count": 1763
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ellis vs. Dunham."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nLeaving out of view extraneous matters, the material facts, as admitted or proven, on the trial of this cause, appear to be as follows: One Malone made his writing obligatory for the p&yment of money to Ellis, (the defendant below) dated October 20, 1846, anddue six months after date. On the 12th of June 1847, and after the obligation became due, Ellis assigned it to one Hough, who, on the 10th of November, 1848, assigned it to Dunham (the plaintiff below). Hough and Dunham, respectively demanded payment of Malone,' who did not pay, but when such demands were made, does not appear; nor does it appear that any notice of the demands upon Malone, and his refusal to pay, was given to Ellis, until the day before the suit was commenced, when he was notified in writing, by Dunham, of such demand and refusal, and that he would be held liable upon his assignment. The suit was commenced on the 26th day of April, 1849. The parties lived in adjoining counties, the defendant about fifty miles, and Malone about fifteen miles from the plaintiff below. We take the fact, about which there was conflicting testimony, to be found by the verdict, that at the time of the assignment by the defendant to Hough, Malone the obligor was insolvent.\nAmong the various instructions asked for by both parties, the court, on the motion of the plaintiff, and against the objection of the defendant, charged the jury, to the effect, that if they believed from the evidence that Malone, the maker of the bond, was insolvent at the time the assignment of it was made by Ellis to Hough, the assignment was an original guaranty of the payment of the bond, and the defendant\u2019s liability was fixed instantly, and the assignee was not bound to make demand of payment from Malone and give notice of non-payment, because he would not be required to do a useless act. Also, that if Ellis assigned the bond after due, such an endorsement was an original undertaking on his part, that the bond should be paid, and that no demand of payment of Malone, or notice of his refusal to pay, was necessary to fix the liability of Ellis.\" Also, that the bond being assigned after due, if they believed that both Hough and the plaintiff demanded payment of Malone, and he refused payment, and that the plaintiff gave the defendant notice of the demand upon the maker, and his refusal, at any time before the commencement of the suit, it was sufficient to fix the defendant\u2019s liability. On the other hand the court, at the request of the defendant, refused to instruct the jury, to the effect that the defendant could not be made liable on his assignment, unless the plaintiff had given him reasonable, or due notice of non-payment by the obligor : also, that if the jury believed from the evidence that the holder used no exertions to collect the note for several years, he thereby discharged the endorser.\nThese instructions would seem to have been given and refused under an entire misapprehension of the law. If the plaintiff sought to recover under what may be called the old law of assignments \u2014 see Morse vs. Johnson, decided at January term, 1853, he could only do so against his immediate assignor, upon the contract of assignment, by showing that he had used due diligence in suing the obligor or party primaiily liable, and in prosecuting him to insolvency, not reputed but legal insolvency, evidenced by discharge under the insolvent acts from arrest upon ca. sa., or a return of nulla bona.\nBut the assignee in this case, in order to recover against a remote assignor, between whom and himself, there was no privity of contract, must have availed himself of so much of the statute of assignments of 1837, Digest, Title, Assignments, sec. 9, as is introductory of the law merchant and of its analogous rules.\nThe bond here being assigned after due, the nature of the contract is that the endorsement is equivalent to the drawing of a new bill by the endorser upon the maker or obligor, who stands as acceptor of it, in favor of the endorsee, and payable on demand. And in order to charge the endorser in such case, his contract being conditional upon receiving due notice of non-payment, as at the law merchant, the assignee or endorsee (for under this statute they seem to be convertible terms) must use reasonable diligence in presenting the bond or note, to the maker for payment. The time and manner of giving the notice would be governed by the rules of the law merchant in similar cases. What would be reasonable diligence in making the demand of payment, might often be a mixed question of law and fact for the jury to determine, under the instructions of the court, and according. as they may find the facts proven. But, as held in Jones vs. Robinson, 6 Eng. 511, the delay of presentment for so great a lapse of time in this case, not explained or accounted for, amounted to gross negligence, and there being no question about this, as a matter of fact, the court below should have charged the jury what the legal conclusion was, viz : that the plaintiff had failed to use due diligence. No matter when the demand of payment was made, it was nugatory and unavailing to charge the assign- or without notice to him of the non-payment, and the case here stands as if there had been no presentment or demand of payment, until the day before the suit was brought, nearly two years-after the assignment by the defendant to Hough.\nUnder the statute, where the bond, bill or note, is transferred' before due, the holder, by using due diligence, may hold liable all or any of the prior parties. But where the transfer is after due, we apprehend that it is each separate endorsement or assignment, that is equivalent to the drawing of a new bill, unless indeed,, all the transfers are made within the period of diligence, which the law would require at the hands of the first assignee; in. other words, an over due bond or note, cannot be transferred by various successive endorsements, at distant intervals of time, so as to subject all prior parties in one common liability to the last endorsee, as would be the case when negotiable paper, payable at a fixed time, is endorsed before due. Supposing it to be law, that if Hough, the first assignee, by a seasonable demand upon the maker for payment, and notice of non-payment to the defendant, his immediate assignor, had thus fixed his liability upon the contract of assignment, any subsequent assignment of the bond or note by Hough, would transfer that liability along with it as a chose in action to a remote assignee, yet it does not follow that the first assignee of a note, past due, having failed to fix the liability of his assignor by due presentment and notice of non-payment, can by an assignment of his own, confer any authority upon a second assignee, to revive or renew the conditional liability of the first assignor, which, by such neglect had become discharged. Under these circumstances, the plaintifi below, by a prompt demand of payment of the original maker, and notice of non-payment to Hough, his immediate assignor, might have held him equally liable with the maker or obligor, and this, we think, would be giving to the statute quite as liberal and beneficial construction as it is susceptible of: but without changing the whole character of the contract, the demand and notice to Hough would not make the defendant liable, unless due notice of demand and refusal had been given to him. What is due notice in such case would be ascertained by regarding him as the drawer of a sight draft upon the maker, and so any question of reasonable diligence on the part of the payee, or any holder of such draft, would be determined as at the law merchant!\nIt does not seem necessary to notice any other errors, that might be considered as appearing on this record. The judgment will be reversed and the cause remanded for trial anew.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Fairchild, for the plaintiff,"
+    ],
+    "corrections": "",
+    "head_matter": "Ellis vs. Dunham.\nWhere a bond is assigned before due the holder, to recover against a remote as^ signor, must make demand, and give notice of non-payment, as at the law merchant. But if assigned by several endorsements after due, the holder may, by seasonable demand and notice, bold his immediate endorser liable, but not a remote endorser as to whom the period of diligence had elapsed.\nWhen a bond is assigned after due, the nature of the contract is equivalent to the drawing of a new bill by the endorser npon the maker, who stands as acceptor of it, in favor of the endorsee, and payable on demand. Andin order to charge the endorser, the endorsee must use reasonable diligence in demanding payment of the maker, anl give notice of non payment, as at the Jaw merchant.\nNote to defendant dated 20th October,. 1846, at 6 months, assigned to H., on 12th June, 1847, and by him to plaintiff, 10 November, 1848, and notice of demand, and non-payment, 25th April, 1849. Held that the delay of presentment, for so great a lapse of time unexplained, amounted to gross negligence, and Jones vs. Robinson, 6 Eng. approved.\nWrit of Error to Fulton Circuit Court.\nThe Hon. W. C. Scott, Circuit Judge, presiding.\nFairchild, for the plaintiff,\ncontended that the court erred in the instructions given ; and that notice to the assignor of the nonpayment of the bond assigned after due, given the da3f previous to the institution of the suit, and nearly two years after the assignment, was insufficient to charge the assignor: that notice of demand and non-payment must be given within a reasonable time, (Ruddell McGuire vs. Walker, 2 Eng. 459. Jones vs Robinson, 6 Eng. 509. Berry vs. Robinson, 9 John. 122. Bays vs. Palton, 8 B. Mon. 228. 3 Kent 93. Lcavellvs Putnam, 3 Corns. 497,) and that the reputed insolvency of the maker did not dispense with the necessity of demand and notice, to charge the assignor. Bayley on Bills, 155; Esdalevs. Sowerby, 11 East 114, Jackson vs. Richards, 2 CainSs 343, 3 Kent (6 ed.) 110, French vs. Bank of Columbia, 4 Cranch, 162, Davis vs. Francisco, 11 Mo. Rep. 574."
+  },
+  "file_name": "0127-01",
+  "first_page_order": 127,
+  "last_page_order": 131
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1862656,
+  "name": "State use Perryman vs. Stephens et al.",
+  "name_abbreviation": "State v. Stephens",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "264",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 264"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 290,
+    "char_count": 5639,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 8.97773734201857e-08,
+      "percentile": 0.5025335453920287
+    },
+    "sha256": "ef6d37b46010ed293d8d2d05b3e1b94376442cb1511c301df9cd62a8f90841a6",
+    "simhash": "1:80c30775afbe9047",
+    "word_count": 1011
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State use Perryman vs. Stephens et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe action in this case was brought upon the official bond of a sheriff, against himself and his securities. After setting out the bond with its conditions, the plaintiff avers that Nancy Perry-man, for whose use the suit is brought, commenced her action in replevin for slaves, against William Drew in the Sebastian Circuit Court, and sued out her writ of replevin, which, whilst in full force, was placed in the hands of the qualified deputy of said Stephens, who was then sheriff of Sebastian county, by which he was commanded that if the said Nancy Perryman should give security as required by law, that he cause said slaves to be replevied and delivered to her; that said sheriff did, whilst said writ was in full force, by his deputy, take said slaves by virtue thereof into his possession. And the plaintiff then alleges, as a breach of the official duty of said sheriff that he refused to take bond and security as required by law, from said Nancy Perryman; but fraudulently intending to injure and cheat her out of the negroes, delivered them to said Drew.\nThe second count is in all respects like the first, with this difference, that it is alleged for a breach, that said sheriff, by his deputy, took the slaves into possession, by virtue of said writ, but would not, and did not take bond from the said Nancy Perryman as required by law, and wholly failed and refused to do so.\nTo this declaration a demurrer was filed, the ground of which was, that the breach assigned in each is insufficient in this, that it was not sufficient to aver that the sheriff refused to take a bond, fyc., or that he would not take such bond, or did not take it, but that in order to charge the sheriff for a breach of official duty, it was necessary to aver that the said Nancy Perryman, or some one for her, executed and tendered such bond, as required by law, to the sheriff before he executed his writ, or took the property into possession under it. The demurrer was sustained by the Circuit Court, and the plaintiff having declined to amend, final judgment was rendered in favor of the defendants, from which the plaintiff appealed.\nThere can be no doubt but that the sheriff was not only not bound to take the property into possession, without first having the security required by the statute, but it was clearly his duty to desist from any attempt to execute the writ until such bond was tendered to him. The command in his writ is conditional: that \u201cif the plaintiff shall give you security,\u201d &c., \u201cyou cause the goods and chattels to be replevied and delivered to the plaintiff,\u201d &c.\nThe 10th sec. Dig. ch. 146, provides that such writ shall not be executed in any case, unless the plaintiff, or some other person in his behalf, shall execute bond, &c. And the 12th sec. provides \u201cthat upon the receipt of such writ and bond before required, the sheriff shall forthwith proceed to execute such writ,\u201d &c. No one can read these sections without being satisfied that the sheriff exceeded his power and authority in taking the slaves into his possession, without having received the bond intended for the protection and security of the defendant, and that having done soj he was under no obligation to retain the property so taken; indeed, it was his duty at once to restore it to the defendant. The statute does not require of the sheriff to prepare a bond, nor to demand one, but before he is authorized or required to execute the writ, it is the duty of the plaintiff to make, by herself, or some one for her, a good and sufficient bond, conditioned as required by the statute with sufficient surety, and to tender it to the officer. Then should he refuse or neglect to perform his duty he may be held to account by the party injured; and should he, as in this instance, improvidently take the property into his possession without first having received such bond, (to place the case in the most favorable attitude for the plaintiff,) it was the plaintiff\u2019s duty to prepare and tender such bond before the sheriff could be held accountable for not delivering the property to her.\nThe language used in the breach does not necessarily imply that a bond was tendered. A \u201crefusal to take a bond,\u201d or in the second count, \u201cthat the sheriff did not and would not take a bond,\u201d are not equivalent to a tender and offer of a bond, prepared as required by law. The grounds of the refusal or failure to take bond are not stated. The plaintiff may have offered to prepare a bond, and the sheriff have declined to hold up the property until it was done, or for other cause, and under the rule'that the pleader must be supposed to have presented the facts in the most favorable aspect for his client, we must presume that had a bond been tendered and offered to the sheriff it would have been so stated.\nWe think the grounds for the demurrer well taken.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Hempstead, for the appellant."
+    ],
+    "corrections": "",
+    "head_matter": "State use Perryman vs. Stephens et al.\nTlie bond required by the statute in actions of replevin, is a pre-requisite to the execution of the writ; and if the sheriff takes the property into possession without the bond, he is not bound to deliver it to the plaintiff; but should restore it to the defendant.\nIn an action against th'e sheriff on his official bond for failing to execute such writ, the allegation in the breach that the sheriff \u201crefused to lake bond and security as required by law,\u201d or \u201cwould not, and did not take bond,\u201d is insufficient \u2014 the plaintiff must aver a tender of a sufficient bond.\nAppeal from Sebastian Circuit Court.\nThe Hon. B. H. Neely, Circuit Judge, presiding.\nHempstead, for the appellant."
+  },
+  "file_name": "0264-01",
+  "first_page_order": 264,
+  "last_page_order": 266
+}

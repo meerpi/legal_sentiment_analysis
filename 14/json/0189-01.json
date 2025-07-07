@@ -1,0 +1,245 @@
+{
+  "id": 1862698,
+  "name": "Pryor vs. Wright",
+  "name_abbreviation": "Pryor v. Wright",
+  "decision_date": "1852-07",
+  "docket_number": "",
+  "first_page": "189",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Conn. 465",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12133277
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/4/0465-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 13",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2144151
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/3/0013-01"
+      ]
+    },
+    {
+      "cite": "17 Mass. 389",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Pick. 212",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2020371
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/32/0212-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 389",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/3/0389-01"
+      ]
+    },
+    {
+      "cite": "1 Scam. 445",
+      "category": "reporters:state",
+      "reporter": "Scam.",
+      "case_ids": [
+        2479183
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/2/0445-01"
+      ]
+    },
+    {
+      "cite": "6 Ala. 701",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8497417
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/6/0701-01"
+      ]
+    },
+    {
+      "cite": "13 Conn. 412",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6754662
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/13/0412-01"
+      ]
+    },
+    {
+      "cite": "2 Yerg. 81",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        11265735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/10/0081-01"
+      ]
+    },
+    {
+      "cite": "8 Mass. 480",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028558
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/8/0399-01"
+      ]
+    },
+    {
+      "cite": "1 Gill 4",
+      "category": "reporters:state",
+      "reporter": "Gill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Leigh. 522",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        4445604
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/32/0198-01"
+      ]
+    },
+    {
+      "cite": "2 Cranch 186",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        1411957,
+        6760134
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/6/0108-01",
+        "/dc/2/0186-01"
+      ]
+    },
+    {
+      "cite": "1 Paige 221",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2178533
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/1/0221-01"
+      ]
+    },
+    {
+      "cite": "10 Wheat. 367",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434776
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/23/0367-01"
+      ]
+    },
+    {
+      "cite": "13 Mass. 23",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 400,
+    "char_count": 6546,
+    "ocr_confidence": 0.508,
+    "pagerank": {
+      "raw": 1.1236371757798591e-07,
+      "percentile": 0.5740946672952747
+    },
+    "sha256": "ddcb105dd1759776a2acfbd4b866c4be79b7d7f748f8c24c05214aceb95d8459",
+    "simhash": "1:83a8d0895c4bd776",
+    "word_count": 1197
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Waticins, C. J., not sitting."
+    ],
+    "parties": [
+      "Pryor vs. Wright."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nWright sued Pryor, in debt, in the Hempstead Circuit Court, on two promissory notes, payable'at the office of Wright, Williams, & Co., New Orleans. Besides the pleas of nil debet and payment, on which issues were joined, Pryor interposed a further plea, that the notes in the declaration mentioned, were made payable at the office of Wright, Williams 4\" Co., New Orleans, State of Louisiana, one of the United States of America, and that, by the laws of that State, at the dates of the notes and then still in force, all notes made payable at a particular place within that State, are required to be presented, and a demand of payment made at such place, and in default of presentment and demand, the maker is discharged from payment, and averred that neither of the said notes was so presented, and payment thereof demanded, and so he was released, and forever discharged from the payment of the notes in question.\nUpon the motion of the plaintiff, below, this third plea was stricken out, to which ruling of the court the defendant excepted, and in his bill of exceptions saved the plea in question upon the record. Afterwards the defendant withdrew his two former pleas, and saying nothing further, judgment was rendered for the plaintiff, and the defendant brought his case here on writ of error.\nThe question presented is as to the action of the court in granting the motion to strike out the third plea.\nIf the matters of fact set up by that plea can be established as such by evidence, the plaintiff below will be precluded from a recovery, because the law of Louisiana, thus alleged as a matter of fact to exist, governs the question of the liability of the defendant below. It is not at all probable, however, that the defendant can establish the truth of his plea by evidence, the Supreme Court of Louisiana, having, as we have learned, as a matter of fact de hors this record, overturned the previous decisions of that court by the case of Ripka vs. Pope, (5 Lou. Annual Rep. 61) and conformed to what has long been considered the American doctrine \u2014 entertained now,perhaps, by every appellate court in the Union \u2014 that as to the acceptor of a bill, and maker of a promissory note payable at a Bank, or other specific place, no presentment or demand of payment need be made at the specified place on the day when the bill or note becomes due, or after-wards, in order to maintain a suit against the acceptor, or maker, and of course that there need be no averment in the declaration in any suit brought thereon, or any proof at the trial of any such demand, or presentment. Such omission being matter of defence to the extent only, in general, that if the maker, or acceptor had funds at the appointed time and place, to pay the note, or bill, he shall be exonerated, not indeed, from the payment of the principal sum, but from cost and damages in such suit. In special cases, however, as if the bill or note was payable at a Bank, and the acceptor, or maker, had funds there at the time, which are afterwards lost by the failure of the Bank, then the acceptor, or maker, would be further exonerated, on showing such loss in his defence, to the extent of the loss thus sustained (Story on Prom. Notes, sec. 228.\nNevertheless the court below had no more authority to strike out the defendant\u2019s plea in question, than it would have had to strike out his other plea of payment, founded upon some personal knowledge of the presiding judge, that no payment at all had ever been made, and therefore, that he could not prove that plea. A defendant has a right to plead any matter of fact which may be an answer to the plaintiff\u2019s demand; and the laws of the sister States are, beyond their limits, to be pleaded and proved as matters of fact. Whether he can prove the matter alleged in his plea, the plaintiff can ascertain by taking issue upon it. If he cannot, of course his defence fails, and the plaintiff obtains judgment.\nFor the error of the court below in granting the motion to strike out the plea in question, the judgment must be reversed, and the cause remanded to be proceeded with.\nWaticins, C. J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the plaintiff,",
+      "S. H. Hempstead, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Pryor vs. Wright.\nDebt oa two promissory notes payable at a particular place in Louisiana : plea that by tlie laws of that State, the maker is discharged in default of presentment and demand at the place of payment: Held, that the court erred in striking out the plea.\nWhere a note is made payable in a sister State, the laws of that State govern the question of the responsibility of the maker; and such laws are to be pleaded and proved as matters of fact.\nError to the Circuit Court of Hempstead county.\nThe Hon. John Quillin, Circuit Judge, presiding.\nArgued and submitted at the July term, 1852.\nWatkins & Curran, for the plaintiff,\nadmitting that, according to the laws of this State it is not necessary to aver or prove presentment and demand at the place of payment: made the following points :\n1. That the law of the place where the contract is to be performed, governs, as to itsyalidity, nature, obligation, performance, interpretation and discharge, no matter where the contract is made. Story on Conjl. of Laws, 233, 239. 2 Kent\u2019s Com. 450. 2 Burr. Rep. 1077. 13 Mass. 23. 8 Mar. La. 93. 10 Wheat. 367. 1 Paige 221. 17/. R. 511.\n2. That the laws of another State cannot be taken judicial notice of, but must be averred in pleading and established in evidence as facts, 8 /. R. 189, 2 Cranch 186.\n3. That there can be no enquiry as to the law of Louisiana; the allegation in the plea as to the law must be taken as true.\nS. H. Hempstead, contra.\nAs to the maker of a promissory note, or acceptor of a bill of exchange, payable at a particular place, no presentment or demand of payment need be made at the specified place on the day the note or bill becomes due ; and of course there need be no averment thereof in the declaration. Story on Prom. Notes, sec. 228, and note 1, and cases there cited. Wallace vs. McConnell, 13 Peters, 36. 17 /. R. 248. 5 Leigh. 522. 1 Gill 4- John. 175. 8 Mass. 480. 4 Plals. 189. 2 Yerg. 81. 10 N. liamp. 433. 13 Conn. 412. 2 Watts tj- Serg. 458. 6 Ala. 701. 1 How. Miss. Rep. 230. 1 Ham. 483. 1 Scam. 445. 3 Ark. 389.\nThat no presentment or demand is necessary, is decided in Payson vs. Whitcomb, 15 Pick. 212. 17 Mass. 389. 3 N.Hamp. 333. 3 Wend. 13: 4 Conn. 465.\nThis case is settled by the case of Ripka vs. Pope, decided by the Supreme Court of Louisiana, in which the same principle was held, 5 Ann. Rep. ,61."
+  },
+  "file_name": "0189-01",
+  "first_page_order": 187,
+  "last_page_order": 190
+}

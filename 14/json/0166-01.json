@@ -1,0 +1,79 @@
+{
+  "id": 1862735,
+  "name": "Newton et al. vs. More",
+  "name_abbreviation": "Newton v. More",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "166",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 J. J. Marsh. 390",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "26 Maine Rep. 393",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 429,
+    "char_count": 8879,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 6.347464893914652e-08,
+      "percentile": 0.3894340944201766
+    },
+    "sha256": "a4e55d082fb98cc32d3411b836e9b3f852296ecfcae0bdb8743e07a5b2288db9",
+    "simhash": "1:de26a5f9ab12c8fe",
+    "word_count": 1543
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Newton et al. vs. More."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.-\nMore, the plaintiff below, brought his action of covenant against-Pike and Newton, upon an obligation executed by them, on the 1st of April, 1846, the material portion of which is as follows:\u2019 \u201cWhereas Elijah A. More and Absalom Fowler, Esqs., have this day mutually executed an instrument of compromise to settle certain claims, dues and demands, in favor of said More, wherefor,we Albert Pike and Thomas W. Newton,together with Charles P. Bertrand and John R. Desha, are securities of said Fowler, the stipulations of which compromise being complied with by said Fowler, by or on thp first day of May next, said claims and demands will be fully settled, and we and said two securities discharged; and on failure, decree will be entered in accordance with the prayer of the bill of said More, now pending in Pulaski Circuit Court. Now we pledge ourselves to said More and covenant, and agree,, that in case said Fowler complies with said stipulations, and we are so released, we, and said other securities, will pay such fee as Ringo and Trapnall may charge said More for their services in prosecuting said bill.\u201d\nThe declaration avers that-on the 1st day of May, 1846, said Fowler did, according to its stipulations, comply with the terms of said compromise agreement, and the said defendants with their co-securities, were thereby released from their liability as such securities for said Fowler, to the plaintiff, whereby according to their said covenant with the plaintiff, the defendants became and are liable to pay the fee of said Ringo and Trapnall for prosecuting said bill, to wit, the sum of two hundred and fifty dollars, with breach that the defendants, although often requested, &c., had not paid the same.\nThe defendants demurred to the declaration, because it did not allege that they knew of Fowler\u2019s compliance with the compromise agreement; or that they had notice of the amount of the fee, or that any demand was made upon them to pay it. The demurrer being overruled, Newton pleaded, 1st, that Fowler did not, on the first day of May next after the date of the covenant, comply with the stipulations of the compromise agreement, and the securities were not released from the debts of his referred to: \u20222d, that Ringo and Trapnall did not charge the plaintiff any fee whatever, and were not entitled to any in the cause mentioned. Demurrer was sustained to the second plea, and the plaintiff replied to the ih\u2019st plea, by way of estoppel, in si.bstance, that the defendant ought not to be admitted to plead the same, &c., because in the progress of the suit referred to, in the Pulaski Circuit Court, in which the plaintiff was complainant, and Fowler and his said securities were defendants, to enforce the payment of the same debts and demands, which were the subject of the compromise agreement, and to which the covenant here sued upon had reference, on the 8th of May, 1846, the same came on to be heard on bill, answers, exhibits and the agreements, and admissions of both the complainant and the defendants in open court made, and it being admitted that Fowler did, on the 1st of May, 1846, pay the sum of money required, thereby complying' with the compromise agreement in the covenant mentioned, it was, by the court there, among other things, decreed that the defendants, Newton and Pike, together with the other securities,. Bertrand and Desha, be forever released and discharged from all responsibility to the plaintiff, as the securities of Fowler, in respect of the debts and demands in question.\nNewton\u2019s demurrer to the replication was overruled, and the defendant\u2019s declining to plead further, the plaintiff had judgment, and for his damages assessed upon enquiry.\nOur opinion is, that upon all the points, the law is with the plaintiff in the court below. The object of the agreement of compromise was the release of Fowler and his securities: connected with that agreement was the covenant of the securities, that in case Fowler complied with the terms of the compromise, so as to release them, they would pay such fee as the complainant\u2019s solicitors might charge him for their services in prosecuting the suit then pending, to enforce payment of the liabilities from which they were to be released. Clearly, the defendants were bound to take notice whether Fowler complied with the terms of the compromise, so as to perfect it. Nor do we think they were entitled to be notified of the amount of the fee, which the complain-, ant\u2019s solicitors charged; because they took upon themselves the obligation to pay it, and the means of ascertaining the amount were not peculiarly within the knowledge or control of the plains tiff, but was to be ascertained from the solicitors, a source of information equally accessible to both parties. As they did not choose to stipulate for the amount, they stood in no worse com dition than the piaintff himself, who was liable without any spe-, cial request, and were bound to pay such reasonable fee as the solicitors deserved to have, such as they might agree to take, or had a right to charge.\nThe second plea of Newton is bad, because in the face of the covenant he could not deny that the solicitors were entitled to any fee. If, by the allegation that they did not charge any fee, is meant that they forgave or relinquished it, for aught that. appears, it would he & nuclurn pactum, which would not prevent them from recovering the amount from the plaintiff, their client. No defence of this kind would bar the action, short of an averment of such acquittance or release from them as would protect the plaintiff against their rightful demand upon him for a fee.\nNo good reason is perceived why the matter set up in the replication to the first plea is not sufficient to estop the defendant from claiming to avoid his covenant for the want of a literal and punctual compliance by Fowler with the stipulations of the compromise. The admissions of record by the parties to the chancery suit, and upon which the decree was predicated, secured to them the benefit of the release from the debts and liabilities of Fowler, which his delay' in complying with the terms of compromise had forfeited. Having accepted the benefit to which the decree restored them, as if there had been a compliance to the day, they ought not to be heard to deny the fact of such compliance. In the strictest sense the estoppel was mutual, becaifse', against the decree, More never could aver that there had been no compliance so as to set aside the agreement of compromise and charge the securities with the payment of the debts.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Cummins, for the plaintiffs.",
+      "F. W. & P. Trapnall, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Newton et al. vs. More.\nCovenant by securities, that if theiv principal settled the debt by a certain day pursuant to a compromise, so that they were released from their liability, they would pay the fee of the creditor\u2019s solicitors : Decree to which the securities were parties, that the principal did pay the debt pursuant to the compromise, and that the securities were released: Held, That it was unnecessary to averin a declaration upon the covenant, that the securities knew of the compliance with the compromise by their principal; or that they had notice of the amount of the fee; or that any demand was made upon them to pay it-\nThe securities being parties to the decree, are estopped from denying the compliance with the compromise by their principal, and their own release.\nA'plea, that .the solicitors did not charge any fee, and Were not entitled to any, held-bad.\nWrit of Error to Pulaski Circuit Court.\nThe Hon. Wm. H. Feild, Circuit Judge, presiding.\nCummins, for the plaintiffs.\nThe demurrer to the plea reached back to the declaration,, which- was clearly bad, for not alleging the amount of the fee, and a demand on defendants to pay it, or notice to them to pay.\nThe defendants were not estopped by their covenant from denying by plea that any fee was due, or that the parties did not-charge any fee in the case. A general recital or statement in a deed does not operate an estoppel, 1 Grcenl. Ev. sec, 26, nor where the recital depended upon information from the party seeking to enforce the estoppel, Miller vs. Bagwell, 2 McCord\u2019s Rep. 429; nor except as to the particular object and end for which it was made. 26 Maine Rep. 393, and cases cited.\nF. W. & P. Trapnall, contra.\nThe plaintiffs in error being' parties to the suit in chancery, were not entitled to notice of the completion of the compromise, and no averment in the declaration of notice was necessary; nor of the amount of the fee, or demand of payment, as the defendants were bound, to ascertain the amount and pay the fee. Keys vs. Powell fy Co., 2 A. K. Marsh.-253. id. 358. 1 J. J. Marsh. 390. 4 Mon. Ill; and the de. fendants were estopped by the tenor of the covenant from saying that R. & T. were not entitled to any fee."
+  },
+  "file_name": "0166-01",
+  "first_page_order": 164,
+  "last_page_order": 168
+}

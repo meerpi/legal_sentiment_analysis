@@ -1,0 +1,59 @@
+{
+  "id": 1862707,
+  "name": "Perryman vs. Phillips",
+  "name_abbreviation": "Perryman v. Phillips",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "177",
+  "last_page": "177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "ocr_confidence": 0.549,
+    "sha256": "1d3136f3d8ec180173551b6dbd2c68fea17da51eab5a5b3aa4ca2cf6b553a5ff",
+    "simhash": "1:dd2147278a1d029f",
+    "word_count": 23
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Perryman vs. Phillips."
+    ],
+    "opinions": [
+      {
+        "text": "Judgment affirmed upon the authority of The State Bank vs. Conway, 13 Ark.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Perryman vs. Phillips.\nWrit of Error to Crawford Circuit Court."
+  },
+  "file_name": "0177-01",
+  "first_page_order": 175,
+  "last_page_order": 175
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1862634,
+  "name": "Higgs, as admr. vs. Warner",
+  "name_abbreviation": "Higgs v. Warner",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "192",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Wend. 128",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wend. 322",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2009695
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/7/0322-01"
+      ]
+    },
+    {
+      "cite": "6 Cow. 195",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Cow. 193",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        12129767
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/6/0193-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. 217",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/2/0205-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 635,
+    "char_count": 15121,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 1.284505502488609e-07,
+      "percentile": 0.6183547766684467
+    },
+    "sha256": "4166a9d1528a82b80da8efa5b8e08e310bf02dbefa6c1e00cb5c8c6823ac9f12",
+    "simhash": "1:9a234376e10e109c",
+    "word_count": 2669
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting in this case."
+    ],
+    "parties": [
+      "Higgs, as admr. vs. Warner."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nHiggs, as administrator, sued Warner, in assumpsit, for services rendered by his intestate in his lifetime, as an attorney at law, and as an ordinary agent, exhibiting a bill of particulars. Warner, besides the pleas of non-assumpsit and set-off, relied upon the plea of the statute of limitations. The replication to the latter plea, although taken in short on the record by consent, we shall consider as a special one ; otherwise, the plaintiff\u2019s case would be at an end at once for want of appropriate allegations of the special facts, which he complains the court below refused to allow him to prove by the evidence he offered. The evidence thus offered, and which the court refused to permit the plaintiff to produce to the jury, was, that of \u201c an account\u201d filed in the Probate Court, upon which Warner obtained an allowance against the estate of the intestate, \u201c for debts\u201d due by Hightower, the intestate, at the time of his death, which bore date and were charged within three years, next before the commencement of this suit. The object avowed by the plaintiff in offering this evidence, was to prove by it that a mutual open account current, existed between Plightower, in his lifetime, and the defendant, Warner, this action having been brought, as the plaintiff alleges, to recover any balance that might be found due upon the-proper adjustment of such account, so as to bring his case within the provision of the 17th section of the statute of limitation (Dig.p. 698.) We have chosen to say that he offered to prove this fact of such a \u201c mutual open account current,\u201d by this evidence alone, because it is certified to us by the court below, that the bill of exceptions in the record, contains all the evidence that was offered and read to the jury on the trial of the cause, and we have examined the bill of exceptions closely, and find in it no other, either offered and refused, or actually produced to the jury, which in the least conduces to prove any such \u201c a mutual open account current.\u201d Under such circumstances, then, did the court \u00a1below err in refusing to permit the plaintiff to read the alleged account in evidence ?\nTo determine this question we must ascertain the meaning of the section of the limitation act, just cited, in its connection with the other provisions of the statute'. Its own words are its best exponent, that when an action shall be \u201c brought to recover any balance due upon a mutual open account current, the cause of action shall be deemed to have accrued from the time of the last item proved in such account.\u201d It was not to exempt open accounts current from the operation of the statute, not even when Such accounts were mutual, but to fix the point of time from which the statute would begin to run on any such latter. According to very common custom in this State, store accounts for goods sold, are due the first day of January following the year in which they are made. From that time the statute ordinarily begins to run upon them, the customer being supposed to have purchased with reference to this common custom, and therefore agre\u00e9d to the maturity of the account at that time. Otherwise the general rule might apply, which is, in general, applicable to tradesmen and artificers, &c., that the statute would run from the day of each article delivered, or piece of work done, and the continuation of the supply, or of the work done, would not interrupt it; and differing essentially from a duty which requires a continuation of services to complete the one act, as the duty of an attorney to commence and manage a suit. So the time for the closing of a mutual account current, might be stipulated for between the parties, either expressly or by implication, and the statute would run on the balance from that day, unless absorbed in a new mutual open account, in which the balance might form the first item. But if there be no stipulation between the parties, the statute enacts that the cause ofiaction shall be deemed to accrue from the date of the last item. It is not, however, every open account current between parties, although they may severally have cross open accounts against each'other, that is a mutual one within the meaning of the statute. Such former would of course be matter of set-off on either side, and by agreement could be converted into one indivisible open mutual account current; but unless by such agreement, either express or implied, they would remain two several open accounts current, and not one entire indivisible mutual account, for which the balance only could be proceeded for, as contemplated by the section of the statute in question.\nIn the one mutual account current, contemplated by the statute, matters of set-off become converted eo instanti, into payment, and the balance only is recoverable. It is one consolidated transaction linked together, however numerous the items, by an alternative or correlative subsisting debt on the one side inducing the credit on the other. Agreement either express or implied, is of the very essence of such a mutual account current; because it is the act of the parties, and not the act of the law. The law but recognizes their act and carries out their intention as manifested by their act. It does not of its own force, convert cross dealings into one indivisible mutual account, but encourages gai\u2019ties to do so, as it does to use their cross demands as\u2019set-off rather than institute an independent cross action upon them.\nWhen, however, the parties elect to pursue the course of dealing contemplated by the statute, it necessarily results that any one item on either side of the one mutual account would draw to it every other item with which it was connected by this chain of dealing, because in the view of the statutory provision-, we are considering lire whole is one entire transaction. It could not, however, possibly draw to it any item with which it was not so connected for want of the essential element of the mutual agreement of the pai'ties. Analogous to a payment made by a party who failed to exercise his right of appropriation, when making a payment to a creditor who holds two separate demands, one barred by the statute and the other not; and the creditor, in the exercise of his ordinary right of appropriation, applies it in part liquidation of the stale demand, such would not be a part payment within the statute, so as to revive the remedy for want of the essential elements of appropriation by the debtor.\nWhether or not, then, in a case like this at bar, there was such a course of mutual dealings between the parties as is contemplated by the statute, is a material fact. And as such a course of dealings is founded upon the agreement of the parties, express or implied, and does not necessarily follow', as the consequence of the fact, that each party may have an open account current against the other, there is no ground from which to presume such course of dealing, even prima facie from proof of the existence of a cross open account current, as there would be to presume appropriation of a partial payment, made generally to a creditor, who held a subsisting demand ; because, in the latter case, in the absence of all repelling circumstances, the payment could be referred to nothing else than to this subsisting demand, whereas, in the former case the credit given, which would constitute the cross demand, might well enough, until the contrary should appear by facts or circumstances, be regarded as a credit at large. In the usual course of dealings, men rarely pay money unless they owe it, whilst it is one of the most ordinary circumstances in common life for a man to credit one he does not owe.\nIf, therefore, the court had permitted the evidence in question to have gone to the jury,\u2019unconnected as it was with the proof of any other fact or circumstance, in any degree conducing to prove the existence of a mutual open account current, within the meaning of the statute, between the plaintiff\u2019s intestate and the defendant, a verdict founded upon it in favor of the plaintiff would have been so utterly without evidence to sustain it, that it could not have been permitted to stand. So that even if we might think the evidence in question competent as tending one step towards the establishment of the main fact, the burthen of which was upon the plaintiff to pr-ove, its exclusion under the state of this case, as it appears upon the record, in no way worked the prejudice of the plaintiff..\nWe .think, also, that there was no error in the court below to permit the reading in evidence, to prove the set-off, the \u201cproceedings, recovery and record,\u201d as it appears by the bill of exceptions was allowed : and the judgment recovered in that court against the plaintiff, as administrator, was, we think, a good matter of set-off under our statute. (Dig. ch. 150, sec. 2, 3.\nWe find no error in the ruling of the court, either as to the instruction given, or those refused. The \u2018ruling as to these was substantially correct.\nIt was suggested by the counsel for the appellee, that there was no question upon this record for the consideration of this court, because, although the plaintiff below excepted to the decision of the court overruling his motion for a new trial, he failed to have a bill of exceptions sealed.\nIn the case of Berry vs. Singer, (5 Eng. R. at p. 490) we remarked that \u201c we would not go the length that is apparently indicated in Sawyer vs. Lathrop (4 Eng. R. 67), of requiring that the evidence should, in every case, be brought upon the record, only after the overruling of a, motion for a new trial. On the contrary, we think that if it may have been brought regularly upon the record before, and the record shows distinctly that all the evidence was so regularly of record; as might well be done in exceptions that might be taken by bill to the giving or refusing to give instructions to the jury in order to show the application or misapplication of the law to the facts, there would be no more necessity in such case of reproducing such evidence in the last bill of exceptions to the overruling of the motion for a new trial than there would be to reconstruct any other part of the re-\u00bb cord. Because the waiver which is the result of a motion for a new trial, is no mutilation of the record, producing thereby any necessity for its reproduction in the last bill of exceptions, but simply a waiver of the right to insist upon exceptions taken during the trial, as mere errors in law,\u201d unless preserved by exceptions taken to the overruling of the motion for a new trial.\nIn the case at bar, all the evidence produced on the trial, and that which the court would not allow to be produced to the jury, as well as all the instructions given and refused, are upon the record regularly, and so is the motion for a new trial, and the exception of the appellant to the decision of the court overruling his motion for a new trial. A bill of exceptions could have therefore brought nothing more upon the record than was already there; and that distinguishes this case from that of Ford vs. Clark, (7 Eng. R. 99), and several other cases.\nWatkins, C. J., not sitting in this case.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the appellant.",
+      "Curran, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Higgs, as admr. vs. Warner.\nSuit by an administrator upon an open account due his intestate for services as attorney and agent: plea, limitation of 3 years : the plaintiff offered to read in evidence an account filed by the defendant in the Probate Court, and allowed against the estate of his intestate for debts due the defendant, the items of which were within three years next before the commencement of the suit, as evidence of a mutual open account current between the parties, under the 17lh section of the statute of limitations (Dig. 698): Held, that the account offered to be read was not evidence of a mutual open account current within the meaning of the statute.\nThe time for closing a mutual open account current, may be stipulated between the parties, either expressly or by implication, and the statute of limitations would run on the balance from that day : but in the absence of any stipulation, the cause cf action, under the statute, is deemed to accrue from the date of the last item.\nBut it is not every open account current between the parties, where they severally have cross open accounts against each other, that is a mutual one within the statute. Ageeement, express, or implied is of the very essence of such a mutual account current.\nA judgment in the Probate Court in favor of the defendant against the estate of the plaintiff\u2019s intestate, is good matter ofset.off under the statute. Dig. ch. 150, secs. 2, 3 ; though such judgment be marshaled in class/iue, and the assetts are insufficient to pay all the debts in class four ; and such allowance or judgment is conclusive evidence as to the amount due from the intestate to the defendant, on that account.\nThe ease of Berry vs. Singer, (5 Eng. 490,) approved as to the office of a bill of exceptions in bringing upon the record the evidence and instructions where a motion for new trial is overruled.\nAppeal from Lafayette Circuit Court.\nThe Hon. John Quillin, Circuit Judge, presiding.\nThis' suit was brought on the 23d day of May, 1850\nwas : \u201c That an allowance in favor of the ^ made in the court of Probate against the plaintiff, in his said character of administrator, and marshaled in class five, cannot be set-off against a demand due from the defendant to the said intestate, John O. Hightower, in his lifetime, and which remained due and unpaid at the time of his death, it appearing to the court that the estate of the said John O. Hightower had not been sufficient to pay off the claims allowed against the estate in class The instruction asked by the plaintiff and four.\u201d\nThe instructions asked for by the defendant, and given, were ;\n1st. That the jury cannot allow any of the items charged in the plaintiff\u2019s account, except such as are proved to have accrued since the 23d day of May, 1847.\n2d. That the payment (judgment) or allowance in the Probate Court is conclusive evidence in favor of Warner, for the amount therein specified, $759 17, with interest, at 6 percent, per annum, from the 20th May, 1850.\nS. H. Hempstead, for the appellant.\nIt has long been established that mutual accounts, if they contain some items, or any item, within the period of limitation, are not barred by the statute, although the rest of the items are beyond the period of limitation, Angell 129. 2 Mass. 217. 4 Greenl R. 337. 1 Serg. & Watts, 356; and our statute dates the accrual of the cause of action from the time of the last item proved in the account, Dig. 698.\nThis rule is not confined to accounts between merchant and merchant, nor is it material upon which side the items within three years are. Angell 134. Tucker vs Ives, 6 Cow. 193, nor of what the items consist. 6 Cow. 195. 6 T. R. 189. 7 Wend. 322. 9 Wend. 128. The court therefore erred in refusing to permit the evidence offered, as it was important to establish the fact that the parties had mutual dealings with each other.\nCurran, contra."
+  },
+  "file_name": "0192-01",
+  "first_page_order": 190,
+  "last_page_order": 197
+}

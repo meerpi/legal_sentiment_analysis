@@ -1,0 +1,99 @@
+{
+  "id": 1862671,
+  "name": "Owen as ad. vs. Jones",
+  "name_abbreviation": "Owen v. Jones",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "502",
+  "last_page": "505",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 502"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Ark. 531",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wend. 65",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11268117
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/12/0065-01"
+      ]
+    },
+    {
+      "cite": "16 John. 89",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        378302
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/16/0089-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 346,
+    "char_count": 4916,
+    "ocr_confidence": 0.535,
+    "pagerank": {
+      "raw": 1.7424384666067625e-07,
+      "percentile": 0.7072250158213857
+    },
+    "sha256": "dd2d7cf1af1f9b87802dc044f0cf5cf66e34f2219a1a443498f5a3962ab94ab2",
+    "simhash": "1:902f0620bf54dcca",
+    "word_count": 859
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, O. J., did not sit in this case."
+    ],
+    "parties": [
+      "Owen as ad. vs. Jones."
+    ],
+    "opinions": [
+      {
+        "text": "Hon. Isaac Strain, Special Judge,\ndelivered the opinion of the. Court.\nThis is an action of trespass on the case, against the appellant\u2019s intestate, for damages to the cotton and corn crops of the appellee, whilst in his employ, as his overseer.\nAmongother evidence the plaintiffbelow, having proved the signature of Dick & Hill to be genuine, introduced theff letter, stai ting, \u201c There were 178 bales of cotton, shipped us per So. Western, in bad order, a good deal of it was delivered in bulk and had to be rebaled, 28 bales were picked, the expense of which was $64 87, 23 bales were remade, the charge for \u25a0 which was-$112. Three bales were lost in this operation, and there was-loss in weight on the picked bales, &c.\u201d To which evidence the defendant below objected, but the court overruled the objection and permitted it to go to the jury. The jury brought in a verdict for'the plaintiff for $797 43.\nNow if the other evidence, exclusive of this, were sufficient, upon which this verdict might well be sustained, although the court below manifestly erred in permitting this letter to be read as evidence to the jury, yet for this alone the verdict ought not to be disturbed. But aside from this letter, there is no evidence upon which so large an amount of damages, as contained in this-verdict, could be based or sustained: The jury, therefore, must have depended in a great measure upon this evidence in rendering this verdict. Dick & Hill were competent witnesses. Their evidence, if desired by the plaintiff below, ought to have been obtained legally, affording the defendant an opportunity to cross examine them.\nAs to the other error assigned in the record, we think the plaintiff having fixed the commencement of the term of service of the overseer by his declaration to the 1st day of January, A. D. 1843, and alleged \u201cthat he entered on the duties of hi.s said employment as overseer\u201d on that day, is bound by that period, and cannot prove any injury he sustained anterior to that time. For the reason, that this action would be no bar to an action for injury sustained during a term of service anterior to this; because it could not judicially appear that any damages had been recovered for any such anterior term of service; and the declaration itself specifying the commencement of the term of service, would repel any presumption to the contrary.\nIt is by no means true that the specification of time is, in all cases, immaterial to be proved as laid in the declaration. Where-ever time i's material, not only in matters of contract, but in matters of tort, the plaintiff is strictly bound by that time. Now in trespass, with an allegation of a continuando or diversis diebus, if the plaintiff insists upon proving repeated acts of trespass, he will not be allowed to give evidence thereof, unless committed within the time specified.\u201d 1 Ch. Pl. 3 Ed. 258. Eastman vs. Bodfish, 1 Story\u2019s R. 528.\nThe court therefore erred in permitting the plaintiff to give evidence of injury sustained prior to the first day of January, A. D. 1843, and for these errors the case must be reversed.\nWatkins, O. J., did not sit in this case.",
+        "type": "majority",
+        "author": "Hon. Isaac Strain, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the appellant.",
+      "Curran, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Owen as ad. vs. Jones.\nThe letter of the commission merchant to the shipper of cotton, stating the damaged condition of the cotton when received, would not be evidence against the overseer in a suit against him for damages.\nWhen illegal evidence is admitted to go to the jury, and the other evidence is not sufficient to sustain the verdict, the judgment will be reversed.\nWherever time is material, .either in actions of contract, or for tort, the plaintiff is strictly hound by the time laid in the declaration, \u2014 as in an action against an overseer for damages, by the employer, he cannot recover for injuries committed prior to the date alleged as the commencement of the employment.\nAppeal from Lafayette Circuit Court.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nS. H. Hempstead, for the appellant.\nWhere improper evidence-is given, although it may be cumulative only, the judgment must, be reversed, because the court cannot say what effect such evidence may have had on the minds of the jury. Marguand vs. Webb, 16 John. 89. 2 Hall N. Y. Rep. 40. 3 Cowen 621. 12 Wend. 65. 4 Ark. 531. The letter of Dick & Hill was improperly admitted and the verdict is clearly excessive.\nThe court should have excluded the evidence as to injury to the crop in 1842; for although as a general rule, the precise day need not be proved, and time is not material, yet that rule does not apply to a case like this, where the date marks the commencement of the overseer\u2019s term of service or employment, and where the object is to hold him responsible for damages after that time. In that view, time here becomes material, and the plaintiff was bound by the allegation he had made in that respect. Eastman vs. Bod/ish, 1 Story R. 528. LiiteVs Sel. Cas. 86, 435..\nCurran, contra."
+  },
+  "file_name": "0502-01",
+  "first_page_order": 502,
+  "last_page_order": 505
+}

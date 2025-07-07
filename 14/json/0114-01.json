@@ -1,0 +1,265 @@
+{
+  "id": 1862714,
+  "name": "The State vs. Lawson, late Sheriff",
+  "name_abbreviation": "State v. Lawson",
+  "decision_date": "1848-07",
+  "docket_number": "",
+  "first_page": "114",
+  "last_page": "122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Hill 493",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Denio 370",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Pick. 47",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2013244
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/25/0049-01"
+      ]
+    },
+    {
+      "cite": "1 Wend. 318",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2003362
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/1/0318-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 205",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2144161
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/3/0205-01"
+      ]
+    },
+    {
+      "cite": "3 Mass. 513",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Wend. 468",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Yates 280",
+      "category": "reporters:state",
+      "reporter": "Yates Sel. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hill 554",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "case_ids": [
+        11255316
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/scl/20/0554-01"
+      ]
+    },
+    {
+      "cite": "1 McLean 331",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mo. 326",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8854071
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/6/0326-01"
+      ]
+    },
+    {
+      "cite": "2 John. 248",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "15 Wend. 660",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Mass 456",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2027022
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/10/0448-01"
+      ]
+    },
+    {
+      "cite": "1 Stewart 136",
+      "category": "reporters:state",
+      "reporter": "Stew.",
+      "case_ids": [
+        8493309
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/stew/1/0136-01"
+      ]
+    },
+    {
+      "cite": "6 Peters 137",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wend. 424",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Wend. 324",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Peters 524",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5619741
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/37/0524-01"
+      ]
+    },
+    {
+      "cite": "1 Cranch. 137",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "case_ids": [
+        6760011,
+        6759998,
+        12121622
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/dc/1/0137-02",
+        "/dc/1/0137-01",
+        "/us/5/0137-01"
+      ]
+    },
+    {
+      "cite": "14 John. Rep. 325",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376243
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/14/0325-01"
+      ]
+    },
+    {
+      "cite": "1 Cow Rep. 498",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 805,
+    "char_count": 16539,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 2.0058604780768523e-07,
+      "percentile": 0.7436257866771383
+    },
+    "sha256": "4cf0241c1ac774bb86b624d75d724e8a8274b26348940694d8321772667d950a",
+    "simhash": "1:ea6725422fc3c1f2",
+    "word_count": 3027
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting,"
+    ],
+    "parties": [
+      "The State vs. Lawson, late Sheriff."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker,\ndelivered the opinion of the court.\nThis was a proceeding by petition for a mandamus to compel the defendant, as sheriff, to acknowledge a deed for certain lands, which the petitioner claims as purchaser at a judicial sale.\nThe petition is very full, as are also the recitals in the alternative writof mandamus. The substance of the ground for mandamus, is, that the defendant, as sheriff, offered for sale certain lots of land, as the property of the Bank : that Johnson, at the instance of the state, and for her benefit, bid off the land: that the State has been, and is yet ready and willing to pay the sum bid and has tendered the same to the sheriff, who refused to receive it: that the sheriff well knowing these facts, executed and delivered to Johnson a deed to the State for said land: that the sheriff refuses to acknowledge such deed. And prays that he be required to do so, or to show cause why he should not be compelled so to do.\nThe defendant declined acknowledging the deed,and for cause shows, that the land was bid off by Johnson, as the attorney for the Bank, and that the petitioner was wholly unknown to him as purchaser: that he applied to Johnson for the sum bid which he refused to pay; that under the statute, upon such refusal, it became his duty to re-offer the property for sale, and that he did at the time and place, re-offer said land for sale, and sold it to Thomas W. Newton, to whom he executed and acknowledged a deed. Pie positively denies that either Johnson or the State or any one for them, tendered or offered the sum bid, until long after the complete consummation of the second sale to Newton, but admits a tender by the State after that time. That his deputy took lists of the sales and made out deeds for the purchasers; that he has no recollection of having either signed or delivered a deed for the land either to Johnson or the State. He is positive that he never intended to do so: that deeds were made out and signed, ready to be delivered when the purchase money was paid. Such deeds were usually kept in a box in the clerk\u2019s desk, and may have been taken without his knowledge.\nTo this response the State made two replications: first, that the respondent did not again offer said lots for sale, at the time and place at which the first sale was made: second, that he did execute such deed to the State for said lots, and that the same is his act anddeed. The first of these replications concludes to the country the second, with a verification. And issues being taken upon them, they were submitted for trial to the court sitting as a jury. After hearing the evidence the court found for the defendant and rendered judgment accordingly.\nNo exception was taken to the opinion of the court on a question of law, except as to the admissibilit}r of a certain deposition. And as there was no motion for a new trial, the correctness of the decision of the court in excluding such evidence presents the only legitimate question to be determined.\nThe objection to the deposition, was that the official character of the justice, before whom the same was taken in Kentucky, was not sufficiently authenticated, in this, that what purported to be the seal of'the Jefferson Circuit Court, was an impression upon paper, without wax or other soft tenacious substance. The court held this objection good and excluded the deposition. In this the court erred. In the absence of evidence to the contrary, the court should have presumed in favor of the regularity of the proceeding from the sister State. There may have been a statute there like our own, declaring that an impression upon paper shall be a sufficient sealing: and whether this be the case or not, the later decisions of the courts go to discourage the objection and hold it frivolous. Pillow vs. Roberts, 13 How. U. S. S. C. Rep. 472. 7 Eng. 822.\nBut then the question recurs, admitting the depositions to be in other respects, unexceptionable, were they admissible under the issue formed by the parties?\nWaiving the consideration of the question whether a writ of mandamus is the appropriate remedy in this case, which we think extremely doubtful, and conceding the power of the court to compel the officer to perform a legal duty, still the court would not exercise such power until a clear legal duty was shown, and it was made to appear that the officer had failed or refused to perform it.\nIn this case the sheriff is called upon to acknowledge a deed, which purports to have been executed by him as such to the petitioner. It is conceded that the bid was made by Johnson, and it is not shown that the sheriff was aware that the State had any interest in the bid uuless after the second sale of the property; but so far from this, the sheriff, in his answer under oath, positively de nies all knowledge of the fact until after the second sale: And this answer must be taken as true, because it is not questioned by replication, nor is it disproven by other evidence. The sheriff thus is cut off from all knowledge of the acts of the State. He could not request her to pay, because she was unknown to him; and for the same reason an ability or readiness to pay by the Bank, not having been brought home to the sheriff, amounted to nothing. Thus left with Johnson, as the only known bidder, who refused to pay the sum bid, the sheriff, in obedience to the statute, re-offered the property, and sold it to a second bidder, who paid the sum bid to the sheriff. This second sale was a revocation, under authority of the statute, of the first bid; and no act of Johnson\u2019s after that time could restore him to the rights which he had lost by refusing to pay the sum bid when called upon.\nThe first replication is intended to put in issue the time when the second sale took place. This we have held, if true, a mere erroneous exercise of power which did not affect the validity of the sale. Newton vs. State Bank.\nAnd concede that the State did tender the money bid by Johnson, and claim the benefit of his bid, after the resale of the property, this could not coaler a right on her to demand a deed for the property; because the bid under which she claimed was abandoned by the refusal of the only known bidder to pay the sum bid, and because the second bidder had succeeded to all his rights.\nThe deed subsequently found in the possession of Johnson, bears date eight days after the second sale of the property, and, if the contents of the deed are to be received as evidence, it must be taken all together, and would show prima facie a deed signed and delivered to Johnson at that date. If so, it was an act not warranted by law, and of course would not be consummated by acknowledgment, by the sanction of a court. Under the circumstances of the case, after the sale to Newton, the first bidder stood in no better situation than any one else; his bid was forfeited; there was no bid; a mere stranger had as much right to demand a deed as he had. But the sheriff positively denies the execution of the deed, and there is no proof of its execution except that arising from presumption: but if there was proof upon this point, it would not avail.\nIt is not true, as the counsel for the State seem to suppose that the sheriff may charge himself with the sum bid and dispense with the payment of the money. This question was discussed at length in the case of Dickson vs. Gilliland, 1 Cow Rep. 498. In that case the sheriff received a large amount of the money and made a deed to the junior lien creditor under the New York statute. The first purchaser, at the expiration of the time allowed him to redeem, claimed a deed, and it was ordered to be made to him, upon the ground that the sheriff had no right to make the deed until the whole of the purchase money was paid. The policy of the law forbids that sheriffs should be permitted to substitute themselves as debtors to the creditor. But even if this was permitted, it is evident that no court would compel the sheriff to do so. Nor will the readiness of the State to pay authorize a deed after the second sale, because the sheriff has exhausted his power and authority by a sale, and the receipt of the purchase money under it.'\nReturning theivto. the only question of law raised by the assignment of errors, the admissibility of the deposition as evidence, limited in its application to the issues formed upon the replication, to the return of the sheriff on the writ of mandamus, we are of opinion that had it been admitted and had proven every fact put in issue by the replications, that still upon the whole case, the decision of the court was right, because the execution of the deed should have been before the sale to Newton and upon payment of'the money.\nLet the judgment of the Puluski Circuit Court be in all things affirmed.\nWatkins, C. J., not sitting,",
+        "type": "majority",
+        "author": "Mr. Justice Walker,"
+      }
+    ],
+    "attorneys": [
+      "Watkins, Attorney General, for the State!",
+      "Pike, contra."
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. Lawson, late Sheriff.\nIn the absence of evidence to the contrary, the court will presume in favor of the regularity of the official proceedings of a sister State^as where the seal of a court is affixed by impression on paper without wax or any other tenacious substance, that the sealing was according to the laws of the State.\nIs the writ of Mandamus the appropriate remedy to compel a sheriff to acknowledge a deed to the purchaser of lands at judicial sale? If so, the court would not exercise such power until a clear legal duty was shown, and that the officer had faile.d or refused to perform it.\nWhere apurchaser at judicial sale fails to pay his bid, he loses the benefit of his. purchase, and a resale and payment by the second purchaser vests in him the legal title: and in such case the court will not compel the sheriff to acknowledge a deed to the first purchaser, executed subsequently to the resale.\nUpon a sale of property at sheriffs sale no title passes until payment of the purchase money, and the sheriff cannot charge himself with the amount of the bid and thus dispense with actual payment.\nThis court will not reverse a judgment because the court below erred in rejecting testimony; w};en if it had been adpaitted, and had proved every fact in issue, the decision of the court on the whole case is right.\nWrit of Error to Pulaski Circuit Court,\nThe Hon. W! H. Feild, Circuit Judge, presiding.\nThis case was argued and submitted at the July term 1848.\nWatkins, Attorney General, for the State!\nThis is an application to compel the sheriff to acknowledge a deed which lie had executed to the purchaser of property, sold under execution. Without such acknowledgment the rights of the purchaser are impaired, and the mandamus is the only specific remedy to compel the performance of a duty, clearly enjoined by the statute. Rev. Slat., Title, Execution, sec. 22. Goodall Ex parte, 14 John. Rep. 325. Dawson vs. Thruston, 2 Hen. Mun. 132. Marbury vs. Madison, 1 Cranch. 137. Kendall vs. The United States, 12 Peters 524. Commonwealth vs. Cobran, 1 Serg. Rawle 473. People vs. Corp. Brooklyn, 1 Wend. 324. Johnson's adnt'r. vSi Kellyetal., Wright's Rep 353. Fowler vs. Pearce, shf. 2 Eng. 31.\nThe question here is not between a party to the suit, or a privy* that could be concluded by the quasi record of the sheriff\u2019s return on the execution. As to strangers, the sheriff\u2019s return is on! j prima facie evidence, and they are not estopped from impeaching it in any collateral proceeding. 1 Greenl. Ev. 562. 3 Phill. Ev. Cowen Sf Hill\u2019s notes, p. 1085, and cases.\nThe title of the purchaser under execution is evidenced by the deed of the sheriff and the recitals contained in it under the statute; and if the sheriff should omit his return on the execution, the recitals in the deed are all that the statute requires to evidence his title. 4 Kent Corn.. 432, 434. Rev. Slat., Title Execution, sec. 60. The deed and its recitals required by law, are a part of his return and official duty. Jackson vs. Roberts Ex., 11 Wend. 424. Jackson vs. Sternbufgh, 1 John. Cases 155.\nThis is a direct proceeding to which the sheriff is a party, and therefore his return may be impeached (Levy vs. Lawson, 5 Arki 212) as fully as in an action on the case at common law; a remedy perhaps unknown to our laws. Rev. Stat., Title, Execution, sec. 68.\nThe possession by the agent of the State, of a deed duly exeeuted by the sheriff pursuant to a regular and valid sale, raises a presumption in law, in the absence of any presumption or proof to the contrary, that the deed was delivered. Lessee of Sicara vs. Davis, 6 Peters 137. Ward vs. Ross, 1 Stewart 136. Maynard vs. Maynard, 10 Mass 456. Church vs. Gilman, 15 Wend. 660, Jackson vs. Gatlin, 2 John. 248. Green vs: Yarnell, 6 Mo. 326. Dunn vs.-James, 1 McLean 331. Hatch vs. Hoskins, 5 Shep. 391. \u2022 El'say vs. Metcalf, L Denio 326. 3 Phill. Ev. 1284 {notes.)\nThe deed itself is evidence of the payment of the purchase money by the State; but neither the validity of the deed, nor the fact of its execution, depends upon the actual payment of the purchase money, and the sheriff was liable to the plaintiff in execution, whether he received the money or not. Jackson vs. Mc-Chesney, 7 Cowen 361. Grout vs. Lownshend, 2 Hill 554. Church vs. Church, 4 Yates 280. McReavs Pur moni, 16 Wend. 468. 3 Phill. Ev., Cowen <\u00a7\u2022 Hill\u2019s uotes 1442.\nThe return of the officer may be impeached by parol, even in a collateral proceeding, if the effect of the evidence is to show that it is void or fraudulent.\nThe court erred in rejecting the deposition of Thomasson. Our statute authorizes official seals to be by impression on the paper without wax, and in the absence of any proof to the contrary, the presumption will be, that the laws of other States or countries are the same as ours; that is, the law of the forum.\nPike, contra.\nThe plaint\u2019ff mistook her remedy. If a sheriff makes a false return, he is liable only in an action on! the case, brought specially therefpr. In no other way can his return be shown to be untrue. Livermore vs. Bagley, 3 Mass. 513. Putnam vs. Man, 3 Wend. 205.\nMandamus will only lie where there is no other specific, legal remedy. King vs. Bishop of Chester, 1 T. R. 404. Rex vs. Wind-ham, Cowp. 377.\nIf there is a remedy by an action on the caise, mandamus will not lie. Maltler of Shipley, 10/. R. 484. People vs. Corp. of Brooklyn,, 1 Wend. 318. Oaks vs. Hill, 8 Pick. 47.\nOr if the rights of others would he affected. For example it does not lie, where one is in office, to admit another. Oaks vs. Hill, vb. Sup. People vs. Mayor SfC., of N. York, 3 /. Cas. 79. King vs. Mayor of Colchester, 2 T. R. 259. King vs. Mayor of York, 4 T. R. 700.\nThe courts will only compel the sheriff to make a return, and leave the party to his remedy against him. They will not grant a mandamus: for if they did, and he disobeyed, they could only fine him. Morley vs. Stocker, 6 Mod. 83. See as bearing on, this, Regina vs. Nash, 1 Salk. 147.\nThe decision of the court, ordering a mandamus to compel a sheriff to make adeed,isnotresy'w\u00bfica\u00bfa,nordoesitsettle anything as to the right. If such order can be made at all, it must be loithoul prejudice to the rights of any person concerned. The deed made under it could not be used in a future litigation. Van Rensselaer vs. Sher if of Albany, 1 Co wen 512. Dickinson vs. Gilliland. id. 495.\nApart from this question, the relator shows no right to a deed',, for failure to pay the bid in time. On this ground alone she; must fail.\nBut the great question in this case is whether the sheriffs return can be impeached in this case. We say it cannot. It cam only be impeached by some direct proceeding against the sheriff for damages, in which the execution purchaser is not a party, and which proceeding does not aim to affect the property sold. It must be a preceding which goes on the ground that the sale is-valid; and that, therefore \u2014 because it is valid, the party is entitled to damages.\nThe deposition of Thomasson was properly excluded The impression upon the paper was no seal. Our law making impressions of seals of our own courts, sufficient sealing has no extra-territorial force. There was no evidence that such sealing was good in Kentucky: and clearly it was no seal by the common law; That the person who signed the: certificate was clerk> can only appear by the seal, \u2014 that alone proves his character. It must be there before his certificate can prove anything.\nPrecisely this point was conclusively settled in Coil vs. Milli-Jcen, 1 Denio 370. See also Warren vs. Lynch, 5 J. R. 239; Rank of Rochester vs. Gray, 2 Ilill 227. Farm. Sf Manuf. B\u2019k. Haight, 3 Hill 493."
+  },
+  "file_name": "0114-01",
+  "first_page_order": 114,
+  "last_page_order": 122
+}

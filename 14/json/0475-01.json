@@ -1,0 +1,66 @@
+{
+  "id": 1862737,
+  "name": "Reed vs. Akin",
+  "name_abbreviation": "Reed v. Akin",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "475",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 475"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 355,
+    "char_count": 6956,
+    "ocr_confidence": 0.504,
+    "pagerank": {
+      "raw": 4.6922169990516086e-08,
+      "percentile": 0.2946864855827502
+    },
+    "sha256": "6dba8c9a4bdb9cb0492ea238264576274721e934459cd813aadf545b3f958878",
+    "simhash": "1:8be3c6acb892cc5a",
+    "word_count": 1236
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reed vs. Akin."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis was an appeal from the justice\u2019s court to the Circuit Court, where, upon a trial de novo, the original defendant, after admitting the plaintiff\u2019s demand, offered to prove an account due from the plaintiff to him, as a matter of set-off, but upon the objection, that the defendant had not given the plaintiff proper-notice of the proposed set-off, while the case was in the justice\u2019s court, the Circuit Court ruled out the proposed off-set. This action of the Circuit Court is the error assigned here.\nIt appears from the justice\u2019s transcript, that upon the return day of the summons, both parties appeared before the justice, and that the defendant then filed a bill of the particulars of a set-off demanded by him. This appears both by an entry upon the docket and the justice\u2019s endorsement of filing upon the bill of particulars. The defendant afterwards, the same day, continued the cause for a month. At the next trial day both parties were again present, and the cause was again continued by plaintiff. At the third trial day, both parties were again present, and, upon the hearing, the justice ruled out the off-set upon the ground, as stated in his transcript, of the \u201cdefendant\u2019s failing to give the plaintiff notice of his off-set,\u201d and thereupon gave judgment-for the plaintiff\u2019s demand, and the defendant appealed.\nUpon the trial in the Circuit Court, the defendant admitted the correctness of the plaintiff\u2019s demand, but insisted upon the offset, that had been ruled out by the justice, and made additional proof by J. B. Lewis, who seems to have acted as his attorney, before the justice, that on the original trial day before the justice at a time when the plaintiff was present in the house and before the cause was continued, the witness notified the justice that he had an off-set to file in the case, read over the items in the hearing of the plaintiff, (but did not know whether the plaintiff actually did hear him,) and then handed it to the justice to file among the papers.\nThe statute provides that, upon the appeal, no other cause of action shall be tried in the Circuit Court than the same that was \u201ctried before the justice, and no set-off shall be pleaded that was not pleaded before the justice, if the summons was served on the person of the defendant, (Dig. p. 670, sec. 192.) It also provides that, \u201cIn order to entitle a defendant to set-off any demand, he must give notice thereof to the plaintiff, either verbal or written, before the jury is sworn or the trial submitted to the justice,\u201d (Dig. p. 652, se. 81, lut misprinted 71.) \u201cAnd that when a set-off is founded upon an instrument in writing executed by the plaintiff, or his testator or intestate, or iipon an open account, he must, at the time of giving such notice, file with the justice such instrument, or a bill of the items of such account,\u201d (Dig. p. 652, sec. 82.)\nConsidering together these provisions of the statute we think the Legislature, without any intention to prescribe any particular mode of communicating notice, simply designed to secure to the plaintiff notice in fact or its equivalent, as a pre-requisite for the defendant to set up and prove an off-set. This is strongly indicated by the indefinite provision,that notice maybe given either verbally or in writing, without any other regulation except that, as to time, it must be given before the jury is sworn or the trial is submitted to a justice. Hence it would be as well communicated indirectly as directly; either through the instrumentality of writing, or by word of mouth, provided actual notice be in fact carried home from the defendant to the plaintiff. Indeed, so long as the cause remained pending and undetermined before the justice, it-would be in accordance with the spirit of the statute for the justice to receive a set-off at any time, and if the filing, whether before or on the day of trial, be a surprise to. the plaintiff, he might claim a continuance, but being in court he is presumed to have notice.\nWhen the testimony of Lewis is considered in connection with what is legitimately to be inferred from the justice\u2019s transcript, the whole taken together are equivalent, in our opinion, to proof of actual notice. Whether or not the testimony of Lewis was produced in the justice\u2019s court, does not in any manner appear, but this can in no way affect the existence of the fact of notice, upon which depended the right of the defendant to be heard as to his set-off, before the justice as well as upon his appeal before the Circuit Court, where the case is heard de novo absolutely, and hot de novo upon condition that some error of fact or law may be found as in cases of appeal from the Probate Court.\nUpon the establishment in the Circuit Court of this pre-requisite to his set-off, it would be as unreasonable to refuse to hear him as to the whole of it, as it would be to deny him a hearing, as to some one item only, in another case where, upon a regular trial upon the merits in the justice\u2019s court, he had failed to make proof as to this item only, although he had proved all the others, and was now ready to prove this also.\nWe think, therefore, the court erred in ruling out the off-set, and for this error the judgment ought to be reversed, and the cause remanded with instructions that the Circuit Court hear the case de novo, and allow the defendant below to establish his off* set on file by sufficient evidence if he can.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Scott, for the appellant.,",
+      "Byers & Patterson, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Reed vs. Akin.\nla a suit before a justice of the peace, on the return day of the summons, the plaintiff being present in the justice\u2019s office, the defendant filed his account by way of set-off, and at the same time read over the items in the hearing of the plaintiff, or so that he might have heard, but no other notice, either verbal or written, of the set-off, was given to him, and the cause was twice Continued, once by the defendant and then by the plaintiff, and upon the final trial the justice rejected and refused to consider the set-off on the plaintiff\u2019s motion, for want of notice.\nHeld, That the set-off was improperly rejected. The policy of the statute concerning justices of the peace, is to require the defendant to bring forward his set-off, if he have any, so as to have the whole controversy determined, and an end put to litigation. According to the statute the .set off may be filed at any time before the jury is sworn, and verbal notice of it to the plaintiff is sufficient.\nThe only object of the notice being to apprise the plaintiff of the cross-demand, so as to enable him to defend against it, there was no reason for excluding the offset pleaded in this case; but if the plaintiff, though presumed to be in attendance before the justice, had represented that he had no notice and was surprised by the set-off, it might have been ground for continuance.\nAppeal from Van. Bur\u00e9n Circuit Court.\nScott, for the appellant.,\nByers & Patterson, contra."
+  },
+  "file_name": "0475-01",
+  "first_page_order": 475,
+  "last_page_order": 478
+}

@@ -1,0 +1,133 @@
+{
+  "id": 1862672,
+  "name": "Owen vs. Lavine",
+  "name_abbreviation": "Owen v. Lavine",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "389",
+  "last_page": "396",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 389"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 481",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727604
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/5/0481-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 541",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728744
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/3/0541-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 4",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848172
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0004-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 522",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728280
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/13/0522-01"
+      ]
+    },
+    {
+      "cite": "8 Ark. 541",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Ark. 481",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0481-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 625,
+    "char_count": 15617,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 2.540424739806805e-07,
+      "percentile": 0.8133674974873052
+    },
+    "sha256": "c05892744eef92ba046eb909f68bd6eca037b23a0848562aa7d4364895b01237",
+    "simhash": "1:321ac8b5c5af0eb7",
+    "word_count": 2738
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Owen vs. Lavine."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis was a suit originally commenced before a justice of the peace, by Lavine against Owen, upon the following instrument of writing, filed with the magistrate as the foundation of the complaint :\n\u201cHillsboro, January, 1848.\nMr. E. M. Owen,\nPlease pay B. Lavine, or order, forty-four 35-100 dollars, value .received, out of the proceeds of my present crop of cotton.\n. (signed) , W. L. FOSTER.\n(Endorsed), I accept the within order, January, 1848.\n(signed) E. M. OWEN.\u201d\nAt the trial de novo, in the Circuit Court upon appeal, judgment went against Owen for the amount of money specified in the order, and it appears from his bill of exceptions, that he objected to the reading of the instrument sued on, because it disclosed no cause of action against him; this objection being overruled and the instrument admitted as evidence, the proof on behalf of Owen, was, that he had a lien on Foster\u2019s crop of cotton, and was to have the shipping of it, and when he accepted the order in question, he expected to pay it, after deducting what Foster owed him, out of the proceeds when he should receive the same. That Foster, without Owen\u2019s knowledge or authority, caused the cotton to be shipped to New Orleans, by one Brooks, who received the proceeds: that Brooks, afterwards, upon the demand of Owen, paid him a part only of what Foster owed him.\nThe court, on the motion of Lavine, instructed the jury, that the instrument sued on furnished sufficient evidence to them of indebtedness without looking to any other testimony, and refused, at the request of Owen, to instruct, that in order to entitle the plaintiff to recover, he must prove that defendant got possession-. of the proceeds of the crop of cotton mentioned in the draft sued on.\nThe draft or order, in question, was not a bill of exchange, according to the law merchant; because it was drawn payable upon a contingency; that is, out of a particular fund, which the drawee might not have on hand, belonging to the drawer, or which might prove\"deficient in amount, and could not be put into circulation as a negotiable instrument, payable at all events, and based on the personal credit of the drawer. So it was ruled in Hamilton vs. Myrick & Williamson, 8 Ark. 541, where, apart from other questions there involved, the case may be thus stated; that Hamilton made an order in writing upon his merchants in New Orleans, directing- them to pay to one Poor or order, a certain sum of money, \u201cout of the money received on my account from the insurance office when collected;\u201d and which order Poor endorsed to, Myrick, who sued Hamilton upon it, alleging that the merchants, to whom the order was addressed, had collected the money in question from the Insurance Company; but that they refused to, pay the order, when presented to them for payment, whereupon it was protested, and of which Hamilton had due notice, &c. The court there held that under the statutory provision, Digest 25, section 14, the term \u201cbill of exchange,\u201d as used in that act, should be so construed as to include \u201call drafts or orders, drawn by one person on another for the payment of a sum of money specified therein,\u201d did not mean to imply that the fund might be contingent, or to make any change in the law merchant as to the essential requisites of a bill of exchange; and so it might be questionable whether that provision would have the effect to extend the rules applicable to bills of exchange, to checks on bankers and the like.\nAnd in Gwin vs. Roberts, ib. 72, Roberts had drawn an order on Saugrain, requesting him to let one Chambevs have thirty doR lars in merchandise, out of his store; Chambers assigned the order to Gwin, who presented it to Saugrain, and he refused to accept or pay it. Gwin sued Roberts upon the order, and the \u00abcourt there held that it could not be regarded as a bond, bill, promissory note, draft or order, within the operation of the law merchant, or any statutory provision in force in this State, or assignable, so as to vest in the assignee a legal right of action against the drawer, and intimated that the plaintiff had misconceived his remedy \u2014 that is, we infer, he might have sued Chambers to recover back the consideration paid him for the assignment, and Chambers, in turn, would have had a like recourse upon Roberts, the drawer.\nIn both of those cases the orders, not being bills of exchange, and not having been accepted by the drawees, were incomplete as assignable contracts. But the statute of assignments (commented upon in Walker vs. Johnson, 13 Ark. 522), makes all bonds, bills, notes, agreements and contracts in writing for the payment of money or property assignable, so as to enable any assignee to sue for the same in his own name, and so having the legal interest \u2019he must sue, as held in Block vs. Walker 2 Ark. 4, followed in several cases. True, the law merchant is, to a certain extent, introduced by the 9th section of the statute concerning assignments, but the doctrine of assignments, and the rules of the law merchant are essentially different, as noticed in Walker vs. Johnson. That section makes endorsers or assignors, upon receiving due notice of non-payment, primarily liable to the holder of \u201c any instrument in writing, assignable by law for the payment of money alone.\u201d Upon the construction of this section, cai'rying out the principle asserted by Hamilton vs. Myrick and Williamson, in regard to bills of exchange, it might be proper to hold that promissory notes, payable upon a contingency, are not negotiable according to the law merchant.\nBut that issue is not the question here. A promissory note, or any other contract in writing, though not negotiable because payable in property or upon\u2019a contingency's nevertheless assignable, so as to vest a right of action in the assignee against the maker or obligor. That such is the law in this State has never been doubted. The broad and comprehensive terms of the first section of the statute of assignments does away with the common law doctrine of maintainance as to all the instruments in writing embraced in it. Supposing the term \u201cbills\u201d there used does not mean a bill of exchange or order, but bills single, or sealed notes, as they are sometimes called in the western States, yet according to the spirit of the statute, the instrument here sued upon must be regarded as a contract or agreement completed by the acceptance of Owen, assignable by law, and upon which, for' any breach of it, he is liable to any holder or assignee. It does not follow that upon such a contract the payee or endorsee could hold the drawer, or any intermediate assignor primarily liable upon notice of non-payment by the acceptor. But the contract here is the same in effect, as if Owen had made his promissory note payable to Foster, in property or upon a contingency, and Foster had assigned it to Lavine. There is no reason for allowing the acceptor, who intended to become the principal debtor, to repudiate the contract because of the shape in which he chose to make himself a party to it. If the instrument in question was any contract at all on the part of Owen, then according to our statutory rules of practice, it imported a consideration, and the execution of it need not be proved, unless denied by plea under oath; so that it was properly made the foundation of the complaint, and the Circuit Court decided correctly in admitting it to be read as part of the plaintiff\u2019s case before the jury. No importance is attached to the circumstance, which, however, exists in this case, that the suit, having been commenced before a justice of the peace, formal pleadings are not required, and no question could arise as to the form of the declaration.\nThe opinion here expressed is directly opposed to the decision in Hawkins vs. Watkins, 5 Ark. 481, followed by Henry vs. Hazen, ib. 401. In the first case, leaving out of view any question as to the insufficiency of the declaration, for counting on the instrument in form as a bill of exchange, and omitting to aver the value of Arkansas money, the court rest their decision on the ground, that a draft payable in Arkansas money cannot be made the basis of an action against the acceptor of it. The gist of the reasoning is a re-affirmation of that in Hamilton vs. Myrick & Williamson, and Gwin vs. Roberts, where it was right, because the orders there never were accepted, and clearly the instruments were not negotiable as at the law merchant, to charge the drawer or endorser, on notice of non-performance by the drawee. In Henry vs. Hazen, the order was drawn by one Hutchinson on Hazen, requesting him to pay Henry a certain sum of money, \u201cas soon as you receive the amount of my account with the government from Capt. Wm. Armstrong,\u201d and Hazen accepted it on the condition that the account was not curtailed below his own account and notes, meaning, as may be supposed, what Hutchinson already owed him. The declaration contained two counts, one on the instrument and the other for money had and received. The court considered, that such an instrument, \u201cthough not valid as creating any legal liability against the parties to it, is yet competent written evidence of the acceptor\u2019s liability under the count for money had and received, in connection with other proof to establish the happening of the contingency, upon which the acceptor was to pay:\u201d and the judgment was reversed, because the court below refused to permit the plaintifF to adduce evidence, under the common count, of the state of accounts between Hazen and Hutchinson, in order to show' that the contingency had happened, upon which Hazen would become liable; and this was carrying out the intimation in Hawkins vs. Watkins, that the bill there sued upon could be made available in another form of action as evidence. So that, after all, the question was not so much as to the liability of the acceptor, but whether he could be sued in a particular form of action. On the other hand, in Hawkins vs. Watkins, it is said that though the acceptor would not be liable as such, upon an order payable in property, yet a note for property would be assignable, because the payee has a right'of action on the privity of contract.\nNow we take it that if Hawkins or Hazen, in the cases referred to, were liable at all, or in any form of action, to the payees or assignees of those drafts, it was not because of any privity of contract or consideration, passing between them, but solely by virtue of the statute of assignments, and upon the written contract of acceptance. . The innovation made upon the common law by bills of exchange, the theory of which is a transfer, by the drawer, of a sum of money which the drawee owes him, to the payee, depended solely on their negotiable character by the law merchant, and in order to make such transfer effectual to the drawee or any remote endorsee, without any new consideration or privity of contract, between the acceptor and any holder, they must have certain requisites, understood and settled by the law merchant. If A accepts B\u2019s order in writing, to pay C, but upon remote condition, or contingency, or for property, it does not operate as a bill of exchange to transfer any right to C, to demand the money or property of A. So, since the statute of Anne, a note for property, or for money, payable upon a contingency, would not be a promissory note having any negotiable qualities, but only a parol contract in writing, which does not import a consideration, and could not be the foundation of an action. But when, by the statute, all contracts in writing for money or property import a consideration, and are the foundation of the action, and are made assignable at law as in equity, no distinction is perceived between the contract of an acceptor and the maker of a bond or note for property or payable on a contingency. In either case the liability of the maker or acceptor, does not depend upon the law merchant, and it would be singular if it did. Such instruments are not commercial paper, and no question can arise as to the liability of the drawer or endorser, on notice of nonpayment. But the maker or acceptor having bound himself by a valid contract in writing, just such right of action as the payee or obligee has on the instrument, may be transferred by the assignment to any third person, though he be an entire stranger to the original consideration.\nThe solid objection to the policy of the whole doctrine of assignments, as regulated by statute, and an entire innovation upon the common law, is that it opens up controversies between the assignee and the obligor or promissor, respecting his equities as against the obligee and assignor, growing out of transactions to which the assignee is a stranger, and in a suit to which the assignor is not a party; and where the obligation itself is contingent or conditional, a variety of what may be termed collateral issues, are liable to spring up. Thus in Henry vs. Hazen, the court appear to have had no hesitation in allowing Henry to go into proof of complicated transactions between Hutchinson and Hazen, the drawer and acceptor of a draft payable on certain contingencies, in order to show that they had happened. As to that part of the decision there, we must conclude that if Hazen was liable on these transactions to a stranger, it was by virtue of his written contract, which the statute made assignable.\nIt follows that the court below erred in instructing the jury, that the instrument sued on afforded sufficient evidence of indebtedness, without looking to any other testimony. The plaintiff could only recover by proving, and in a formal declaration he would have so to aver, that the defendant had received the proceeds of the crop of cotton in question to an amount sufficient to pay the draft. But for the contingency of the fund the instrument would be a regular bill of exchange, and upon the facts proven the plaintiff was clearly not entitled to recover.\nFor this error the judgment will be reversed, and the cause remanded for farther proceedings.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Marr and Hardy, for appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "Owen vs. Lavine.\nA draft or order drawn by one, upon another, in favor of a third person, for pro\u2019-perty, or payable upon a contingency, cannot become a bill of exchange according to the law merchant, but such an instrument, when completed by the acceptance of the drawee, is the same in effect as if the acceptor had made his note for property, or payable upon a contingency, in favor of the drawee, and by him assigned to the payee.\nSuch an instrument is a contract in writing, which, under the statute of assignments, is assignable, so as to vest the legal tille and right of action in the assignee, as against the acceptor, as if he were the maker of \u201cany bond, bill, note, agreement, or contract in writing, for the payment of money or property.\u201d\nWhen an accepted order is payable out of a particular fund, or upon a contingency, the plaintiff must prove and the defendant may disprove, that the acceptor received the fund, or that the contingency has happened by virtue of which he was to become liable.\nThe cases of Hamilton vs. Myrick <\u00a7\u2022 Williamson, 3 Ark. 541, and Gwin vs, Roberts, ib. 72, approved; and Hawkins vs. Watkins, 5 Ark. 481; followed by Henry vS.' Haven, ib. 501, overruled, so far as they are in conflict with this opinion.\nAppeal from the Circuit Court of Union county.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nMarr and Hardy, for appellant,\ncited and relied upon Hamilton vs. Myrick cj- Williamson, 3 Ark. 541. Henry vs. Hazen, 5 ib. 401. Hawkins vs. Watkins, ib1481."
+  },
+  "file_name": "0389-01",
+  "first_page_order": 389,
+  "last_page_order": 396
+}

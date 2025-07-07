@@ -1,0 +1,109 @@
+{
+  "id": 1862673,
+  "name": "Bailey, adm'r. vs. Gatton",
+  "name_abbreviation": "Bailey v. Gatton",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "180",
+  "last_page": "184",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Ark. 195",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848219
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/2/0195-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. Rep. 108",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728392
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/1/0108-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 359",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Ark. Rep. 108",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728392
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/1/0108-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 8550,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 5.207966869300525e-08,
+      "percentile": 0.32695998878699106
+    },
+    "sha256": "d793cd8aea018f4a6a73372ff8f127124e5f77e177e94005973a8ca9b1340c5a",
+    "simhash": "1:967fcd79356038d8",
+    "word_count": 1487
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bailey, adm\u2019r. vs. Gatton."
+    ],
+    "opinions": [
+      {
+        "text": "Mr.' Justice Walker\ndelivered the opinion-of-the Court.-\nOn the second day of June,-1847, the plaintiff filed in the office of a justice of the peace, the following instrument:-\n\u201cWhite county, March 3d, 1842.\nTwelve months after date, we promise jointly and severally to pay to Abner Bailey, administrator of Elijah Bailey, deceased, or order, forty-five dollars and twelve and a half cents, for value received, with interest at ten per cent, per annum, after maturity. Witness our hands and seals.\nJOHN L. GATTON, [l.s.] \u2018\nJOHN M. CLARK, [l.s.]\nAUGUSTUS GATTON, [l.s.]\u201d\nUpon which instrument so filed the justice issued a summons requiring the defendants to appear before him to answer the complaint of Abner Bailey, administrator of the estate of Elijah Bailey, deceased, on a note of hand.\nThe case was brought by appeal from the justice\u2019s court, to the Circuit Court, and upon the trial de novo, the defendant, Gatton, pleaded, ne ungues administrator, to which issue was taken, and the case was submitted to a jury for trial; when upon motion of the defendant, the writing obligatory was excluded as evidence from the jury, because of an alleged variance between the instrument offered, and that described in the summons, and to which the defendant was called upon to defend. The court sustained the motion to exclude the writing obligatory from the jury as evidence, and thereupon a judgment was rendered for the defendant, from which the plaintiff has appealed to this court.\nThe plea of ne ungues administrator tendered an immaterial issue, because the writing obligatory was executed to the plaintiff, and the suit brought upon it was in his own name individually, and not as administrator. The words \u201cadministrator, &c.,\u201d were words of personal description, and the plaintiff might well elect to treat them as such, or .he might, at his election, have considered the writing obligatory as assets, and have sued upon it as administrator, as held in Hemphill vs. Hamilton, 6 Eng. 428.\nAs regards the alleged variance that the instrument described in the summons and which the defendant was called to answer, was a note of hand, and that offered in evidence was a writing obligatory, it may be well to review our former decisions; some of which would seem to sustain the objection taken.\nIn the case of Jeffry vs. Underwood, 1 Ark. Rep. 108, the same state of facts presented here, came up for consideration. The defendant was summoned to answer the complaint of the plaintiff upon a note of hand, and the instrument offered in evidence was a sealed instrument. The court held the variance fatal. It may be well to inquire whether, admitting this decision to be correct, (and we will not question its correctness under the statute then in force,) the change in our statute, since that decision does not materially affect the decision.\nPrior to the passage of our present statute, which took effect 20th March, 1839, it was not necessary to file the cause of complaint upon which the suit was brought, until the commencement of the trial! The defendant had no other information in regard to the nature of the demand which he was summoned to answer, than that disclosed in the summons! The form of the summons is given, and under it the instrument is to be set out. See sec. 41 Steel & McCamp. Dig. p. 365.\nIn this respect, our statute, as it existed when the present suit was commenced, and as it now exists, is materially different. Section 25 Dig., ch. 95 provides that \u201c wherever any suit shall be founded on any instrument of writing, pui-porting to have been executed by the defendant, such instrument shall be filed with the justice, before any process shall be issued in the suit.\u201d And in sec. 32, which gives the form of a summons, the description of the demand, upon which the recovery is sought, is omitted. The Legislature, in making this change evidently intended, by require ing the instrument, upon which the suit was to be brought, to be filed before the summons issued, to make it accessible to the defendant, and to furnish him with the necessary information, to enable him to defend against it.\nThe defendant no longer looks under our present statute, to the summons for such information; and should it be unnecessarily inserted, it may be considered as surplusage. The instrument filed is the true evidence of the nature of the complaint. It is in effect a declaration, upon which the action rests, and is also, in some instances, the evidence of the demand. We have no later decisions that come fully up to the precise question now under consideration. So far as they go, however, they may be said to sustain the views which we have expressed. In Levy vs. Sherman, 1 Eng. 184, suit was brought on a bank note of the Bank of Missouri. The main question was, whether any cause of action was filed; that is, whether a bank note, not endorsed, was evidence of indebtedness from the plaintiff to the defendant. The coui't, in considering that question, remarked upon this statute, to the effect that a description of the instrument sued on, was unnecessary in the summons, as says the court, \u201cit could at all times be examined and inspected by the parties. The plaintiff is required to put his cause of action on file, in order that the adverse party may know what he is called upon to answer.\u201d\nIn Patterson vs. Wilson, 1 Eng. 476, the summons was silent as to the cause of complaint. The justice described the instrument sued upon as a note, when, in fact, that filed was a bond. The court held, (and no doubt, correctly,) that the writing obligatory was competent evidence.\nIn Anthony Ex parte, 5 Ark. 359, the suit was commenced upon a change ticket, which, however, was not filed. It is true that the summons required'the defendant to appear and answer in an action of account. But that was not the important enquiry. It was that no cause of action was filed, and that if filed it was such as the court could not proceed to try, as held in Reeves vs. Clark.\nWe have taken occasion to make this brief review of the former decisions of the court to show that the case of Jeffry vs. Underwood, is not authority under, our present statute, and that our other decisions favor the conclusions which we have announced; that, as the statute requires the instrument on which the suit is founded, to be filed before the summons issues and dispenses with any description of it in the summons, that the party defendant .should look to the instrument on file, and not to the summons for the cause of action against him. And consequently that a variance between the instrument on file, and that described in the summons will not avail the defendant on the trial. This construction is, in our opinion, in conformity with the spirit and intention of the statute, and will tend to remove a mere technical objection to a proceeding in a court where the most liberal construction should be indulged in favor of the regularity of its proceedings. The Circuit Court therefore erred in excluding the writing obligatory as evidence from the jury.\nLet the judgment and decision of the Circuit Court be reversed, and the cause remanded for further proceeding therein to be had according to law.",
+        "type": "majority",
+        "author": "Mr.' Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "P. Jordan, for appellant.",
+      "Fowler, contra.-"
+    ],
+    "corrections": "",
+    "head_matter": "Bailey, adm\u2019r. vs. Gatton.\nThe plea of me unques administrator in a suit by A. B. adm\u2019r., &c., en a bond given to A. B. admT., &o., tenders an immaterial issue \u2014 the words \u201cadministrator, &c.,\u201d being words of personal description.\nA variance between the cause of action filed with a justice of the peace, as the foundation of the suit, and that described in the summons \u2014 aswhere a bond filed before suit brought is described in the summons, as a note of hand \u2014 is immaterial.\nThe case of Jeffrey vs. XJnderwood, 1 Ark. Rep. 108, decided under the Territorial law, not overruled, but declared not to be authority since the Revised Statute\u00ae went into operation, (Dig. ch. 95.)\nAppeal ft om White Circuit Court.\nThe Hon. W. C. Scott, Circuit Judge, presiding.\nP. Jordan, for appellant.\nThe cause of action in a suit before a justice being filed and subject to the inspection of the party, need not be described in the summons; and if misdescribed it is immaterial. Dig. ch. 95, sec. 181. Levy us. Sherman, 1 Eng.-182.\nThe plea of ne unques administrator, not being filed before the justice, ought not to have been filed in the Circuit Court, Dig.ch. 95; and was only matter of abatement, 2 Ark. 195.\nAs the note was given to Bailey, adm\u2019r. &c., he might well-have sued in his representative character. Hemphill vs-. Hamilton, 6 JE\u00abg.-425.-\nFowler, contra.-"
+  },
+  "file_name": "0180-01",
+  "first_page_order": 178,
+  "last_page_order": 182
+}

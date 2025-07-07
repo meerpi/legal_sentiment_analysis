@@ -1,0 +1,290 @@
+{
+  "id": 1862717,
+  "name": "Haldeman vs. Jennings & Co., use &c.",
+  "name_abbreviation": "Haldeman v. Jennings & Co.",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "329",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Mass. 462",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Day 1",
+      "category": "reporters:state",
+      "reporter": "Day",
+      "case_ids": [
+        6753461
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/day/1/0001-01"
+      ]
+    },
+    {
+      "cite": "7 John. 201",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369225
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0201-01"
+      ]
+    },
+    {
+      "cite": "24 Wend. 630",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Dal. 252",
+      "category": "reporters:scotus_early",
+      "reporter": "Dal.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Cow. 144",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2032824
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/5/0144-01"
+      ]
+    },
+    {
+      "cite": "18 John. 219",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        8710411
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/18/0219-01"
+      ]
+    },
+    {
+      "cite": "4 Pick. 179",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2031207
+      ],
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/21/0187-01"
+      ]
+    },
+    {
+      "cite": "7 Wheat. 14",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Cow. 379",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ala. 425",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        11256878
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/2/0425-01"
+      ]
+    },
+    {
+      "cite": "6 Blackf. 206",
+      "category": "reporters:state",
+      "reporter": "Blackf.",
+      "case_ids": [
+        6107468
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/blackf/6/0219-01"
+      ]
+    },
+    {
+      "cite": "24 Wend. 244",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2155217
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/24/0244-01"
+      ]
+    },
+    {
+      "cite": "22 J. J. Marsh. 48",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Pick. 513",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2023944
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/34/0513-01"
+      ]
+    },
+    {
+      "cite": "8 Mass. 223",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028572
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/8/0188-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. 433",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/4/0380-01"
+      ]
+    },
+    {
+      "cite": "26 Wend. 630",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2028382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/26/0630-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 468",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005509
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/4/0468-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 309",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 John. 72",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/7/0072-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. Rep. 145",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 583,
+    "char_count": 9486,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 1.2828921483562876e-07,
+      "percentile": 0.6180528285625919
+    },
+    "sha256": "181442e2c1f9f1caae20e60650613b13ebb30aaf7f393af928bfaa9b03368527",
+    "simhash": "1:4c83a9eeacda9707",
+    "word_count": 1671
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Haldeman vs. Jennings & Co., use &c."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis was an action of covenant brought by Jennings & Co., against Haldeman, to recover the sum of five hundred dollars, as stipulated damages for breach of a contract entered into between them. The defendant making default, the court on motion of the plaintiff, upon inspection of the instrument, and without any other testimony being adduced, proceeded to give judgment for the sum specified as liquidated damages, against the objection of the defendant, who claimed that a jury should be called to enquire and assess the actua.1 damages the plaintiffs had sustained by the breach, which stood admitted.\nBy the terms of the agreement, entered into on the 28th of October, 1845, Haldeman undertook to manufacture and deliver to Jennings & Co., in New Orleans, on or before the 1st day of July 1846, five thousand staves, and after a minute specification of their size, quality, &c.,the agreement proceeds as follows; \u201cAnd the said Jennings & Co., in consideration, &c., covenant to and with the said Peter Haldeman, that they will from time to time make such advances in goods and money to him as may appear to them proper and reasonable, as the work may progress, and for all such advances, the said Jennings & Co. shall deduct the amount or amounts thereof, out of the price tobe paid to said Haldeman, after the delivery of said staves as hereinafter mentioned. The said Jennings & Co., after the shipment and delivery at New Orleans of the before mentioned quantity of five thousand staves, shall allow to the said Haldeman, as their value, eighty dollars per thousand, first deducting the amount of said advances, and the balance over and above such advances shall be paid to said Haldeman by said Jennings & Co.\n\u201cAnd the said Haldeman and Jennings & Co., covenant to and with each other, that each one will in good faith perform his part of the foregoing stipulations, and that a failure to perform all or any part of them, shall subject the failing party to pay the other the sum of $500 as stipulated damages, without abatement or diminution.\u201d\nWe may suppose, that the language used by these parties, manifests a very clear intention to make it a case of ascertained and stipulated damages, and that they mutually intended it to be so. If the stipulation had been confined to the breach of the agreement on the part of Haldeman, we could have no doubt that the damages which might be sustained by Jennings & Co., in such event, would be of that uncertain character, which would make it effectual and binding on him. The court would have to presume that while there were sufficient inducements for Haldeman to enter into the agreement, Jennings & Co. on the other hand may have had engagements outstanding dependant upon this, making it important to them that there should be a faithful and punctual compliance on the part of Haldeman. The stipulation would cover those remote and consequential damages which the plaintiffs might have sustained by the failure of the defendant, and as they might exceed the sum stipulated, he would have no right to complain in the face of his own' agreement, if they happened to be less.\nBut the apparent fairness of the agreement in making the stipulation mutual, has destroyed its efficacy as a contract for stipulated damages, and the law presumes against the intention of the parties however clearly expressed. The stipulation might well have been mutual if the act to be done by Jennings & Co. consisted in something other than the payment of money, and perhaps even in such case, if the sum stipulated for afailure on their part bore some fair and reasonable proportion to the gross consideration they were to have paid for the staves. We find that Jennings & Co. undertook to make advances as the work of getting out the staves progressed. Our impression is that in every case of stipulated damages, the party, who may become entitled to them, has the right to insist upon a punctual and literal compliance with the contract, or in lieu of it to have the damages agreed upon: but in every such case the voluntary acceptance of a partial performance, would be a waiver of the right, stricti juris, to recover the entire damages as for an entire breach. The contract here contemplated that there should be partial ad - vanees, to be a deduction from the price of the staves on delivery, and although the advances were to be made according to the discretion of Jennings & Co., as they might think proper and reasonable, it could hardly be intended that they had an arbitrary discretion to refuse to make any advances. If therefore, on the reasonable request of Haldeman, Jennings & Co. had refused to make any small advance, the contract would have been at an end, and they would become at once liable to pay him the entire sum of $500 without any obligation on his part to proceed any further in the way of performance.\nBut waiving that consideration, however important it may be-in determining the real intention of the parties to be different from what they have expressed, it appears that the gross price to be paid for the staves on delivery amounted to $400, their admitted value, and all that Haldeman expected to get for them. Laying aside all circumlocution, the effect then, of the stipulation was: that if Jennings & Co. failed to pay Haldeman the-sum of four hundred dollars, they should at once become liable to pay five hundred dollars. Now, the recovery of the four hundred dollars at the end of a law suit, though with the allowance of interest for its detention, might be a very inadequate compensation to Haldeman as compared with the prompt payment by Jennings & Co. of the contract price: but according to our understanding of the authorities, adverted to in the case of Williams vs. Green, decided at this term and where this subject is much-considered, the rule is inflexible, that where a sum of money is stipulated to be paid in the event of failure to pay a smaller sum. it must be treated as a penalty.\nIt results from the shape of the stipulation in this case, that being mutual and indivisible in its terms, it cannot be construed as a penalty in favor of one party, and, at the same time, be stipulated damages as against the other. The judgment of the court below must therefore b.e reversed and the cause remanded with instructions to take an enquiry of the damages which the plaintiff may have sustained by the breach of contract on the part of Haldeman. The difference, if any, in their favor, between the; price they were to have paid Ilaldeman, and what they could have realized for the staves in the New Orleans market, at the time they ought to have been delivered according to contract, would be a legitimate subject of enquiry. Without any proof, the plaintiff will only be entitled to recover nominal damages-",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Byers & Patterson, for the appellant,",
+      "Fairchild, for the appellee,",
+      "F, W. & P. Trapnall, also for appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "Haldeman vs. Jennings & Co., use &c.\nHaldeman undertook to manufacture and. deliver to Jennings & Co., in New Orleans, by a certain time, a quantity of staves, for which they were to pay him $400, and make him advances from time to time as the work progressed, to be deducted therefrom on settlement; the parties agreeing that a failure to perform any part of the stipulations of the contract, shall subject the failing party, \u2018'to pay the other the sum of $500 as stipulated damages, without abatement or diminution.\u201d Hem, to be a penalty, because a larger sum might become payable on the failure to pay a lesser one; and it could not be a penalty in favor of one party and stipulated damages against the other.\nAppeal from the Circuit Court of Lawrence county.\nThe Hon. B. H. Neely, Circuit Judge, presiding.\nByers & Patterson, for the appellant,\ncontended that the sum stated in the agreement sued upon, was a penalty, and not stipulated damages; and cited, sec. 82, ch. 138, Dig. 2 Story's Eq. Pr.p. 674, sec. 1314, and authorities cited. 2 Greeril. on Ev. page 262 and 263 and authorities cited. Dennis vs\\ Cummins, 3 John. Cas. (2 Ed.) 297 and notes. Bright vs. Rowland, 3 How. Miss, R. Spencer vs. Tilden, 5 Cow. Rep. 145 and notes. Baird vs. Tolliver, 6 Humph. Ten. Rep. 187. More Sf Hunt vs. Platt Co. Missouri, 8 Misso. Rep.\nFairchild, for the appellee,\ncited, 2 Evans' Pothier on Obligations, 81 to 86. Lowe vs. Peers, 4 Burr, 2225, Fletcher vs. Dycke, 2 Dun. fy East. 32. Cresdee vs. Bolton, 3 Carr, Payne 240. Reilly vs. Jones, 1 Bing. 302. Price vs. Green, reported in 4 West. Law. Jour. 443. Slasson vs. Beadle, 7 John. 72. Hasbrouclc vs. Tappen, 15 ib. 203. Gray vs. Crosby, 18 ib. 219. Nobles vs. Bates, 7 Cow. 309. Smith vs. Smith, 4 Wend. 468. Dakin vs. Williams, 17 ib. 447. 22 ib. 201. Pear son vs. Williams, 26 Wend. 630. White vs. Dingley, 4 Mass. 433. Pierce vs. Fuller, 8 Mass. 223. Curies vs. Brewer, 17 Pick. 513. Tardeveau vs. Smith's Ex'r, Hardin 179. Jenkins vs. Yeates, 22 J. J. Marsh. 48. 4 U. S. Dig, 513 \u00b6 319jfro\u00bbi Gammon vs. Howe, 2 Shep. 250. Chamberlain vs. Bailey, 11 New Ramp. 234. Pearson vs. Williams ad., 24 Wend. 244. Hamilton vs. Overton, 6 Blackf. 206.\nF, W. & P. Trapnall, also for appellee,\ncited Watts vs. Sheppard, 2 Ala. 425. 7 Cow. 379. Taylor vs. Sandford, 7 Wheat. 14. Brown vs. Bellows, 4 Pick. 179, 219. Gray vs. Crosby, 18 John. 219. Spencer vs. Tilden, 5 Cow. 144. Perit Ex'r vs. Wallis, 2 Dal. 252. 6 Blackf. 206. 24 Wend. 630. VI ib. 447. 22 ib. 2011 3 Car. Sf Payne 240. 7 John. 201. Barton vs. Glover, Holt N. P, 43, 8 Moore 244. 2 Term R. 32. 1 Day 1. 10 Mass. 462,"
+  },
+  "file_name": "0329-01",
+  "first_page_order": 329,
+  "last_page_order": 334
+}

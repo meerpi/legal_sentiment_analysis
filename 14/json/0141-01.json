@@ -1,0 +1,202 @@
+{
+  "id": 1862616,
+  "name": "Dixon vs. Thatcher et al.",
+  "name_abbreviation": "Dixon v. Thatcher",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "141",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "10 All. Rep. 868",
+      "category": "reporters:state",
+      "reporter": "Allen",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Wend. Rep. 123",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Ark. 242",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Mon. Rep. 113",
+      "category": "reporters:state",
+      "reporter": "Mon. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Mass. R. 311",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Bibb, 489",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Dallas Rep. 209",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Pet. 345",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Pet. Rep. 768",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Mo. 246",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8854103
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/1/0176-01"
+      ]
+    },
+    {
+      "cite": "6 Ark. 21",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Ark. 262",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Mo. Rep. 333",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Ark. Rep. 563",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. Rep. 326",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Ark. Rep. 21",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. 328",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Ark. Rep. 95",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Wend. 30",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11267960
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/12/0030-01"
+      ]
+    },
+    {
+      "cite": "12 Wend. Rep. 36",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 704,
+    "char_count": 15373,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 1.68291998401565e-07,
+      "percentile": 0.697855357590346
+    },
+    "sha256": "2d12f8d984c5a7e62ed45c3959d1de5d18fa95d97c73b77aa81013a05f2a42d5",
+    "simhash": "1:aeb2bc286a0cbbe2",
+    "word_count": 2752
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Waticins, C. J., not sitting."
+    ],
+    "parties": [
+      "Dixon vs. Thatcher et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThis was an action of replevin in the cepit for a slave. The* defendant pleaded non cepit; property in himself in right of his-wife, in right of his wife jointly with plaintiff, in right of his wife jointly with a third person, in right of his wife jointly with the-plaintiff and others, and also property in a third person; in each-of them traversing the plaintiff\u2019s title.\nTo each of these pleas the plaintiff filed two replications. In-his second replication-, without setting up an absolute title, or right of property, or possession in himself, he replied that he had title to the slave as one of the heirs of Laura Ann Bradshaw, an J. also, as one of the heirs of Sarah McGinnis, and also as legatee under the will of Sarah McGinnis, and that before and at the time when, &c., he was in peaceable possession of the slave, with the assent of Woodruff, the executor of said will.\nTo these replications the defendants demurred, and the court,, upon consideration, sustained the demurrer, and this decision is-assigned as error and will be first considered.\nThe several pleas, except the sixth plea, set up title in the de-fendant, or in the defendant jointly with others, and each con-eludes with a traverse of the plaintiff\u2019s title to the property. The-injustice of the caption, which is the gist of the action, is by these-pleas avoided, b3r showing that the defendant had a right to take the property. \u00bb\nThe material fact put in issue is property in the defendant, and consequently the replication must sustain the title, not the mere possessory title, but the absolute title. It is true that possession by the plaintiff and a wrongful taking by the defendant will entitle the plaintiff in the first instance to maintain his action, but when, as Baron Gilbert says, (Treatise on the law of Replevin 132) the defendant pleads property in himself, he avoids the injustice of the caption, which is the gist of the action, by showing that he had a right to take it. To such plea the plaintiff replies, not merely a possessory title, unless connected with such facts as would show a right of dominion and control, even against him who has the legal title; but he must reply such facts as show title in himself. The case of Rogers vs. Arnold, 12 Wend. Rep. 36, is very strongly in point. The action was replevin, for taking mill irons; pleas, non cepit, property in defendants and another; property in themselves as tenants in common with the plaintiff; property in themselves as tenants in common with the plaintiff and another; property in themselves; and property in one of them. When considering the effect of these pleas, the court said \u201c All these pleas are obviously founded upon the principle applicable to\" this action, that the plaintiff, as in trover, must recover upon the strength of his title to, or property in the goods in question.\u201d And again, upon the same question, the court said \u201c It is a good plea in this action that the property is in the plaintiff and the defendant, or a stranger; and where there are two plaintiffs, it is in one of them. Here it is shown to be in the plaintiff and one of the defendants, which disproves the issues in the case, that the plaintiff is the exclusive owner. It is not material that the defendant should prove title to the property, as set forth in any one plea, as that is only inducement to the-traverse of the plaintiff\u2019s title, as has been before shown, and need not be, and was not denied in the replication. Upon the issue the plaintiff was bound to prove and maintain an exclusive right to the possession and control of the property.\u201d\nThis decision is well sustained by numerous authorities, and from the principle laid down it follows, that as the plaintiff, under such issue, is bound to prove an exclusive right to possession and control, which can only exist where he has the absolute title and exclusive title to the property, or holds under one who has such title, he must, when he replies to such plea, set up matter which, if proven, would uphold and sustain his right to an exclusive right of possession and control of the property. This, we think, the replications fail to do. They neither assert an exclusive right of possession in the plaintiff, nor in one under whom he held possession, but assert a joint property in the slave as heir of certain individuals, and under the will of one of them as legatee, and that they had possession, with the assent of the executor of the will of one of the two, under whom plaintiff and defendants set up title. This clearly gave no right to an exclusive possession, because it only showed a joint tenancy, or a tenancy in common with others.\nLittleton says, \u201c If two be possessed of chattels personal in common by divers titles, as of a horse, or ox, or cow, if one takes the whole to himself, out of the possession of the other, the other hath no remedy, but to take this from him, who hath done him the wrong to occupy in common, &c., when he can see his time, &c.\u201d And Lord Coke, commenting thereon, says, \u201c If one tenant in common take all the chattels personal, the other hath no remedy by action, but he may take them again. Co. Litt. 200 a. And to this effect is the decision of the court in Rogers vs. Arnold, 12 Wend. 30, and McElderry vs. Flannagan, 1 Har. & Gill, 308. And this question was expressly decided in Robinson vs. Calloway, 4 Ark. Rep. 95.\nThe replications to the several pleas setting up property in the defendant, or in the defendant with others, were insufficient, and the demurrer to them correctly sustained.\nAs regards the 6th plea, which sets up title in Woodruff, as executor of the will of Sarah McGinnis \u2014 if the plaintiff had replied a special property and right of possession under Woodruff, we are not prepared to say that such replication would not have been good; but we cannot consider the replication as relying upon a hire, or right of possession derived through any contract for a limited estate in the slave, but as showinghow he acquired possession under his title as heir and legatee; and consequently the replication to this plea was also insufficient, and the demui\u2019rer to it properly sustained.\nThe next question is as to the admissibility, as evidence, of a paper purporting to be a bill of sale to Sarah Bradshaw, for her children, Sarah and Laura, through whom the defendants claim title to the slave. The paper offered in evidence purported to be a copy of the record of a bill of sale to Sarah Bradshaw for her infant children, recorded in the office of the Parish Judge, and is certified by him as a true copy from the records in his office ; to which is appended the certificate of the Governor of Louisiana, that James J. Weems, who certified the copy, was, at the time of signing the same, Parish Judge, for the Parish of West Feliciana, in said State : that his signature is genuine, and that faith and credit are due to his official acts as such.\nThe bill of sale purports to have been taken before Joseph Bernard, a notary public for the Parish of Feliciana, in said State, and was no otherwise proven or authenticated as the act of the parties. To the reading of this paper the plaintiff objected, and thereupon the defendant, as a foundation for reading said paper writing in evidence, and against the objection of the plaintiff, produced a pamphlet entitled \u201c Acts passed at the first session of the 14th Legislature of the State of Louisiana, begun and held in the city of New Orleans, January 7th, 3 839.\u201d And for the same purpose, against the objection of the plaintiff, produced a book with a title page, as follows : \u201cCivil Code of the State of Louisiana, with annotations by Wheelock S. Upton, L. L. D., and Neil R. Jennings. By authority. New Orleans. E. Johnson & Co. Stationers\u2019Hall, 1838.\u201d Upon the production of this act and civil code, or that which purported to be the Civil Code of Louisiana, and under authority of the contents thereof, the court overruled the objection, both to the reading of the pamphlet acts and the civil code, and also to the admissibility of the paper purporting to be a copy of the record of said Parish court, and permitted the same to be read to the jury as evidence.\nBy the 2d section, ch. 66, Dig. stat. p. 490, it is provided, \u201cThat the printed statute books of the several States and Territories of the United States, purporting to have been printed under the authority of such State or Territory, shall be evidence of the legislative acts of such States or Territories.\u201d Under this statute we perceive no objection to the introduction of the act passed at the session of 1839, on account of the evidences of its authenticity, as an act of the Louisiana legislature. But then it cannot be said to be authority for making the paper offered in evidence matter of record; because the act is prospective, and was passed some fifteen years or more after the date and record entry of the paper offered in evidence. Nor can the pamphlet offered as the civil code come in aid of this act; because it did not purport to be a statute book of the State of Louisiana, printed under the authority of that State, nor did it appear to have been adopted by any act of the Legislature of the State as a code of laws of the State. The act touching this civil code only authorized the Governor to purchase, for the use of the State, one thousand copies of a new edition of the civil code of Louisiana, proposed to be published by E. Johns & Go., provided that the Governor should be satisfied with the manner in which the Work should be done, and further, that said edition shall be carefully collated with the original manuscript, &c. Now there is no evidence whatever, that the pamphlet offered was one of Johns & Go\u2019s\u00bb, new edition of the civil code, or that it ever was examined, compared, or approved by the Governor, or that he was satisfied with the manner in which it was done. And even if all this had appeared, there is no provision in the act for adopting this as part of'the code of laws of the State of Louisiana, or of the laws heretofore existing. It simply provides for the purchase of a thousand copies for the use of the State. The court below erred, therefore, in permitting the pamphlet; purporting to be the civil code of Louisiana, to be read.\nReturning to the paper offered as a copy of the record, It is evL dent that it was inadmissible as evidence, because it was neither shown to be acknowledged before any officer competent to take such acknowledgment, and was spread upon the record of the Parish court without authority of law. In the case of Wilson vs. Royston, 2 Ark. 328, the authentication of the deed by acknowledgement before a notary public, with certificate, as well as that of the Governor of the State, showing that the notary was duly commissioned, &c.; was held insufficient evidence to authorize the reading of the deed in evidence in this State.\nWe think, under the circuinstances of the case, that the court below erred in permitting the paper, purporting to be a bill of sale, and tending in connection with other evidence to prove title in the defendant, or third persons, to be read in evidence to the jury. And for this error the judgment and decision of the Circuit Court must be reversed, and the cause remanded for further proceedings therein, to be had according to law, and not inconsistent with this opinion.\nWaticins, C. J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Fowler, for the appellant.",
+      "Watkins & Curran, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Dixon vs. Thatcher et al.\nIn an action of replevin, when the defendant pleads property in himself, he avoids the injustice of the caption, and the plaintiff must reply such facts as show absolute title in himself, an exclusive right of possession, or such a possessory title as gives him the right of dominion and control even against him who has the legal title.\nA duly certified copy of the record of a bill of sale recorded in the office of a Parish judge in Louisiana, and purporting to have been taken before a notary public for the Parish, is inadmissible in evidence, unless shown to be acknowledged before an officer competent to take such acknowledgment, and recorded by authority of law.\nA pamphlet entitled, \u201c Acts passed at the first session of the 14th Legislature, of the State of Louisiana, begun and held in the city of New Orleans, January 7th, 1839,\u201d is admissible under sec. 2, ch. 66, p. 490, Dig., as proof of the statutes of such State.\nWot so, a book entitled \u201c Civil Code of the State of Louisiana with annotations by Wheelock S. Upton, L. L. D., and Weil R. Jennings. By authority, Wow Orleans. E. Johnson & Co., Stationer\u2019s Hall, 1838.\u201d\nAppeal from Pulaski Circuit Court.\nThe Hon. Wm. H. Feild, Circuit Judge, presiding.\nThis action was originally brought against Samuel Thatcher, and upon his death being suggested, the present appellees, his heirs at law, were admitted as defendants.\nArgued and submitted at the January term, 1854.\nFowler, for the appellant.\nThe Circuit Court erred in sustaining the demurrer to Dixon\u2019s 2d replication; because if he was a joint owner with others, and had, as such, the slave lawfully in his actual possession, no person had a lawful right to disturb or \u00bfchange that possession, unless by his consent, or by some legal procedure.\nPossession of a chattel by the plaintiff is sufficient to maintain An action of replevin. Trapnall vs. Rattier, 6 Ark. Rep. 21. Brown vs. Webster, 4 N. Ramp. Rep. 500. Wilson vs. Royston, 2 Ark. Rep. 326. 1 C/i. PI. 159. Beebe vs. DeBaun, 8 Ark. Rep. 563. Town vs. Evans, & Ark. Rep. 2641 Crocker vs. Mann, 3 Mo. Rep. 333-476. 2 Stark. Ev. 865. Bales vs. Frazier, 11 Ark. 262.\nReplevin lies wherever trespass de bonis asportatis will, (6 Ark. 21, 1 Mo. 246,) and if Dixon were a mere bailee of Woodruff, as executor, he could legally maintain trespass against Thatcher, who was a wrong doer, and had no superior title. Kenne's Qu. Law Comp: (Oct. \u201949.) 243. 2 Saund. PI. 4~ Ev. 862. 1 Ch. PI. 167. Ward vs, Macauley etal. 4 T. R. 489. Gordon vs. Harper, 7 ib. 9.\nThe court erred in admitting \u00e1s evidence the paper purporting to be a copy of a bill of sale: because there was no proof of any law of Louisiana authorizing the registry of such a bill of sale, and make a copy thereof evidence \u2014 the pamphlet act relied on was passed some years after the date of the bill of sale, and the civil code was neither a statute book, as contemplated by sec. 2,p. 490, Dig., nor proved by'the production of an authenticated copy (2 Saund. PI. 4* Ev. 526. Gresley's Eq. Ev. (ed. of 1837) 341. 1 Greenl. Ev. sec. 487. 2 Stark. (5 Am. ed. 331. Story's Confl. of Laws, sec. 640-641,) nor by the parol examination of witnesses of competent professional skill. 8 Saund. PI and Ev. 526. 1 Greenl. Ev. 486-488. 6 Pet. Rep. 768. 2 Hill N. Y. Rep. 202. 14 Pet. 345.\nAs no law of Louisiana authorizing such a bill of sale to be recorded and making a copy evidence, was produced, the copy was inadmissible, unless the execution, and loss of the original had been proved, and that offered in evidence found to be a true copy. Wilson vs. Royston, 2 Ark. Rep. 326. January vs. Goodman, 1 Dallas Rep. 209. Mills vs. Twist, 8 J. R. 94. \u25a0 4 Bibb, 489.. 11 Mass. R. 311. 2 Mon. Rep. 113. Brown vs. Hicks, 1 Ark. 242. 11 Wend. Rep. 123. 7 Har. 4\" John. 155. Shultz vs. Moore,. 1 McLean C.C.R. 527. Lee vs. Mathews, 10 All. Rep. 868.\nWatkins & Curran, contra."
+  },
+  "file_name": "0141-01",
+  "first_page_order": 141,
+  "last_page_order": 148
+}

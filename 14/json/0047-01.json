@@ -1,0 +1,67 @@
+{
+  "id": 1862723,
+  "name": "Perkins vs. Reagan",
+  "name_abbreviation": "Perkins v. Reagan",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "48",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 47"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 245,
+    "char_count": 3779,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 2.2417288853808964e-07,
+      "percentile": 0.7802107381550044
+    },
+    "sha256": "812de81bf37c467cd01958ccc5a1160c551a90930b072fd707ff308bbdef4068",
+    "simhash": "1:18fb3919927a3849",
+    "word_count": 662
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting."
+    ],
+    "parties": [
+      "Perkins vs. Reagan."
+    ],
+    "opinions": [
+      {
+        "text": "Cross, Special Judge,\ndelivered the opinion of the Court.\nThis case comes up by appeal from the Washington Circuit Court. The record shows that Perkins, a citizen of the State of Missouri, filed his bill of complaint, and sued out process of subpoena, and a writ of injunction without having first filed in the office of the Clerk of the Circuit Court, the obligation of a responsible person residing in the State, acknowledging himself bound to pay all costs that might accrue in the suit, and that at the return term of such process the defendants filed their plea in abatement, alleging the omission, and \u201c that the said complainant was at, and before the filing said bill of complaint, and the suing out from before the Clerk of said Circuit Court, the said writs, a resident citizen of the State of Missouri, and from thence hitherto, hath been and still is a citizen of said State,\u201d and praying judgment of dismissal, &c. This plea was verified by the affidavit of one of the defendants. Afterwards, and before any action was taken upon the plea, the complainant presented and asked leave to file the bond of a resident citizen of the State of Arkansas, conditioned to pay all the costs that might accrue, &c.; which bond was shown to be fully sufficient for that purpose; but the court refused to permit the same to be filed, and the plea being unanswered, entered a decree for the dismissal of complainant\u2019s bill, &c. It is insisted that the court below erred in refusing the bond for costs, and dismissing the bill.\nThe provisions of our statute bearing on the subject are, that \u201c in all suits in law or equitj^, where the plaintiff, or person for whose use the action is commenced, shall not be a resident of this State, the plaintiff\", or person for whose use the action is about to be brought, shall, before he institutes such suit, file in the office of the Clerk of the Circuit Court, in which the action is to be commenced, the obligation of some responsible person, being a resident of this State, by which he shall acknowledge himself bound to pay all costs which may accrue in such action,\u201d and further, \u201cIf any such action shall be commenced without filing such obligation, the Circuit Court shall on motion dismiss the same,\u201d &c. See Digest page 280, sec. 1 and 2.\nAlthough the statute is in its phraseology, imperative, the exercise of a sound discretion by the Circuit Court, in cases analogous to the one under consideration, has heretofore been recognized in furtherance of justice, see Town vs. Evans, 6 Eng. 10. Ib. Modglin & wife vs. Slay, 696. The provision of the statute being express, and this court having heretofore gone no further than to recognize the exercise of a sound discretion by the Circuit Court in such cases, we do not regard the present as an open question. Let the judgment of the court below below be affirmed with costs.\nWatkins, C. J., not sitting.",
+        "type": "majority",
+        "author": "Cross, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Walker and Watkins & Curran, for the appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "Perkins vs. Reagan.\nThe provision of the statute, requiring a bond for costs to he filed by a non-resident before the institution of the suit, being express ; and the Circuit Court, having exercised its discretion in dismissing the bill for want of such bond, this court will not control that discretion.\nAppeal from, the Circuit Court of Washington county in Chancery.\nThe Hon. A. B. Green-wood, Circuit Judge, presiding.\nBefore the Hon. C. C. Scott, and D. Walker, Judges, and Hon. Edwrd,Cross, Special Judge.\nWalker and Watkins & Curran, for the appellant,\nsubmitted that a court of equity would permit a complainant to amend \u201cfor the furtherance of justice,\u201d at any time before a plea is set down for final hearing, (2 Danl. Ch. Pr. 796) and for this reason the court ought to have permitted the bond for costs to be filed, as no injustice could have been done to defendants."
+  },
+  "file_name": "0047-01",
+  "first_page_order": 47,
+  "last_page_order": 48
+}

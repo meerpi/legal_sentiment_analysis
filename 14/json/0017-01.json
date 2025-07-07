@@ -1,0 +1,93 @@
+{
+  "id": 1862697,
+  "name": "Adams et al, vs. The State, use of Wallace",
+  "name_abbreviation": "Adams v. State ex rel. Wallace",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "17",
+  "last_page": "21",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wend. 675",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/4/0675-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 33",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848167
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0033-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 419,
+    "char_count": 8568,
+    "ocr_confidence": 0.524,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06865187893193773
+    },
+    "sha256": "da970c79a4a1a5bdd341b55a1daad475aaac0354e8ba4980395ae171df751977",
+    "simhash": "1:9e6ca6ad6936e694",
+    "word_count": 1515
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "This case was argued and determined before Mr. Justice Scott, and the Hon. Edward Cross, Special Judge. Mr. Chief Justice Watkins, and Mr. Justice Walker, not sitting."
+    ],
+    "parties": [
+      "Adams et al, vs. The State, use of Wallace."
+    ],
+    "opinions": [
+      {
+        "text": "Hon. Edward Cross, Special Judge.\nThis case, it seems, has been twice before this court heretofore; and now two questions only are presented by the record, which it will be material to notice.\nThe first relates to the introduction of the original record of the judgment in evidence, under the plea of nul tiel record. The objection, however, is not seriously urged, and is considered untenable, as the record corresponds in every respect with the allegations of the declaration. The second is, that the court below erred in permitting afi.fa. to be read in evidence on the trial of an issue, that there was no such writ as that described and set forth in the declaration. Thefi. fa. as described in the declaration, was sued out against Laban C. Howell, and William Moore, commanding the sheriff, that of the goods and chattels of Laban C. Howell, and William Moore, he cause to be made \u201cas well a certain debt of six hundred and fifty-eight dollars and thirty-six cents, as the further sum of sixty-seven dollai\u2019s and fifty cents damages, together with all costs of suitthat read in evidence commands the sheriff, that of the goods, &c., of Laban C. Howell, and \"William Moore, he cause to be made the sum of seven hundred and twenty-five dollars and eighty-six cents, debt and damages, together with the sum of nine dollars and thirty cents costs.\u201d The recital of the writ of Ji. fa. in the declaration was matter of inducement, and that permitted to be read in evidence was, in substance, the same as that described in the declaration. The case of Rector vs. Taylor, Gardiner & Co., decided at the July Term, 1851, of this court; Webb vs. Jones & Prescott, 2 Ark. 33, State Bank vs. Magness et al. 6 Eng. Rep. 343, State Bank vs. Arnold et al, ib. 347, sustain this view, we think, fully.\nThe judgment of the court below must be affirmed with costs.\nThis case was argued and determined before Mr. Justice Scott, and the Hon. Edward Cross, Special Judge. Mr. Chief Justice Watkins, and Mr. Justice Walker, not sitting.",
+        "type": "majority",
+        "author": "Hon. Edward Cross, Special Judge."
+      }
+    ],
+    "attorneys": [
+      "Fowler, for appellant, Patterson.",
+      "Pike & Cummins, and English, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Adams et al, vs. The State, use of Wallace.\nIn an action on a sheriff\u2019s bond, where an execution is set out by way of induce, ment, it is sufficient if it be substantially described.\nThus, the declaration alleges that aj\u00ed fa. was sued out against Laban O. Howell\u2019 and William Moore, commanding the sheriff to levy on their goods and chat els &e., as well a certain debt of $658 36, as the further sum of $67 50 damages, together with all costs-of suit, &c., and that read in evidence commands the sheriff to levy of the goods, &c., of Laban O. Howell and William Moore, the sum of $725 86, debt and damages, together with the sum of $9 30 costs. Heed that there was no substantial variance.\nAppeal from Johnson Circuit Court.\nThis was an action of debt, commenced in February 1843, in the Johnson Circuit Court,' by the State, for the use of Wallace, against Wm. Adams, James P. Patterson, Samuel Adams, John W. Patrick and Joseph James, securities on the official bond of Abram Sinclair, as sheriff of said county. The case has been twice to this court before this. See 1 English 497, and 6 English 466.\nThere was a demurrer to the declaration, going to the sufficiency of the breaches assigned, which, it seems, was sustained as to part of the breaches, but overruled as to the first and second breach, and judgment thereupon for the plaintiff, and writ of enquiry executed. The case was brought up, and reversed, because the jury were not sworn to enquire into the truth of the breaches, as well as to assess damages, &c. 1 Eng. R. 497.\nOn the return of the case, Samuel Adams filed a special plea in avoidance, to which plaintiff replied.\nWilliam Adams pleaded, 1st. Nul tiel record of the recovery set forth in the declation; 2d. No writ of fi.fa. ever issued on said judment; 3d.' That the plaintiff in the judgment ordered the fi.fa. to be returned, without sale of the property levied on; and 4th. That Sinclair, the sheriff, did pay the plaintiff, Wallace, the debt, damages, &c., in said writ ordered to be levied. To these pleas general replications were filed, and issues taken. Default by the other defendants. Trial of the plea of nul tiel record by the court, and of the other issues by a jury, and judgment for plaintiff. The case was brought up, and reversed on the following grounds : 1st. That the jury were sworn to try the issues, &c., and enquire into the truth of the first breach assigned in the declaration only, whilst the issues had been made up to the first and second breaches, and no nol. pros, as to the se.cond breach; 2d. Under the issue of nul tiel record, an exemplification of the record was read, instead of the original; and 3d. Incompetent parol evidence was admitted. See 6 Eng. R. 466.\nOn the return of the case, the death of Samuel Adams was suggested, and the cause ordered to progress against the other defendants : Default as to Patrick, Patterson and James, and a jury ordered to try the issues joined in the case, enquire into the truth of the first and second breaches assigned in the declaration, and to assess damages, &c.\nThe issue to the plea of nul tiel record was submitted to the court, the original record of the recovery mentioned in the declaration read, against the objection of defendants, finding for plaintiff, and bill of exceptions setting out the evidence.\nA jury was empannelled, and sworn to try the issues joined in the case, and to enquire into the truth of the first and second breaches assigned in the declaration, and damages assess, &c.\nDefendants excepted to the admission of certain evidence on the trial. Final judgment for the plaintiff in the form approved in the case, as reported in 6 Eng. Rep. 466, and appeal by the defendants.\nOn the trial of the issue of nul tiel record, the plaintiff read the original record of the judgment referred to in the declaration. The objection of the defendants to the introduction of the record was general. The record of the judgment introduced in evidence, corresponds in all respects substantially with the allegations of the declaration as to parties, date, character of action, amount, &c.\nThe second bill of exceptions shows that on the trial of the issues, and inquest of damages, plaintiff read in evidence a certain fi.fa. as the one referred to in the declaration, against the objection of defendants for variance.\nThere are two points of variance taken in the bill of exceptions :\n1st. That the declaration alleges that the fi. fa. was sued out against Laban C. Howell, and William Moore, and the writ offered in evidence is against Laban C. Howell, and Wm. Moore.\n2d. That the declaration describes the writ of fi.fa. as commanding the sheriff that of the goods and chatties, &c., of Laban C. Howell, and William Moore, he cause to be made \u201cas well a certain debt of six hundred and fifty-eight dollars and thirty-six cents, as the further sum of sixty-seven dollars and fifty cents damages, together with all costs of suit, and the writ offered in evidence commands the sheriff that of the goods, &c., &c., of Laban C. Howell, and William Moore, he cause to be made the sum of seven hundred and twenty-five dollars and eighty-six cents, debt and damages, together with the sum of nine dollars and thirty cents costs.\u201d\nFowler, for appellant, Patterson.\nOn a plea of nul tiel record \u25a0 (and the ple'a of no fieri facias must rest on the same principle) and the production of the record the most scrupulous exactness and conformity are required. The smallest variance or technical misdescription is fatal to the judgment. 2 Saund. PI. Ev. 608. Beecher vs. Chester, 2 Root\u2019s Rep. 90. Caldwell vs. Bell Graham, 3 Arle. Rep. 421. Butler vs. Owen, use fyc., 7 Arle. 373.\nPike & Cummins, and English, for the appellee.\nThere is no variance whatever between the recitals in the declaration, and the execution as to the amount of the recovery. The declaration avers that the recovery was for $658 36 debt, and $67 50 damages ; the execution recites that the recovery was for $725 86 debt and damages; agreeing with the two snms recited in the declaration. But even if there was a variance it is immaterial, the same strictness not being required in describing instruments which are inducement to, as in those that are the foundation of the action; and which are not calculated to surprise or mislead the party. State Bank vs. Magness et al, 6 Eng. 343. S. Bank vs. Arnold et al, ib. 347. The East Boston Timber Co., vs. Persons, 2 Rill, 126. Crave vs. JDygert, 4 Wend. 675. Page vs. Wood, 9 J. R. 82. Bissell vs. Kipp, 5 J. R. 89."
+  },
+  "file_name": "0017-01",
+  "first_page_order": 17,
+  "last_page_order": 21
+}

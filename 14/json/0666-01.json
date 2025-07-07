@@ -1,0 +1,66 @@
+{
+  "id": 1862711,
+  "name": "Allen vs. Allen",
+  "name_abbreviation": "Allen v. Allen",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "666",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 666"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 216,
+    "char_count": 3599,
+    "ocr_confidence": 0.493,
+    "pagerank": {
+      "raw": 3.246141826414857e-07,
+      "percentile": 0.8686155061549921
+    },
+    "sha256": "d39e20575a4852330c299ae547ea9b70728f0a6831db88af41e010c94431abe4",
+    "simhash": "1:e460f49c39e6dfa1",
+    "word_count": 639
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen vs. Allen."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker,\ndelivered the opinion of the Court.\nLouisa H. Allen, by her next friend, filed her bill for a divorce and for alimony against her husband, Abraham Allen; to which he filed his answer denying the allegations therein, and set forth by way of cross bill, a complaint, in which he alleged a breach of the marriage contract, on the part of the complainant, which she was called upon to answer, and for a decree in his favor.\nFor all substantial purposes the answer is a cross bill, and under our practice in chancery, must be so considered. It appears that at the instance of the complainant, the court had ordered the defendant to pay the next friend, for the temporary support of the complainant, a sum of money at stated periods, which order the defendant, for several grounds set forth in his motion, moved the court to set aside; one of the reasons for setting aside the order was, that the next friend was insolvent. The court refused to vacate the order, but ordered that the next friend give security for costs on or before the second day of the next term of the court, or that the suit should be dismissed. At the next term of the court, the next friend filed his written statement, in which he declined to comply with the order of court, and expressed a willingness that the suit should be dismissed. To this the defendant objected and offered to waive the necessity for giving security in obedience to the order of court. But the court disregarded his objection and dismissed both the original and the cross bill, to which the defendant excepted and appealed to this court.\nThere can be no doubt under the state of case, but that the court erred in dismissing the suit. The defendant did not move the court to dismiss the suit; nor did he consent that it should be done; and under the circumstances ofthe case, even if the complainant had formally moved the court to do so, the statute expressly declares that, after a cross bill is filed, the complainant shall not, without the consent of the defendant, dismiss the suit. Dig. ch. 28, sec. 41. But in this case the suit was not dismissed at the instance of either party, but by order of court. We will not say that a state of case might not arise, where, by the acts of the parties in the prosecution of a suit, or in failing or refusing to comply with the orders of the court, that the court might not order the suit to be dismissed; but under the state of cas\u00e9 here presented, we are satisfied that the court erred in dismissing the suit against the objection of the defendant.\nThe order and decision of the court dismissing the suit must be reversed and set aside, and the cause remanded with instructions to reinstate the case upon the docket, that the same may be heard upon its merits.",
+        "type": "majority",
+        "author": "Mr. Justice Walker,"
+      }
+    ],
+    "attorneys": [
+      "Byers & Patterson, for the appellant.",
+      "Fairchild, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Allen vs. Allen.\nWhere the defendant in chancery, in his answer denying the allegations of the bill, sets forth a complaint against the complainant, and calls for an answer, and prays for a decree, such answer, for all substantial purposes, is a cross bill, and under our practice in chancery must be so considered.\nA complainant cannot dismiss the bill against the consent of the defendant after he has filed answer by way of cross bill: nor can the court, under such circumstances, though the complainant refuse to give security for costs, as previously ordered by the court \u2014 the defendant objecting to the dismissal and agreeing to waive security for costs:\nAppeal from Independence Circuit Court in Chancery.,\nThe Hon. B. H. Neely, Circuit Judge, presiding.\nByers & Patterson, for the appellant.\nFairchild, for the appellee."
+  },
+  "file_name": "0666-01",
+  "first_page_order": 666,
+  "last_page_order": 667
+}

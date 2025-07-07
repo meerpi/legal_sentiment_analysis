@@ -1,0 +1,78 @@
+{
+  "id": 1862617,
+  "name": "Beaver vs. Lewis et al.",
+  "name_abbreviation": "Beaver v. Lewis",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "138",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 270",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0270-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 356,
+    "char_count": 5873,
+    "ocr_confidence": 0.491,
+    "pagerank": {
+      "raw": 2.1618190013584225e-07,
+      "percentile": 0.769877510233222
+    },
+    "sha256": "65b0208801fadfede61c6ec46bea9edc4d0ee7964fda199a99dc72db6b38b806",
+    "simhash": "1:144e20b1000b61cd",
+    "word_count": 1019
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Beaver vs. Lewis et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe complainant by his bill alleges that the defendants and himself entered into an agreement of co-partnership for the purpose of erecting a dam and saw mill, upon a certain tract- of land then belongiug to the government, but which was to be entered by them in tKeir joint names, each partner advancing his equal portion of the purchase money, All the partners were to aid in constructing the mill, and an account was to be kept of the work done, materials furnished, and money expended by each. The complainant being a mill-wright, was to do and superintend that portion of the work. That in case either partner should become dissatisfied by the time the mill was put into operation, or before, he should not then be considered a partner any longer, but should be paid what was due him by the concern. That the parties proceeded with the erection of the mill and dam, in which the complainant was engaged during several months, when he discovered that one of the defendants, with the privity of the other, had gone to the district land office, and claimed and obtained a pre-emption right to the tract of land on which the mill was situate, thereby preventing for the term of one year, the entry of it, pursuant to their agreement, and the defendants then refused to recognize him as a partner, and forced him to abandon the work. That besides his labor bestowed in assisting to erect the mill, he had expended various small sums of money of which an account was exhibited. That he was entitled as a partner, to one-third share in the mill, and prayed for discovery, and an account and settlement of the partnership affairs, that the property might be sold and the proceeds divided amongst the partners according as the amount due to each might be ascertained.\nThe defendants, in their answer, profess to annex and setforth by way of exhibit, an account of the labor and money expended by them in erecting the mill, and also an account of moneys owing to them by the complainant, but no such exhibits appear in the transcript before us. But in order to reach what seems to be the only question presented in the case, it will be sufficient to state, that the answer and the depositions taken on both sides disclose substantially the following facts. That there was a verbal agreement to erect the mill and enter theland in partnership, though differing in several respects from that alleged by the complainant. That the complainant did expend some money, and work at intervals and indifferently well during several months. That the defendants lodged in the land office, a claim to a preemption right upon the tract in question, not with any design to defraud the complainant, but to prevent any other person from entering it, and until such time as the partners could spare the money to enter it, and that the transaction was so explained to the complainant. \u2022 That the complainant quit work and abandoned the partnership without any just cause for dissatisfaction and against the wishes of the defendants,, who requested him to continue. That the work done by the complainant was of some value to the defendants, who remained in possession of the property, and when the complainant left the mill in an unfinished state, hired another mill-wright and went on to complete it.\nUpon the hearing, the court below dismissed the bill for want of equity, and upon the whole case, the appellant has no right to complain of the decree, so far as it denies to him any right as a partner to an interest in the specific property. But it does appear that something is due to him from the defendants, or at least, that he is equitably entitled to have an account taken, and a decree in his favor, for what may be found to be justly due, and upon the statement of such account, both parties will be at liberty to make proof of their demands.\nThe abandonment by the complainant of the undertaking worked a dissolution of the copartnership, but there was nothingin his conduct from which any fraudulent design to obtain an unfair advantage of his copartners, which would work a total forfeiture of his rights, can be inferred. He left them in possession of the partnership property, and the avails of his labor in an unfinished, but not useless state. Unlike the defendant in Harvey vs. Howell, 5 Ark. 270, whose conduct the court then thought a fit subject for animadversion, the complainant here did not engage in any business hostile to the interests of the partnership, or do anything inconsistent with it beyond his capricious abandonment of the undertaking, which did not hinder them from prosecuting it to completion!\nThe cause will be remanded with instructions to the court below to direct an account to be taken of the amount due to the complainant for his work and services, materials furnished or money expended about the erection of the dam and mill, supposing him to have been employed by the defendants for that purpose, and after deducting therefrom in the way of compensation such amount as he may have received from the defendants, to decree that they pay him the residue, if any, which he will take in lieu of any interest he might have had in the partnership property, or the profits arising from it.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "S. F. Clark, for the appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Beaver vs. Lewis et al.\nSeveral persons enter into a partnership for the erection of a dam and mill, one of them, after spending rome money and several months work, abandoned the partnership without just cause for dissatisfaction: This was a dissolution of the partnership; and though the retiring partner has no interest in the specific property, the mill having been finished by the remaining partners,-he is entitledHo a fair compensation for his work and for money advanced.\nAppeal' from Scott Circuit Court in Chancery.\nHonl A. B. Greenwood,-Circuit Judge, presiding.\nS. F. Clark, for the appellant."
+  },
+  "file_name": "0138-01",
+  "first_page_order": 138,
+  "last_page_order": 141
+}

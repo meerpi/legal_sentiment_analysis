@@ -1,0 +1,175 @@
+{
+  "id": 1862627,
+  "name": "Holleville vs. Patrick",
+  "name_abbreviation": "Holleville v. Patrick",
+  "decision_date": "1850-07",
+  "docket_number": "",
+  "first_page": "208",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Mass. 97",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2002210
+      ],
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/5/0072-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 451",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728636
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/3/0451-01"
+      ]
+    },
+    {
+      "cite": "3 Leigh 197",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. 570",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Leigh Rep. 197",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Cow. 252",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2157987
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/3/0252-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. 404",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ark. 571",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Leigh, 210",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 McLean, 96",
+      "category": "reporters:federal",
+      "reporter": "McLean",
+      "case_ids": [
+        6668266
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/12/1142-01"
+      ]
+    },
+    {
+      "cite": "13 John. 80",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Ark. 571",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 559,
+    "char_count": 10190,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 1.6923634835583874e-07,
+      "percentile": 0.6994390406544938
+    },
+    "sha256": "3659cbae9e885a3fc491d9f938b7251f2e4454bfc9dd8f84711f7c4aff0d01aa",
+    "simhash": "1:13ee6fe71a1f7dbd",
+    "word_count": 1826
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J. not sitting."
+    ],
+    "parties": [
+      "Holleville vs. Patrick."
+    ],
+    "opinions": [
+      {
+        "text": "S. H. Hempstead, Special Judge,\ndelivered the opinion of the Court.\nThis was an action of assumpsit, brought by Patrick against Holleville, and in which there was a trial by jury on the general issue, and a verdict and judgment for Patrick, to review which this writ of error has been sued out by Holleville.\nThe declaration contains two counts, similar to each other, but on two different causes of action; and it may be remarked, that a declaration could hardly be more inartificially drawn, and if we felt disposed to countenance technical objections, there would be no difficulty in finding them in it. The case stands in this court on the declaration alone; because the bonds and assignments therein described have not been made a part of the record by oyer, bill of exceptions or otherwise, and cannot be noticed for any purpose whatever, although copied into the transcript.\nThe declaration avers the writings obligatory to have been made by William Strong and payable to Holleville on the 1st January, 1841; that they were before payment, assigned by him to Patrick, \u201cto wit, on the 10th day of July, 1841:\u201d that when they became due, they were presented fpr payment, and payment required \u201caccording to the tenor and effect thereof;\u201d but that neither Strong nor Holleville paid the same; and it is then averred that \u201cof all which said premises the said Holleville afterwards, to wit: on the 10th day of July, 1841, had notice.\u201d\nAs a general rule, it is not to be denied, that a party is always bound by his own pleadings, and can make no proof in contravention of them. But it is equally as well established, as an exception, that it is not essential to state the real or precise time unless it constitutes a material part of the contract; nor in criminal proceedings, except where time forms an ingredient of the offence. And although a certain day is stated, yet neither in civil nor criminal cases, need the day be proved as laid, but an entirely different day may be proved, and it will be well enough. 1 Chitty's Pl. 288, 289. 1 Chitty's Cr. L. 224.\nIn assumpsit on a contract, whether express or implied, the plaintiff is at liberty to prove that it was made at any other time than that alleged. 2 Stra. 806. So, in an action against the acceptor of a bill payable after sight, an allegation that it was accepted on the day of the date will be proved, though it appear it was accepted on a subsequent day. 1 Chitty's Pl. 288.\nIt was neither necessary nor usual to aver in the declaration the precise time when the assignments were made, or when payment was required, or notice of non-payment given. These were all matters of evidence, which, for the sake of preserving brevity and perspicuity in pleading, are never to be stated. 1 Chitty's Pl. 258. Those dates were stated under a videlicet, and we are of opinion, might have been rejected as surplusage, and which will not vitiate after verdict. Chapman vs. Smith 13 John. 80. Hyslop vs. Jones, 3 McLean, 96. The case of Jackson vs. Henderson, 3 Leigh, 210, 217, is an express authority to the point, that if the declaration avers that a bill was presented, and payment demanded when the same became due and payable, and then under a scilicet, states a precise day on which it was done, that day is immaterial, need not be proved, and may be rejected as surplusage. To the same effect is the case of Bynner vs. Russell, 1 Bingham 23. S. C. 7 Moore 266, on the authority of which the case in Virginia was decided.\nIt cannot admit of serious doubt, that it was competent for either party on the trial, to have proved that the assignments had been made, or that payment had been demanded, or notice of non-payment given at different periods from those averred in the declaration. Neitherparty was bound by those piecise dates, and might, as we have seen, have treated them as surplusage, and for aught we can know, such proof might have been actually-made as above indicated.\nThis case was tried by a jury on the general issue. No exceptions were taken during the trial, nor was any motion made for a new trial, or in arrest of judgment. It stands on error, and consequently if the declaration discloses a cause of action the judgment must be affirmed. The doctrine on this subject is that when a declaration or other pleading sets forth a good title or ground of action in a defective manner, the imperfection will be cured by verdict, but a want of title is not aided. 1 Saund. 227, 2 Sound. 319, a, b. c. 10 Bac. Abr. Verdict (X) 335.\nAnd this court in Sevier vs. Holliday, 2 Ark. 571, approved and laid down the same principle, namely, that \u201cwhere there is any defect, imperfection or omission in any pleading, whether in substance or in form, which would have been a fatal objection on demurrer, yet if the issue joined be such as necessarily requires on the trial, proof of the faots so defectively or imperfectly stated, or omitted, and without which it is not to be presumed that either the judge would direct the jury to give, or the jury would have given the verdict, such defect, imperfection or omission is cured by the verdict at common law.\u201d Now no one can read the declaration without perceiving that it discloses a right or cause of action, although partially obscured by the want of technical skill and precision in the pleader. The imperfections in it are precisely of that character which a verdict was intended, under the rule above laid down, to cure. And it is the more essential that it should be so, because, independent of the general presumption of correctness which attaches to judgments of inferior courts until the contrary is made to appear, we may well suppose that on the trial, such facts were proved as established the liability of the plaintiff in error, holding it clear that this might have been done under the declaration, and on the issue that was formed.\nThe case of Ruston vs. Aspinall, Dougl. 653, relied on by th\u00a9 counsel for the plaintiff in error, is not applicable, because, the declaration failed to allege a demand and refusal by the acceptor; but in this declaration, demand, refusal and notice are alleged. Considering that the declaration in this case discloses a cause of action, and that the imperfections in it'are cured by the verdict, and we affirm the judgment.\nWatkins, C. J. not sitting.",
+        "type": "majority",
+        "author": "S. H. Hempstead, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the plaintiff.",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Holleville vs. Patrick.\nIt is unnecessary to aver in tlie declaration the precise, time<when an assignment of a note was made, or when payment was demanded, or notice of non-payment given, such being matters of evidence: and where time is stated in such case under a scilicet, the averment may he rejected as surplusage.\nNo exceptions being taken during the trial, nor motion for new trial, or in arrest of judgment, if the declaration discloses a good cause of action though stated in a defective manner, the imperfection is cured by verdict. Sevier vs. Holliday, 2 Ark. 571.\nError to the Circuit Court of Monroe county.\nThe Hon. John T. Jones, Circuit Judge, presiding.\nThis cause was argued and submitted at the July term, 1850.\nWatkins & Curran, for the plaintiff.\nThe declaration does not, upon its face, show any cause of action against Holleville; because, 1st, It is not shown that payment was demanded of the maker; and this averment is absolutely necessary. Ruddett Sf McGuire vs. Walker, 2 Eng. 457. Speed vs. Brent, 1 Pick. 404. Price vs. Young, 1 Nott 4\" McCord, 439. Iiufon vs. Ellis, 3 Taunt. 415, 2d, Itis averred that the demand was made before the assignment, and that notice was not given until six months after-wards: see Rushton vs. Aspinall, Doug. Rep. 679. 3d, The declaration shows that notice was not given until more than six months after the bonds became due, and after it is averred that the demand was made. Ch. on Bills 592. Ludie vs. Robertson, 7 East. R. 231. 4th, The breach is insufficient, as it merely negatives the payment by Holleville, and not by the maker. It was clearly necessary to allege in the declaration, a demand of the maker, at the maturity of the note, if assigned before due, or within a reasonable time, if assigned after due, and notice to the assignor of non-payment, (Ruddell &f McGuire vs. Walker, Rush-ton vs. Aspinall, ub. sup., Lewis vs. Brewster, 2 McLain's Rep. 26,) and the omission of these necessary averments are not cured after verdict, because they are essential to the statement of a cause of action. The general rule upon the subject of intendment, is that a verdict will aid a defective statement of title, but not a defective title, or cause of action, (1 Ch. PI. 722. 1 T. R. 141. Tidd's Pr. 919.) No intendment can be made that demand and notice were in due time, as would be the case if the allegation were general; and did not, as in this case, affirmatively show that the demand and notice were not in due time; and therefore, as no cause of action is shown against Holleville, the defects of the declaration are not cured by the verdict. 1 Ch. PI. 719,720, 721, 722. Doug. R. 679. 7 B. Sj- C. 468. 1 Me. Sp N. 394. 4 T. R. 470. 7 ib. 710.\nPike & Cummins, contra.\nWhere a plaintiff alleges in the usual form, a presentment and notice, &c., and issue is joined, the plaintiff may prove a promise to pay the bill, without proving demand and notice, and the unconditional promise is conclusive evidence of a demand and notice, or waiver of them. Lundrie vs. Robertson, 7 East. 234. 5 Mee. 41 Webb, 5. 3 J. R. 68; and so he may prove want of funds to excuse demand and notice, or anything else excusing notice. 16 East. 43. 3 Cow. 252. 2 Gaines Rep. 121.\nThe time averred as to presentment is immaterial, and a mistake makes no difference. 2 Ch.Pl. 156, notes. 8 B. C. 387. 3 Leigh Rep. 197.\nAfter verdict, every defect in form or substance in the pleadings is cured, if the issue joined be such as requires proof of the facts defectively stated, (Sevier vs. Holliday, 2 Ark. 570,) and as no verdict could have been rendered in this case unless the demand and notice had been proven to have been after the assignment, the court is bound to presume that such proof was made.\nThe defect in the declaration is a mere defect in date, which may be rejected. 3 Leigh 197. 3 Ark. 451. 3 T. R. 387. 5 Mass. 97, 99."
+  },
+  "file_name": "0208-01",
+  "first_page_order": 206,
+  "last_page_order": 211
+}

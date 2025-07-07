@@ -1,0 +1,79 @@
+{
+  "id": 1862675,
+  "name": "Pike and Bertrand vs. The State and State Bank",
+  "name_abbreviation": "Pike v. State",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "403",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "15 Pet. 317",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 How. Rep. 711",
+      "category": "reporters:scotus_early",
+      "reporter": "How. Rep.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 433,
+    "char_count": 8714,
+    "ocr_confidence": 0.51,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.4352792382876376
+    },
+    "sha256": "85d687bf25b772997cb0866edd2109b7a001436e5ec9937f15a9b1358fa479ba",
+    "simhash": "1:39112dc8008fde1e",
+    "word_count": 1542
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pike and Bertrand vs. The State and State Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe appellants exhibited their bill in the court below against the State and the Bank of the State of Arkansas, the object of which was to enjoin a judgment at law rendered against them in favor of the Bank. The questions involved may be considered as depending upon the sufficiency of the bill, the substantial allegations of which are as follows : That on the first of September, 1843, one John Clark, as principal, .and the complainants, as his securities, executed their promissory note to the Bank of the State of Arkansas, which was discounted by the principal bank at Little Rock, for the benefit of Clark, and became due twelve months after date. That Clark departed this life, on the first day of January, 1845, leaving the note wholly unpaid, and his estate insolvent; that Clark, at the time of his death, was a member of the State Senate, and in attendance upon the Legislature, then in session at Little Rock ; and there was due to him, from the State, a sum of money for his pay and mileage as a member of the Senate, and for his services as commissioner employed by the State in running a boundary line, more than sufficient to pay the note in question. That the State had the entire beneficial interest in the note and was really the owner and holder of it, and on the fourth of January, 1845, the complainants, by a notice in writing, addressed to the Auditor of Public Accounts, notified the State that she would be required to appropriate the moneys so in hand belonging to the estate of Clark, to the payment of the-note, and warning the Auditor to retain a sufficiency of such moneys for that purpose; that the State disregarded the notice, and on the 9th of January in the same year, the General Assembly enacted that one Wilfred Garner be authorized to receive such moneys due from the State to Clark, and and after defraying all expenses incurred by him during that session of the Legislature, to pay over the residue,if any, to such administrator upon Clafrk\u2019s estate, as might be thereafter appointed, and in pursuance of this act, Garner, an entire stranger to the estate, received from the Treasury the money owing from the State to Clark. That the Bank had subsequently obtained judgment against the complainants, for the amount due upon the note; the execution of which judgment they prayed might be perpetually enjoined.\nUpon the case made by the bill, our opinion is, that the relief sought was properly denied. The position contended for the complainants is, that as the State owned the Bank, and had full control over it, as a public corporation, the note of Clark and his securities to the Bank was really a debt due to the State, and they argue that in such case, it would be within the scope of the Auditor\u2019s duty and authority to arrest the payment of any money, that might be due from the State to Clark, or so much of it as would be sufficient to satisfy a demand which the State had against him. It will not be necessary to decide whether the complainants would have the right to require of the Auditor to pursue this course, for their protection as Clark\u2019s securities, upon a debt due to the State, or whether by his failure to do so, they would become released. The debt of Clark and his securities, \u25a0the collection of which they seek to enjoin, was incurred to the Bank. It is true the State owns the Bank, but equally true, as shown by all the legislation concerning it, since the first liquidation act passed at the session of 1842, and by the public history of the country, that the Bank is insolvent. Her assests then constitute a trust fund for the payment of her debts, and without violating the obligation of contracts entered into by the Bank, there is no mode by which that fund could be diverted, so as to deprive her creditors of the right to resort to it. This doctrine is peculiarly applicable to the State Bank, because, unless her assets became pledged as a fund for the redemption of her liabilities, it would be difficult to maintain that her issues for circulation, as contemplated by the charter, were not bills of credit, and therefore obnoxious to the federal constitution. If it be supposed to follow from the opinion of this court in the case of The State et al. vs. Curran, 1 Eng. 321, that the State could be required, in preference to any creditor of the corporation, to appropriate so much of her assets, .consisting of the note of Clark and his securities, as would discharge a debt owing from the State to Clark, we do not assent to any such conclusion.\nUnless the State were at the same time the debtor and creditor of Clark, the act of the General Assembly referred to in the bill authorizing Garner to draw from the Treasury the moneys due to Clark, can be no cause of complaint by this proceeding. It might be argued that the act in question was a violation of the right of the creditors of Clark, which had become vested under' the general laws in force at the time of his death, to have his estate administered and distributed in due course of law, and it-might moreover be objectionable as a usurpation of power, insomuch as it contemplated that Garner, no matter how honestly exercising his discretion, should appropriate the money so received, to the payment of Clark\u2019s debts without any judicial ascertainment of them; yet if this be so, the only consequence would be, that even if Garner, by drawing the money from the Treasury and thus intermeddling with the estate, did not render himself' liable to the creditors, as executor in his own wrong, still he was liable for all the money so drawn from the Treasury to the administrator who might be appointed upon Clark\u2019s estate. Supposing then the complainants to be creditors of the estate of Clark, by having paid any debt of his, for which they were securities, they would have the right, in common with the other creditors, and according to the classifications fixed by law, to a distributive share of the assets, including the money drawn from the Treasury by Garner.\nIn any view of the case, we think the decree ought to be affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Cummins & Bertrand, for the appellants,",
+      "S. H. Hempstead, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Pike and Bertrand vs. The State and State Bank.\nThe complainants, being sureties of John Clark, upon a note executed to the State Bank and he dying insolvent, notified the Auditor of Public Accounts to retain for their benefit the control of certain moneys due from the State to Clark. The General Assembly then in session passed an act, authorizing Wilford Garner, to draw from the Treasury the money due from the State to Clark, and after defraying the expenses incurred -by him while in attendance as a member of the Senate, to pay over the residue, if any, to such administrator of his estate, as might be thereafter appointed.\nHeld, that though the State owned the Bank, the latter had a separate corporate existence, and being insolvent, her assets constituted a fund in trust for the payment of her liabilities, which the State could not be required to divert by appropriating so much of them, consisting of the note of Clark and his securities, as would discharge a debt owing from the State to Clark.\nThat if it be true, that the act of Assembly was an interference with the rights of Clark\u2019s creditors, vested upon his death, to have his estate administered, and applied to the payment of his debts in due course of law ; or was a usurpation of power, inasmuch as it contemplated that Garner should appropriate money to the payment of Clark\u2019s debts, without any judicial ascertainment of them \u2014 the consequence would be, that if by intermeddling with the estate, Garner did not become executor in his own wrong, he was liable for all the money so received by him, to the proper administrator of Clark.\nThat if the complainants were creditors of the estate of Clark, they were entitled, in common with other creditors, and according to the classifications fixed by law, to their due proportion of the assets.\nAppeal from the Circuit Court of Pulaski county in Chancery.\nHon. W. H. Feild, Circuit Judge, presiding.\nCummins & Bertrand, for the appellants,\ncontended that the State was the sole owner of the assets of the State Bank, and this court will judicially take notice of all legislation in regard to it, (State Bank vs. Curran, 7 Eng. 364,) that when the State descends to and engages in any business transactions, she is bound by all the rules of law and equity applicable to individuals. Bank U. S. vs. United States, 2 How. Rep. 711' 15 Pet. 317. 6 Cond. Rep. 641, and that if a private person, under such circumstances had paid over the money to the principal the securities would have been released. Burge on Suretyship, 324, 325, &c.\nS. H. Hempstead, contra."
+  },
+  "file_name": "0403-01",
+  "first_page_order": 403,
+  "last_page_order": 407
+}

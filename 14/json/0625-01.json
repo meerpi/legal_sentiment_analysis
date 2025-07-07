@@ -1,0 +1,103 @@
+{
+  "id": 1862676,
+  "name": "Allis vs. Bender",
+  "name_abbreviation": "Allis v. Bender",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "625",
+  "last_page": "628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 625"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Ark. Rep. 230",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "17 Wend. 144",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Ark. Rep. 70",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Mon. Rep. 175",
+      "category": "reporters:state",
+      "reporter": "Mon. Rep.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Ark. Rep. 68",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ark. 236",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 299,
+    "char_count": 4976,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 5.357082078456081e-08,
+      "percentile": 0.3364478006246696
+    },
+    "sha256": "9b9c70f09a736b92437585f3947a8a70c9f9cd9d42f90919e78f8aab3dbf933f",
+    "simhash": "1:f3246eef880fe88c",
+    "word_count": 897
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allis vs. Bender."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott,\ndelivered the opinion of the Court.\nThe declaration was in debt upon a writing obligatory, averring that it was made by the defendant, Allis, payable to the plaintiff, Bender, \u201cby the style of D. Bender, & Co.\u201d At the return term, after oyer granted, Allis pleaded that he did not make the writing obligatory, payable to the plaintiff, Bender, by the style of D. Bender & Co., as alleged in the declaration, but that he made it payable to said Bender and one James A. Henry, as partners, by the name, style, description and firm of D. Bender & Co., and of which he put himself upon the country. A demurrer was interposed, and the causes assigned were : 1st, that the plea was not sworn to; 2d, that it concluded to the country, and not with a verification; and 3d, that it was frivolous. The demurrer was sustained and final judgment was rendered for the plaintiff below, and the cause brought here by writ of error.\nAccording to the course of decisions in this court, the demurrer did not reach the first objection. To do this a motion to strike out was necessary. (Wilson & Turner vs. Shannon & wife, 1 Eng. R. 196. Hardwick et al. vs. Campbell, &c., 2 Eng. R. 118. Mayor & Aldermen of Little Rock vs. State Bank, 3 Eng. R. 227. State Bank vs. Ward, 3 Eng. R. 506. Knott vs. Clements ad. 13 Ark. R. 335.)\nThe averment in the declaration that the writing obligatory in question, was made payable to the plaintiff, Bender, by the style of D. Bender \u00bf\u00a1 Co., was a material and traversable one, according to the decisions in the cases of Bower et al. vs. State Bank, 5 Ark. 236, and Nicholay et al. vs. Kay, 1 Eng. R. 70. And although, in general, it is the property of the plea of the \u201cgeneral issue,\u201d in any form of action, to deny all the facts set forth in the declaration, and to put the plaintiff on proof of every essential fact alleged by him, it was expressly ruled, in the last mentioned case, that the plea of non est factum would not traverse an allegation like this in question, and that that plea putting in issue only the sealing and delivery of the writing obligatory, admitted as true all the other material allegations in the declaration. From this then it follows that the allegations in question could only have been specially ha versed. This was the object contemplated by the plea in question; the legal sufficiency only of which, and not its form, or want of verification by affidavit, is brought in question by the demurrer.\nAs a special traverse, designed for the denial of only one of the several facts alleged in the declaration, although it contained other matter, and was otherwise objectionable upon special demurrer, before that was abolished, it properly concluded to the country. And it would have been equally good in substance, had it concluded with a verification, (1 Saunders 103, a. b. n. (3,) tendering as it would have done, a material issue and admitting; as the plea did, the truth of all the other allegations contained in the declaration.\nThe plea was therefore not frivolous, but good in substance, and the demurrer should have been overruled.\nThe judgment must be reversed and the cause remanded to be proceeded with.",
+        "type": "majority",
+        "author": "Mr. Justice Scott,"
+      }
+    ],
+    "attorneys": [
+      "Fowler, for the plaintiff.",
+      "Baldwin, for the defendant,"
+    ],
+    "corrections": "",
+    "head_matter": "Allis vs. Bender.\nThe objection to a plea, that it is not verified by affidavit, cannot be taken advantage of by demurrer; a motion to strike out was necessary.\nTlie averment in a declaration, that the writing obligatory sued on, was made payable to the plaintiff Bender, by \u201cthe style of D. Bender <& Co,\u201d was a material and traversable one, and could only have been specially traversed.\nA plea, denying such allegation and averring that the writing obligatory was made payable to the plaintiff and one James A. Henry, by the style &c., of D. Bender & Co., being designed for the denial of only one of several facts alleged in the declaration, was equally good whether it concluded to the country or with a verification.\nError to the Circuit Court of Pulaski County.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nFowler, for the plaintiff.\nWhere a party declares on a note or bond in his own name, averring it to have been made to him, by a different name, whether of an individual, firm or corporation, such averment is material and traversable. Nicholay et al. vs. Kay, 6 Ark. Rep. 68. Bower et al. vs. State Bank, ib. 236. Pendleton vs. Bank of Ky., 1 Mon. Rep. 175. 10 Co. Rep 125. And such averment is not put in issue by a plea of non est factum; which only puts in issue the execution of the instrument. 6 Ark. Rep. 70. 2 Stark. Ev. (5 Amer. Ed.) 270. 17 Wend. 144, 8 ib. 451. 15 ib. 509.\nThe objection that the plea was not sworn to could be taken advantage of only by a motion to strike out, and not by demurrer. Mayor dye. vs. Stale Bank, 8 Ark. Rep. 230. State Bank vs. Ward, ib. 507. Hardwick vs. Campbell, dye.,7 ib. 121. Wilson, dye. vs. Shannon, dye., 6 ib. 198.\nBaldwin, for the defendant,\nreferred to secs. 1 and 3, ch. 1 Rev. Slat., that the plea should have been sworn to."
+  },
+  "file_name": "0625-01",
+  "first_page_order": 625,
+  "last_page_order": 628
+}

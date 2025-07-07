@@ -1,0 +1,90 @@
+{
+  "id": 1862730,
+  "name": "Jester et al. vs. The State",
+  "name_abbreviation": "Jester v. State",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "552",
+  "last_page": "555",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 552"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Ark. 703",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728483
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/13/0703-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 680",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728438
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/13/0680-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 374,
+    "char_count": 7167,
+    "ocr_confidence": 0.542,
+    "pagerank": {
+      "raw": 1.734908506525049e-07,
+      "percentile": 0.7061357631275028
+    },
+    "sha256": "8dd573aaf886fc6611b32b4a4dcaabbdd42938c51cf95ce8b7e8f1529c628c33",
+    "simhash": "1:3914d4f072a7b4ca",
+    "word_count": 1268
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jester et al. vs. The State."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins,\ndelivered the opinion of the Court.\nThe indictment, preferred at the February term, 1853, of the Hot Spring Circuit Court, charged that the appellants, on the tenth day of March, A. D. 1852, at&c., bet a certain sum of money at an unlawful game at cards called draw pocre, then and there played by them together. Asecond count alleged the game played to be called pocre. On the trial the State proved that, at the August term 1852, an indictment which, leaving out of view any variance between them, the jury were authorized to .infer was for the same offence, was preferred against Jester, Ready, Morehead and one Cyrus A. Hale, charging that the games in question were played by those four persons together, on the tenth day of March, 1852. That Hale, having pleaded guilty to that indictment at the February term, 1853, it was then, on motion of the attorney for the State, quashed as to the other defendants, Jester, Ready and Morehead. The parol testimony on the trial conduced to prove that during the month of January, 1852, in the county of Hot Spring, these defendants had bet money upon a game at cards called pocre, then and there played by them together with Hale and one Joshua F. Morris,, and that the witnesses for the prosecution had so testified before the grand jury, at each term of the court when the respective indictments were found.\nThe defendants asked the court to instruct the jury, that in order to convict upon an indictment for betting at cards, under the 8th section of the statute against gaming, it is necessary -as part of the description of the offence, to set out the names of the persons by whom the game was played, if known to the grand jury, apd that the proof should correspond with the allegations in that respect. The refusal of the court to give this instruction and the omission to charge the jury in any manner equivalent to it, was clearly erroneous, according to the opinions of this court in Drew vs. The State, 5 Eng. 82. Parrott vs. The State, ib: 572. Moffat vs. The State, 6 ib. 169. Stith vs. The State, 13 Ark. 680, and Johnson vs. The State, ib. 684.\nAn objection was also taken and reserved to the sufficiency and legal effect of the record evidence adduced to prove the pendency of the former indictment, in order to displace the operation of the statute bar, supposed to appear on the face of the second indictment, which charged the offence to have been committed more than a year previous to the time when it was preferred, And it was further objected that the State could not avail herself for this purpose of the record of an indictment or prosecutipp pending and quashed at her own instance. The provision of the statute, Digest, Title, Criminal Proceedings, sec. 104, is \u201cWhen any indictment or prosecution shall be quashed, set aside or reversed, the time during which the same was pending, shall not be computed as part of the time of the limitation prescribed for the offence.\u201d As the first indictment could only have been quashed by the decision of the court, the presumption is, that it was done, though on motion of the attorney for the State, for sufficient cause, in the exercise of judicial discretion, and not capriciously, or with any design to harrass the accused, so that, although the quashal might operate as a hardship, we cannot presume they yvere injured by it, because such a proceeding is a .contingency provided for by the statute and liable to occur in the administration of justice.\nConceding that it was necessary for the State to prove that the offence, no matter when alleged to have been committed, was in fact committed within a year previous to the finding of the indictment, (Strawn vs. The State, decided at the present term), or to displace the bar by showing, in accordance with the statute the pendency and quashal of a former prosecution for the same offence, we might incline to the opinion, by parity of reasoning with the case of The State Bank vs. Gray, 7 Eng. 760, and The State Bank vs. Roddy, ib. 766, that the record of a former indictment against four persons might be admissible for that purpose on the trial of a subsequent indictment against any one or more of the same persons, and who might be separately indicted, provided the offence charged appeared to be in other respects the same, But the difficulty here is, and it is, in a different aspect, the same question presented by the motion to instruct the jury, that the second indictment charges the games to have been played by three persons, (the present appellants) while the record adduced in evidence, disclosed by the former indictment, a charge against them for betting at games played by four persons \u2014 which being a distinct offence there was a material variance, for which the record should have been excluded. If the second indictment had charged that these defendants bet at a game played by them together with Hale, the question might have been analogous to The State Bank vs. Gray, and same vs. Roddy, where the cause of action was the same, though all the defendants in the first suit were not embraced in the second.\nFor these errors the judgment will be reversed and the cause remanded with instructions to grant the motion of the defendants for a new trial, and that the cause be further proceeded in according to law and not inconsistent with this opinion.-",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins,"
+      }
+    ],
+    "attorneys": [
+      "English, for the appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Jester et al. vs. The State.\nB\"nder the Stl^sec. of the statute against gaming it is necessary, as part of the description of the offence, to set out the names of the persons by whom the game was played, if known to the grand jury, and the proof must correspond with the allegations in that respect, according to the opinion of this court in several previous cases.\nThe record of a former indictment for the same offence would be admissible in evidence under section 164 of the statute, Digest, Title, Criminal Proceedings, though the former indictment may have been quashed on motion of the attorney for the State.\nBut such record must show that the indictment was for the same offence, that the ga^ie was played by the same persons \u2014 though all the defendants in the first may not be charged in the second indictment.\nAppeal from Hot Spring ^Circuit Court.\nThe Hon. J. C. Murray, Circuit Judge, presiding.\nEnglish, for the appellant.\nIt is submitted, 1st. That there is a fatal variance between the allegations in the indictment, and the evidence as to the persons by whom, the game was played. Parrott vs. State, 5 Eng. R: 82. 6 Eng. 169. 13 Ark. 703.\n2d. That upon a fair and reasonable interpretation of sec. 104, chap. 52, Digest, p. 403, the State should not be permitted to harrass a party with an indictment for a length of time, then quash it on her own motion, and then avail herself of the time it was pending to preclude the defendant of the benefit of the act of limitation; though it would be otherwise if the first indictment were quashed on the motion of the defendant.\n3d. The first indictment differing from the second as to time and the number of players, the State should have proved aliunde that both indictments were for the same offence, to preclude the act of limitations."
+  },
+  "file_name": "0552-01",
+  "first_page_order": 552,
+  "last_page_order": 555
+}

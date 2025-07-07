@@ -1,0 +1,65 @@
+{
+  "id": 1862725,
+  "name": "Rowark vs. Lee",
+  "name_abbreviation": "Rowark v. Lee",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "425",
+  "last_page": "427",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 425"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 215,
+    "char_count": 3635,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 1.0996127077853583e-07,
+      "percentile": 0.567713793352431
+    },
+    "sha256": "e0355079296b06e44e6b9207eb3fc3928078dda23d244d6bc24ccf56cd4fa24a",
+    "simhash": "1:88c57479189dcf11",
+    "word_count": 626
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rowark vs. Lee."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nJames F. Lee brought his suit in replevin against John Row-ark, for a mule. The general issue was pleaded, and by consent of parties, the case was submitted to the court sitting as a jury. After having heard the evidence the court found for the plaintiff, and as the property had not been replevied and delivered to the plaintiff, the court also heard evidence, as well touching the damages for the detention of the property as the value thereof, and rendered a judgment in his favor for the same. Whereupon, the defendant moved the court to grant him a new trial, because the finding of the court was contrary to law and evidence; which motion the court overruled. The defendant excepted and made the evidence matter of record by his bill of exceptions.\nThe questions presented and argued by counsel are, first, as to the sufficiency of the evidence to sustain the finding of the court; and second, that it was error in the court to render an absolute judgment for the value of the property.\nAs regards the first question, there can be no doubt but that the evidence is sufficient to uphold the finding of the court. There is no lack of evidence upon any point necessary to a recovery; and although the evidence of several of the witnesses is somewhat contradictory, as well with regard to the purchase of the mule by the plaintiff, as the identity of the mule in the defendant\u2019s possession, as the same purchased by the plaintiff, it was the peculiar province of the court sitting as a jury to weigh the evidence and determine the facts, and having done so, we do not feel at liberty to disturb the verdict.\nAfter finding the issue for the plaintiff, the court, under the circumstances of the case, properly ascertained the value of the mule, but failed to render a judgment thereon, in accordance with the statute. Section 39, ch. 13G Dig., provides \u201cthat in case the plaintiff shall recover judgment upon the whole record, he shall be entitled, in addition to judgment for damages and costs, to a further judgment, that the property be replevied and delivered to him without delay; or in default thereof, that the plaintiff recover from the defendant the value of the property ascertained by the court or jury. Under the provisions of the statute, the court should have rendered judgment that the property be replevied and delivered; as well as for the value thereof. Under the provisions of the statute judgment, when properly rendered, the defendant may surrender the property and discharge himself from the payment of the damages: but by the judgment, as rendered in this case, he is deprived of the privilege of doing so.\nFor this error the judgment of the Circuit Court must be reversed, and the cause remanded with instructions to the court below to render judgment on the verdict and finding of the court in accordance with this opinion.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Walker &\u25a0 Greek, for the appellant,"
+    ],
+    "corrections": "",
+    "head_matter": "Rowark vs. Lee.\nIn replevin, wliere the property is not taken npon the writ and delivered to the plaintiff, and he recovers on the trial, the judgment, in addition to that for damages and costs, should be according to the statute in the alternative, that the goods and chattels be replevied and delivered to him, or that he recover their assessed value.\nCause remanded with instructions to enter such judgment in accordance with the finding.\nAppeal from the Circuit Court of Franklin county.\nThe Hon. A. B. Greenwood, Circuit Judge, presiding.\nWalker &\u25a0 Greek, for the appellant,\ncontended that the judgment of the Circuit Court was erroneous (sec. 39, ch. 136, Dig.) and that the evidence was insufficient to sustain the verdict."
+  },
+  "file_name": "0425-01",
+  "first_page_order": 425,
+  "last_page_order": 427
+}

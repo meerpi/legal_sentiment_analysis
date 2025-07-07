@@ -1,0 +1,99 @@
+{
+  "id": 1862708,
+  "name": "Cloyes et al. vs. Beebe et al.; Cloyes et al. vs. Newton et al.",
+  "name_abbreviation": "Cloyes v. Beebe",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "489",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Scam. Rep. 162",
+      "category": "reporters:state",
+      "reporter": "Scam.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Ark. 196",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Mo. Rep. 688",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8856266
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mo/9/0688-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 283",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 698,
+    "char_count": 14406,
+    "ocr_confidence": 0.515,
+    "pagerank": {
+      "raw": 8.239390437152317e-08,
+      "percentile": 0.4775456020795035
+    },
+    "sha256": "5f9ebbbb3560a32d4a66d5a3e2ab133116aa0742e13c80e65b7501901b188c3d",
+    "simhash": "1:ba2b084f07a2eccb",
+    "word_count": 2499
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J. not sitting in this cause."
+    ],
+    "parties": [
+      "Cloyes et al. vs. Beebe et al. Cloyes et al. vs. Newton et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis action of ejectment having progressed to a trial by jury of the issue made upon the plea of not guilty, the plaintiffs, to sustain the issue upon their part, after having adduced evidence to prove before the jury that Nathan Cloyes, the elder, died in the year 1831, or 1832, leaving issue of lawful marriage four children surviving him, to-wit, Lydia Louisa, Mary E., Nathan Henry and Thomas; that Lydia Louisa, the eldest of the four, was born in 1824, and the other three, successively, at periods of about two years between births: that Thomas, the youngest, had died-some years before in infancy: that Lydia Louisa was married to Robinson Lytle, one of the plaintiffs, and Mary E., to to Elias Hooper, another of said plaintiffs, of which latter marriage issue had been born alive; then offered to read in evidence, and produced the same to the court, a deed of conveyance duly executed; by which the said plaintiffs, Nathan H. Cloyes,'' and his wife, had conveyed to another of said plaintiffs, the said Absalom Fowler and his heirs and assigns forever, previous to the commencement of this suit, one-fourth part of the entire right, title, interest and claim of the said Nathan H., and his wife, in and to the north-west fractional quarter of section number two, of township number one north of range number twelve west, containing about thirty 88-100 acres, it being stated in said deed upon its face, that said land was held by a pre-emption right; and at the same time of offering said deed as evidence, the plaintiffs stated to the court that they were prepared to prove and would prove, in connection therewith, that the lands and lots in controversy are on and embraced within said fractional quarter section of land, that the defendants were in possession of the same at and before the commencement of this suit: that the same are situated in the county of Pulaski; that under the act of Congress of the 29th of May, A. D. 1830, granting pre-emption i-ights to settlers upon the public lands, the Register and Receiver of the proper land office in Arkansas, upon evidence produced to their satisfaction, granted a pre-emption to the said Nathan Cloyes, the elder, now deceased, in his lifetime, to the aforesaid fractional quarter section of land, on the 28th day of May, A. D. 1831, at which time the surveys were not perfected and returned: that afterwards, and after the death of the said Nathan, the elder, his children and heirs at law aforesaid paid to the Receiver of public moneys at said land office, the minimum price for said fractional quarter section of land, as fixed by the laws of the United States, and also for two small adjoining fractions claimed by them under the same right, and took said Receiver\u2019s receipt therefor, bearing date the 5th of March, A.D. 1834, on which said receipt the said Receiver endorsed, of the same date, that a part of the land so paid for, to-wit: the north-west fractional quarter section, formed a part of the location made by Gov. Pope, in selecting one thousand acres adjoining Little Rock, granted by Congress to raise a fund for building a court house and jail for the territory of Arkansas, and that such endorsement was made by the direction of the commissioner of the General Land Office. And .the said plaintiffs, at the same time, offered to prove that such location so made by Governor Pope, was made after the said grant of the pre-emption, and was null and void. And they offered no other evidence, and stated they had no other to show .title in the said plaintiff, Fowler. But the defendants objected .to the said deed being read in evidence, upon the single ground that such conveyance to the said plaintiff, Absalom Fowler, gave him no title by which he could, jointly with his co-plaintiffs or otherwise, maintain an action of ejectment; and this objeclion having been sustained by the Circuit Court and said deed rejected and excluded upon that ground, the plaintiffs took their bill of exceptions, from which the foregoing facts appear. And final judgment having been rendered against them, they brought their case here by writ of error.\nThe question presented to us is, whether or not this specific objection, no other having been made to the testimony offered, was well taken.\nOur statute authorizes the action of ejectment in all cases, where the plaintiff is legally entitled to the possession of the premises (Dig. ch. 60, p. 454; sec. 1), and in all cases where he \u201cclaims the possession under or by virtue offirst, an entry made with the Register and Receiver of the proper land office of the United States; second, a pre-emption right under the laws of the United States; third, where an improvement has been made by him on any of the public lands of the United States, whether the lands have been surveyed or not, and where any person, other than those to whom the right of action is given by the preceding clauses of this section, is in possession of such improvement\u201d (id. sec. 2): and on the trial it will be sufficient for him to \u201cshow that, at the time of the commencement of the action, the defendant was in possession of the premises claimed, and that the plaintiff had title thereto, or had the right to the possession thereof as is declared by this act to be sufficient to maintain the action of ejectment.\u201d (id. sec., 11.)\nWe think it clear, from the phraseology of this statute, when considered in connection with its remedial nature and obvious general design, that it was not the purpose of the Legislature to confine its benefits to the purchaser in the first instance and to the pre-emptor in the second, but equally to extend them to all persons, who might lawfully succeed to their rights. The language used is certainly sufficiently comprehensive for this; and the lawful successors to such rights are as clearly within the mischief as the original purchaser or pre-emptor. Indeed, \u2019not only would such a narrow construction of the statute be against its obvious spirit, and contract the generality of the expressions used, but it would be to lose sight of so much of the every day transactions of common life in this State as relate to the tranfer from hand to hand of these imperfect titles of land, and to suppose they were unknown to the Legislature. In accordance with this view of the statute, this court held in the case of McLarren vs. Wicker and others, (3 Eng. R. p. 122), that a patent certificate issued to the father was sufficient to enable his heir to maintain the action of ejectment. It is true that, in that case, the court rested the transfer of the title to the heir, not upon descent, but upon the act of Congress, which declares that when a patent issued to one who is dead, in pursuance of a certificate of purchase issued in his lifetime, the title shall enure to his heirs. The result, however, is the same, whatever may work the transfer, because the action in that case was sustained, not upon the patent but upon the certificate, although brought by the heirs.\nThere can be no good reason why, if the successor to the original purchaser or to the pre-emptor, can maintain the action when he succeeds to the rights of the purchaser or pre-emptor, by direct operation of law, that he should not do so if he succeeds to those rights by lawful acts of the parties. In both cases he succeeds by operation of law; in the one case, directly; and in the other, indirectly by its operation.\nIt is true that, at common law, if a man had in him only the right of possession or property, he could not convey it to another,' lest, in the language of the ancient law, \u201cpretended titles might be granted to great men, whereby justice might be trodden down and the weak oppressed.\u201d But this was for the feudal reason that possession was an indispensable element of alienation, of which the law was so tenacious, even after the statute of uses, that a pretence title itself, would not prevent the seizin of the land from passing from the bargainor to the bargainee by virtue of that statute, where he was actually seized, although his title was but pretended. At the same time reversions and vested remainders might be granted, because it was considered that the possession of the particular tenant was the possession of him in reversion or in remainder, and was not adverse. And upon the same principle the better and more recent authorities show that an equitable interest was always assignable; because after the sale, out of which an equitable interest grew, the vendor and those under him, would hold as trustees for the vendee and those under him, and therefore there could be no such adverse possession as to make the title pretended. But every vestige of this feudal doctrine, which thus restrained the alienation of real estate, has been swept off by our statute, which enacts that, \u201c Any person claiming title to any real estate may, notwithstanding there may be an adverse possession thereof, sell and convey his interest in the same manner and with like effect as if he was in the actual possession thereof.\u201d (Dig. ch. 37, p. 265, sec. 6). The next section {id. 7), declares that \u201c The term real estate, as used in this act, shall be construed as co-extensive in meaning with \u2018lands tenements and hereditaments\u2019 and as embracing chattels real.\u201d And Sir Edward Coke says, that of these three, \u201chereditaments\u201d is by far the largest and most comprehensive expression, because it included not only lands and tenements, but whatever may be inherited, be it corporeal or incorporeal, real, personal or mixed. And thus it appears that, although at common law, there were certain rights to and interests in real estate, that for want of possession, either actual or constructive, could not be alienated to a stranger, although they could be released or devised by will, or would pass to the heir or executor \u2014 as contingencies and mere possibilities \u2014 such is the comprehensiveness of our statute in embracing hereditaments in the term \u201creal estate,\u201d that that distinction is also annihilated, and therefore, in this State, whatever interest in real estate may be inherited, may be bargained, sold and conveyed,. And it is expressly declared by our statute of Descents, that the \u201creal estate\u201d in that statute contemplated, is every \u201cestate, interest and right, legal and equitable, in lands, tenements and hereditaments, except such as are determinable, or are extinguished by the death of the intestater seized or possessed thereof, in any manner other than by lease for years and estate for the life of another person.\u201d (Dig.ch. 56, secs. 18, 19).\nThe result is, that as at the common law, all persons in possession were, prima facie, capable both of conveying and purchasing, unless the law had laid them under some particular disability personally, or as to the subject matter, so under the operation of our statutory regulations all persons having an inherita-' ble right, interest or title, in or to any real estate, are pl'ahed in the same condition as to alienation or purchase. And there being no pretence of personal disability as to these parties,* and none as to the subject matter in consequence of the operation of our statute in enlarging the right of alienation and purchase almost to an unlimited extent in this respect, we cannot doubt but that, under the deed of conveyance offered in eyidence, if regularly executed and valid in other respects, Fowler succeeded lawfully to so much of the right, interest and estate of Nathan-H. Cloyes, as the deed purported to convey, as fully as it came-to the latter from his deceased father by direct operation of law.. We therefore think it clear that Fowler was a proper party plaintiff, equally entitled with the heirs to maintain ejectment under-our statute, and that the objection in question was not well taken,, and ought to have been overruled by the court below.\nFor this error the judgment must be reversed and the cause remanded to be proceeded with.\nWatkins, C. J. not sitting in this cause.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Fowler, for the plaintiffs,",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Cloyes et al. vs. Beebe et al. Cloyes et al. vs. Newton et al.\nUnder tbe act of Congress approved 29th May, 1830, the Register and Receiver at Little Rock granted a pre-emption right to Nathan Cloyes, before the public surveys were made; after his death, his children and his heirs at law paid the mi- \u25a0 nimum price of the land, and the usual Receiver\u2019s receipt was issued. These heirs together with A. P;, to whom one-fourth part of the interest and estate of one of them was conveyed by deed, brought ejectment for a portion of a fraction, of land included in the Receiver\u2019s receipt, and which, in the interval of the granting of the pre-emption right and the payment for the land, had been located under a special act of Congress.\nUpon the trial it was objected that the deed of conveyance to A. P., gave him no such title or interest in the land, as would enable him jointly, with his co-plaintiffs, to maintain the action.\nHeld that it was not the intention of the Legislature to confine the benefits of the act concerning ejectments to the pre-emptor or purchaser, but to extend them equally to all persons who might lawfully succeed to their rights.\nThat although by the common law, possession was an indispensable element in the alienation of real estate or any interest therein, every vestige of that feudal doctrine has been swept off by our statute authorizing such sales and conveyance, although the possession be adverse, (Dig. eft. 37 and 76.)\nThat under these provisions, any right, interest, or title that will descend, may be alienated by deed; the objection therefore, was disallowed.\nError to Pulaski Circuit Courts\nHon. W. H. Feild, Circuit Judge, presiding!\nFowler, for the plaintiffs,\ncontended that a pre-emption right, granted by the Land Officers, vested a title in the land itself to the pre-emptor and his heirs and assignees, {Nicks\u2019 heirs vs. Rector, 4 Ark. 283. Pettigrew vs. Shirley, 9 Mo. Rep. 688. Fletcher vs. Peck, 2 Cond. Rep. 321. 9 How. U. S. Rep. 333. 7 Sm. Mar. 789,) and that under our statute the pre-emptor, his heir or assignee, claiming under such pre-emption right, might maintain ejectment. Sec. 1,2, ch. 60,p. 454 Dig. Sec. 11 p. 455.\u2018 McLarren vs. Wicker ct al. 8 Ark. 196. And so under like statutes of other States. 5 Miso. Rep. 351. 1 Scam. Rep. 162. 3 ib. 99. 6 Miso. 334. 11 ib. 595.\nPike & Cummins, contra."
+  },
+  "file_name": "0489-01",
+  "first_page_order": 489,
+  "last_page_order": 495
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1862626,
+  "name": "Earle et al. vs. Byrd et al.",
+  "name_abbreviation": "Earle v. Byrd",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "499",
+  "last_page": "502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 402,
+    "char_count": 6710,
+    "ocr_confidence": 0.533,
+    "pagerank": {
+      "raw": 4.351389287593408e-08,
+      "percentile": 0.27343331599641524
+    },
+    "sha256": "fb9d2aca996affeaa5ee91f8bf3e1d8c574d7f8b9e713a62e3e34a3ccdbf165b",
+    "simhash": "1:f729b350502c4015",
+    "word_count": 1182
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting in this case."
+    ],
+    "parties": [
+      "Earle et al. vs. Byrd et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott,\ndelivered the opinion of the Court.\nThis application, founded upon a suggestion of diminution supported by affidavit, is to perfect the transcript of the record in this case, either by appending to it the certified copy presented, of the motion for a new trial in the court below, which was omitted by the clerk, as is alleged; or by permitting the clerk, otherwise, to -amend the transcript already certified in return of the writ of error, or- by permitting the plaintiff in error to withdraw his assignment and have a special certiorari.\nThe writ of error in this case was regularly returned into this court, at the January term, A. D. 1853, and the defendant in error then entered his appearance to it by counsel. Afterwards errors were assigned, to which a joinder was interposed, and the cause argued and submitted by both of the parties. In the following July term, this court, upon looking into the record, and discovering the supposed diminution, pointed it out to the counsel for the plaintiffs in error, that he might have an opportunity to rid his clients of the difficulty. And this application, in its manifold aspect, is probably designed for this end, and presents the question whether or not it can avail.\nNo rule of practice is perhaps better settled in this court and elsewhere in courts of error, than that after joinder in error, no diminution can be alleged; and the reason is, because it is by this means admitted by all the parties, that the i-ecord, upon which they have joined issue, is a true and perfect one; and therefore neither party can or should be permitted to contradict their own admissions: So well settled, indeed, that it was remarked in the case of Cunningham vs. Ashley and others (13 Ark. R. p. 673), that \u201cafter the case is submitted the suitor can no longer be heard, and strictly speaking it is a contempt of court for him to attempt to be heard in any way.\u201d But although this is so, no admissions of the parties can or ought to restrain the court, as a question of power, from looking into the record before them. Accordingly in the plenitude of its authority, to be exercised in sound discretion, this court may, at any time pending a writ of error, whether before or after assignment of errors or after the joinder therein, ex-officio, award a certiorari to supply any defect that may appear, either in the body of the record, or in any of its branches. But among the rules of practice governing this discretion, is that, \u201cthough the court, ad informandum conscientiam curiae, will award a certiorari to affirm a judgment, they will never award one to reverse it or make error.\u201d (2 Saunders Rep. 101, a, in the note and the old cases there cited). This rule is as old and as well settled, and as universally recognized as the other, and was applied in this court as early as July term, 1839, and often sine e, (The Auditor vs. Woodruff and another, 2 Ark. R 84); and there has never been any special case here demanding a departure from it within our knowledge.\nThis latter rule of practice rests upon no sympathy for the defendant in error, although by the operation of the former rule his laches have cut him off from all means of helping himself, while the plaintiff in error under like laches would still have ample means of self protection in his right to dismiss his suit and sue out another u rit; because laches can never lay any foundation for indulgence, and it is always time enough for a party, either plaintiff or defendant, after he has presented the merits of his case, to demand the correlative constitutional duty of having it decided upon. But it proceeds upon the necessity of the case, in connection with the duty of the court to decide the law, as far as practicable, in reference to the merits; which the law always presumes in favor of the judgment below, even if the contrary seems to be shown, if diminution is apparent upon the face of the transcript, and until it has been shown to be otherwise by certiorari.\nBut there being no such presumption of merits upon the other side to suggest the ex-officio interposition of the court, and the party\u2019s mouth being closed by his admissions, his own laches can lay no foundation for indulgence unless in some special case where, notwithstanding his right to dismiss his case after the suspension of the judgment of the court, that he might have opportunity to do so, his rights would be absolutely cut off; and then it ought to be allowed him only upon the terms of costs, equivalent to what would accrue upon the dismissal of his writ. And there might be other extraordinary cases when great delays of the administration of justice might, under peculiar circumstances, demand a departure from the rule.\nThe provisions of our statute cited, have, we think, no relevancy to this application, because they were in the main designed not to aid a reversal in this court, but to promote affirmances; and \u25a0such of them as have application to proceedings in this court, have no place, as it is not pretended that our proceedings are irregular.\nThe cases cited from New York are all upon terms of cost, and in express terms are rested upon their own \u201cspecial and peculiar circumstances,\u201d and are departures from the general practice in that State, which is in accordance with ours. And it is manifest that if these special cases are much indulged, the rules of practice, to which they form exceptions, will be entirely overturned, and the stimulus to parties, designed by these rules of practice, to bring the merits of their cases before the court, in discharge of their own duties, will cease; and as a consequence, justice often delayed by the merest negligence of counsel,,in' a court where they are presumed to h ave the highest degree of skill and to exert all proper diligence.\nThe application refused.\nWatkins, C. J., not sitting in this case.",
+        "type": "majority",
+        "author": "Mr. Justice Scott,"
+      }
+    ],
+    "attorneys": [
+      "Baldwin, In support of hissmotion,"
+    ],
+    "corrections": "",
+    "head_matter": "Earle et al. vs. Byrd et al.\nAfter assignment and joinder in errors,\"neither party has a right to allege diminution, because by that they admit that the record, upon which they have joined issue, is a true and perfect one.\nBut no admission of the parties can restrain the court, in the plenitude of its authority, to be exercised in sound discretion, to award a writ of certiorari ex-officio at any time, to supply any defect that may appear in the record.\nAmong the rules of practice governing this discretion, is that although the court, ad iffiormandum conscientiam curiae, will award a certiorari to affirm, it will never award one to reverse or make error.\nMotion to amend the Record.\nBaldwin, In support of hissmotion,\ncited, Rev. Stal.p. 814,secs. 113 to 122. Powell vs. Waters, 8 Cowen, 701. Law vs. Jackson, 8 Cowen 748."
+  },
+  "file_name": "0499-01",
+  "first_page_order": 499,
+  "last_page_order": 502
+}

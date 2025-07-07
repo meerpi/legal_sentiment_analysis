@@ -1,0 +1,115 @@
+{
+  "id": 1862646,
+  "name": "Borden vs. Fowler adm'r",
+  "name_abbreviation": "Borden v. Fowler adm'r",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "471",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 471"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Ark. 65",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Ark. 450",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Ala. 415",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        11256864
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/2/0415-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 70",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728313
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/4/0070-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 43",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/13/0043-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 500,
+    "char_count": 9249,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 1.4919301750181605e-07,
+      "percentile": 0.6631907883432586
+    },
+    "sha256": "752e8f3c13ae9c8dc5edb1361b03f9c81c14e232f3931ef2c5883cd19d28f5bf",
+    "simhash": "1:01e5ae4420b06c40",
+    "word_count": 1641
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Borden vs. Fowler adm\u2019r."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott,\ndelivered the opinion of the Court.\nIt appears that the plaintiff by his attorney notified the defendant, in writing, on the 6th day of October, 1849, that on the 19th day of that month he should present to the Probate Court of Pulaski county, for allowance and classification, two several claims, which he held against the estate of his intestate, \u201cone for three hundred and sixty 58-100 dollars, and the other for thirty 42-100 dollars,\u201d when and where he might attend if he thought proper. xThis notice was regularly served by the sheriff. On the 7th of February, 1851, the cause having been previously continued by both parties, a venire facias was issued on motion of both parties. The case, however, was the next day continued by the defendant, p,nd subsequently continued by consent until the 6th of February, A. D. 1852, when both parties being present, the cause came on for hearing, and on motion of the defendant the court dismissed it for want of jurisdiction ; and the plaintiff, taking a bill of exceptions, appealed to the Circuit Court, where the judgment of the Probate Court was affirmed; and he brought the cause here by writ of error.\nInstead of making a literal copy of the bill of exceptions, the clerk has made a reference in it to three preceding pages of the transcript, for that portion of it which he would have otherwise transcribed again. From the whole of it, it appears that when the cause came up to be heard, the defendant moved to dismiss it, because it didnotappearthatthe claimhad been presented to the administrator before it was filed in the Probate Court. Whereupon the plaintiff moved for leave to introduce parol testimony to establish the opposite, which he was permitted to do against the objection of the defendant. From the endorsement of the clerk it appears that the claims, regularly verified by the affidavit of tbe claimant, were filed in the Probate Court on the 6th of October, 1849, being the day of the-dateof the notice, and of the sheriff\u2019s service of it upon the defendant, in response to which he had long before appeared in the Probate Court. The parol evidence, introduced to show a previous presentation of the claims to the defendant, was to the effect, that previous to the summer of 1849, the attorney for the claimant informed the defendant that he had two claims, specifying the amount, to present against the estate of his intestate, and from the answer then made, the witness inferred that the defendant would not allow them. That afterwards, during the summer of that year, the same witness exhibited the claims to the defendant, verified as aforesaid, by laying the same down before him upon his table, and calling his attention to them, and informing him what they were, and left them there for some space of time, and afterwards returned for them, and was then informed by the defendant that they would not be allowed, but that he (the defendant) would not make an endorsement upon the papers to that effect. No copy of the claim, however, was ever given to the defendant at any time, and none was ever requested or demanded by him, nor does it appear that he gave any intimation, at the time of the alleged presentation, or at any time afterwards, until the cause came up for hearing in February, 1852, that his refusal to allow the claims was in any way influenced by that consideration.\nThe point made in the court below and insisted upon here, is, that because the copy of the claim was not furnished the administrator before the proceedings were commenced in the Probate Court, that court had no jurisdiction of the cause.\nThe case of Hudson vs. Breeding, (2 Eng. R. 445,) cited by the defendant in error, is, where a judgment by default was quashed on certiorari, because it did not affirmatively appear that the claim allowed had been previously presented to the administrator, and that notice had been given him of the intended application to the Probate Court \u2014 the court refusing to make any presumption in favor of such a judgment without notice. And the case of Pennington vs. Gibson, (1 Eng. R. 447,) the other case cited by him, was also a case where there was no notice. It appeared upon the record that the claim had been presented for allowance and refused, but it did not appear that the defendant had received notice of the intended application to the Probate Court. Besides, the doctrines of these cases, as to jurisdiction, have been since materially modified by the case of Borden et al. vs. The State use &c. (6 Eng. R. 519,) and subsequent cases in this court (see also the previous case of Wilson vs. Dean (5 Eng. R. 308,) for the principle as to jurisdiction, upon which the case of Brodie vs. Whitfield was overruled.)\nThe provision of the statute for the copy was evidently designed to afford an executor or administrator such information as would enable him to act advisedly, in allowing or refusing to allow a claim presented against the estate of his testator or intestate, and in case he allowed it, to place in his possession accurate data for the list of claims he is required to keep, and for their classification and return into the Probate Court annually under the provisions of the administration law, (Dig. p. 128, sec. 98. In this case it appears that the orignal was not only exhibited to the administrator, but was left in his personal custody for some space of time after having his attention called to it, and having been informed what it was; and that it was afterwards filed in the Probate Court on the day when he was served with a notice by the sheriff that the claimant would apply there for its allowance, where it remained on file, subject to his inspection for the space of two years and four months, during which time he was a partyto the cause in court, either continuing it himself, ormutually with the other party consenting to continuances.\nDoubtless, under the statute, an executor or administrator is entitled to thp copy in question unless he voluntarily dispenses with it, or waives it by his own laches ; consequently for that 'cause alone he may refuse to allow a claim, or abate the proceeding in the Probate Court for a like reason; but he must interpose the objection in apt time, otherwise it cannot avail. And although in that court he may interpose it by motion, instead of by plea, because in such cases the manner of proceeding is \u201csummary without the forms of pleading,\u201d (Dig. p. 129, sec. 103,) yet that does not change the nature of the defence set up. It remains, as it is, essentially matter in abatement of the suit and must be governed as to time, &c., by the rules governing pleas in abatement, as held in Ross et al. vs. Davis, (13 Ark. R. 294,) and in other cases in this court.\nWhen these rules are applied to the proceedings in this case, the filing of the claim in the Probate Court, and the service of the notice upon the administrator being taken to be equivalent to the writ and declaration in an ordinary suit at law, we think the motion was clearly out of time, and for this cause ought to have been overruled.\nThe judgment of the Circuit Court is therefore reversed and the cause remanded to that court to be there heard de novo upon the merits.",
+        "type": "majority",
+        "author": "Mr. Justice Scott,"
+      }
+    ],
+    "attorneys": [
+      "Jordan, for the plaintiff.",
+      "Fowler, contra!"
+    ],
+    "corrections": "",
+    "head_matter": "Borden vs. Fowler adm\u2019r.\nUpon the presentation of a claim, duly sworn to bvthe claimant, toan administrator for allowance, the administrator is entitled to, and may require the claimant to furnish him a copy of the account or evidence of debt, upon which the claim is founded.\nBut the omission of the claimant to furnish the copy, is, in its nature, matter in abatement; and the administrator refusing to allow the claim, and being served with notice that it would be presented to the Probate Court for allowance, if pursuant to such notice, he appear in the Probate Court and ask for and consent to continuances of the cause for over two years, he will be deemed to have waived any objection for the want of a copy, and held to be in court for a trial upon the merits.\nAn objection to the mode of presentation furnished no ground for the dismissal of the cause for want of jurisdiction.\nWrit of Error to Pulaski Circuit Court.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nJordan, for the plaintiff.\nThe statute is not peremptory in the mode of presenting claims against estates. The original may be presented unless the administrator requires a copy, (Dig. ch. 4 sec. 88.)\nThe administrator waived all informality in presenting the claims by appearing to the suit in the Probate Court after the claims were filed, fester vs. Hopper, 13 Ark. 43. State Bank vs. Walker, (ante) Rogers vs. Conway, 4 Ark. 70. 3 ib. 436. 9 ib. 435. 2 Ala. 415. 3 Eng. 467.\nFowler, contra!\nThe question in this case is one of jurisdiction, which an appearance to the notice did not waive, The Probate Court could acquire no jurisdiction of the subject matter, until the claim, duly sworn to, had been presented to the admin-orator and a copy delivered to him. Dig. ch. 4, secs. 88 to 100f Pennington vs. Gibson, 6 Ark. 450. Hudson vs. Breeding 7 ib. 446. Hunt vs. Hanover, 8 Mete. Rep. 344. And want of jurisdiction maybe taken advantage of in any stage of a judicial proceeding. Smith vs. Dudly, 2 Ark. 65. ib. 126. 7 ib. 309. 8 Mete. 346."
+  },
+  "file_name": "0471-01",
+  "first_page_order": 471,
+  "last_page_order": 475
+}

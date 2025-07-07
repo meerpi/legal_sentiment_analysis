@@ -1,0 +1,65 @@
+{
+  "id": 1862629,
+  "name": "Adkins vs. Hershy",
+  "name_abbreviation": "Adkins v. Hershy",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "442",
+  "last_page": "444",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 323,
+    "char_count": 5841,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 3.4720668790702723e-07,
+      "percentile": 0.8812874804670079
+    },
+    "sha256": "039c546ea023bcc69f499acb40a656a4b2e7cf208194380a18afb1642124b238",
+    "simhash": "1:5ea3c26c5e72b5bd",
+    "word_count": 1039
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adkins vs. Hershy."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe suit was here originally commenced by the appellee against the appellant, to recover a balance due on an open acccount, filed before the justice, as the foundation of the complaint. The defendant had judgment in the justice\u2019s court, and the plaintiff, Hershy, appealed to the Circuit Court. Upon tiial anew in that court, the only evidence adduced by the plaintiff to prove his account against the defendant, was the testimony of a witness, who stated that he had presented the account to the defendant. The account referred to contained sundry charges and credits,, showing a small balance to be due the plaintiff. The \u2022defendant said the account was correct, and at the same time \u2022stated that the credits for corn, thereon entered, were not correct, and that the defendant was entitled to a credit of 24 bushels in lieu of the first credit of 15 bushels; also that he was entitled to 50 cents per bushel instead of 37\u00a3 cents, as credited for another item of 35 bushels therein contained, and the defendant, after malting a calculation of the debits and credits in the account referred to, stated to the witness that the plaintiff was justly indebted to him in a trifling amount.\nThe court, against the objection of the defendant, charged the jury in substance, that when a defendant files a set-off, he is bound to prove it in the same manner that a plaintiff must prove his account, on which he brings suit; and that if an account is presented to an individual, his admissions of its correctness are good evidence against him to prove the account, but that the party\u2019s statements, made in the same conversation and at the same time alleging that the other party was indebted to him above what he owed, or any other statements, made in his own favor at the same time, cannot be introduced as evidence to prove his set-off. The effect of this instruction was, to exclude from the jury all the defendant had said to the witness during the same conversation beyond his admissions, that the items charged on the debit side of the account were correct. *\nThe defendant had filed an account on cross demand, by way of set-off, and ordinarily, it would be true that in such case, he must prove his set-off as affirmative matter, in the same manner that the plaintiff is required to prove his account. In that position each party becomes plaintiff, but is under no obligation to make his adversary a witness, either by calling him to the stand, or relying uyon his statements out of court. But if the plaintiff chooses oris obliged, for the want of other evidence, to resort to the admissions of the defendant, there, is no rule of law better settled, or more consonant with justice, than the one that the party who is sought to be charged by an admission, is entitled to the benefit of all that he said by way of qualification or explanation, during- the same conversation, relative to the business in hand. The admission must be taken as a whole, and if the plaintiff proves only a part, the defendant may call for the entire conversation on cross-examination. The rule is, not that the plain-, tiff is concluded by the entire admission, but that it is competent evidence for the defendant to go to the jury, who are the proper judges of its credibility, and may reject such portions if any, as appear to be inconsistent, improbable or rebutted by other circumstances in evidence.\nSo the-plaintiff, who gives the proper credits upon his account, as every correct business man should endeavor to do, has the benefit of the same rule. .He can only recover such amount as he proves, and the defendant is put upon proof of his payment or set-off in avoidance; yet if he claim the benefit of any credit on the face of the account, it becomes an admission of the correctness of the entire debit side of the account. But the defendant would be no more precluded by such admission, from proving that he was entitled to other and further credits, orto a greater amount than those given in the account rendered, than the plaintiff would be for from going into proof of any item which the defendant had refused to admit.\nThere was some other conflicting testimony about, the market price claimed by the defendant for the corn the plaintiff had of him. That was a question of fact for the jury,'not touched by this opinion. But clearly, the appellant was aggrieved b.y the erroneous instruction to the jury; end in reversing the judgment we must say it is to be regretted that a case like the present should have found its way into the court of last resort.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Jordan, for the appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Adkins vs. Hershy.\nIf a plaintiff chooses, or is obliged for the want of other evidence, to resort to the admissions of the defendant, there is no rule of law better settled or more consonant with justice, than the one that the party who is sought to be charged by an admission, is entitled to the benefit of all he said by way of qualification or explanation, during the same conversation relative to the business.\nThe rule is not that the plaintiff is concluded by the entire admission, but that it is competent evidence for the defendant to go to the jury, who are the proper judges of its credibility, and may reject such portions, if any, as appear to be inconsistent, improbable or rebutted by other circumstances in evidence.\nAppeal from, the Circuit Court of Johnson county.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nJordan, for the appellant.\nThe rule is well established that the whole admission is tobe taken together, which relates to the subject matter, as well for as against the party making it. And it is for the jury to say how much of the statement they believe worthy of credit. 1 Greenl. Ev. sec. 201, 152, note on page 305, and authorities cited. 4 T. R. 669. 2 Sta?-k. Ev. 34. 1 Phil. Ev. 34, 357 note 1."
+  },
+  "file_name": "0442-01",
+  "first_page_order": 442,
+  "last_page_order": 444
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1862703,
+  "name": "Rawdon, Wright & Hatch vs. Rapley et al.",
+  "name_abbreviation": "Rawdon v. Rapley",
+  "decision_date": "1849-01",
+  "docket_number": "",
+  "first_page": "203",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 558",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727765
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0558-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 559",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 480,
+    "char_count": 9148,
+    "ocr_confidence": 0.544,
+    "pagerank": {
+      "raw": 6.046802378935014e-07,
+      "percentile": 0.9548969843415581
+    },
+    "sha256": "a63ee305b07a03512411b2bbbb1ff7c51200f3ef4c5239569d57d0cedcb2c111",
+    "simhash": "1:d0424fe31defc699",
+    "word_count": 1611
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting."
+    ],
+    "parties": [
+      "Rawdon, Wright & Hatch vs. Rapley et al."
+    ],
+    "opinions": [
+      {
+        "text": "S. H. Hempstead, Special Judge,\ndelivered the opinion of the Court.\nThis was an action of debt brought by the plaintiffs against the defendants, on a recognizance conditioned in substance, that the Real Estate Bank should prosecute with effect, a writ of error which she had sued out in the case of herself against the present plaintiffs, and on which she had obtained a supersedeas, and pay the money that might be adjudged against her by the Supreme Court, or otherwise abide the decision of that court therein.\nIt appears that the judgment in that case was reversed on the 22d August, 1842, and the case ordered to be remanded for further proceedings. On the 27th August the defendants in error in that suit, filed a motion for reconsideration, and obtained leave to submit a written argument, on or before the first day of the next term, to which term the case was continued. The opinion of the court was not recalled, nor the judgment set aside, nor suspended. On the 10th January, 1843, at the succeeding term, the petition for reconsideration was filed, and taken under advisement, and on the 7th July, 1843, at the following term, the cause was ordered to stand for rehearing, the judgment to be set aside, and it was then taken under advisement. On the 7th August, 1844, the order of 7th July, 1843, was annulled, the petition for reconsideration refused, and the judgment of 1842, ordered to stand as the judgment of the court. On the 9th August, 1844, this last order was set aside, and the cause was again submitted to the court and was argued by counsel, and on consideration, whereof the judgment of the Circuit Court was reversed and ordered to relate back to and take effect as of the first day of the term.\nThis seems to be the present attitude of the suit, and certainly no examples could more forcibly demonstrate the evils which must result from attempts to disturb the judgments and decrees of courts of record, after the term at which they were pronounced, has passed. It seems at one time to have been regarded as a question of practice in this court resting upon the sound discretion of the judges. But difficulties of such a formidable character sprung out of the practice, as to induce the judges to pause and investigate the question of power, and it was then announced, as a true principle, that under our system of jurisprudence, courts of record do not possess the power and authority to vacate, annul, reverse, or suspend their judgments and decrees after the term has passed. Ashley vs. Hyde & Goodrich, 1 Eng. 100. And it was said in that case, that \u201cupon principle and precedent when the Supreme Court once adjudicates a question, pronounces its opinion, renders judgment thereon, and the term el apses, leaving the judgment in full force, the case passes forever beyond the jurisdiction of the court; except it again be brought up by appeal or otherwise, after another trial in the inferior tribunal.\u201d\nAfter a careful examination, we entirely approve of the doctrine in that case, and hold it to be the settled law of this court. So far indeed from being dissatisfied with it, we cannot conceive on what possible grounds a different doctrine could be maintained, without converting courts of record into courts of original and appellate jurisdiction, and allowing them to pronounce judgments at one term and reverse them at another, and thereby exercise a power, neither inherent in or delegated to them. As to this question, this court is not different from other courts. Indeed, as there is no tribunal to revise our acts, it is our imperative duty, in all cases, to avoid the exercise of all doubtful powers.\nIt cannot be denied that there is a right inherent in the nature and organization of every court of record, to amend judgments and process at any time, in order to attain the ends of justice and perfect the proceedings according to the truth, as it existed at the time. And this right has its origin in the general power of the court to do justice, rather than in any statute of jeofails. Mara vs. Quinn, 6 Term Rep. 8. Dillon vs. The Mayor of Grampond, 7 Term Rep. 699. King vs. The State Bank. 4 Eng. 188.\nBut this is quite a different question from setting aside or vacating a judgment after the term has passed. The one is intended to perfect the proceedings and maintain the jurisdiction of the court, the other to destroy \u2014 the one is to uphold, the other to overturn.\nThe judgment of reversal rendered in the case of The Real Estate Bank vs. Rawdon, Wright & Hatch, (5 Ark. 559,) at the July term 1842, was not set aside nor recalled at that term. The leave to file a motion for reconsideration, and a written argument at the next term, and the continuauce of the cause could notin our opinion have that effect. Nor was the judgment ever regarded by this court as having been set aside or suspended, because, on the. 7th July, 1843, a reconsideration was granted, and the judgment for the first time ordered to be set aside; and although this order was irregular, yet it serves to show that, up to that time the judgment was considered as in full force.\nIn Ashley vs. Hyde & Goodrich, 1 Eng. 92, it was held that the filing of a motion for leave to present a petition for rehearing' or granting that leave by the court, or actually filing such petition could not have the effect of suspending the judgment of the court. This we regard as a decisive authority on the present question: because, although a continuance was ordered in the case of The Real Estate Bank vs. Rawdon, Wright Hatch, and none in the case just quoted, yet it will readily occur to any one that that is an immaterial circumstance, and cannot affect the principle decided. The two cases are similar, and identical in substance, because, to grant leave to file a petition for rehearing at a future term, would seem to be equivalent to a continuance of the cause to that term, for otherwise the leave could not be made available. That the court might have intended to set aside or suspend the judgment rendered in 1842, may be admitted,but that it was done either directly or indirectly, or that any act equivalent to it was performed at that term, is a proposition which cannot in our opinion be maintained.\nWe are compelled by precedent and principle to declare that the judgment of the Supreme Court in the case of The Real Estate Bank against Rawdon, Wright & Hatch, rendered the 22d August, 1842, was a valid and binding judgment, not reversed, vacated nor suspended, and that all the action, and orders, and proceedings of the Supreme Court with regard thereto subsequent to the term at which the judgment was pronounced, were nullities, possessing no judicial sanction, the jurisdiction over the subject matter being exhausted at that term, as was held by this court in the late case of Cossitt vs. Biscoe, 7 Eng. 95.\nIt may not be amiss to remark that we cannot' perceive any ground for a reconsideration, and if the judgment of the Circuit Court was now directly before us for revision, we should have no hesitation in reversing it, as did the old court, because it is clear enough from all the facts that the present,plaintiffs in error gave credit to, and looked to Williamson the agent for payment, doubtless preferring his responsibility to that of the Bank; and their remedy was not against the Bank, but Williamson, individually. Real Estate Bank vs. Rawdon et al., 5 Ark. 558.\nIt only remains for us to say that, as the judgment of 1842, was valid binding and unreversed,itfollows as a necessary consequence that the writ of error was prosecuted with effect, and the condition of the recognizance performed. While the defendants in error as sureties are to be held to their engagements, yet their liability is not to be extended by implication; and as it appears on the merits that they are not liable, the court correctly found for them, and discharged them by its judgment.\nOther questions discussed by counsel with great ability, we do not deem it necessary to investigate or decide on the present occasion, contenting ourselves with affirming the judgment of the Circuit Court, as on the whole record we consider it to be right.\nAffirmed.\nWatkins, C. J., not sitting.",
+        "type": "majority",
+        "author": "S. H. Hempstead, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Watkins & Curran, for the plaintiffs.",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Rawdon, Wright & Hatch vs. Rapley et al.\nThe judgments of a court of record are final after the term, at which they are pronounced elapses, if not Set aside during the term; and the court possesses no power to vacate or annul them at a subsequent term. The cases of Asliley vs. Hyde \u00bff Goodrich, 1 Eng. 92. Cossitt vs. Biscoe, 7 Eng. 95, approved.\nLeave to file a motion for reconsideration, and a written argument at the next term, and a continuance of the cause, have not the effect to set aside and vacate the judgment.\nThe judgment of this court, at the July term 1844, in the case of The Real Estate Bank vs. Rawdon, Wright S\u00a1 Hatch declared void, as also all proceedings therein subsequent to the July term 1842.\nError to the Circuit Court of Pulaski county.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nThis cause was argued and submitted at the January term, 1849.\nWatkins & Curran, for the plaintiffs.\nPike & Cummins, contra."
+  },
+  "file_name": "0203-01",
+  "first_page_order": 201,
+  "last_page_order": 206
+}

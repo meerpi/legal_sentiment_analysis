@@ -1,0 +1,111 @@
+{
+  "id": 1862618,
+  "name": "The State Bank vs. Fowler and Pike",
+  "name_abbreviation": "State Bank v. Fowler",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "159",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 159"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Wheat. 424",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1442068
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/18/0424-01"
+      ]
+    },
+    {
+      "cite": "6 Wend. 655",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Rand. 578",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "case_ids": [
+        4444347
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/25/0235-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 72",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726361,
+        8726379
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0072-01",
+        "/ark/5/0072-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 508,
+    "char_count": 10151,
+    "ocr_confidence": 0.507,
+    "pagerank": {
+      "raw": 1.2726395803113338e-07,
+      "percentile": 0.6151379868092696
+    },
+    "sha256": "c3b0c47304097d5f68bc985ea9421a5bbdc7080a79a737d2a0e9593e0b82841b",
+    "simhash": "1:992044355b176d7c",
+    "word_count": 1825
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State Bank vs. Fowler and Pike."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the court.\nThis suit was commenced on the 6th day of September, 1849, on a promissory note made by the defendants, together with Thomas J. Lacy, and G. N. Causin, dated 24th February, 1843, and payable to the plain tiff one year after date. It will be necessary to state only so much of the pleadings and evidence as will show distinctly the questions presented on the record.\nThe defendants severally, pleaded that the cause of action had not accrued within three years next before the commencement of the suit. The plaintiff replied that on the 23d day of September, 1845, Lacy, the principal debtor, made a partial payment upon the note to the plaintiff, and on the 26th day of February, 1848, and within three years from the time of such payment, the plaintiff commenced suit in tlie Pulaski Circuit Court, upon the note, against all the makers, the alias summons, issued in which suit, was served upon the present defendants, and not served upon the other defendants, Lacy and Causin, who had departed this life; and in the progress of that suit, the defendant, Fowler, having filed his plea in abatement of the alias writ of summons, the plaintiff demurred to the plea, and the demurrer being submitted the court, there, on the 23d day of June, 1849, overruled the demurrer, and Hie plaintiff declining to reply to said plea, and electing to rest on her said demurrer, the court then and there adjudged that the defendants go hence without day, and recover of the plaintiff their costs in that behalf expended, as would appear by the-record, &c., and that afterwards, on the Cth day of September, 1849, and within one year after the said last mentioned judgment, the plaintiff commenced the present suit against these defendants.\nTo this replication the defendants severally demurred, because5 it did not appear that the plaintiff had suffered a non suit in the5 former action, so as to bring her within the saving clause of the5 statute. These demurrers being overruled, the defendant, Pike,, rested; and Fowler rejoined, 1st, denying the fact of part payment by Lacy ; 2d, that there was no such record of the former suit as alleged in the replication.\nUpon the trial of the issues to Fowler\u2019s rejoinders, it appeared; to the court that there was such a record. But, in-order to prove5 the fact of the part payment by Lacy, the Bank offerred in evidence her books, kept at the time by A. E. Thornton, her Financial Receiver, or Cashier, in liquidation, proving in connection therewith, that Thornton was such receiver on the 2d of September, 1845, and had the charge and custody pf the books, records,, accounts and notes of the Bank: that he had left Arkansas after the institution of the present suit, and about a year previous to the trial; that he had gone to parts unknown, and that since his departure, he had been and was beyond the process and jurisdiction of this court. The books of the Bank showed the part payment by Lacy, at the time alleged in the replication, the entry being as proved, in the hand-writing of Thornton in the blotter, and posted by him into the ledger. The court below excluded the Bank books and the proofs offered in connection therewith, as being incompetent evidence.to prove the partial payment alleged to have been made by Lacy, and judgment went against the Bank, to reverse which she prosecutes this writ of error.\nIn the case of the State Bank vs. Magness, 6 Eng. 343, the plaintiff replied to the plea of the statute, that in a former action for the same cause, she was non-suit and sued again within the year; and the record offered in support of this replication showed a judgment dismissing the suit, because the plaintiff, being-ruled to file a bond for cost, failed to do so. The court there held that the dismissal was, in effect a non-suit, and within the perview of the saving clause in the statute, and we are satisfied of the correctness of the decision upon the facts of that case. But the opinion there would seem to go to the length of holding, that wherever the plaintiff is not precluded by a decision upon the merits from bringing another action, he comes within the meaning of the exception in the statute for limiting actions, and may bring a new suit within a year.\nIt is universally true, wherever it can be shown, according to the rules of law, that the merits of a suit have not been passed upon or determined, the plaintiff is not estopped by the adjudication, but may have a fresh action. This principle does not determine the plaintiff\u2019s right to suspend or avoid the bar of the statute by suing again within the year, because that would be giving an effect to the term \u201cnon-suit,\u201d not warranted by any adjudged cases, and which the statute could not have contemplated.\nSo, on the other hand, it is true, that in order for a plaintiff to have the benefit of this saving in the statute, it is not necessary that there should be a formal or technical judgment of non-suit. The plaintiff may discontinue as to a part of the defendants, or he may suffer a discontinuance of the action as to all, or he may dismiss, or submit to a dismissal of his suit. But in all such cases, wherever the proceeding of the court is equivalent to a non-suit, for the purpose of extending the time for bringing a fresh action, the idea is, that the plaintiff goes out of court voluntarily, or submits to the order of the court requiring him to do so; and the court does not adjudicate the cause, so that there is no final judgment to which a writ of error will lie, because the party cannot reverse a proceeding which he has sought or acquiesced in.\nIn this State, the non-suit, or a dismissal, or discontinuance, \u25a0 which is equivalent to it, must of necessity, be voluntary. It is settled here\u2014see Martin and Van Horn vs Webb, 5 Ark. 72, ever since adhered to \u2014 that the plaintiff cannot, upon any advice or interposition of the court, be compelled to take a non-suit: but he has the right to insist that the court shall proceed with his cause, and adjudicate it for or against him, and for no other conceivable object than to have final judgment given, to which he may prosecute his writ of error, if he choose to complain of the proceedings.\nIn the case now under consideration, the plaintiff, when her demurrer to the plea in abatement of the writ in the former suit was overruled, had the right to reply to the plea, if she thought proper to test the truth of it, or submitting to the demurrer to have sued out an alias writ, and so kept the same suit continuously on foot\u2014see King vs. The State Bank, at January term, 1853 \u2014 or taken a non-suit, and according to the reason of the statute, a voluntary dismissal of the action would have the same effect, in order to enable her to sue again within the year. But when she elected to rest on her demurrer and proceed no further, and so force the court to render final judgment in favor of the defendants, it was an election on her part not to suffer a non-suit, but to take the chances of a reversal on error. A party thus situated, might not, indeed, prosecute his writ of error, but rather choose to bring a new action, which he could well do, because not precluded by any adjudication upon the merits. But the adjudication in question would not, for that reason, be any the less final, and we could not hold it to be a judgment of non-suit, without, at the same time, holding that a writ of error would lie to a judgment of non-suit. Upon the principle contended for by the plaintiff in error, wherever a plaintiff declines to amend, and final judgment goes upon demurrer sustained to the declaration, he would come within the saving of the statute, as if having suffered a non-suit, because there was no such judgment as precluded another action, if rightly brought for the same cause.\nWe conclude therefore that there is no error in the judgment here, because the replication and the record offered in proof of it, fail to show such a judgment of non-suit as would avoid the bar set up in the plea.\nIt was, moreover, necessary for tbe plaintiff, in order to avoid tbe bar, to couple the payment alleged to have been made by Lacy, with the former suit. Even if the court below erred in rejecting the evidence offered to prove this payment, the judgment would nevertheless, upon the whole record, have to be affirmed. But as to the proof of part payment no substantial difference is perceived between this case and The State Bank vs. Barber et al. 7 Eng. 775, and no good reason is shown why the decision there ought not to he followed.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the Bank :",
+      "A. Fowler and A. Pike, contra."
+    ],
+    "corrections": "",
+    "head_matter": "The State Bank vs. Fowler and Pike.\nThe judgment of the court, rendered on overruling a demurrer to a plea in abatement ; the plaintiff declining to reply to said plea, and electing to rest on her said demurrer, that the defendants go hence, <fcc., aud recover their costs, &c., is a final judgmeut, to which a writ of error will lie, and not a \u201cnon suit,\" within the meaning of the saving clause of the statute of limitations.\nSuch \u201cnon suit,\u201d within the meaning of the statute, need not be a formal or technical judgment of non suit: but the plaintiff must go out of court voluntarily, or submit to the order of the court requiring him to do so.\nAs to the admissibilities of entries in the books of the Bank to prove a part payment in avoidance of the statute bar, the case of The State Bank vs. Barber et al, 7 Eng. 775 approved.\nWrit of Error to Pulaski Circuit Court.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nS. H. Hempstead, for the Bank :\nas to the admissibility of the .evidence, contended, that books kept by persons in public offices, in which they are required to record particular transactions occurring in the course of their public duties and under their personal observation, are admissible in evidence. 1 Grcenl. Ev. 483-484, The Slate vs. Buchanan, Wright R. 233. 4 Rand. 578. 10 J. R. 154. 6 Wend. 655. 5 Wheat. 424; that the State Bank-\u00fas a public institution, and the officer required to enter upon a record all payments made upon any note. Acts,, 1842, sec. 14, p. 81.\nA. Fowler and A. Pike, contra."
+  },
+  "file_name": "0159-01",
+  "first_page_order": 157,
+  "last_page_order": 162
+}

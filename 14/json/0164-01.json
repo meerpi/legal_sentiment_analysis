@@ -1,0 +1,84 @@
+{
+  "id": 1862691,
+  "name": "Yell, Governor, use Covant & Co. vs. Outlaw et al.",
+  "name_abbreviation": "Yell v. Outlaw",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "164",
+  "last_page": "166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Scam. 491",
+      "category": "reporters:state",
+      "reporter": "Scam.",
+      "case_ids": [
+        2474605
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ill/3/0491-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 71",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 234,
+    "char_count": 3079,
+    "ocr_confidence": 0.5,
+    "pagerank": {
+      "raw": 2.344154814072686e-07,
+      "percentile": 0.7924975548767516
+    },
+    "sha256": "7ab8afb264c12e35eb55b363443f015d68e1f8c431d6f01fc9d68781589741d8",
+    "simhash": "1:f8038f071586a876",
+    "word_count": 545
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yell, Governor, use Covant & Co. vs. Outlaw et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe appellant, who was the plaintiff below, moves for leave to dismiss his appeal after the submission of the cause in this court. No recognizance for stay of execution wasentered into in the court below. It follows from the decision in Clay vs. Notrebe, 6 Eng. 336, that the right of appeal given in common law cases* is a cumulative remedy to that by prosecuting a writ of error* both identical in their operation and design for the correction of errors. Reed vs. Latham, 1 Ark. 71, State Bank vs. Conway, at January term, 1853. So, the practice has been to treat the privilege of obtaining an order, allowing an appeal in chancery causes, by application to ,the Supreme Court, or one of the judges, within a year from the rendition of the decree, as cumulative to the right to have an appeal granted in the court below, during the term at which the decree was rendered. So that a party praying an appeal in the court below, but failing to prosecute it, may yet sue error at any time within three years, in a common law case, or obtain an appeal in a chancery cause, when reasonable grounds for its allowance appear, by application within the year to the Supreme Court.\nWhere recognizance has been entered into to stay execution, the appellant or plaintiff in error, dismissing his suit, would subject himself to an affirmance by the opposite party, on production of a transcript, as provided by the statute, or to an action on the recognizance. And where there has been a recognizance* this court, after it has obtained control of the cause, might well refuse to allow a dismissal of it in all cases where, in its discretion, damages ought to be imposed upon affirmance; because if the appeal taken in the court below appear to have been for delay, the appellant will not be allowed to escape the consequen* ces, after having received the benefit of the delay.\nBut giving the statute that construction which would make it most beneficial, where the execution of the judgment has not been suspended or superseded, no reason short of a manifest design to vex and harrass the opposite party, ought .to deprive the appellant, or plaintiff in error, of what we conceive to be his right, to dismiss, at his own costs, his appeal or writ of error; and which he may renew at any time within the period limiting the right to bring error.\nMotion granted.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Thapnall, in support of his motion,"
+    ],
+    "corrections": "",
+    "head_matter": "Yell, Governor, use Covant & Co. vs. Outlaw et al.\nThe plaintiff or appellant, has a right to dismiss his appeal, or writ of errror, at his own costs, where the judgment has not been suspended, or superseded : otherwise, where recognizance has been entered into in the court below, and this court having control of the cause, ought to award damages on affirmance.\nAppeal from Jefferson Circuit Court,\nOn motion to dismiss, the appeal.\nThapnall, in support of his motion,\nreferred to the cases of Martin vs. Lawrence, fyc. 1 John. Gas. 396. Defendc?'ffer vs-. Hughes, 6 H&r. Sf J. 3. Newson\u2019s adrrCr. vs. Douglass, 7 Har. Sy J. 454. Hancock co., vs. Marsh, 2 Scam. 491."
+  },
+  "file_name": "0164-01",
+  "first_page_order": 162,
+  "last_page_order": 164
+}

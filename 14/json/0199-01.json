@@ -1,0 +1,76 @@
+{
+  "id": 1862643,
+  "name": "Mason ad. vs. Howell",
+  "name_abbreviation": "Mason v. Howell",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "199",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "12 Ark. Rep. 764",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 309,
+    "char_count": 5111,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 1.527147862482827e-07,
+      "percentile": 0.6704456514646221
+    },
+    "sha256": "0352a383039253329b30a09341f3df4237df0487b6b1990b502b0a687b5f5b2d",
+    "simhash": "1:eaf30715aaecba18",
+    "word_count": 892
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before the Hon. O. C. Scott, Judge, and Hon. S. H. Hempstead, Special Judge.",
+      "Hon. G. O. Watkins, Chief Justice, and Hon. David Walker, Justice not sitting. \u00bb"
+    ],
+    "parties": [
+      "Mason ad. vs. Howell."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis was an action of debt on a promissory note, due on the 30th of September, 1839. The defendant interposed several pleas, upon which issues were joined, and also that the plaintiff\u2019s cause of action had not accrued within three years next before the commencement of the suit. To this plea the plaintiff replied first, to the effect that his intestate had instituted suit on the note in question, in the Johnson Circuit Court, on the 14th of February, 1840, against the defendant and his co-promissor, John Howell, pending which suit plaintiff departed this life, and at the December term of said court, in the year 1840, his death was suggested, and that such further proceedings were had afterwards in that suit; that at the September term of said court, in the year 1845, it was ordered to be revived, and progress in the name of the plaintiff as administrator, at which term the defendant and said John pleaded to the action, and on the 2d day of September 1846, in that court, the plaintiff recovered judgment in that suit, for the amount of said pote with damages and costs of suit. That said judgment was removed by writ of error to the Supreme Court, where it was adjudged and decided that the judgment of the Johnson Circuit Court was null and void, and that the writ of error be dismissed: whereby the judgment and, proceedings had in the Johnson Circuit Court became, and were arrested; and that the plaintiff, on the 8th of December, 1849, and within one year after such adjudication and decision of the Supreme Court, commenced the present suit against the defendant. The second replication is to the effect that the defendant and his co-promissor, John Howell, were partners in trade, and made the note in question on account of their partnership concerns, and that John Howell, on the first day of March, 1847, and within five years next before the commencement of this suit, made a certain payment to the plaintiff upon the note in question.\nThe facts intended to be set up in the replication are stated so as to give the plaintiff in error the full benefit of them without regard to any defect of form. Upon demurrer sustained to the replications, final judgment went against the plaintiff in error.-\nThe questions of law presented upon this record may be briefly disposed of. The first replication is no avoidance of the bar setup in the plea, because regarding the decision of this court, whatever it was, to be the law of the case, there was no judgment of the Johnson Circuit Court to be arrested or reversed on error; and the plaintiff fails to bring himself within the savings of the 24th section of the statute of limitations. The second replication ie bad, because, according to the repeated decisions of this court, the act of December 14th, 1844, being prospective, does not apply to causes of action accruing prior to its passage, which are-governed by the then existing laws, as to the limitation of actions, which was three years upon promissory notes, so that the part payment alleged to have been made in 1847, did not have the legal effect of extendingthe right of action for five years from that period. But under the decision in Biscoe vs. Jenkins, (5 Eng. R. 108,) another objection is fatal to this replication. The first payment by John Howell having been after the note in suit-was barred, would have the effect to revive the debt as against him, but would not revive it against his co-promissor.\nThe judgment of the court below must be affirmed with costs.\nHon. G. O. Watkins, Chief Justice, and Hon. David Walker, Justice not sitting. \u00bb",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "F. W. & P. Trapnall, for the plaintiff,",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Mason ad. vs. Howell.\nA replication to the plea of the statute of limitations, that the plaintiff instituted suit against the defendant, and recovered judgment which was decided by this court, on writ of error, to be null and void, whereby the judgment was arrested, and a new suit within a year, is insufficient to avoid the statute.\nA part payment of a note due prior to 14th Deceniber, 1844, made subsequent to that date does not extend the period of limitation to five years; nor will such part payment by one promissor, after the period of limitation, revive the cause of action against his co-promissor, as held in Biscoe vs. Jenkins, 5 Eng. 108.\nWrit of Error to the Circuit Court of Yell county.\nThe Hoq. Wm. H. Feild, Circuit Judge, presiding,\nF. W. & P. Trapnall, for the plaintiff,\ncited sec. 24, ch. 99 Dig., as to the sufficiency of the replications.\nFowler, contra.\nThe first replication to the plea of the statute of limitations is bad: because if the judgment therein stated was valid, it defeated the suit; and the plaintiff could not have a second judgment on the note; if void, the plaintiff had not instituted any suit, and brought himself within the saving clauses of the statute.\nThe second replication was equally untenable, because Howell\u2019s partner could not bind him by a part payment after the statute had fully run \u2014 the bar completely attached. 12 Ark. Rep. 764. ib. 782.\nBefore the Hon. O. C. Scott, Judge, and Hon. S. H. Hempstead, Special Judge."
+  },
+  "file_name": "0199-01",
+  "first_page_order": 197,
+  "last_page_order": 200
+}

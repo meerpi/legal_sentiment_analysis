@@ -1,0 +1,66 @@
+{
+  "id": 1862680,
+  "name": "Rector vs. Danley",
+  "name_abbreviation": "Rector v. Danley",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "304",
+  "last_page": "309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 405,
+    "char_count": 8281,
+    "ocr_confidence": 0.506,
+    "pagerank": {
+      "raw": 2.1098036335522176e-07,
+      "percentile": 0.7629767218088777
+    },
+    "sha256": "dff8646c0f3eebc3facf67a6d823ada9bba3004d3c42808d5cef16166a10366a",
+    "simhash": "1:9fbf4f85aacc12c6",
+    "word_count": 1472
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rector vs. Danley."
+    ],
+    "opinions": [
+      {
+        "text": "Mr .Justice Scott\ndelivered the opinion of the Court.\nAccording to a settled doctrine often heretofore applied in this court, the decision made when this cause was here before, is the law of the case, (5 Eng. R. 211,) and consequently nothing determined can be now reviewed.\nThe evidence excluded, both as to the supposed void judgment and the process of execution thereof, and that going to show that the appellee was present at the sale of the negro in question, was properly excluded in conformity with the decision heretofore made in this cause, (ib. 211,) whatever doubt the court might now entertain as to either of these propositions. And even if we could go behind that decision, and were now to hold that the supposed estoppel could have been as well set up in the court below on the law as upon the chancery side thereof, the appellant could not be considered as having been injured by the exclusion of the latter evidence, because it falls short of showing such a state of facts as would amount to the supposed estoppel. Had the excluded evidence been admitted, all 'the evidence in the entire record tending to the point in question, so far from going to establish clearly, when considered together, such facts and circumstances as would have authorized the jury to presume that the purchaser was led into the purchase by reason of the presence of the real owner, aware of his rights, and by his silence or his other acts, or conduct; it conduces to show, with perhaps equal clearness, that he would not have been deterred from the purchase by any thing that the appellee could have said on the occasion.\nWe think the instructions given were obnoxious, only to verbal criticism, if any, which could not possibly have affected injuriously the interest of the appellant. Certainly the supposed excessive generosity of the first instruction as to the possession of the son, by means of the possession of the father, is fully enough qualified by the words, \u201cso long as they live together,\u201d which follow, when considered in reference to evidence before the jury. And the fourth instruction, although broad enough in its terms to include all purchases and sales of personal property, whether made by private or judicial sale, although exceptional in some cases that might be conceived, could not possibly have mislead the jury in this case, where the contest is about a purchase and sale by judicial process in a cause, where the principle caveat erwptor had been already adjudicated as applicable. (ib. p. 227.)\nWe think therefore, that there was no error either in the exclusion of the evidence excepted to, nor any error, even unsubstantial, that could have possibly affected injuriously the appellant\u2019s cause either in the instructions given or in those refused. And finding the verdict and judgment sustained by the evidence the judgment must be affirmed.\nCASES ARGUED AND DETERMINED IN THE SUPREME COURT OF ARKANSAS, AT THE JANUARY TERM, A. D. 1854,",
+        "type": "majority",
+        "author": "Mr .Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellant.",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Rector vs. Danley.\nIt is a settled doctrine that the decision made by this court in a cause is the law of the case and will not be reviewed, if the cause be again brought up, whatever .doubts this court might then entertain.\nIn case of a sale of property by the father to the son, possession is in the son without formal delivery; and the after possession of the father is the possession of \u2022 the son so long as they live together.\n.In case of a gift by father to son, if the father sends the son for the property and .the son brings it home; or if the father calls up persons and declares that he gave the property, then present, to the son, and the parties designed these acts to perfect the gift, it is a sufficient delivery.\nWhere there is either a gift or sale of property, by a father to his son, no acts or declarations of the father, subsequent to the sale or gift, could in any way affect the son\u2019s rights, and no such acts would have any force, or be evidence at all in a suit respecting the title to\"such property.\nAppeal from Pulaski Circuit Court.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nThis cause was before this court at the July term, 1849, (5 Eng. 211,) on writ of error, at the instance of the present appellee, when the judgment was reversed, and the cause remanded for further proceedings. Upon the trial in the Circuit Court, the same testimony was presented to the jury, as in the former trial, except that in relation to the judgment on the delivery bond, and the execution and returns thereon; and also that in relation to the presence of the plaintiff at the sale of the property; which was, on motion of the plaintiff, excluded. The defendant excepted to the ruling of the court excluding the testimony.\nThe plaintiff asked four instructions, which were given to the jury, against the objection of the defendant.\n1st. That upon the evidence given in this cause, if the jury believe it, they are warranted in finding either a sale by his father to the plaintiff, or a gift thereof; and if the jury believe it to be a sale, the possession in said (negro) passed to the plaintiff by the sale, without any formal delivery, and ever after the possession of the father was the possession of the plaintiff so long as they lived together; and in all cases where father and son, or other persons live and carry on business as one family, the possession of the property is in the real owner, although the property may be wholly or partially controlled at all times by another member of the family, and in this case, valuable services rendered by plaintiff for his father, if the jury believe they were rendered, was sufficient consideration to support such sale. And if the jury believe from the evidence that the transaction, in regard to the negro in controversy, between plaintiff and his father, was designed to be, op was in fact a gift, which may be made and is valid, whether there be any consideration for it or not, the sending by his father of plaintiff after the negro, and plaintiff\u2019s bringing home the negro, if the jury believe these facts occurred, was a sufficient delivery of the negro to make the gift perfect, if the parties at the time designed it as such, or if the jury believe that after the negro arrived at Danley\u2019s he called up persons and declared he gave the negro to plaintiff, and that was designed to perfect the gift, that was sufficient delivery to perfect the gift, and the possession of the father ever after was, and would continue to be the possession of plaintiff as above stated.\n2. That the excluded testimony was not evidence before the jury.\n3d. That in all cases the party purchasing personal property or slaves must, at his peril, ascertain if the title be good, and if it is not he must be the loser and not the real owner.\n4th. That if the jury believe from the evidence that either a sale or gift was made of the negro at the time spoken of by the witnesses, no subsequent acts or declarations of Col. James Danley could in any way affect plaintiff\u2019s rights, and no such acts would have any force or be evidence at all in the cause.\nThe defendant then asked four instructions; the first two were given, the third as asked is as follows:\nThat to constitute a valid parol gift of personal property from a father to a son, actual delivery of possession to the donee is necessary, and the gift must be irrevocable by the donor, and the title be divested out of the donor and vested in the donee, and unless the jury are satisfied from the evidence, beyond a reasona\u2022\u00bb ble doubt, that there was such delivery of the boy, Henry, to the plaintiff; and that the plaintiff claimed and exercised ownership over the said boy, Henry, as his own, the jury on the trial of this case must find for the defendant.\nThe court refused to give the instruction as asked, but modified it by striking out the words in italics, and then gave the instruction as changed.\nThe 4th instruction asked by defendant was based upon testimony excluded by the court.\nThe defendant excepted to the giving of the instructions asked by the plaintiff, to the refusal to give his third and fourth, and to the modification or amendment of his third instruction; and the verdict and judgment being against him he appealed to this court.\nPike & Cummins, for the appellant.\nFowler, contra."
+  },
+  "file_name": "0304-01",
+  "first_page_order": 304,
+  "last_page_order": 309
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1862738,
+  "name": "Bolinger vs. Fowler et al.",
+  "name_abbreviation": "Bolinger v. Fowler",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "27",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 27"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 5090,
+    "ocr_confidence": 0.476,
+    "pagerank": {
+      "raw": 1.445054179686733e-07,
+      "percentile": 0.6539512535286807
+    },
+    "sha256": "4b3dd5d53ef9eac48e0034e68895aa85a511c7a33583fb330eaf8c63ef20bc52",
+    "simhash": "1:80b98f850412ab4c",
+    "word_count": 911
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bolinger vs. Fowler et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis was a scire facias issued the 30th day of April 1850, to revive a judgment, which, according to the recital of the writ, was rendered in the Pulaski Circuit Court, in favor of the plaintiff, against the defendant, on the 25th day of October, 1835. The defendant, Lee, pleaded nul tiel record and payment upon which issues were joined. The defendant, Fowler, pleaded in abatement; first: that at the time of suing out the writ of scire facias, there was no such person in being as the plaintiff, Bolinger: second, that the scire facias was issued more than ten years after the rendition of the judgment, without any leave of the court being obtained for its issuance: third, that it was so issued without any previous motion in court, supported by affidavit that the judgment still remained unsatisfied. A demurrer being sustained to the plea in abatement, no further defence was interposed by Fowler. Upon the trial of the issue on the plea of nul tiel record interposed by the defendant, Lee, the court rejected the record offered in evidence by the plaintiff, to prove the recovery recited in the writ; and the record so offered is set out in the bill of exceptions taken by the plaintiff.\nThe court below having rejected the evidence, we are bound to presume in favor of the correctness of its decision, until the plaintiff in error will show to this court the particular wherein the court below erred. We cannot know what record of the original recovery may have remained in the court below, except so far as the bill of exceptions has made it a part of the record sent here. The only evidence appearing in the bill of exceptions, is what purports to be the record entry of a judgment entered nunc pro tunc, as of a previous term in favor of Bolinger v. Fowler and Lee, as his security in appeal, but no other proceedings are shown, nor does it appear in what court, or at what time the judgment was rendered. Conceding every thing in favor of the jurisdiction of the court rendering the judgment sought to be revived, both as-to the subject matter and the parties, the omission to produce a record of a recovery corresponding in date with the judgment, as recited in the scire facias, amounted to such a variance as would authorize the court below to reject the evidenced\nAlthough if there be a judgment against two or more, no good reason can be perceived, why the plaintiff may not bring his action of debt, upon the judgment against any one of them separately, yet it seems the statutory proceeding to revive and continue the lien by scire facias, must be against all jointly, Greer vs. The State Bank, 5 Eng. 456, unless one of the defendants be dead, Finn vs. Crabtree, 7 Eng. 597. But being sued jointly, whether in any ordinary action, or by scire facias is immaterial, if the defence be such as necessarily enures to the benefit of both defendants. So that, when Lee had 'judgment in his favor, upon the plea of nul tiel record, both defendants must have been discharged from the action.\nThe last two pleas of the defendant, Fowler, were demurrable according to Alexander vs. Steele, at January Term 1853; but the matter set up in his first plea was sufficient to abate the writ. See 1 Chitty Plead. 448, and cases cited. Any objection to the plea because not sworn to, was only available on motion to strike out or disregard it. If the facts be well pleaded, the office of a demurrer, which admits them to be true, is to question their legal sufficiency.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "F. W. & P. Trapnall, for the plaintiff.",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Bolinger vs. Fowler et al.\nOn the trial of mil tiel record to a scire facias, to revive a judgment where the court rejects the record offered in evidence by the plaintiff to prove the recovery recited in the writ, this court will presume in favor of the correctness of the decision, until the plaintiff in error will show to it the particular wherein the court below erred.\nThis court cannot know what record of the original recovery may have remained in the court below, except so far as the bill of exceptions may make it a part of the record sent here.\nThe omission of the plaintiff to produce a record of recovery, corresponding in date with the judgment recited in the scire facias, amounts to such a variance as would authorize the court below to reject the evidence.\nUnder our statute, a scire facias to revive and continue the lien of a judgment must be issued against all of the defendants jointly, if all are living; and a-judgment in favor of one defendant on the plea of nul tiel record enures to the benefit of, and discharges the others.\nAlexander vs. Steele, 13 Arle., cited and approved.\nWhere a scire facias issues against two defendants to a judgment, a plea in abatement, by one of them, that the other was not in existence when the writ issued, is good.\nThe want of an affidavit to a plea in abatement, is not ground of demurrer, but the objection should be raised by motion to strike out or disregard the plea.\nWrit of Error to Pulaski Circuit Court.\nF. W. & P. Trapnall, for the plaintiff.\nFowler, contra."
+  },
+  "file_name": "0027-01",
+  "first_page_order": 27,
+  "last_page_order": 29
+}

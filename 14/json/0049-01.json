@@ -1,0 +1,62 @@
+{
+  "id": 1862692,
+  "name": "Sullivan ad. vs. Deadman",
+  "name_abbreviation": "Sullivan v. Deadman",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "49",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 49"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 108,
+    "char_count": 1336,
+    "ocr_confidence": 0.485,
+    "sha256": "f0187206d78b68ade8d11c72172845aa23d950a81e7ba92d6c18a6a0f39cfc81",
+    "simhash": "1:471519d960cd9390",
+    "word_count": 232
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sullivan ad. vs. Deadman."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the court.\nThe administrator appealed to the Circuit Court, from a judgment of allowance in the Arkansas Probate Court, upon a claim exhibited by the appellee against the estate. The Circuit Court, on motion of the appellee, dismissed the appeal because the appellant had filed no bond for the costs of such appeal. From that decision the administrator has appealed to this court.\nNo bond for costs is required on appeals from the Probate to the Circuit Courts. The 3d section of the act of January 4th, 1849, applies only to appeals from the county courts, as decided in Biscoe vs. Madden, 7 Eng. 765, overruling the case of Morrow vs. Walker, 5 Eng. 569;\nThe judgment will be reversed and the cause remanded with instructions to proceed therein according to law.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellant,",
+      "S. H. Hempstead, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "Sullivan ad. vs. Deadman.\nNo bond for costs is required on appeals from the Probate to the Circuit Courts: tho 3d sec. of the act of January 4th, 1849, applying to appeals from the county , courts, as decided in Biscoe vs. Maiden, 7 Eng. 765, overruling Morrow vs. Walker, 5 Eng. 569.\nAppeal from Arkansas Circuit Court-.\nThe Hon. J. C. Muueay Circuit Judge presiding.\nPike & Cummins, for the appellant,\nreferred to Biscoe et al. vs'. Madden ad., 7 Eng:\nS. H. Hempstead, contra,\nrelied on Morrow vs. Walker, 5 Eng. 569."
+  },
+  "file_name": "0049-01",
+  "first_page_order": 49,
+  "last_page_order": 49
+}

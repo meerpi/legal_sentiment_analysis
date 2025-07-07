@@ -1,0 +1,87 @@
+{
+  "id": 1862658,
+  "name": "Phillips, et al. vs. Wills, Pease & Co.",
+  "name_abbreviation": "Phillips v. Wills, Pease & Co.",
+  "decision_date": "1852-07",
+  "docket_number": "",
+  "first_page": "595",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 595"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 How. 64",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Ark. 505",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "608"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 346,
+    "char_count": 4754,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 7.743849575483131e-07,
+      "percentile": 0.9718450766820769
+    },
+    "sha256": "57911712fb044359a613216d3f04b995b160115f20ab2005e13335426fec7b14",
+    "simhash": "1:fbe288c344a7c0a9",
+    "word_count": 857
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., did not sit."
+    ],
+    "parties": [
+      "Phillips, et al. vs. Wills, Pease & Co."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis writ of error was sued out by the plaintiffs in error, to a judgment obtained against them in the Clark Circuit Court, after execution had been issued and levied upon their property, and they, together with others, as securities, executed a forthcoming bond, and the same had been forfeited, and so returned by the sheriff, and the return term had elapsed, as appears by the dates set out. These facts were set up by plea, to which a demurrer was interposed, and the question is thus presented, whether the plaintiffs in error can now maintain their writ of error to the original judgment.\nThe constitutionality of the forthcoming law act was considered and determined in the case of Reardon, Ex parte, 4 Eng. R. 450. Its unconstitutionality was again urged in the case of Ruddell vs. McGruder, (6 Eng. R. 584), and the point again ruled as in the former case, with the additional intimation that, after the lapse of the term, to which the forthcoming bond was returnable, the obligors of the bond could find relief only in a court of equity. Afterwards, in the case of Whiting & Slark vs. Beebe, et al. 7 Eng. R. 548, it was held, that after the forfeiture of the bond the levy was discharged and the former judgment was satisfied. And to the same effect are the cases of Wright vs. Yell, et al. 13 Ark. 505, and Jamison vs. May, id. 608. And in the case of The Trustees of the Real Estate Bank vs. Sandefur, ad. et al. decided during the present term, where many of the cases decided in Kentucky, Vix*ginia, Mississippi and the Federal Court, as well as our own, are reviewed, it is shown that the statutory judgment is considered as having the qualities, force, effect and dignity of a judgment, obtained in the ordinaiy mode of proceeding according to the course of the common law, in a court of competent jurisdiction, and as such may be revived by scire facias, and, in another State, is within the act of Congress of 1790, and can no more be impeached collaterally than any other judgment, (Kelly vs. Lambs, 7 B. Monroe, p. 223.) And these cases sustain the decision of this court in the case of Kelly et al. vs. Garvin, Carson & Co., (7 Eng. R. at p. 621), where it is held that \u201cthe statutory judgment is an extinguishment of the first judgment upon the principle that a party cannot have more than one judgment for the same subject matter at the same time.\u201d\nThese consequences resulting from the voluntary act of the defendant in the execution executing the forthcoming bond under the provisions of the statute, it is no more unreasonable that he should thereby be cut off from any further remedy in a court of law, and be driven to a court of equity exclusively for relief, as against any other judgment at law, than making an injunction operate as a release of errors at law.\nWe think the matters set up in the plea sufficient, and therefore the writ of error must be quashed.\nWatkins, C. J., did not sit.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the demurrer,",
+      "Watkins & Curran, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Phillips, et al. vs. Wills, Pease & Co.\nThe defendants pleaded in bar of the writ of error, that execution had issued upon, the judgment, which was levied on property anil a forthcoming or deliveiy bond given and forfeited and so returned by the sheriff:. Held, that a writ of error 'would not lie to the original judgment.\nError to Clark Circuit Court.\nThe defendants filed a plea in bar to the writ of error; to which the plaintiffs demurred. The demurrer was argued and submitted at the July term, 1852.\nPike & Cummins, for the demurrer,\ncontended, 1st. That the decisions in 4 Eng. 450, 6 Eng. 578, to the effect that a delivery bond forfeited and returned is a judgment, are radically wrong to the extent of being wholly unwarranted by the constitution. 2d. That the delivery bond and constructive statutory judgment on it are mere incidents to the original judgment and must stand -or fall with it. As if the original judgment were absolutely void, the delivery bond and constructive judgment must of necessity be so (Pile, et al. Ex parte, 4 Eng. 336.) That the defendant is \u25a0entitled to prosecute his writ of error in all cases, except where \u2022he releases error by a direct act or by obtaining an injunction\u2014 \u25a0even where the judgment is satisfied by payment.\nWatkins & Curran, contra.\nThe statutory judgment on the \u2022forfeiture and return of a delivery bond, is not a payment of the original judgment, but a merger and extinguishment of it \u2014 such .judgment ceases to exist, and there is none to which a writ of error can lie. Stewart vs. Faqua, Walker 195. Connell vs. Lewis, ib. 251. Sampson vs. Breed, ib. 267. Reeves vs. Bainham, 3 How. \u00a1\u00a1(Miss.) R. 25, 60. Davis vs. Dixon, 1 How. 64. 4 How. ,9. 6 ib. 5it. Chilton vs. Cox, 7 S. Sf M. 791. 4 ib. 549. 8 S. Sf M. 518."
+  },
+  "file_name": "0595-01",
+  "first_page_order": 595,
+  "last_page_order": 597
+}

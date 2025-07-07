@@ -1,0 +1,79 @@
+{
+  "id": 1862657,
+  "name": "McMorrin ad. &c. vs. Overholt",
+  "name_abbreviation": "McMorrin v. Overholt",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "244",
+  "last_page": "246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. Rep. 705",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727935
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/5/0705-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 263,
+    "char_count": 3787,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 8.964289400144273e-08,
+      "percentile": 0.5021922127506275
+    },
+    "sha256": "deed2beada89a10ccdb8e51b1683d30275a77d6f71f55807f447a2533022c9fb",
+    "simhash": "1:10a7634c6c44c780",
+    "word_count": 667
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McMorrin ad. &c. vs. Overholt."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nAt the July term, 1847, of the Probate Court of Pulaski county, the following proceedings appear to have been had : \u201c On this day the claim of W. R. Overholt, against the estate of B. J. McHenry, deceased, amounting to the sum of $235 62, allowed by the administratrix, and filed herein for classification, on the 1 st day of July, 1847. was taken up, and upon examination thereof, it is ordered by the court that said claim be placed in class number four.\u201d\nAt the January term, 1851, of the same court, Overholt filed his petition, praying that McMorrin, who had, in the meantime, become administrator de \u00edonis non, should show cause why he should not pay said claim, so allowed and classed. In response to a rule against him, that went out accordingly, McMorrin appeared and set up by way of resistance to the application of Overholt for an order of payment', first, that the claim had never been legally allowed by the former administrator, as the record purported: and secondly, that at the time of the death of the intestate, Overholt was indebted to him for divers sums of money specified, and for boarding, &c., and introduced testimony on both points, against the objection of Overhojt, The Probate Court, however, made the order of payment for a pro-rata amount in favor of Overholt, and McMorrin filed his bill of exceptions and appealed to the Circuit Court, where the doings of the Probate Court were affirmed, and taking his bill of exceptions there also, he appealed to this court.\nWe have thus stated so much of the mass of matters contained in the transcript (much of which has little or no relation to the order of payment, which alone is questioned by the exceptions taken), as to show distinctly the points of law involved.\nWe think the action of the Circuit Court was clearly right. The allowance and classification of the claim in question, whether right or wrong, had become so fixed by the action of the Probate .Court, that all inquiry as to either was closed after , the expiration of the term at which it was had, otherwise than by a direct proceeding for reversal (Dooley et al. vs. Watkins, 5 Ark. R. 705. Cossitt vs. Biscoe, 7 Eng. R. 95. Borden et al. vs. State, use &c., 6 Eng. R. 519). The application for an order of payment was substantially an application for process of execution, to which the alleged matter of set-off was no answer. Payment of the claim allowed and classed was not pretended.\nThere is no error in the record.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the appellant,",
+      "Pike & Cummins, for the appellee,"
+    ],
+    "corrections": "",
+    "head_matter": "McMorrin ad. &c. vs. Overholt.\nThe allowance and classification, by the Probate Court of a claim against the estate of a deceased person, are conclusive after the expiration of the term : and upon, a rule against the administrator, d. b. n., to show cause why he should not pay a claim so allowed and classed, he will not he permitted to question the allowance, or plead as set off an account due from the creditor to his intestate,\nAppeal from the Circuit Court of Pulaski county.\nThe Hon'. W. H! Feild, Circuit Judge, presiding!\nS. H. Hempstead, for the appellant,\ncontended that the claim was not legally allowed, that the trust confided to the representative of a deceased person is a personal trust and cannot be performed by an attorney or agent, and therefore, there w\u2019as no legal allowance of the claim. That the court should have allowed a credit for the account of McHenry against Overholt.\nPike & Cummins, for the appellee,\nsubmitted that the classification and allowance of a claim by the Probate Court, is a judgment of that court, cannot be reviewed after the term elapses, could only be set aside in chancery, and in this case is conclusive. Dooley et al. vs. Watkins ad. 5 Ark. Rep. 705. Borden etal. vs. State use. fyc., 6 Eng. 519."
+  },
+  "file_name": "0244-01",
+  "first_page_order": 244,
+  "last_page_order": 246
+}

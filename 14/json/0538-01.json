@@ -1,0 +1,109 @@
+{
+  "id": 1862686,
+  "name": "Cossart vs. The State",
+  "name_abbreviation": "Cossart v. State",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "538",
+  "last_page": "542",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 538"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Watts, 431",
+      "category": "reporters:state",
+      "reporter": "Watts",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Bibb, 598",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6689590
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/4/0598-01"
+      ]
+    },
+    {
+      "cite": "4 John. 317",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2001777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/4/0317-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 307",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/13/0307-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 504,
+    "char_count": 8433,
+    "ocr_confidence": 0.561,
+    "pagerank": {
+      "raw": 1.844477666323673e-07,
+      "percentile": 0.7226288096333029
+    },
+    "sha256": "cb939c708e856f795ca5aa2dae20f2476a4b1334c03c16ba6aefc78e262bcd81",
+    "simhash": "1:ca38e9f0dd67dc19",
+    "word_count": 1445
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cossart vs. The State."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins,\ndelivered the opinion of the Court.-\n\u2022 Pending the trial of a criminal prosecution in the Clark Circuit Court, the present appellant, Cossart, being introduced and sworn as a witness on the part of the State, refused to answer a certain question propounded to him, relative to the issue in the case then progressing; for the reason, as he stated to the court, that his answer thereto would criminate himself and subject him to an indictment. The court directed Cossart to answer the question, and upon his refusal to do so, adjudged him in contempt and ordered that he be fined in the sum of one dollar; for which, together with the costs of that proceeding, judgment was rendered in favor of the State. Cossart took a bill of exceptions, and prayed an appeal to this court, which was granted.\nThe question thus sought to be presented for the adjudication of this court, is no doubt the same decided in the case of The State vs. Quarles, 13 Ark. 307, sustaining the .constitutionality of the statute, which enacts that, where two or more persons are concerned in the commission of any crime or misdemeanor, either of them may be sworn as a witness in relation to the same, but the testimony given by such witness, shall in no instance be used against him in any criminal prosecution for the same of-fence; and on the supposition that it devolved upon the proposed witness to represent, as part of the reason assigned for his refusal, that his answer to the question might tend to criminate himself or subject him to a prosecution for some other offence or criminal act, distinct from the one for which the prosecution was-pending, and to which the question related, we might not hesitate to hold, in accordance with that decision, that the provision of the constitution to the effect that, in all criminal prosecutions,, the accused shall not be compelled to give evidence against himself, was designed for the protection of the-accused, not as immunity for crime; and to tbe extent that the statute referred to could, afford such protection to a witness, it was no invasion of his right to be exempt from self accusation touching the same crime or misdemeanor about which he is called to testify. However delicate the duty of enforcing that statute may sometimes be, where the compulsory evidence would relate to a capital of-fence, or a lesser grade of.'felony, not yet barred, as against the witness, by limitation of time, we might, if a proper case were presented on this record, be again required to express the opinion that the law may be so cautiously administered as to sub-serve the ends of public justice, without violating, the spirit of the constitution.\nBut the enquiry is, whether a person, who may think himself aggrieved by a proceeding against him in the inferior court for contempt, can obtain any redress in this court, by appeal or writ of error. As uniformly held, the appeal provided for by statute in common law and criminal cases, is cumulative to the remedy by writ of error, and the rules governing them are the same; so that unless a writ of error will lie to an order punishing as for contempt, there would be no authority for entertaining an appeal in such a case. We do not propose to go into any elaborate examination of this subject. We are persuaded that the statute, Digest, Title, Ckimistal Pkoceedings, sec. 225, et seq. allowing appeals and writs of error in criminal cases, applies to prosecutions by indictment or presentment, and was not designed to. extend, nor does it in terms, to summary convictions for contempt of court, which, though in the nature of criminal proceedings, are not public prosecutions for any criminal charge, which an accused can only be put to answer by indictment, presentment or' impeachment, and for the trial of which a jury may be demanded. The power of punishing summarily and upon its own motion contempts offered to its dignity and lawful authority, is one inherent in every court of judicature. The offence is against the court itself; and if the tribunal have no power to punish in such case, in order to protect itself against insult, it becomes contemptible, and powerless also in fulfilment of its important and responsible duties for the public good. It is no argument that the power is arbitrary, though indeed settled by precedents or' limited by them as rules for the future guidance of the courts. While experience proves that the discretion, however arbitrary,, has never been liable to any serious abuse, it would be a sufficient answer to say that the power is a necessary one and must-be lodged somewhere. And it is properly confided to the tribunal against whose authority or dignity the offence is committed. One court ought not, indeed cannot undertake to judge of a contempt committed against another court. In a great variety of instances the demeanor punished as contemptuous, if examinable elsewhere, might become intangible or inappreciable. If a contumacious witness, juror, party litigant, or counsel, be entitled to an appeal or writ of error, he could also claim the full benefit of a supersedeas or stay of execution of the sentence, by complying with the statute in such cases, and thereby effectually check the machinery of the court in its operation, and frustrate-the wholesome administration of the law. The statutory regulation of the writ of habeas corpus, Digest, ch. 81, Art. 3, sec. 6, and the statute itself; ib. ch. 36, which would seem to limit, while it purports to confer the power of punishing for contempts, are inconsistent with the idea that the hand of the court may be stayed' in the act of exercising its authority, and the pending question of contempt between the court and the party concerned, adjourned on appeal or error into another forum. At the common law no writ of error lay in such case; nor would a prisoner for contempt be released on habeas corpus, by a different court. Ld. Mayor of London\u2019s case, 3 Wilson 188. Ex parte, Kearney, 7 Wheaton, 38. Ex parte, Tobias Watkins, 7 Peters, 568. Yate\u2019s case, 4 John. 317. And the decisions in the United States are to the same effect, that there can be no appeal or writ of error. Johnson vs. The Commonwealth, 1 Bibb, 598. The State vs. Tipton, 1 Blackford, 166. See also The State vs. Woodfin, 5 Iredell, 199. Martin\u2019s case, 5 Yerger 546. In Hummell\u2019s case, 5 Watts, 431, the court intimated that, by reason of its superintending jurisdiction, it would revise the proceedings of inferior courts in contempt cases by certiorari. In Bickley vs. The Commonwealth, 2 J. J. Marshall, 572, the court, not intending as they said, to disturb the authority of the opinion of Ch. J. Bibb, in Johnston\u2019s case, yet departed from it by reversing upon a writ of error, a sentence of imprisonment for contempt, because the inferior court had exceeded its authority. And while concurring in the result of the case of Neil vs. The State, 4 Eng. 259, where the sentence of the Circuit Court striking an attorney from the roll for six months, for an out door charge against the judge personally and not officially, the attorney disclaiming any insult or contempt to the court, was set aside on error, it is sufficient to say of it on this point, that the question, whether such was the proper mode of seeking redress, does not appear to have been raised or considered. Though by not indicating what remedies would be available, in the variety of cases where it might be alleged that the inferior court, in punishing for contempt, had exceeded its lawful authority or jurisdiction, it is not to be understood that in such cases there can be no remedy; yet we are clear in the opinion that according to existing law, there is none by writ of error or appeal.\nJudgment dismissing the appeal.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins,"
+      }
+    ],
+    "attorneys": [
+      "Teapnall, for the appellant.",
+      "Attorney General Clenbenin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Cossart vs. The State.\nThe Statute, Digest, Title, Oriminai, Proceedings, sec. 235, et seq. allowing appeals and writs of error in criminal cases, applies to prosecutions by indictment pr presentment, and was not designed to extend, nor does it in terips, to summary convictions for contempt of court.\n\u25a0Whatever may be the remedy, where the inferior court, in punishing for contempts, shall exceed its lawful authority or jurisdiction, there is none according to existing law, by writ of error or appeal.\nAppeal f> om Clark Circuit Court.\nThe Hon. Shelton Watson, Circuit Judge, presiding.'\nTeapnall, for the appellant.\nAttorney General Clenbenin, contra."
+  },
+  "file_name": "0538-01",
+  "first_page_order": 538,
+  "last_page_order": 542
+}

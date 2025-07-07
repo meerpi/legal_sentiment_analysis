@@ -1,0 +1,160 @@
+{
+  "id": 1862732,
+  "name": "Levy vs. Drew",
+  "name_abbreviation": "Levy v. Drew",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "334",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 334"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Wend. Rep. 308",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Pet. 46",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Tenn. Rep. 168",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Ark. 511",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Ark. 462",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727706
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/7/0462-01"
+      ]
+    },
+    {
+      "cite": "11 Ark. Rep. 510",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "year": 1839,
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Mass. 131",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2073745
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/13/0109-01"
+      ]
+    },
+    {
+      "cite": "2 Caines Rep. 368",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "case_ids": [
+        6694274,
+        6694287
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cai/2/0367-01",
+        "/cai/2/0368-01"
+      ]
+    },
+    {
+      "cite": "3 Cow. 662",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2158013
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cow/3/0662-01"
+      ]
+    },
+    {
+      "cite": "3 Wend. 75",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2144160
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/3/0075-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 369,
+    "char_count": 6063,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 1.294421492303427e-07,
+      "percentile": 0.6206695834390344
+    },
+    "sha256": "04abf8dec1351d91c09aa837d93f8c9ad648bb71436581884e782f684f453fbe",
+    "simhash": "1:2916c869f80c9de4",
+    "word_count": 1097
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Levy vs. Drew."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins,\ndelivered the opinion of the Court.\nThe appellant sued the appellee as endorser of a promissory note past due. The endorsement was made on the 1st of February, 1851. All the parties, maker, payee, and endorsee, resided at Little Rock, but at the date of the endorsement the maker was temporarily absent in Kentucky, from whence he returned home some time between the 10th aud 25th of the same month. Conceding every fact in favor of the endorsee, which the evidence conduced to prove, it would appear that on the 26th of February he presented the note to the maker and demanded payment of it, which was refused, of which, on the same day he notified the endorser in person, and that he looked to him for payment. The two in company then called upon the maker, who made a partial payment on the note to the endorsee, who now seeks to recover of the endorser the residue remaining unpaid.\nVarious points are argued upon the instructions given and refused in the court below, only one of which is material to be considered, as upon that, the judgment in favor of the endorser will have to be affirmed.\nAccording to the existing law of this State, the endorsee or assignee of this note had choice of two courses to pursue. If he designed to charge the endorser, as of commercial paper, according to the law merchant, he was bound to make presentment and demand of payment from the maker, and give notice of non-payment to the endorser, according to the rules of the law merchant. Or neglecting that course, he might, after prosecuting with due diligence a fruitless suit against the maker, have had recourse against his assignor, according to the law concerning assignments, as heretofore understood and practiced in this State.\nIn Jones vs. Robinson, 6 Eng. 504, it was recognized and settled in this court, that according to the law merchant the endorsement of a note past due, was equivalent to the drawing of a new bill by the endorser upon the maker in favor of the endorsee, payable on demand. That, in order to charge the endorser in such .case, payment must be demanded of the maker within a reasonable time after the endorsement, and due notice of his refusal .given to the endorser. And that what would be a reasonable time, though depending to some extent on the situation of the parties, and the circumstances of each case, is always a question of law for the court, according as the facts might be proven or admitted.\nOur opinion is that if the rights and liabilities of parties to negotiable paper are sought to be ascertained and fixed according to the law merchant, new to some extent, and not generally practiced in this State, its rules, so far as applicable to our system of law, ought, for the best interests of all whom they may concern, to be adopted, as they are understood according to the most approved authorities and steadily adhered tol\nIn this case the endorsement having the effect of a bill payable on demand, no days of grace were allowed. As the parties all resided in the same town where the endorsements were made, the endorsee was bound to make presentment and demand payment of the maker, in person, or at his usual place of business, or at his residence, on the day of the endorsement, or on the day following, and to give notice of non-payment to the endorser on the day of the presentment, or on the next succeeding day. The temporary absence of the maker did not excuse presentment at his place of business or abode. As the undertaking of the endorser was conditional that he would pay if the maker did not, upon presentment in due season, and upon his being duly notified of the maker\u2019s default, it devolved on the endorsee to prove that he had used the diligence required of him, or such facts, if they existed, as would by law dispense with it.\nWithout undertaking to lay down any rule of universal application, as to what constitutes reasonable diligence, it suffices here to say that the delay of the holder for 25 days, without any attempt to make presentment, or give notice of non-payment, where the parties resided in the same place, amounted to such negligence as would discharge the endorser.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins,"
+      }
+    ],
+    "attorneys": [
+      "Jordan, for the appellant.",
+      "Fowler, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Levy vs. Drew.\nWhere a note past due is assigned, and the parties all reside in the same town, the delay of the assignee for twenty-five days after the assignment, to demand payment and give notice to the assignor of non-payment, is such negligence according to the law merchant, as will discharge the assignor.\nThe absence of the maker at the time of assignment, will not excuse the assignee for failure to make demand. Such demand must in such caso, be made at the Usual place of business or at the abode of the maker of the note.\nAppeal from Pulaski Circuit Court.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nJordan, for the appellant.\nWhere a note is assigned after due the general rule as to the time of presentment for payment is that it must be presented within a reasonable time. Ch. on Bills, 379, note 1. Jones vs. Robinson, 6 Eng. 510. Mims vs. The Central Bank of Georgia, 2 Ala. R. 294.\nThat the demand in this case was made within a reasonable time. Viceland vs. Hyde, 2 Hall\u2019s Rep. 429. VanHoosen vs. Van Alstyn, 3 Wend. 75. Chit, on Bills, 379. Bank of Utica vs. Smedes, 3 Cow. 662. 7 J. R. 70. 2 Caines Rep. 368. 20 J. R. 146. 13 Mass. 131,\nFowler, contra.\nAs the maker of the note was absent at the time of the assignment; demand of payment should have been made at his residence (Chit, on Bills, (9 Am. Ed. of 1839, from 8 London ed.) 388, 389, 398, 400, 401. 5 Cond. Rep. 701. 7 N. Hamp. 200), and within a reasonable time (Jones vs. Robinson, 11 Ark. Rep. 510. Ch. on Bills, 9 (Am. ed. of 1839), 410, 412, 413. Ruddell et al. vs. Walker,7 Ark. 462), which is a question of law. 11 Ark. 511. Ch. on Bills, 412. 1 Tenn. Rep. 168. 9 Pet. 46.) And such demand ought to have been made the very next day after the endorsement and notice of non-payment given to the endorser. Ch. on Bills, 413,414,415, 416, 418. Mohawk Bank vs. Brodrick, 10 Wend. Rep. 308."
+  },
+  "file_name": "0334-01",
+  "first_page_order": 334,
+  "last_page_order": 337
+}

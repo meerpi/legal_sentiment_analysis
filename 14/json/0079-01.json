@@ -1,0 +1,187 @@
+{
+  "id": 1862647,
+  "name": "Phelan ad. vs. Dalson",
+  "name_abbreviation": "Phelan v. Dalson",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "79",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 79"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 83",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ark. 86",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Wend. 207",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wend. 33",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Hill 340",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "13 Wend, 101",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015656
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/13/0101-01"
+      ]
+    },
+    {
+      "cite": "2 John. 455",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6775530
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/johns/2/0455-01"
+      ]
+    },
+    {
+      "cite": "10 Wheat. 333",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434771
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/23/0333-01"
+      ]
+    },
+    {
+      "cite": "5 Conn. 71",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12121512
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/5/0071-01"
+      ]
+    },
+    {
+      "cite": "3 Wheat. 390",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "16 Mass. 147",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2035310
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/16/0123-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 564",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Conn. Rep. 523",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753656
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/8/0523-01"
+      ]
+    },
+    {
+      "cite": "1 Hill 306",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 510,
+    "char_count": 8455,
+    "ocr_confidence": 0.502,
+    "pagerank": {
+      "raw": 2.6874055121471544e-07,
+      "percentile": 0.8272042115196677
+    },
+    "sha256": "ab1afa06323609219f9201bf2663cfea90086592ca6e88a37a6f8f16f7f9fb39",
+    "simhash": "1:e0d3612dbcf284e7",
+    "word_count": 1486
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Phelan ad. vs. Dalson."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott\ndelivered the opinion of the Court.\nThis was action of replevin in the detinet. There was but one count, and in this it was alleged in the usual form, that the defendant had received the plaintiff\u2019s horse, and although often requested had not delivered him, but unlawfully detained him. It was commenced against Malay in his lifetime, who having been afterwards killed by Dalson, his administrator, Phelan, interposed three pleas: first, non detinet', and in the other two, setting up property and the right of possession in deceased, Malay. Upon these pleas issues were joined, and submitted to a jury, who found for Dalson, and judgment was rendered accordingly. A new trial was moved on the part of the administrator, upon the ground of alleged exclusion of competent testimony and of misdirection of the jury. This motion was refused and the cause was brought here by appeal upon a bill of exceptions.\nFrom this, it appears that the line of defence relied upon and attempted to be established, was that the unqualified ownership in the horse in question, of the deceased Malay in his lifetime, was in no degree affected by the alleged purchase of Dalson; because that originated in fraud, and was consummated by the felonious act of knowingly paying the purchase money in counterfeit gold coin. To this end, the administrator, after proving by a witness, that in February, 1852, Dalson came to the house of the deceased and offered him ninety dollars in gold for the horse; that he then left the house of the deceased, taking the horse along with him, accompanied by the deceased; that the deceased returned home after a short time, and forthwith handed over to the witness ninety dollars in gold pieces, which the witness then understood from the deceased, that he had received from Dalson in payment for the horse, then offered to prove by the same witness the following additional facts : That the deceased, Malay, had no other money in his house at that time : that he owed two debts in the neighborhood, one of fifty dollars and the other of forty-five dollars ; that about that time he paid these two debts with five dollar gold pieces : that the persons to whom these two several payments were made, ascertained that the gold pieces paid over to them by Malay were counterfeit gold coin, and immediately returned them to Malay, then in life: that soon'after these facts transpired, Dalson left the country, and took with him the horse in question: that he was pursued and arrested on a charge of passing feloniously, ninety dollars of counterfeit gold coin on the deceased, Malay, was brought back to the county where the alleged offence was committed, and there, after an examination by a competent court, was required to enter into a recognizance for his appearance before the Circuit Court of that county to answer that charge: that immediately afterwards Dalsonkilled Malay; and that certain eighteen pieces of counterfeit five dollar gold coin, then ready to be produced to the jury, were the same that had been paid over by Malay to the two persons before mentioned, to whom he owed the debts respectively. But the Circuit Court refused to permit any of these facts to be proven to the jury, because, as is stated in the bill of exceptions, \u201c that there was no proof nor offer on the part of the defendant to prove that the gold pieces alleged to be counterfeit, were the same paid by Dalson to the deceased.\u201d\nIt is true, that in this offer to produce testimony to the jury there was no offer to produce direct proof to establish the alleged fact that the counterfeit gold coin produced, were the same that were paid over by Dalson to Malay for the pui\u2019chase money of the horse, but there was certainly an offer to prove a chain of facts and circumstances from which, although a conclusion to this effect would not necessarily follow, it might have been arrived at by the jury within their just province. Even in criminal cases of the highest grade, that kind of circumstantial evidence, classed by the elementary writers as uncertain, is admissible. But in such cases, \u201cbecause of the more serious and irreparable nature of the consequences of a wrong decision, the jurors are required to be satisfied beyond any reasonable doubt of the guilt of the accused, or it is their duty to acquit him; the charge not being proved by that higher degree of evidence which the law demands. In civil cases it is sufficient if the evidence on the whole agrees with and supports the hypothesis which it is adduced to prove; but in criminal cases it must exclude every other hypothesis, but that of the guilt of the party. In both cases a verdict may be well founded on circumstances alone; and these often lead to a conclusion far more satisfactory than direct evidence can produce. (1 Greenl. Ev., 3 Ed. sec. 13, p. 74.\nThe court below therefore erred in refusing to permit proof of the facts, and circumstances offered to be shown in evidence. Of their relevancy there could be no question, as it is clear that where property has been, obtained from the owner by a felonious act, his unqualified ownership is not in the least changed, and he may peaceably take it, in whose hands soever he may find it. (Long on Sales, page 166, 7, 8, and cases there cited.\nThe ruling of the court in reference to instructions to the jury was substantially correct. But for the error touching the exclusion of evidence, the judgment must be reversed and the cause remanded to be proceeded with.",
+        "type": "majority",
+        "author": "Mr. Justice Scott"
+      }
+    ],
+    "attorneys": [
+      "Walker & Green, for the appellant.",
+      "S. H. Hempstead, also for also appellant."
+    ],
+    "corrections": "",
+    "head_matter": "Phelan ad. vs. Dalson.\nWhere property is obtained by one person from another by a felonious act, as by a purchase with counterfeit coin, the right of property does not pass, and the owner may recover bach the property.\nThe fraud in the purchase may be proven by a chain of circumstances tending to establish the fact, as well as by direct testimony; and it is erroneous for the court to exclude from the jury evidence of circumstances conducing to prove such fraud.\nAppeal from, Washington Circuit Court.\nHon! A. B. Greenwood, Circuit Judge, presiding!\nWalker & Green, for the appellant.\nWhere a sale and delivery have been induced by fraud, all that passes between the parties is null, and notwithstanding an actual delivery, the vendor .in the eye of the law, retains not merely the right of property, but a constructive possession of the goods delivered. (Ash vs. Putnam, 1 Hill 306, Cary vs. Hotailing, ib. 311.)\nSo, in this case, where the payment was made in counterfeit money: which fact might well have been proved by circumstantial evidence. The court has nothing to do with the quantity or measure of proo\u00ed. As the evidence offered tended to form the issue and was relevant, the court erred in excluding it., {Bartlett vs. Evarts, 8 Conn. Rep. 523, 1 Stark, on Ev. 507, Cow. S\u00a1Hill\u2019s notes, vol. 2 p. 434.\nThe court erred in instructing the jury, that proof of demand and refusal \u00bfwas unnecessary. Beebe vs. He Baun,3 Ark. 564:\nThe plaintiff in replevin in the detinet must show that the detention was unlawful at the time he sued out the writ. Baker vs'. Pales, 16 Mass. 147. 15 ib. 359. Mackinley vs'. McGregor, 3 Wheat. 390. 3 Serg. <\u00a7\u25a0 Rawle, 561! 6 Eng. 249.\nS. H. Hempstead, also for also appellant.\nA payment in forged notes or base coin, does not extinguish an antecedent demand, or become available for any purpose. And such payment does not change or affect the right of property. Eagle Bank vs. Smith, 5 Conn. 71. 10 Wheat. 333. Maride vs. Hatfield, 2 John. 455. 13 Wend, 101. 6 Hill 340.\nWhere property has been obtained from the owner by piracy, robbery, theft, trespass or fraud, it does not change the right of property, and he may take it, in whose hands soever he may \u2022find it. Long on Sales, 166, 167, 168, and cited cited.\nThe defendant had a right to prove either directly or by circumstances, that the money paid for the horse was counterfeit, and therefore no payment at all; and the force and effect of the circumstances offered to prove such fact, should have been left to the jury. 1 Phil. Ev. 156. 4 Eng. 392.\nPossession of a chattel carries with it the presumption of ownership, and Malay being in possession, Dalson could only recover by establishing a paramount right. 12 Wend. 33. 21 Wend. 207. 4= Ark. 101. 5 Ark. 86.\nIn actions of replevin for the detention of property, a demand before suit must be averred and proved. (Pirani vs. Barden, 5 Ark. 83. Beebe vs. He Baun, 2 Eng. 565. 2 Saund. 47: 1 Ch. PI. 180."
+  },
+  "file_name": "0079-01",
+  "first_page_order": 79,
+  "last_page_order": 83
+}

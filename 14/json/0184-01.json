@@ -1,0 +1,61 @@
+{
+  "id": 1862687,
+  "name": "Jordan vs. Hart",
+  "name_abbreviation": "Jordan v. Hart",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "184",
+  "last_page": "185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 145,
+    "char_count": 1869,
+    "ocr_confidence": 0.503,
+    "sha256": "4e8e4e14e179e426d0cab5a43574e661fd89ff20877453ab99e6a24a59d7f7dc",
+    "simhash": "1:c9ead5e7dd8ecd1e",
+    "word_count": 328
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jordan vs. Hart."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe declaration in this case was demurred to solely upon the ground that it was not entitled as in any court; and the Circuit Court sustained the demurrer. This is the only question of error presented.\nIt is true, that in the commencement of the declaration, neither the court nor the term of the court at which the writ is to be made returnable, is set forth. The declaration gives the venue,. \u201cThe State of Arkansas and county of Clark,\u201d and then proceeds to the statement of the cause of action.' It cannot be a matter of importance with us to look into the reasons for entitling the declaration as of a particular term, or day of the term, as but few of them are applicable to our practice. Here the plaintiff is required by statute, to file his declaration or statement in writing in the-clerk\u2019s office of the county, in which he institutes his suit; and the-clerk of the Circuit Court thereupon issues his writ, returnable-to the first day of the next succeeding term of the court, unless such declaration be filed within fifteen days of the first term, and\u00a1 then it is returnable to the second term of the said court; so that there is at best, but little necessity for a formal entitling of the declaration. The objection is extremely technical, and at most could only, be cause of special demurrer, which is disallowed by statute.\nThe Circuit Court therefore erred in sustaining the demurred to the plaintiff\u2019s declaration; and for this error the judgment must be reversed and the cause remanded for further proceedings to be had therein according to law..",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "P. Jordan."
+    ],
+    "corrections": "",
+    "head_matter": "Jordan vs. Hart.\nThe omission to entitle a declaration of any court or term is not cause of demurrer under the practice in this State.\nWrit of Error to the Circuit Court of Clark county.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nP. Jordan."
+  },
+  "file_name": "0184-01",
+  "first_page_order": 182,
+  "last_page_order": 183
+}

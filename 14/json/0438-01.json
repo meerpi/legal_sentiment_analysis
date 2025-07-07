@@ -1,0 +1,85 @@
+{
+  "id": 1862620,
+  "name": "Gracie vs. Robinson",
+  "name_abbreviation": "Gracie v. Robinson",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "438",
+  "last_page": "442",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 438"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Munf 239",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        6719195
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/17/0687-01"
+      ]
+    },
+    {
+      "cite": "11 Wend. 25",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 435,
+    "char_count": 8020,
+    "ocr_confidence": 0.49,
+    "pagerank": {
+      "raw": 5.36780670512147e-08,
+      "percentile": 0.3367248438036349
+    },
+    "sha256": "bb95add441053e4af357b8f83bdbab64362ef040a1eda6aa1c75f98b4fd8c50e",
+    "simhash": "1:3ff0f4ad354d94c0",
+    "word_count": 1409
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gracie vs. Robinson."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe defendant gave to the plaintiff a receipt in the following words:\n\u201c This is to certify that I hold in my possession 4 beef steei\u20193, belonging to Mr. Pierce B. Gracie, that he bought of Bill. Hodge and one cow and calf, this Oct. 11th, 1848.\nN. E. ROBINSON.\u201d\nThe account filed before the justice of the peace on the 27th of June, 1851, upon which this suit was instituted, is as follows :\n\u201cNewton E. Robinson,\nTo Pierce B. Gracie, Dr.\n1848. Oct. 11, To 4 head of beef cattle, $50 00\n\u201c \u201c \u201c one cow and calf, 10 00\n$60 00\nThe defendant had judgment on the trial before the justice from which the plaintiff appealed, and the cause being tried de novo in the Circuit Court, the defendant again had judgment in his favor. It appears from the plaintiff\u2019s bill of exceptions, taken to the overruling of his motion for new tidal, that the plaintifi\u2019introduced a witness, who testified that in December, 1850, he on behalf of the plaintiff demanded of the defendant the cattle in question, who did not deliver the same or any part of them. He also proved by another witness the value of beef cattle and of a cow and calf, in October 1848, and in December 1850. This was the entire case made for the plaintiff. *\nThis gist of the complaint was for a conversion of the cattle by the defendant. Waiving any enquiry whether the evidence stated be sufficient to establish a conversion; and conceding that, waiving any question whether, inasmuch as it did not appear that the defendant had sold, or in any manner received the proceeds of the cattle, so as to make him chargeable fbr money on account, the proper remedy of the plaintiff was not by action of trover, the jurisdiction of which appropriately belonged to the Circuit Court \u2014 the evidence for the defendant, drawn out on cross-examination of the plaintiff\u2019s witnesses concerning what passed between him and the defendant at the time of the demand, conduced to establish the following facts: That the cattle according to the custom of the country, were running in the range in the low lands of the Ouachita river, near which the defendant lived, and it was not designed that they should be kept up in any enclosure. That the defendant took charge of the cattle for the accommodation of the plaintiff, and as a mere friendly act to secure them \u25a0to him, so that Hod:;e could not dispose of them; that after defendant gave the receipt, there came an overflow of the Ouachita \u2022river, which drowned and washed off a great many cattle, and the defendant lost some of his own cattle in the overflow at that time: that there was\u00b0one of the beef cattle then in the range, and which he offered to go with the witness and hunt up if he would wait, but defendant did not offer to hunt up or deliver any of the \u25a0other cattle.\nBoth of the witnesses testified, of their own knowledge, to the fact of the overflow, and the destruction of cattle caused by it, and that many drowned carcasses were found near where the \u25a0 defendant lived : so that it is fair to presume that both verdicts were in accordance with the substantial justice of the case, and \u25a0ought not to be disturbed.\nBut the objection was taken and reserved by the plaintiff, to \u25a0the proof of any statements or declarations made by the defendant at the time of the demand, and all of which after their introduction he again moved to exclude. Certainly there was some \u2022o/ the conversation between the defendant and the witness, consisting of neighborhood chat, not necessary to be detailed, that was irrelevant. The plaintiff insists that the defendant could not, for any purpose, make evidence for himself by proof of his own \u2022declarations, and the defendant claims the benefit of all that was done and said between him and the witness at the time of the \u2022demand.\nIn actions on the case against a bailee for negligence, the bur-then of the proof of negligence is upon the plaintiff, and if the defendant gets the benefit of his own declaration it is under the rule, that if a plaintiff calls for a part, the defendant is entitled to have the whole of any one conversation. Bat whenever as is usually the case in trover, it is necessary to prove a previous demand and refusal, in order to fix the liability of the defendant, the burthen of proof devolves on him to account satisfactorily for the property if lost or he have it not ready to surrender. We apprehend that in such cases, and wherever a demand is necessary, all that passed at the time relative to the matter and what the defendant said by way of excuse, being part of the res gestae attending the demand, is evidence for as well as against him, and is admissible on cross-examination, through the jury, or court sitting as one, might well believe part and reject part, according to their judgment of its credibility, or according as any portion of the defendant\u2019s statement might be inconsistent with other evidence in the cause. Where a bailee, called upon to produce the chattel, undertakes to account for its loss or destruction, the admissibility of his statement by way of excuse, would depend upon the character of the bailment and the nature of his liability. No such statement of his would be admissible, unless it would also be competent by way of excuse, if proved aliunde. Without undertaking to distinguish between negligence and gross negligence, where tne bailment is without reward and for the accommodation of the bailor, the statements of the bailee, excusing.his failure or qualifying his refusal to surrender the chattel, where the object of the demand is to charge him with a tortious conversion, though by no means conclusive, are yet admissible in his favor, by reason of the trust and confidence implied in this species of contract. So the acts and declarations of a gratuitous bailee, cotemporaneous with the loss of the thing bailed, are always competent to exhonorate him from the imputation of fraud.\nIn this case the defendant had the right to draw out on cross-examination of the witness proving the demand, what was said in response to it; the general objection made in advance to any evidence of the kind was not well taken, and as some portion of it was admissible, the motion to exclude the whole was without discrimination was properly overruled.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Joman, for the appellant.",
+      "Flanagin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Gracie vs. Robinson.\nIn a suit against a bailee, without reward and for the accommodation of a bailor, it is competent for the defendant to draw out, on cross-examination of a witness .proving a demand what was said in response to it, as part of the res yestce attending the demand.\nThe statements of the bailee, excusing his failure or qualifying his refusal, to surrender the chattel, when the object of the demand is to charge him with a tortious conversion, though by no means conclusive, are yet admissible, in his favor,,by reason of the trust and confluence implied in this species of bailment.\nA judgment will not be reversed for error in overruling a general motion to exclude the testimony of a witness, without discrimination, where some portions of it are admissible. i\nAppeal from Montgomery Circuit Court.\nThe Hon. Shelton Watson, Circuit Judge, presiding.\nJoman, for the appellant.\nThe court erred in admitting the declarations of the defendant when the notice was served on him; for a bailee is not competent to prove by his own testimony that the loss was not by his neglect or carelessness. Ch. on Con. 471, note 2. Story on Bail. (2 Ed.) 417.\nIf on demand, a bailee without hire, omits to deliver a packet entrusted to him, he is answerable unless he can show its loss without fault or negligence on his part. 11 Wend. 25. 7 N. Hamp. 157. 3 Munf 239.\nUpon demand made the defendant was bound to deliver the property, or prove its loss without his fault. 1 Stark. Ev. 419. 2 Kent. Com. 580.\nFlanagin, contra.\nThe declarations of the defendant, when the demand was made, were admissible as part of th eres gestae \u2014 \u2022 the demand and refusal being essential facts to sustain the action."
+  },
+  "file_name": "0438-01",
+  "first_page_order": 438,
+  "last_page_order": 442
+}

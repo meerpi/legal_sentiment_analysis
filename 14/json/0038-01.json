@@ -1,0 +1,196 @@
+{
+  "id": 1862610,
+  "name": "Fenno vs. Coulter",
+  "name_abbreviation": "Fenno v. Coulter",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "38",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 38"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Dev. 549",
+      "category": "reporters:state",
+      "reporter": "Dev.",
+      "case_ids": [
+        11277090
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nc/15/0549-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 474",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005463
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wend/4/0474-01"
+      ]
+    },
+    {
+      "cite": "4 Scam. 384",
+      "category": "reporters:state",
+      "reporter": "Scam.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cranch. 328",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "case_ids": [
+        639399
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/8/0196-01"
+      ]
+    },
+    {
+      "cite": "9 Pick. 167",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2058494
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/26/0170-01"
+      ]
+    },
+    {
+      "cite": "6 Mon. 110",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 J. J. Marsh. 208",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "case_ids": [
+        8518951
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ky/26/0208-01"
+      ]
+    },
+    {
+      "cite": "2 Bibb, 402",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Wheat. 503",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4699
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/17/0503-01"
+      ]
+    },
+    {
+      "cite": "10 Verm. 346",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        613617
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/vt/10/0346-01"
+      ]
+    },
+    {
+      "cite": "1 Munf 269",
+      "category": "reporters:state",
+      "reporter": "Munf.",
+      "case_ids": [
+        2094050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/15/0107-01"
+      ]
+    },
+    {
+      "cite": "4 Wend. 464",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Hill 228",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 780,
+    "char_count": 18779,
+    "ocr_confidence": 0.494,
+    "pagerank": {
+      "raw": 1.8540918070240353e-07,
+      "percentile": 0.7239485776970008
+    },
+    "sha256": "a92e4912157826e36e54324f4c436db6aadfa96c74a4097e5032baaa3b546205",
+    "simhash": "1:e8ca6bab714294e3",
+    "word_count": 3455
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., not sitting."
+    ],
+    "parties": [
+      "^ Fenno vs. Coulter."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nGeorge C. Watkins, as the assignee of Royster, obtained judgment against James'and Richard Coulter, and sued out execution thereon, which was levied on property of the defendant, but which, for want of time, was not sold. Without having disposed of this levy, the plaintiff sued out an alias ji.fa. which was levied, as appears by the return on the writ, on the west half of the south-west quarter of section twenty-eight, and the south-west quarter of section twenty-nine, all in township two north, range eleven west; which were appraised under the statute and offered for sale, but was not sold, because it failed to bring two-thirds of its appraised value. On the 2d of May, 1843, and after the death of James Coulter, a writ of ven. ex., issued, describing the land directed to be sold, according to the return of the sheriff on the ji. fa. Under, and in obedience to this writ of ven. ex., the sheriff advertised and sold the land therein described, to Fenno, who was the highest bidder, for the price of $357 ; which sum he paid: and thereupon the sheriff executed to Fenno\u2019 a deed, not for the south-west quarter, sec. 29, as described in the levy and writ of ven. ex., but the south-east quarter of said section, which was the property of said Coulter. The complainant claims title as sole heir of Coulter, alleges that the sale was void, but that the deed being of record, tends to cast suspicion on her title, and prays that the deed may be cancelled and given up. It appears from the evidence that the sheriff knew where Coulter lived; but did not know the numbers of the land, and took them from his tax book without going upon the land, or taking any steps to ascertain the land, which in point of fact, belonged to Coulter. The numbers in the tax book, the return on the Ji. fa., the numbers in the ven, ex., and the advertisement, all described it as the south-west quarter. At the sale, the sheriff was informed that he had mistaken the numbers of the land, he replied that he had not time then to examine, but that he was selling the Coulter place. Fenno was present at the time, and must be presumed to have heard what was said.\nFenno contends that in point of fact', the sheriff did levy on the Coulter land, but by mistake, returned a different tract as levied upon. This may, in some instances, be the case, as where the sheriff, after having ascertained and set apart the property of the defendant, by mistake, returns a different tract from that so ascertained; or he may have supposed certain lands tobe the property of the defendant, and returned them as levied upon. In the first instance there would be a levy on the property of the defendant, but a mistake in making the entry on his return. In the second, there would' be an intention to levy on the land of the defendant, but by mistake, a levy on' other lands, not the defendant\u2019s. In the first the mistake would consist in the entry upon the writ; in the second, in having mistaken the property of a third person for that of the defendant.\nOne of the first steps towards a levy is to ascertain andidentify the property of the defendant, so as to distinguish it from other property, and then to estimate in value, what will be sufficient to satisfy the execution. When this is done (where the property is land) the levy is complete, and may be entered on his writ. It is not indispensably necessary to the validity of a levy on land that the sheriff should actually go upon it. He cannot take it into possession. But he must distinguish it as the property of the defendant, and in the exercise of a sound discretion, set apart the property intended to be sold; he may then mistake in making his return of levy upon the writ, but until then, it is no mistake in recording his return, but a mistake as to the land that belonged to the defendant. There can be no mistake in doing what one intends to do. When we seek to ascertain the value of land we must usally go upon it and examine it. But when we seek to ascertain the ownership, we usually look to the record evidence of title : the land is there described most usually in the new States by numbers. We do not mean that it becomes the officer to trace out the title. The validity of the title is not a matter for him to enquire into. It is true that possession may, and frequently does aid in identifying real estate, but a mere possessory title is not subject to sale ; indeed, we do often all derive much benefit in ascertaining the ownership of land by mere possession. In order to convey land, it must be described by its true numbers, or other definite description. The sale does not take place upon the land : it is not exhibited to the purchaser for inspection; he buys it by its description, and takes his deed accordingly. If this was personal property, where possession is'the usual evidence of title, less certainty in description might be required, yet as far as the fact of an actual levy on the identical property of the defendant is concerned, the principle is the same. If a sheriff should levy on one of several horses, in the defendant\u2019s possession, and that levied upon should prove not to be his property, although the sheriff believed, at the time of the levy, that he was levying upon the property of the defendant, and should return accordingly, it could not be said that he levied on the defendant\u2019s property, because he thought it his at the time. The fact that personal property; when levied upon, may be taken into possession by the officer, which is not the case in regard to land, does not affect the question of levy. It is not essential in either case to the validity of the levy, that the property levied upon should be taken into possession. From all the circumstances of this case, we think there was no mistake in making an entry upon the writ of the property levied upon, but a mistake in levying upon the property of a third person as the defendant\u2019s..\nBut even if wrong in this, the south-west quarter, which was not the property of Coulter, was described in the ven. ex., and the sheriff commanded to sell the land therein described. A ven. ex. confers no power upon the officer to levy .upon land, but simply to expose to sale the lands in the writ described. Whiting & Slark vs. Beebe et al. 7 Eng. 556. If the sheriff should be permitted to transcend his authority and power, so far as to sell the south-east quarter, under a writ commanding him to sell the south-west quarter, where will be the limit to his power? Iiow many tracts may he sell ? The same rule which would authorize the sale of an adjoining tract, would justify a sale of one more distant, or any number as well as one. It may be said that the sheriff knew that there was a mistake in the entry of his return, and that the south-east quarter was that, which in fact, was levied upon. Concede it to be true that such was the fact, and the sheriff knew it, shall we say that the sheriff may abandon the command of his writ, and sell olher land, because he knew of his personal knowledge that they were the lands really intended to be sold? But put it on a still stronger ground in his favor, and say the levy on the fi. fa., was correct, and that the mistake was alone in the ven. ex., shall he be permitted to disregard the command of his writ, commanding him to expose certain-lands to sale, and expose other? We think not: and for a still stronger reason he could not, in legal effect, amend a sheriff\u2019s return. This could only be done by leave of court; and .as Coulter died before the writ of ven. ex., issued, an amendment could not have been made, even by the court, until new parties were brought before it. Under this state of case, even admitting the first writ to have been levied, the sale under the ven. ex., of the south-east quarter, was void, for want of power in the officer to sell. But when taken in connection with the fact that there was no levy, no writ authorizing the sale, no advertisement of the property, and the whole proceeding had after a levy had been made, and which remained undischarged, it is rarely that a sale will be found so utterly destitute of authority in the officer to sell. There is no contest between the parties as to the other tract \"sold.\nThe prayer of the complainant is, that the sheriff\u2019s deed, under which Fenno claimed the land, may be canceled and set aside, so far as it purports, or is intended to convey title to the southeast quarter of section 29, and for general relief. We are of opinion that this relief should be granted, but upon terms. It is a maxim, that he who seeks equity must do equity. Under all the circumstances of the case, it would not be right to set aside and vacate a part of the sale to Fenno, without rendering some remuneration to him for the money which he paid to Coulter on a debt which is admitted to be just; and whether the whole amount, or what amount should be refunded, cannot, under the present state of the pleadings, be ascertained, for the amount to which he is entitled must depend on the proportion in value, which the land, which he still holds under his purchase, bears to the whole purchase with interest, against which it is but just that a like account of rents and profits should be taken against Fen-no, if (as appears from the evidence) he has been in possession since his purchase. The complainant has not presented in his bill a state of case which would allow proof upon these points, and we cannot doubt but that before the prayer of the complainant\u2019s bill should be allowed, a just remuneration should be rendered to Fenno for any sum of money he may have, in good faith paid. The complainant was clearly not entitled to the relief sought, until it was shown that the money paid by the defendant for the land, and which had been applied to the liquidation of Coulter\u2019s debt had been paid or tendered.\nAt the calling of the case for hearing, had the complainant asked leave to amend her bill in this respect, it would have been discretionary with the court to have allowed, such amendment or not. No offer to amend was made, and on the state of case presented the' court erred in decreeing that the deed should have been given up, and canceled; but should have decreed against the prayer of the bill.\nWe must therefore set aside the decree, and remand the case to the court below. In doing so a question of practice arises in regard to the instructions to be given to that court when the case is sent back for its farther action. Shall we allow the complainant to amend her bill, so as to allow an account to be taken as to the sum really due to the defendant, and to which he is in good faith equitably entitled, or shall we direct that the suit be dismissed without prejudice to the rights of the parties ? We have, in several instances, pursued the latter course, and as the .facts of this case are materially different from those heretofore presented, we have again looked into the authorities, and upon examination of the cases, which we have heretofore decided, we find that in each of them an amendment would, in effect, have been the institution of a new suit, upon a distinct and independant claim or right. For instance; in Cook vs. Bronaugh, 8 Eng. 188, the bill was for the specific execution of a contract, but it appeared that he might have asserted a claim for professional services, which were the consideration on which the special contract was based. The court refused to send the case back to the coui\u2019t below, with leave to amend, because it would have been no amendment of a cause of action defectively stated, but the substitution of a new and different cause of action. And so, also, in the case of Maulding vs. Scott et al. 8 Eng. 93. The bill set up title in the complainants to slaves, as heirs of the mother, who, it appeared upon the trial, had no title, but that the complainants had title as heirs of the father. The court refused to direct an amendment, because it would not be an amendment of a case defectively stated, but the statement of a new and independent title.\nThe amendment, in the case before us, if allowed, would not be the substitution of a new right or claim, but the amendment of the original right, or claim to relief by an additional averment, so as to entitle her to relief upon her original cause of action.\nWhen the case is sent back to the court below reversed, it stands' just as it di'd before trial, and the action of that court is as full and unrestricted as it was before the case was tried, only so far as our decision and direction may limit and restrain its action. Shall we limit that discretion in this case by directing the dismissal of the case, with leave to file a new bill, or shall we permit an amendment to be made. The facts are now before us, and we may return the case for amendment, trial or dismissal ; or we may return it with discretionary power in the court below, to allow an amendment upon terms. The difference between this case and those heretofore decided, to which we have referred, is that an amendment in this case would, in effect, be a continuation of the old suit. The allegations, as far as they go, the issue and the proofs may stand, and with additional allegations, and proof may entitle the complainant to the specific relief sought. In the cases heretofore decided, it would have been the substitution of a new cause for equitable relief, with which such proofs and pleadings would have no connection, and would have been of no possible use.\nAmendments are allowable in the discretion of the courts, and usually upon terms of costs. If the complainant, as she has the parties and with allegations and proof, which may avail her in the further prosecution of the case, prefers to pay the costs which accrued in the case, up to and including the trial in the court below, and amend her bill, so as to entitle her to the relief sought, we think she should be permitted to do so, or should she decline to do this, that her bill should be dismissed without prejudice.\nLet the decree of the Pulaski Court in Chancery, be set aside and reversed, and the cause remanded to be proceeded with according to law and not inconsistent with this opinion.\nWatkins, C. J., not sitting.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Pike, for the appellant.",
+      "Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "^ Fenno vs. Coulter.\nOne of the first steps towards a levy is to ascertain and identify the property of the defendant; and when this is done the levy is complete as to land, and may be \u00e9ntered on the writ, without the sheriff actually going upon the land.\nWhere a sheriff levies upon a tract ofland, as the property of the defendant in the execution, by its number and description, and it proves not to be the land of the defendant, there is no mistake in making the entry upon the writ of the property levied upon, but a mistake in levying upon property not belonging to the defendant.\nUnder a ven. ex. the only power and authority ef the sheriff, are to sell the lands therein described; and he cannot abandon the command of the writ and sell other lands, though he may know there was a mistake as to the description of the land in the return of the fi. fa.; and if he sells other lands and executes a deed to the purchaser, no title passes under it.\nA sheriff returns a fi. fa. as levied upon two tracts of land; a vend. ex. issues comr manding him to sell the tracts levied on : he sells one of the tracts, and offers the other as the property of the defendant, giving notice that he is selling the land of the defendant in execution; he conveys the latter tract by a different number from that described in the vend. ex. upon a bill by the heir of the defendant to cancel the deed, the court will do so, upon refunding to the purchaser the money actually paid for that tract.\nUpon reversing a decree, this court will not grant leave to the complainant to amend the bill, where he can obtain relief only by such an amendment as would, in effect, be the institution of a new suit upon a distinct and independent claim or right.\nBut such amendment may well be 'allowed where additional allegations and proof, with the proof already taken, would entitle the complainant to relief upon the original cause of action. *\nAppeal from the Circuit Court of Pulaski county in Chancery,\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nPike, for the appellant.\nThe lien was itself a levy on the true tract, and no other levy was necessary. Wood vs. Calvin, 5 Hill 228. And if there be a defective description of the land, or a variance between the return on the execution and the deed, it may be corrected by parol. Jackson vs. Walker, 4 Wend. 464. 1 Munf 269. Mathews vs. Thompson, 3 Hamm. 272. So if there is no return, Gates vs. Gaines, 10 Verm. 346.\nA sheriff\u2019s deed cannot be canceled for mistake in an advertisement, or if there be no advertisement, the purchaser is not bound to look into the regularity of the sheriff\u2019s proceedings. Jackson vs. Walker, 4 Wend. 464. Lessee of Allen vs. Parish, 3 Hamm. 187. Wheaton vs. Sexton, 4 Wheat. 503. 2 Bibb, 402. 3 ib. 217. 8 J. R. 366. 6 Har. Sf John. 182. Kilby vs. Hoggin, 3 J. J. Marsh. 208. 4 Sm. 4* Marsh. 602, Webber vs. Cox, 6 Mon. 110.\nThe mistake in endorsing the levy was amendable, and is still amendable by the deed made under the sale. Smith vs. Hudson, 1 Con. 340. Emerson vs. JJpton, 9 Pick. 167. Dean vs. Coward, Com. R. 386. Spear vs. Sturdivant, 2 Shep. 363.\nThe remedy was not in chancery, but solely and exclusively by an application to the court whence the writ issued: and after the acknowledgment of the deed in open court, there was no remedy at all: such acknowledgment curing the defect, and in fact amending the mistake. Thompson vs. Phillips, Bald. 271. Voorhees vs. The Bank of the United States, 10 Peters, 471. Blaine vs. The Charles Carter, 4 Cranch. 328. Swigart vs. Harder, 4 Scam. 384.\nAnd if the sale were set aside the court should have ordered the money to be refunded with interest, and in default thereof a re-sale of the land.\nCummins, contra.\nIt is well settled that a party can come into equity to relieve his estate from any cloud in respect to the title, or to cancel any deed which might lessen the chances of a sale of the property, even although the deed may be void upon its face, or may be avoided iu an action at law. Hamilton vs. Cummings, 1 J. C. R. 517. Jackson vs. Anderson, 4 Wend. 474.\nA levy upon the specific property and an execution are necessary to render valid a vend, ex.; and a vend. ex. is absolutely necessary to render' valid a sheriff\u2019s sale of lands previously levied, and an advertisement is as necessary as either. See Ch. 67, Dig. secs. 49, 51, 54 fyc. 4 Dev. 549. 1 Walls Serg. 519. Glancey vs. Jones, 4 Ycatcs, 213. Sims vs. Randal, 1 Bre. 226. 4 Blaclif. 228. Ross vs. McCartan, 1 Bre. 507."
+  },
+  "file_name": "0038-01",
+  "first_page_order": 38,
+  "last_page_order": 46
+}

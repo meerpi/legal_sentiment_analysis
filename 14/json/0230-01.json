@@ -1,0 +1,146 @@
+{
+  "id": 1862726,
+  "name": "Moore vs. Burr",
+  "name_abbreviation": "Moore v. Burr",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "230",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Dana 127",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": -1
+    },
+    {
+      "cite": "22 Maine Rep. 127",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 Peters 33",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5615245
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/34/0033-01"
+      ]
+    },
+    {
+      "cite": "2 Wheat. 373",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1444878
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/15/0373-01"
+      ]
+    },
+    {
+      "cite": "5 Cow. Rep. 307",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Ark. 648",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 S. & M. 276",
+      "category": "reporters:state",
+      "reporter": "S. & M.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Peters 33",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5615245
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/34/0033-01"
+      ]
+    },
+    {
+      "cite": "2 Wheat. 373",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1444878
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/15/0373-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 451,
+    "char_count": 8391,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0686520719933865
+    },
+    "sha256": "e27baf40b200e10e5c71c97f1c1408de82742d44870405f078e6b5c9f3580164",
+    "simhash": "1:e4c9e5d9195c480f",
+    "word_count": 1581
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moore vs. Burr."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the court.\nThis was an action upon a protested bill of exchange. The issue upon the plea of non-assumpsit, was submittted to the court sitting as a jury, and as no question of law was raised on the trial, it would seem that the duly ascertained fact in the case isr that the defendant did not undertake or promise as alleged in the declaration. The plaintiff, however, has brought the case here upon exception to the overruling his motion in the court bel.ow for a new trial. The testimony, depositions and exhibits set out in the bill of exceptions, spread over near thirty pages of the record, the whole of which might have been condensed, on a case made for this court, so as to present the single question, argued here for the appellant, into the following statement of facts.\nBurr, a merchant of Batesville, having funds in the hands of Walton & Sheaffe, of New Orleans, drew a bill on them, which they accepted, and which came to the appellant by endorsement. The bill matured on the 17th May, 1846, which being Sunday,, it was duly presented to the acceptors and protested for nonpayment on the 16th. The only proof of notice to the drawer is-that contained in the deposition of the notary, who states, \u201cI ghve notice of such protest to the drawer by a letter addressed to him, bearing date the same day of the protest, and directed to him at Batesville, Arkansas, which letter I deposited in the post office, in the city of New Orleans, on the 18th day of May, 1846, in time to go by the first mail thereafter.\u201d There was no evidence as to the usual'times for departure of the mail. It does not appear at what hour, or whether any mail left New Orleans on Monday, by which the notice might have gone or at what time of that day the notice was deposited in the post office.\nApart from the consideration that this court ought not to presume against the verdict of a jury, or the court sitting as a jury, but rather in favor of it, so far as it might depend on the weight or credibility of testimony, and regarding diligence as a question of law, and giving the appellant the full benefit of the legal questions, by supposing the evidence to be facts stated, the question would be whether the proof comes up to the mark of establishing due diligence.\nAccording to the rule adopted by this court in Davis vs. Hanly, 7 Eng. 645, the holder was not obliged to deposit the notice in the post office on Monday in time to go by the mail of that day, if it went out too early to allow notice to be prepared conveniently within .business hours, but he had until a convenient hour of that day, for putting the notice into the office, and the first regui ar mail thereafter, though it did not go out until the succeeding or some subsequent day, would be the next convenient or practicable mail; and the law would hold this to be sufficient diligence on the part of the holder to charge the drawer. This is in accordance with the opinions of the court, in Lennox vs. Roberts, 2 Wheaton 373, as qualified by the Bank of Alexandria vs. Swann, 9 Peters 33, and with that qualification now generally recognized to be the correct rule, that \u201ca demand of payment should be made upon the last day of grace, and notice of the default of the maker put into the post office, early enough to be sent by the mail of the succeeding day,\u201d unless the mail of the succeeding 'day goes out at an unreasonably early or inconvenient hour.\nBut the burthen of proof being on the plaintiff to show diligence, it follows as a necessary consequence of that rule that it is incumbent on him to prove such facts as will bring himself within it, Downs vs. The Planters Bank, 1 S. & M. 276, else the result would be toleration of a different rule, that the holder or intermediate endorser receiving notice, had all of the succeeding day after protest or receipt of notice within which to deposit notice in the post office, so that it would be sufficient if it went out by the mail of the third day, which as we have seen, is not the rule adopted by this court, nor so far as we are aware, generally recognized, either in England or by the courts of this country.\nDiligence does not depend alone upon the fact of putting the notice in the post office in time to go by the mail of the day succeeding the protest, because, if no mail leaves on that day for the place to which the notice is directed, it would be sufficient to prove that it was deposited in the office on any subsequent day, in time to\u2019 go by the first regular mail which left after the day of the protest. And under the qualified rule before stated and ad hered to by this court, the test of due diligence on the part of the holder is not merely the putting of the notice in the post office on the day succeeding the protest, unless coupled with the further proof that it was deposited in time to go by the mail of that day, if one left during convenient business hours, and if no mail left during those hours, then the presumption would follow, of course, in favor of diligence, that it was in time to go by the next regular mail after that day. But in the absence of any such proof in the power of the holder to make, the presumption would be against the exercise of due diligence unless departing from the rule, we adopt a different one, i.e., that the notice is sufficient if put into the office in time to go by the first mail which leaves on the second day after the protest. The like presumption to be indulged against the party whose duty it was to make out a case in proof, would have warranted the court below in inferring from the statement of the notary that he deposited the notice in the post office in time to go by the first mail that left after Monday, and not the first mail that left on Monday after the hour of putting the notice into the office; but upon the ground on which our decision rests, all such critical construction of his statement becomes unnecessary. The proof is insufficient, because it fails to show directly or by any fair inference that the notice was deposited in the post office in time to go by the first convenient mail, if any, which went out on Monday.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Fowler, for the appellant,",
+      "Fairchild, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Moore vs. Burr.\njin an action by the endorsee against the drawer of a protested bill of exchange, which matured on Sunday the 17th, but was protested for non-payment on Saturday, the 16th of May, and notice of protest deposited in the post-office, in the city of New Orleans, on the 18th day of May, \u201cin time to go by the first mail thereafter: Held, that the burthen of proof of diligence was upon the plaintiff, and that the proof was insufficient, because it failed to show that the notice was deposited -in the post-offiee in time to go by the first convenient mail, if any, which went <ont on the 18th.\nAppeal from the Circuit Court of Independence county.\nThe Hon. B. H. Neely, Circuit Judge, presiding.\nFowler, for the appellant,\ncontended that a fair construction of the testimony of the notary, is that the notice was deposited in time to go by the first mail, after protest; and if it be doubtful \u2022the law will so presume, as it was his duty. 19 J. R. 347. 7\nArk. Rep. 499. 12 ib. 647; and that by any construction which \u25a0can legitimately be put on the language of the notary, he deposited the notice in apt time to fix the drawer\u2019s liability. 12 Ark. 648 to 650. Lenox vs. Roberts, 4 Cond. Rep. 165. Mead vs. Engs, 5 Cow. Rep. 307. Stoiy on Bills, sec. 288. 2 Stark. Ev. (7 Am. Ed.) '222 to 226.\nFairchild, contra.\nThe notice to the drawer should have been put into the post office so as to go by the first mail after the dishonor of the bill; or in time to go by a mail on the day after the protest, unless the only mail of that day went out at an unreasonably early hour. Downs vs. Planter\u2019s Bank, 1 Sm. cj- Mar. 261. Demonds vs. Kirkman, ib. 644. 2 ib. 71, 445. Lenox vs. Roberts, 2 Wheat. 373. 4 Cond. 163. Bank of Alexandria vs. Swann, 9 Peters 33. Dodge vs. Bank of Ky., 2 A. K. Mar. 616. 3 Kent. (6 Ed.) 106, note a. Beckwith vs. Smith, 22 Maine Rep. 127. Davis vs. Iianly 7 Eng. 645.\nIt was for the appellant to prove the fact of diligence, and if no mail went out on the day the notice was deposited, or if deposited in the post office in time to go out by the mail of that day he should have shown it. Triplett vs. Hunt, 3 Dana 127. Beckwith vs. Smith, 22 Maine Rep. 127."
+  },
+  "file_name": "0230-01",
+  "first_page_order": 230,
+  "last_page_order": 234
+}

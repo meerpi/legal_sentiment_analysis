@@ -1,0 +1,66 @@
+{
+  "id": 1862712,
+  "name": "Bunch vs. The State",
+  "name_abbreviation": "Bunch v. State",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "544",
+  "last_page": "544",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 544"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 129,
+    "char_count": 1428,
+    "ocr_confidence": 0.52,
+    "pagerank": {
+      "raw": 4.643594115661138e-08,
+      "percentile": 0.29087062604808234
+    },
+    "sha256": "2295fb929854ffe75df4f45561596675923558d4fbad30d00c71b4701a1d7bce",
+    "simhash": "1:5a727f9aff2e5f34",
+    "word_count": 247
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bunch vs. The State."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe appellant was' attached for contempt in failing to attend \u2022the Desha Circuit Court, when duly summoned as a witness in certain State prosecutions, and which in consequence of his absence were nol. prossed by the attorney for the State; and being interrogated failed to purge himself, to the satisfaction of the court, of the alleged contempt. The court ordered him to be fined in the sum of fifty dollars and to stand committed until the fine and costs be paid, &c. He took a bill of exceptions, prayed an appeal and entered into recognizance before the court below for stay of execution.\nThe disposition manifested by the Circuit Court, to cause to be stated upon the record, fairly and truly, for the protection of the person adjudged to be in contempt, the grounds and reasons for the same, and the substance of which ought to be set forth in the warrant of commitment, is every way commendable. But as held in Cossart vs. The State, at this term, the appeal and supersedeas, if allowable, would virtually set at naught the power \u00f3f a Circuit Court to punish summarily for contempt in any case.\nAppeal dismissed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Joedan, for the appellant.",
+      "Attorney General Clendenin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Bunch vs. The State.\nNo appeal will lie from the judgment of the Circuit Court punishing as for contempt of court, as held in Cossart vs. The State.\nAppeal from, Desha Circuit Court.\nJoedan, for the appellant.\nAttorney General Clendenin, contra."
+  },
+  "file_name": "0544-01",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

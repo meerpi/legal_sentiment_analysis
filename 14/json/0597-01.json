@@ -1,0 +1,62 @@
+{
+  "id": 1862632,
+  "name": "Dougherty vs. McDonald",
+  "name_abbreviation": "Dougherty v. McDonald",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "597",
+  "last_page": "601",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 502,
+    "char_count": 8010,
+    "ocr_confidence": 0.551,
+    "sha256": "18289e9eed55b45b1b69a555f2130d03f6ada9f1b433aed7285ae619a09443e4",
+    "simhash": "1:5e9187fb486de7ab",
+    "word_count": 1365
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dougherty vs. McDonald."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins said,\nThe question presented in this case, is the same as that decided in Hart, et al. vs. Wills, Pease & Co., on a former day of this term. The defendant in error pl'eads in bar of the writ, that before it was sued out, a writ of fieri facias issued upon the judgment complained of as being erroneous, and the execution being levied upon certain goods of the defendants, for the production of which, at the time and place of sale, they had entered into a delivery bond with security, and containing the further condition prescribed by the act of Deccember 16th, 1846, that in case the property, specified in the bond, should not be delivered as provided therein, the bond should have the force and effect of a judgment, on which an execution might be issued against all the obligors therein; that the property not being delivered nor the execution paid, the sheriff had duly returned the execution unsatisfied, together with the delivery bond declared to be forfeited, &c.,'to which plea the plaintiffs in error have demurred.\nIt might be sufficient to say that the decision of the court is in accordance with that made in Hart vs. Wills, Pease & Co., before referred to, overruling the demurrer; but as this is the first opportunity I have had of expressing any opinion of my own on this subject, it seems to be proper that 1 should avail myself of at, though in a very brief manner.\nWhen this question was first raised, I thought there were serious difficulties attending the determination of it, either way. When the act of December 1846 was passed, after several years of uncertainty and litigation, the effect of delivery bonds and the mode of obtaining judgments upon them, where the creditor chose to pursue that course, had come to be settled and understood according to pre-existing statutes; and though doubtless enacted with the earnest intention of strengthening the obligation of contracts by facilitating the remedy for any breach of them, it seemed to me that the various questions, growing out of the proper construction to be given to the amendatory statute, so as to harmonize it with the general law as it stood before, and some of which never could have been anticipated by the framers of the amendment, would unfortunately be productive of renewed litigation. But while those difficulties might have to be anticipated and considered in construing the new law, they would afford no color of license for disregarding its plain provisions, if within the pale of legislative power.\nI am free to say, the doubt in my mind has been whether the statute giving to a forfeited delivery bond the force and effect of a judgment, with all its conclusive and unimpeachable qualities,, was constitutional. Though the decisions of this court, in Reardon, ex parte, 4 Eng. 450, and Ruddell vs. Magruder, 6 ib, 578, sustaining its validity, were imperative upon me, I might still have thought the law constitutional for the only purpose appearing to-be contemplated by it, that is, the summary issuance of execution; and to this end the delivery bond could be likened to a general power of attorney, whereby the obligors authorized the sheriff to take and sell any property belonging to them for the purpose of paying a particular debt. And this would be leaving-out of view the various further questions, that might have to be determined, some of them being whether the statutory judgment on the delivery bond became a lien on the property of the principal and securities, and therefore constructive notice to subsequent incumbrancers and purchasers, thus laying the foundation, for a train of adjudications growing up into a law of property; whether it would be respected under the authentication act of' Congress, when sought to be made the foundation of an action, in another State: whether a writ of error would lie to it, as to the final judgment of a court; whether the same presumptions are to be indulged in its favor, as would be accorded to the judgment of a court of general jurisdiction; and lastly this question, whether it was such a merger or extinguishment, that no writ of error could afterwards lie to the judgment upon which the execution issued.\nAccording to the former delivery bond law, where there was a forfeiture by the non-delivery of the property, the plaintiff, not. choosing to sue out alias execution, might either bring an ordinary action at law upon the bond, or he might obtain a judgment at any time during the return term against the obligors, on summary motion and without notice or process. The power to render a judgment without notice, was for a long time doubted, as being contrary to natural justice. But then the only question was, whether the obligors in the bond might not contract for notice, either as a waiver or an acceptance of it in advance of the suit. Yet whether upon actual or constructive notice, there was, in such cases, the intervention of judicial power; the formality at least of a judicial consideration and sentence.\nAdmitting that a party may well contract for notice of a judgment to be rendered against him by a court of competent jurisdiction, the difficulty here would still be, whether he can contract that his contract shall be a judgment. Because if this be law, the same principle might come to be greatly extended in its application to a variety of cases, whereby judgments would spring into being without the intervention of judicial power. The policy or propriety of constitutional legislation is no official concern of a judge; but regarding the judiciary as an independent and coordinate department of the government, it becomes his duty to maintain its authority and assert its jurisdiction, for wise purposes conferred by the organic law and for the time being entrusted to his keeping. I can understand that, as the conclusive effect of a judgment operates by way of estoppel, the General Assembly might, by legislation, attach the same consequences to a contract voluntarily entered into by the parties to it, though it could hardly be said to be of the same grade of dignity and solemnity; the difference being that in the one case the party is estopped by his own voluntary act, while the suitor at law has the right, with the aid of a court, to conclude his adversary by its judgment, against his will. Yet the received idea, the recognized definition of a judgment has always been that it is the exercise of judicial power. So that, to constitute a judgment, there must not only be a subject matter, about which an adjudication is sought, a plaintiff and defendant, whose rights are to be affected by it, but a judge also, or court through whom the law speaks, and who is authorized to declare its sentence. It was owing to this view that the case of Pickett & Gregg vs. Thruston, 2 Eng. 397, the authority of which is now fully established, may not have been regarded as a safe precedent.\nSincerely desiring to uphold the statute giving to forfeited delivery bonds the force and effect of judgments, I am enabled to yield to the authoritative opinions of my brother judges; but in doing so, feel it incumbent on me to characterize the statute referred to as a dangerous innovation in the law, and one which in principle cannot, consistently with the constitution, be any further extended. Consent being admitted as the sole foundation for these statutory judgments, I concur in the views expressed in The Trustees R. E. Bank vs. Sandefur, during the present term, which treats them as judgments for all purposes. Otherwise the most injurious consequences would follow; indeed, there ought to be no middle ground, if it could be avoided by any reasonable interpretation. And though this be done, many perplexing controversies may be expected to grow out of the statute.\nDemurrer overruled.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins said,"
+      }
+    ],
+    "attorneys": [
+      "Jordan, for the demurrant.",
+      "Pike & Cummins, contra.'"
+    ],
+    "corrections": "",
+    "head_matter": "Dougherty vs. McDonald.\nThe case of Phillips, et al. vs, Wills, Pease & Co., concurred in.\nWrit of Error to Desha Circuit Court'.\nPlea in bar; demurred\nJordan, for the demurrant.\nPike & Cummins, contra.'"
+  },
+  "file_name": "0597-01",
+  "first_page_order": 597,
+  "last_page_order": 601
+}

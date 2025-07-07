@@ -1,0 +1,365 @@
+{
+  "id": 1862681,
+  "name": "Cockrell vs. Warner",
+  "name_abbreviation": "Cockrell v. Warner",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "345",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Paige Rep. 313",
+      "category": "reporters:state",
+      "reporter": "Paige Ch.",
+      "case_ids": [
+        2048411
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/paige-ch/3/0313-01"
+      ]
+    },
+    {
+      "cite": "2 Caines Cas, 59",
+      "category": "reporters:state",
+      "reporter": "Cai. Cas.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cow. 726",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Rand. 188",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "case_ids": [
+        6733222
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/27/0657-01"
+      ]
+    },
+    {
+      "cite": "10 Conn. 121",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753140
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/10/0121-01"
+      ]
+    },
+    {
+      "cite": "2 Phillips 648",
+      "category": "reporters:state",
+      "reporter": "Phillips",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Leigh. 58",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6724678
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/30/0555-01"
+      ]
+    },
+    {
+      "cite": "3 Leigh. 667",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6727048
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/30/0764-01"
+      ]
+    },
+    {
+      "cite": "6 Rand. 657",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Leigh, 490",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6727130
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/29/0405-01"
+      ]
+    },
+    {
+      "cite": "1 Paine 526",
+      "category": "reporters:federal",
+      "reporter": "Paine",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Peters 210",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3305118
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/28/0210-01"
+      ]
+    },
+    {
+      "cite": "9 Wheat. 738",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421282
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/22/0738-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 108",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4715
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/17/0108-01"
+      ]
+    },
+    {
+      "cite": "7 Cranch, 89",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Cranch, 332",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        572775
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/11/0332-01"
+      ]
+    },
+    {
+      "cite": "2 Leigh, 370",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6726475
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/29/0361-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 31",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728276
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/1/0031-01"
+      ]
+    },
+    {
+      "cite": "6 Johns. 596",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 B. Mon. 47",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4442718
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/47/0047-01"
+      ]
+    },
+    {
+      "cite": "1 Dana. 589",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Dana, 484",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "case_ids": [
+        8520132
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/35/0484-01"
+      ]
+    },
+    {
+      "cite": "3 Ark. 312",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Lit. 49",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "case_ids": [
+        4218135
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/15/0049-01"
+      ]
+    },
+    {
+      "cite": "3 J. J. Marsh. 701",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "case_ids": [
+        8523836,
+        8523879
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/26/0701-01",
+        "/ky/26/0701-02"
+      ]
+    },
+    {
+      "cite": "2 J. J. Marsh. 233",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Pick. 231",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2045788
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/39/0231-01"
+      ]
+    },
+    {
+      "cite": "2 Hill, 159",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Cow. 717",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030959
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/4/0717-01"
+      ]
+    },
+    {
+      "cite": "1 Ark. 31",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728276
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/1/0031-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1347,
+    "char_count": 32662,
+    "ocr_confidence": 0.533,
+    "pagerank": {
+      "raw": 2.14852225500269e-07,
+      "percentile": 0.7682237458631758
+    },
+    "sha256": "48dd3a5edca457f1b4b64d58f8ac524aedcc82be5d4d23ad11f7f6c9c89e2095",
+    "simhash": "1:96f0e4fe302bf833",
+    "word_count": 5719
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C, J. did not sit in this cause."
+    ],
+    "parties": [
+      "Cockrell vs. Warner."
+    ],
+    "opinions": [
+      {
+        "text": "Hempstead, Special Judge,\ndelivered the opinion of the Court. . On the 29th of April, 1847, Franklin S. \"Warner filed his bill of complaint against John Cockrell, alleging in substance, that on the 27th of December 1845, the latter purchased from him a large stock of cattle and hogs, and for which he executed to him the following instrument of writing : \u201c On or before the first day of January, 1847, I promise to pay to F. S. Warner, or bearer, thirty-eight bales of cotton, weighing five hundred pounds each, and an average of my crop made on Long Prairie, with ten per cent interest after maturity, for value received. December 27th, 1845. John Cockrell;\u201d that although Cockrell raised, gathered and bailed, on his plantation in Long Prairie, cotton exceeding thirty-eight bales of the above mentioned weight, which had been demanded after the contract matured : yet that he absolutely refused to deliver the cotton or comply with the agreement, and in violation of it shipped nearly all, if not all his cotton to New Orleans, and placed it beyond the reach of Warner, that Cockrell lived in Louisiana, where the bulk of his estate was situated, and which was under paramount liens and incumbrances, that would render any attempt to enforce the agreement in that State fruitless, even if judgment should be obtained; that he then had personal property in Lafayette county, Arkansas, consisting of negroes, cattle and hogs, sufficient to satisfy the demand, but owned no real estate; that he designed removing all his property from Arkansas into Louisiana, as soon as he could do so,conveniently, and before Warner could possibly recover damages for the infraction of the agreement, by means of the ordinary forms of law; that Cockrell, acknowledging the justice of the demand, refused to adjust or pay the same, and intended, before judgment could be obtained, fraudulently to place his property beyond the reach of legal process, and thus defeat the demand, and that from the best information Warner could obtain as to the value of cotton on the 1st of January, 1847, his demand against Cockrell then amounted to 2,337 dollars.\nThe bill prayed that Cockrell might be compelled to perform the agreement specifically, by delivering the thirty-eight- bales of cotton according to the agreement, or make satisfaction for its-non-performance; that an injunction be issued to prevent the removal of his property, and for general relief. The bill was verified by the affidavit of the complainant; an injunction bond given, and a writ of injunction issued according to the prayer of the bill.\nCockrell answered, admitting the purchase of cattle and hogs, but denied recollecting that he gave Warner his obligation for thirty-eight bales of cotton, as alleged in the bill, and stated that he gave an obligation for about 1100 dollars and no more; that he gave 1,000 dollars for the cattle and 100 dollars for the hogs; he admitted that he had more than 38 bales of cotton on his plantation, but denied that Warner demanded the cotton, or any thing else, in discharge of the obligation, and averred that after its maturity, Warner gave him his own time to pay it in; he admitted that he had shipped the cotton, as alleged in the bill, as he insisted he had a right to do; he admitted he resided in Louisiana, that some of his property there was under mortgage; but that he had a large amount of property wholly unencumbered, sufficient to pay at least 50,000 dollars, which, at the filing of the bill was subject to execution; he admitted his design of removing-his property from Arkansas to Louisiana, where he resided, but not before January, 1849; denied any intention of avoiding the payment of the sum really due, or of defrauding Warner out of the debt, and denied generally the fraudulent designs and purposes imputed to him in the bill. The answer was verified by the affidavit of Cockrell, and he made it a cross bill against Warner, propounding interrogatories to be answered, and charging that Warner represented that he had at least 270 head of cattle, and they would probably exceed 300, and that he had exceeding 100 hogs, and confiding in this representation he, Cockrell, made the purchase, but that upon collecting them he found that Warner bad only about 130 head of cattle, and 70 head of hogs; he averred that he had no recollection of giving any such obligation as that alleged in the bill, and made other statements and charges, not material to be noticed; he prayed that Warner might be compelled to fully and directly answer the charges and declarations in his answer, as well as the special interrogatories propounded, \u25a0and that an account be had and taken between them, and that Cockrell should be allowed credit for the deficiency in the cattle and hogs, and for general relief. Warner answered the cross bill, denying its charges and allegations, and the imputed misrepresentation, and in response to the interrogatories, set out the circumstances of the contract, and its breach; that Cockrell really obtained a greater number of cattle and hogs than Warner represented he had, that Cockrell had frequently expressed himself perfectly satisfied with his bargain, and that he well knew that the obligation he had executed was for thirty-eight bales of cotton, and not for money at all; that he was not entitled to any deduction or abatement; that Warner had demanded the cotton \u25a0and required compliance with the agreement, on the part of Cockrell, and had not extended the time of payment, as alleged. This answer was verified by the affidavit of Warner. On the :8th of November, 1848, Warner filed his supplemental bill, setting out all the previous pleadings and proceedings, and stating as new matter, that since the last term of the court he had received information confirmatory of the charge in the original bill, as to the removal of the property of Cockrell from Arkansas, and \u25a0that Warner would lose his demand unless the same should be prevented. A fresh injunction was granted, and several slaves belonging to Cockrell seized by the sheriff, but restored to him \u25a0on bond and security, to abide the decree of the court, and pay any sum that might be decreed against him in the case. A subpoena in chancery was issued on the supplemental bill, and executed on Cockrell personally, the 22d of November, 1848; but he failed to answer.\nThe cause was finally heard on bills, answers, cross bill, answer, replications, and evidence taken, and the court decreed in favor of Warner, to the amount of 2,913 dollars and 33 cents, with ten per cent, interest thereon, from the 3d of May, 1852, until paid, with costs, from which decree Cockrell appealed to this court.\nThe pleadings in the case, are carelessly prepared, and spun out to an unnecessary length, which may, in part, account for the negligent manner with which the proceedings have been conducted. Enough appears however to enable the court to decide the case on the merits, conclusively between the parties, which is de-* sirable in all instances where it is practicable, without doing ipjustice.\nProbably most, if not all the property thus purchased, was, running at large, and so not actually delivered. But by the contract Warner parted with his title and ownership, and Cockrell; acquired them, and from that time exercised control over the property, and appropriated it to his own use at pleasure. The general property, by the sale, vested in Cockrell, and that drew to it the possession.\nFrom the proof it is not entirely clear as to the number Cockrell actually secured, but the preponderance of evidence is, that Warner had between 270 and 300 head of cattle, and 100 head of hogs, not estimating a few pork hogs reserved, and as Cockrell frequently expressed himself satisfied with his bargain, it is a fair inference that he secured the whole, or so near it, as to render the difference trifling and unimportant. The number secured by Cockrell however, would be no evidence of the number-purchased by him, because he might not have been vigilant ip securing or taking them, or used but little if any care in the bun siness, or performed it in an improper manner. This could not be the criterion. But were it otherwise, the result would be the same, because it is in proof that Cockrell was acquainted with the number and quality of the cattle and hogs, and it cannot be seriously questioned, but that he took upon himself the entire risk of obtaining the fruits of his purchase. If he was negligent or inattentive to them, suffered them to go wild for want of proper care, or could pot, or did not collect them all, the loss was his own and he could claim nothing by way of recoupment at the hands of Warner. The stock was at large \u2014 in the range, and it is manifest from the circumstances, that it was what is frequently called a \u201cchancing bargain,\u201d without warranty, and which, in the absence of fraud or misrepresentation, could not entitle the vendor to additional compensation for excess, nor the vendee to any abatement for deficiency. In point of fact however, we are not inclined to believe it was a losing bargain on the part of Cockrell.\nAlthough that seems to have been the prominent idea of the pleader, this was not a proper case for a specific performance, notwithstanding a bill for that purpose may be maintained in many cases of personal chattels, where there could be no adequate compensation in damages at law. 2 Story\u2019s Eq. 708. 3 Atk. 384. Aderly vs. Dixon, 1 Sim. & Stu. 607. Wood vs. Rowcliffe, 3 Hare. 304.\nIf, however, a man contracts for the purchase of a hundred bales of cotton, or boxes of sugar, or bags o\u00ed coffee, of a particular description or quality, or commodities of a like kind, if the contract is not specifically performed, he may generally, with a sum equal to the market price, purchase other commodities of the same kind, description, and quality, and thus attain his object and indemnify himself against loss. 2 Story's Eq. 746.\nThis case falls within that principle, and the authorities against-treating it as a question of specific performance are conclusive..\nThe obligation signed by Cockrell was not of that class payable in money, but dischargeable in property. It was a strict property note, payable in cotton generally, at a specified time, and no demand on the part of Warner was necessary to fix the liability of Cockrell. By its terms the latter assumed upon himself the duty of discharging it in cotton, and a failure to comply entitled the former to recover the value of the commodity on the 1st January, 1847, when it matured. On the proof the court fixed the market value at ten cents, and might, with propriety have given as high as eleven cents per pound, on the principle that, where a party has it in his power to discharge himself from liability by the delivery of property, and fails without a sufficient excuse, the damages should be measured by the highest market value of the property at the time when it should have been delivered, 1 Strange, 505. 3 Cowen, 83. Sedgwick on Damages, 497. On this ground then, Cockrell has no right to complain. The decree is certainly warranted by the pleadings and evidence, and without specially noticing the items of recoupment claimed by Cockrell, it is sufficient 1o observe that he has suffered no injury, of which he can complain, since if every one of them had been allowed, the decree might still be for the amount for which it was rendered. \"\nThe principal question, however, made by the appellant in this court is, that the case should have been dismissed .at the hearing on his motion, for want of jurisdiction, on .the ground that there was an adequate remedy at law, and because .a court of chancery could not decree damages for a breach of contract.\nThe objection as to jurisdiction was not made or reserved by the pleadings, and certainly comes with an ill grace from one who, for years, has been engaged in unsuccessful resistance of .an honest and just demand. If there was a clear, adequate and unembarrassed remedy at law, he should in all fairness, have brought forward and relied on that defence, either by plea, demurrer or answer, and to surprise his adversary with it at the hearing would appear like, if it does not in fact constitute an abuse of justice. It is opposed to that fair dealing, which courts of equity demand at the hands of its suitors. After taking all the chances of a protracted litigation, contesting a cause on the merits, and being at last defeated, to allow him to bring forward that preliminary objection at the hearing bears too close an analogy to taking advantage of one\u2019s own wrong to be encouraged, Ludlow vs. Simond, 2 Caines Cas. Er. 40 & 56; Underhill vs. Van Cortlandt, 2 Johns. Ch. R. 369. Still if the law gives a suitor thus circumstanced that advantage, he must have it without stint, because its.rules are inflexible, and its benefits, like the rains of heaven, shared by the just and the unjust alike.\nNow it is a general rule, that where adefendantby his answer, has put himself on the merits, and not reserved any objection to the jurisdiction of the court, on the ground that there is an adequate remedy at law, he cannot insist on it at the hearing, unless the court is wholly incompetent to grant the relief sought by the bill; as where there would be no cognizance over the subject matter. Hawley vs. Cramer, 4 Cow. 717. Delafield vs. State of Illinois, 2 Hill, 159. Grandin vs. Le Roy, 2 Paige, 519. Livingston vs. Livingston, 4 Johns. Ch. R. 290. Holmes vs. Dole, Clark\u2019s Cha. R. 73. Cable vs. Martin, 1 How. Miss. R. 561. Hunts vs. Clay, Lit. Sel. Cas. 26. And in Meux vs. Anthony, 6 Eng. 423, in this court, a similar principle was decided, in which it w'as held too that a defendant in chancery, by a reservation of his objection to the jurisdiction, in his answer, might have the same benefit thereof, as if he had adopted the more concise mode of defence, by pleading or demurring; and that must be considered as settled law here, 2 Daniell\u2019s Ch. R. 819.\nThe question then narrows itself down to this inquiry, was the court wholly incompetent to grant relief in the case; or, in other words, did the pleadings and proof develope no subject matter over which the court had jurisdiction.\nAs a general proposition it is certainly true that a court of equity is not competent to afford redress by way of compensation, or damages, for a mere breach of contract, where the remedy at law is plain, adequate, and complete, and where no peculiar equity intervenes; and the authorities cited by the counsel of the appellant are decisive on that point. Such was the case of Dugan vs. Cureton, 1 Ark. 31. In that case, however, it was intimated that if a recovery at law could not be obtained, or made available in consequence of insolvency, the court would have jurisdiction to retain a case and do justice between parties. And this too, accords with the case of Clark vs. Flint, 22 Pick. 231; where it was held that a remedy, by an action for damages against an insolvent person, is not such a plain, adequate and complete remedy at law as to deprive a court of equity of jurisdiction. In Kentucky, it has been frequently held that non-residence is sufficient to warrant a court of equity in proceeding against the property of the absentee, although it is probable that the decisions there may be influenced to some extent by a statute which exists on the subject. Golden vs. Maupin, 2 J. J. Marsh. 233. Hieronymus vs. Hicks, 3 J. J. Marsh. 701. Moore vs. Simpson, 5 Lit. 49. Hunts vs. Clay, Lit. Sel. Cas. 26.\nThese cases are cited, not to .adopt their doctrines, but to indicate to what extent respectable courts in sister states have felt themselves authorized to go in affording equitable relief. In our view it is not necessary to decide whether insolvency or non-residence, separately or together, are sufficient ground to uphold the jurisdiction of a court of equity, because, in this case we think the jurisdiction can be maintained for other and clearer reasons.\n\u2022The bills charged Cockrell with a fraudulent design to defeat the collection of the demand by the removal of his property beyond our jurisdiction before the creditor could have any available and adequate remedy at law. Recurring to the answer of Cockrell, it will be perceived that it is not at all calculated to inspire confidence in his statements. He denied recollecting giving an obligation for cotton. That he did give it was amply established, not only by his own acknowledgments, but by due proof of the execution of the instrument itself. He did not absolutely deny giving the obligation, but took shelter behind his recollection, and to say the least of it, his memory must have been exceedingly treacherous. He denied the present intention to remove his property beyond the jurisdiction of the court, yet admitted that he intended to do so at a future time. Although he had received full consideration from Warner, yet, with his $50,-000 of unencumbered property in Louisiana, subject to execution, he never offered to pay any thing, either in money or property, but was manifestly endeavoring to avoid it. The answer was evasive and unsatisfactory, and not calculated to weaken the imputations of fraud, as made in the bill and supplemental bill. The latter he entirely failed to answer, although personally notified in due form of law. Mere non-payment of a debt can never be evidence of a design to defraud, but there were circumstances attending this refusal, which gave a different hue to the transaction. Putting all the circumstances together, we think it may be safely assumed that a fraudulent design existed on his part to prevent the recovery of a just debt.\nThe jurisdiction of a court of equity, incases of actual or constructive fraud, is too well established to be questioned on the one hand, or vindicated on the other; and as this case partakes of that character, we hold that the court had jurisdiction over the subject matter, and was competent to grant relief. And hence, the party having answered and put himself on the merits, without reserving any objection to the jurisdiction, cannot be permitted to derive any advantage from it in this forum, and under these circumstances. But were it otherwise, the jurisdiction is, in our opinion, maintainable upon another ground, to which we will now advert. The answer of Cockrell was made a cross bill against Warner, and interrogatories propounded, (Digest 230), and an accounting and general relief prayed for, based on an alleged misrepresentation on the part of Warner, as to the number of cattle and hogs sold; and also on a claim to abatement for deficiency, and on a mistake in the agreement. These grounds too, were connected with the necessity of obtaining a discovery from Warner, and surely it cannot be pretended that they do not lay a sufficient foundation for equity jurisdiction. Since the case of Wheat vs. Dotson, (7 Eng. 699), partial failure of consideration is cognizable at law in our courts, but because there is a remedy at law it does not destroy or impair the concurrent jurisdiction of a court of equity over the same subject, but such jurisdiction still continues on its old foundations. 1 Story's Eq. 64. Hempstead vs. Watkins, 1 Eng. 358. Sailly vs. Elmore, 2 Paige Ch. R. 499.\nThe cross bill founded on matters clearly cognizable inequity, supplied any defect in jurisdiction, if any existed, and placed the court in- possession of the whole cause, and imposed the duty of granting relief to the party entitled to it. The original bill, and cross bill are but one cause (3 Daniel's Ch. Pl. 1943. 3 Ark. 312. 9 Johns. Ch. R. 252), and it certainly cannot be at all material from what particular source jurisdiction arose, provided it existed in the case.\nIn Logan vs. McMillin, 5 Dana, 484, where a defendant denied fraud, alleging that through mistake he had not received sufficient credit, it was held that although the remedy was complete at law, yet as the subject matter of the bill and cross bill were connected, the court might take jurisdiction. The case of Wickliffe vs. Clay, 1 Dana. 589, decides asimilar principle. The cross bill gives a perfect reciprocity of proof to each party derivable from the answers of each, and its object is to enable the court to make a decree on the whole merits, Story's Eq. Pl. 390. 4 Johns. Ch. R. 357. In Missouri vs. Iowa, 7 How. S. C. Rep. 660, to adjust boundaries, one State filed a bill, and the other a cross bill, and it was said by the court that each State occupied the position of a defendant, and that the whole case being before them,, such decree could be made as the case required, Draper vs. Gorden, 4 Sand. Ch. R. 214. In Hall vs. Edrington, 8 B. Mon. 47, it was held that although the claim of a plaintiff, in an action of' detinue for the hire of a slave, was a legal demand,\" yet if the-plaintiff be brought into chancery by the defendant in respect to the recovery of the slave and hire, the plaintiff may, by way of cross bill, have a decree for such hire, which he otherwise could not do, because his remedy at law would be perfect and complete, and his demand a legal one.\nThese authorities will suffice to demonstrate that the original and cross bill are but one cause; that both parties are as complainants, praying relief against each other, and haying in view the object of bringing the whole controversy before the court, to the end that it may be finally settled on the merits, by such decree as the justice and equity of the case may require. In attaining this end it must frequently happen that mere legal demands on the one side or the other, over which separately a- court of equity would have no jurisdiction, have to be passed \"on and relief afforded. But this, so far from being objectionable,.is commendable, because it has a tendency to prevent a multiplicity of suits, in itself sufficient to give a court of equity jurisdiction, although the subject matter, otherwise, may be of a legal nature and of legal cognizance.\nIn Cathcart vs. Robinson, 5 Peters. 278, Chief Justice Marshall said: \u201cit is well settled that, if the jurisdiction attaches, the court will go on to do complete justice, although in its progress it may decree on a matter which was cognizable at law.\u201d If a bill should be filed to recover damages for a breach of contract, unaccompanied by any equitable circa instances, and where the remedy at law was perfect and complete, and the defendant, instead of demurring for want of equity, should answer on the merits and set up as cross matter, that the contract was obtained fraudulently and without consideration, and pray for its recision and for general relief; it could hardly be contended that the court on the one hand, would not have jurisdiction to decree a recision if the defence was established, or decree relief to the complainant, on the other, if the defence was unsuccessful, although in the absence of the cross bill, which placed the whole controversy before the court, no decree could be rendered on the bill standing by itself, for want of jurisdiction. The reasons for it have been, in part, intimated. The cross bill developes new \u2018facts touching the same controversy within the acknowledged powers of a court of equity, and which, if true, would entitle the defendant to relief, either partial or entire.\nThe whole case is at issue, and jurisdiction, which did not before, now appears on the record. If there is jurisdiction for one purpose, there is jurisdiction for all purposes. If a decree may be rendered for the defendant, one may be rendered against him. The court having rightful possession of the cause, will proceed to do full justice between the parties, for it is well said that the jurisdiction, having once rightfully attached, it shall be made effectual for the purposes of complete relief. 1 Story's Eq. 64, (K.) Where the court has gained jurisdiction of the cause for one purpose it may retain it generally. 6 Johns. 596. 4 Cowen 728. In asking for equity, Cockrell was bound to do equity, which surely could not consist in withholding what was really due, drawing Warner from an equity into a legal forum, to pass through, another long and expensive litigation and probably at last be compelled to go back into equity again to make his recovery effectual. This would be to encourage a multiplicity of suits, which is against the policy of the law and to be avoided at all times and in all courts. There was nothing in the case to render a trial by jury indispensable, and if there had been, it would have been competent to direct an issue out of chancery for that purpose.\nEither the chancellor or master, however, were quite as competent to ascertain the value of cotton, at a specified time, as a jury would be; for certainly it was an inquiry neither complicated nor difficult, whether performed by one or the other.\nThat Cockrell was not able to prove the cross matter set up bj| him, could not possibly defeat the jurisdiction of the court, nor affect it any more than it would be affected in a case on a bill within the acknowledged powers of a court of equity, which the complainant should fail to establish. In that contingency, he would obtain no decree, but the jurisdiction of the court over the subject matter would be entirely unimpeachable.\nIt is not inappropriate to remark that, while it is necessary to keep up the prominent boundary lines between courts of law and equity, the jurisdiction of the latter is not diminishing but enlarging, so as to keep pace with the extension of commerce, and the increasing wants of mankind. The narrow and unreasonable prejudices once entertained against that jurisdiction, have measurably, if not entirely, yielded to the intelligence and liberality of the age, and it is a truth, universally admitted, that far more injustice is done in common law courts than in courts of chancery, owing to the inability of the former to grasp the whole controversy without violating technical rules, as ancient as they are inflexible. Every one must feel that there is no danger to be apprehended from courts of chancery.\nIt is apparent that to entertain an objection to the jurisdiction and drive Warner to assert his remedy at law against a man, who is a non-resident, and has doubtless now removed his property beyond our jurisdiction, and when that remedy could not, in the nature of things, be as complete and comprehensive as in chancery, would be to visit upon him the entire loss of his debt. We find nothing in his conduct to warrant the infliction of such .a penalty, and nothing in that of Cockrell to entitle him to such a reward.\nTaking into consideration the position and circumstances of the whole case, we are satisfied the objection to the jurisdiction ought not to prevail, and thinking that no injustice has been done to Cockrell by the decree, we direct it to be in all things affirmed with costs.\nWatkins, C, J. did not sit in this cause.",
+        "type": "majority",
+        "author": "Hempstead, Special Judge,"
+      }
+    ],
+    "attorneys": [
+      "Pike & Cummins, for the appellant.",
+      "Curran, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Cockrell vs. Warner.\nThe general property in stock running -at large vests in the purchaser by a sale, though the property he not delivered; and if the purchaser fails to reduce the estimated number into actual possession, in the absence of fraud or misrepresentation, and the proof showing that he was acquainted with the number and quality of the stock bought, the loss was his own, and he could claim nothing by way of recoupment at the hands of the seller.\nHo demand is necessary to fix the liability of the maker of a property note payable at a specified time; a failure to comply entitles the payee to receive the value of the commodity at the time when the note matured; and the damages should be measured by the highest market value of the property at the time when it should have been delivered.\nAs a'general rule a court of equity cannot afford redress by way of compensation for damages for a breach of contract when the remedy at law is plain, adequate and complete, and where no peculiar equity intervenes; hut where a defendant has put himself upon the merits, and not reserved any objection to the jurisdiction of the court on the ground that there is an adequate remedy at law, he cannot insist on it at the hearing unless the court is wholly incompetent .to grant the relief sought by the bill.\nThough the demand be a legal one, where all the circumstances show that a fraudulent design existed on the part of the defendant to prevent the recovery of a just debt, a court of equity has jurisdiction over the subject matter and is competent to grant relief.\nAnd where a defendant filed a cross bill founded on matters clearly cognizable in equity, the cross bill supplied any defect in jurisdiction, if any existed, and placed the court in possession of the whole cause, and imposed the duty of granting relief to the'party entitled to it \u2014 the original and cross bill being but one cause.\nAppeal from the Circuit Court of Lafayette county in Chancery.\nThe Hon! Shelton Watson, Circuit Judge, presiding.\nPike & Cummins, for the appellant.\nThe ground on which the decree was rendered in this case, was, that after answering, it was too late to object to the jurisdiction or raise the question. The principle so stated is obviously too broad. The correct principle is that after answering and submitting himself to the jurisdiction of the court without objection, it is too late to insist that the complainants had a perfect remedy at law; unless in a case where the court of chancery was wholly incompetent to grant the relief prayed by the bill. Grandin vs. Leroy, 2 Paige, 509. Underhill vs. Van Corllandt, 2 /. C. R. 369. Livingston vs. Livingston, 4 J. C. R. 290. Wisuiall vs. Hall, 3 Paige, 313. Bank of Utica vs. City of Utica, 4 Paige, 399. Hawley vs. Craner,4 Cowen, 727. Ludlow vs. Simond, 2 Caines Cas. in Er. 56 Howards vs. Warfield's ad. 4 Har. Sf McHcn. 21. Brooke vs. Hewitt, 3 Vesl Jr. 255. Story's Eq. PI. secs. 456, 473.\nAnd where a party has an adequate remedy at law the objection may be taken at the hearing or on appeal, though not taken by demurrer, or in any other mode before the hearing. Dugan vs. Cureton, 1 Ark. 31. 1 Spence Juris, ch. 699. Mayo vs. Win-free, 2 Leigh, 370. Marine Ins. Co. vs. Hodgden,7 Cranch, 332. Fowle vs. Lawrason, 5 Peters, 494. Russell vs. Clark's exrs. 7 Cranch, 89. Herbert vs. Wren, 7 Crunch, 370. United States vs. Howland, 4 Wheat. 108. Osborn vs. Bank of United States, 9 Wheat. 738. Boyce's Exrs. vs. Grundy, 3 Peters 210. Pratt vs. Northam. 5 Mason, 95. United States vs. Sturges, 1 Paine 526. Poage vs. Wilson, 2 Leigh, 490. Meze vs. Mayes, 6 Rand. 657. Robertson vs. Hogsheads, 3 Leigh. 667. Taliaferro vs. Foote, 3 Leigh. 58.\nThe law is well settled that a defendant may at any stage of the cause rely on the want of equity in the bill, on the ground that the plaintiff has a complete remedy at law. Barker vs. Dade, 6 Ves. 686. Brooke vs. Hewitt, 3 Ves. Jr. 255. Mitford 108. North vs. Countess of Stafford, 3 P. Wms. 148. 12 Mod. 171. Penn vs. Lord Baltimore, 1 Yes. sen. 446.\nThis bill is a mere naked bill for compensation, merely presents to the court a naked legal question, and asks a decree for damages. It is a gross abuse of the power and jurisdiction of a court of equity. Kirk vs. The Guardians of the Bromly Union, 2 Phillips 648. 2 Sterffs Eq. secs. 709, 716, 717, 798. Buxton vs. Lister, 3 Atk. 384. 12 Ves. 401. 1 Cox, 258. 14 Ves. 129. 17 id. 278. 4 J. C. R. 560. 10 Conn. 121.\nA writ of ne exeat cannot be granted for a debt due and recoverable at law. Segmun vs. Hagard, 1 J. C. R. 1 Rhodes vs. Cousin, 6 Rand. 188. Jenkins vs. Parkinson', 1 Coop. Sel. Cas. 1791 3 Daniell, 1925 to 1933.\nCurran, contra.\nThe objection that Warner had a remedy at law, comes too late \u2014 such objection must be made by plea, or demurrer, or be insisted upon in the answer. Hawley vs. Cramer, 4 Cow. 726. Ludlow vs. Simonds, 2 Caines Cas, 59. Underhill vs. Van Cortland, 2 J. C. R. 369. Livingston vs. Livingston, 4 /. C. R. 290. Dickens vs. Ashe 2 Hayio. 176. Grandin vs. Leroy, 2 Paige, 509. Wiswall vs. Hall, 3 Paige Rep. 313-. Bank of Utica vs. City of Utica, 4 Paige, 399. Howard vs. Warfield, 4 Har. f McHen. 21: unless the bill fails to show any cause of 'action.\nBut if the bill failed to present a case of equitable jurisdiction, the cross bill of the defendant, alleging mistake and partial failure of consideration, would give the court jurisdiction; and in such case the court would do ample and complete justice between the parties. And if the principle as to jurisdiction be settled in favor of the complainant, it is clear from the evidence that the decree of the court below is correct."
+  },
+  "file_name": "0345-01",
+  "first_page_order": 345,
+  "last_page_order": 360
+}

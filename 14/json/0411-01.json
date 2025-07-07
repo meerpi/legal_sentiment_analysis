@@ -1,0 +1,103 @@
+{
+  "id": 1862638,
+  "name": "Sanger et al. vs. State Bank",
+  "name_abbreviation": "Sanger v. State Bank",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "411",
+  "last_page": "413",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 411"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Ark. 247",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728565
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/1/0247-01"
+      ]
+    },
+    {
+      "cite": "2 Ark. 209",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848221
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0209-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 140",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726631
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0140-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 275,
+    "char_count": 3711,
+    "ocr_confidence": 0.509,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.06865129974759146
+    },
+    "sha256": "d2507daa743bbb75ca75a3883f40da20f722672c2fb32d912047734005c3b2eb",
+    "simhash": "1:a1e104823e06cd4f",
+    "word_count": 649
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sanger et al. vs. State Bank."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThe plaintiffs in error being sued by the Bank, upon a note which they had made payable to her, interposed a plea, setting up certain matters in abatement. The plea, on motion of the plaintiff below, was stricken from the files, to which the defendants excepted, and suffered final judgment.\nInasmuch as the plea, re-instated upon the record by the bill of exceptions, appears to be applicable to the action, and, for aught that appears, pleaded in apt time, good in form, signed by counsel and verified by affidavit; in short, having all the formal requisites of a plea, our opinion is, that it ought to have been demurred to, if the plaintiff below would question its legal sufficiency. This point was expressly ruled in Sillivant vs. Reardon, 5 Ark. 140, followed by Wilson vs. Shannon, 1 Eng. 198. In Pope vs. Tunstall, 2 Ark. 209, the question of practice was waived, because the court thought the plea which had been stricken out in that case, was good in substance as well as form, and therefore felt at liberty to consider the case in the same light as if the pleadings had come up on demurrer. But the case last referred to cannot be safely followed as a precedent, because the refusal of the court in any case that might come before it, to consider the legal,sufficiency of a plea, which had been improperly stricken out on motion, would be an implied decision against its legal sufficiency; whereas, according to the established rules of pleading, the proper mode of tendering an issue in law is by demurrer; and without breaking down those rules the demurrant cannot evade it by an informal motion, so as to deprive the defendant of all benefit of any question of law upon the legal sufficiency of the plea, unless he shall get it again upon the record by bill of exceptions.\nTrue, a plea, apparently good on its face, might well be struck from the files, because frivolous or vexatious ; as for example, where the same matter is attempted to be pleaded, which the court has once adjudged insufficient, and the pleader could only rest upon the decision, or plead over. But nothing of the kind is shown here. And so, like many other legal distinctions, where the lines run into one another, it might sometimes be difficult to determine whether a party should move to strike from the files, or be put to his demurrer. But according as one or the other may be proper, the office of a demurrer cannot be subserved by a motion.\nAt an early day, Means vs. Cromwell, 1 Ark. 247, this court found it necessary to check the practice which had grown up, of interposing by informal motions, not traversable or tendering any issue of fact, matters in abatement, or which properly belonged to that class of defences. And without any particular examination of that or the several subsequent cases to the same purport, there can be no doufitthat the general tendency of them to discourage such innovations in pleading was right.\nJudgment reversed and cause remanded with instructions to reinstate the plea, and leave to the plaintiff to demur.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "English, for the plaintiff, and",
+      "Hempstead, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Sanger et al. vs. State Bank.\nA plea which is applicable to the action, for aught that appears pleaded in. apt time, good in form, signed by counsel, verified by affidavit, where that is required, and having all the formal requisites of a plea, cannot be stricken from the files on motion, but should be demurred to, if the plaintiff would question its legal sufficiency.\nWrit of Error to Pulaski Circuit Court.\nThe Hon. W. H. Feud, Circuit Judge, presiding.\nThis case was argued at length, as to the sufficiency and legal effect of the plea, by\nEnglish, for the plaintiff, and\nHempstead, for the defendant."
+  },
+  "file_name": "0411-01",
+  "first_page_order": 411,
+  "last_page_order": 413
+}

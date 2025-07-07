@@ -1,0 +1,65 @@
+{
+  "id": 1862678,
+  "name": "The State vs. Denton",
+  "name_abbreviation": "State v. Denton",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "343",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 227,
+    "char_count": 3453,
+    "ocr_confidence": 0.529,
+    "pagerank": {
+      "raw": 1.7710994026850012e-07,
+      "percentile": 0.711744005152424
+    },
+    "sha256": "43ba56216702f8ecd9978d691a26d8ba725edb5527f2ede1fa006d86b692105a",
+    "simhash": "1:2f7708d8722ab02d",
+    "word_count": 592
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. Denton."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker\ndelivered the opinion of the Court.\nThe defendant was indicted in the Yan Bur\u00e9n Circuit Court for an assault and battery, alleged to have been committed on the person of one William York. At the foot of the indictment there \u25a0is the following endorsement: \u201c This indictment is preferred upon the testimony of the party injured, who was summoned on presentation and by order of the grand jury.\nJOHN H. BYERS, Pro. Atto.\u201d\nThe question is, was this endorsement sufficient under the 87th sec. Dig. ch. 52. That section provides that \u201c No indictment for any trespass on the person or property of another, not amounting to felony, shall be preferred, unless the name of the prosequtor be endorsed thereon, except where the same is preferred on the information or knowledge of one or more of the grand jury, or on the information of some public officer in the necessary discharge of his duty, or on the' testimony of some witness other than the party injured, in which case a statement of the fact shall be made at the end of the indictment and signed by the attorney for the State.\u201d\nThe endorsement in this case falls short of a compliance with the statute. The fact that the witness was summoned to testify, was not sufficient to supersede the necessity of his endorsement as prosecutor. If the party assaulted was permitted thus to evade the statute, he would rarely incur the responsibility of paying the costs of the prosecution, in the event of an acquittal, by endorsing himself as prosecutor, when by procuring himself to be summoned, he could by his testimony put on foot a prosecution intended to gratify his private resentment without incurring such responsibility.\nIt may sometimes be the case that the party injured is the only witness by whom the offence can be proven, and that, because of his refusal to become prosecutor, the offender may go unpunished; but we apprehend that cases of this kind will be rare. The language of the endorsement is somewhat peculiar; it is that \u201cthe indictment is found on .the testimony of the party injured, who was summoned upon presentation, and by order of the grand jury.\u201d This language strongly implies that the grand jury were informed, or had knowledge of the fact, and upon such information summoned the witness. If such was the fact and their information was sufficient to satisfy them, that an indictment shouldabe preferred, the endorsement would have been sufficient, if it had simply stated the fact that it was found upon the information of one or more of the grand jurors. But in the case before us, it is expressly stated that the indictment is found upon the testimony of the party injured, and the residue of the endorsement is intended to show how and under what circumstances he was brought before the grand jury. The endorsement was clearly insufficient, and the motion to quash properly sustained.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Justice Walker"
+      }
+    ],
+    "attorneys": [
+      "Mr. Attorney General Clendenin"
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. Denton.\nThe endorsement that \u201cthis indictment is preferred upon the testimony of the par\u00ab ty injured, who was summoned on presentation, and by order of the grand jury,\u201d does not imply that the indictment was preferred on the information of any of the grand jury, and is not a compliance with the statute, which requires the en* dorsement of a prosecutor in certain cases.\nAppeal from the Circuit Court of Van Bur\u00e9n county.\nThe Hon. B. H. Neely, Circuit Judge, presiding.\nMr. Attorney General Clendenin\ncited The State vs. Brown, 5 Eng. 106."
+  },
+  "file_name": "0343-01",
+  "first_page_order": 343,
+  "last_page_order": 345
+}

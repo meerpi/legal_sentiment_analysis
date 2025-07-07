@@ -1,0 +1,227 @@
+{
+  "id": 1862612,
+  "name": "Moore & Cail, adm'r. of Irvin vs. Anders",
+  "name_abbreviation": "Moore v. Anders",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "628",
+  "last_page": "640",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 628"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Wash. C. C. 431",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Yerg. 1",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Mass. 209",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wheat. 46",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1503014
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/20/0046-01"
+      ]
+    },
+    {
+      "cite": "1 Bland. 524",
+      "category": "reporters:state",
+      "reporter": "Bland",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Ohio Rep. 144",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 Ohio Rep. 44",
+      "category": "reporters:state",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Ark. Rep. 221",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rand. 53",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "case_ids": [
+        4443672
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/22/0029-01"
+      ]
+    },
+    {
+      "cite": "7 Yerg. 9",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        8541353
+      ],
+      "pin_cites": [
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/15/0009-01"
+      ]
+    },
+    {
+      "cite": "1 Mon. 41",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Litt. 318",
+      "category": "reporters:state",
+      "reporter": "Litt.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Mon. 287",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Hum. 145",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8542343
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/tenn/21/0145-01"
+      ]
+    },
+    {
+      "cite": "5 Humph. 489",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        8543697
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/24/0489-01"
+      ]
+    },
+    {
+      "cite": "7 Ala. 319",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Ark. 217",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726912
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0217-01"
+      ]
+    },
+    {
+      "cite": "13 Ark. 533",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8728293
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/13/0533-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1055,
+    "char_count": 27239,
+    "ocr_confidence": 0.513,
+    "pagerank": {
+      "raw": 5.009024661975712e-07,
+      "percentile": 0.936246862268804
+    },
+    "sha256": "e5ae4e5d4521f497f2c52a329a4e6b5159673212ef4909bf32f2223d32740383",
+    "simhash": "1:220b1dd59d78f5ce",
+    "word_count": 4833
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moore & Cail, adm\u2019r. of Irvin vs. Anders."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court!\nThe facts of this case, necessary to a correct understanding of it, may be thus stated.\nOn the 29th of May, 1838, Reason and John T. Bowie executed a bond with covenant, to make title to one Blackmore, for certain tracts of land in Phillips county. The bond was in the penal sum of $2,000, and after reciting, that the Bowies had that day sold the lands therein described to said Blackmore, his heirs and assigns, for the consideration of $1,000; that is to say $400 cash in hand, and the residue in two installments of $300 each, one due on the 1st of January, 1839, and the other on the 1st of January, 1840, it was conditioned to be void if they should well and truly make or cause to be made to Blackmore his heirs or assigns, a good and sufficient warranty deed, in fee simple, for the lands therein before described, so soon as the final payment of said sums of money should be made, or as soon thereafter as might be reasonably convenient. The bond for title was acknowledged and recorded, on the day of its date, in the office of the recorder of deeds and mortgages for Phillips county. Black-more paid the first note for $300, due on the 1st of January, 1839, and Reason Bowie, to whom the second note for like amount was made payable on the 1st of January, 1840, assigned it to Irvin, to whom Blackmore afterwards made payment of $150, upon it. The residue of this note with interest remaining unpaid. Ir.vin sued Blackmore, and on the 19th of November, 1841, obtained judgment against him on the corfimon law side of the Phillips Circuit Court for the amount due. Execution was issued upon this judgment on the 27th of March, 1845, under which the lands in question were advertised and sold on the 21st of April following, and Irvin became the purchaser of them, for the sum of $50. Anders and Horner being creditors of Blackmore, obtained a judgment against him in the same court, on the 20th of November, 1841, for $1271, upon which an execution was issued, and under it the same lands were advertised and sold as the property of Blackmore on the 1st of April, 1844, and Anders became the purchaser for the sum of $700, and by virtue of such purchase obtained possession of the lands.\nOn the 27th of February, 1846, Irvin exhibited his bill against the two Bowies, Blackmore and Anders, alleging the foregoing facts, and farther representing that Anders had become,insolvent and non-resident: that the judgment against him in favor of the complainant remained wholly unsatisfied, unless it be entitled to a credit of $50, the amount of his bid at execution sale for the lands in question; and that the Bowies refused to make a deed for the lands until Blackmore had complied by the payment of the purchase money therefor, according to the condition of their bond and covenant to him for title.\nThe bill prayed that the complainant\u2019s purchase of the lands under execution be set aside and held for nought; that Anders be required to pay to the complainant the full amount of his judgment at law against Blackmore, or in default thereof, that the lands be made subject and decreed to be sold by a commissioner of the court for the satisfaction of the same: that the entire interest and claim of all the parties to the suit should vest in the purchaser of the lands at such sale, and that the same operate as an acquittance and release to the Bowies, from all obligation under their bond for title to convey the same. The bill, on the demurrer of Anders, was adjudged insufficient and dismissed for want of equity.\nThe main question argued in this case, is settled by the decision of this court in Smith vs. Robinson et al. 13 Ark. 533. When the Bowies sold the lands to Blackmore, and gave him their bond for title on payment of the purchase money, the transaction was, in all essential features, a security for the payment of the purchase money; the same, in effect, as if they had made him a deed and taken a mortgage back to attain the same end, which the parties had in view. In the case referred to, the origin and history of this species of conveyance, peculiar to the new States, is explained. Under the land system adopted by the United States, inchoate equitable titles were derived in various ways, from the government through its land officers. Until the emanation of patents, often suspended or delayed for years, it would be impossible for the owner of land so situated, to make title upon a sale of it. Bonds or covenants for title were therefore resorted to as a matter of necessity. The policy of the country having always been to facilitate the transfer of real estate, it often happened that the same tract of land would be successively sold in the same manner, where none of the vendors or purchasers had the legal title. So the custom grew up of selling lands by means of a bond or covenant of the vendor,, conditioned to make conveyance of the legal title when procured from the United States, and where the sale was upon credit, the further condition was inserted to make title upon the payment of the purchase money. This informal conveyance was something more than an executory agreement to sell; it imported a present sale, which passed the ownership and beneficial interest in the land, to the purchaser, usually accompanied with possession, or the right of possession as against the vendor, being an equivalent for the interest of the purchase money. Such an estate or interest in land was recognized at an early day by territorial legislation as a \u201cseizin in equity.\u201d Steele & McCamp. Dig. Title, Administration, sec. 27; ib. Title, Conveyances, sec. 2; ib. sec. 7. Rev. Stat. Title, Administration, sec. 161. Ib. Title, Execution, sec. 23. Provision was made for the recording of such instruments, whereby they became constructive notice of title; Rev. Stat. Title, Conveyances, sec. 22. The lien reserved by means of them to the vendor, has none of the odious characteristics of the vendor\u2019s equitable lien for the unpaid purchase money, where having conveyed the legal title, acknowledging the receipt of the purchase money, he ought not to be heard to assert it against any subsequent purchaser or incumbrancer, without clear and unequivocal proof of actual notice.. On the contrary the vendor, in this mode of conveyance, does not expressly refuse to part with the legal title; and whether by the terms of the contract the payment of the purchase money be a condition precedent, or dependant upon the final execution of the deed, the result is the same. It makes no difference whether the bond for title be recorded or not. If recorded, it becomes notice: if not on record, that circumstance would, of itself be sufficient to put any subsequent purchaser or incumbrancer upon enquiry; because an examination of the record would show title out of the vendor. And unlike the equitable lien of the vendor, who has parted with the legal title, if notes be taken for the purchase money with any additional or personal security, the fact of the vendor, who gives only a bond or covenant for title, taking such additional security, is no waiver of the lien, where it is expressly reserved by the terms of the contract, so that the payment of the purchase money, from whatever source it may be derived, is to be a condition precedent, or a simultaneous act with the execution of the deed. Although in Brown vs. Morrison, 5 Ark. 217, this distinction is not clearly stated, it necessarily follows, from the decision there, upholding the lien of Brown, the vendor, notwithstanding he had taken the notes of Cole, with personal security. As the court there said, \u201c His covenant only binds him to convey upon the reception of the purchase money.\u201d\nBut the appellee insists, that whatever lien the original vendor may have had, it is not assignable, and did not pass to Irvin by the assignment of the note to him, but that when Bowie transferred the note for value received, he got his money, being ail that he was entitled to ask, and that the condition being accomplished, no further act remained for him to do, but to execute the conveyance. Again, it would be sufficient for the decision of this point to refer to the opinion in Smith vs. Robinson; because whenever we assimilate the sale of land, by means of a bond or covenant conditioned to make title on payment of the purchase money, to a conveyance and mortgage back to secure the same end, the usual incidents of a mortgage attach to the transaction, and the rights of the parties, growing out of it, are to be governed by analogous rules. The weight of authority no doubt is, that the equitable lien of the vendor is personal to him, and is not, unless under some peculiar equitable circumstances, assignable. We decline going into any such question, because it is not presented here, and is only noticed by way of contrast with the description of lien now under consideration: clearly the lien, under a bond for title on payment of the purchase money, being expressly reserved by contract, tantamount to a mortgage security for the benefit of the vendor, and the note for the purchase money transferrable like any other chose in action made assignable by law, the assignment of the note tacitly carries with it the vendor\u2019s lien by way of mortgage security, and as an incident to the debt. The value of the note, as a negotiable instrument in the hands of the vendor, would be impaired, if the security could not accompany a transfer of it to an assignee. The right of the purchaser to a conveyance depends upon the payment of the note by him, or by some one who has become subrogated to his rights, as was the case in Smith vs. Robinson, and not upon the fact that the vendor has received the money upon the note, if it be still outstanding against the purchaser; and this would be so, though he had endorsed it without recourse, or though he should become discharged by the laches of the holder as at'the law merchant, or by his failure to pursue the maker with due diligence to insolvency under the statute of assignments, or supposing the assignor\u2019s liability upon the \"contract of assignment to become barred by limitation. That the vendor\u2019s lien, when thus reserved by the terms of the contract, is assignable in those States, where this mode of conveyance by bond for title prevails, see Tanner vs. Hicks, 4 Smedes & Marsh. 294. Roper vs. McCook, 7 Ala. 319. Norvell vs. Johnson, 5 Humph. 489. Though it is remarkable, as an examination of the cases in the western States would show, that the two descriptions of lien, though so entirely dissimilar, are often confounded.\nAt the time the lands were sold upon execution of the judgment at law obtained by Irvin against Blackmore, the lien of the judgment under the statute had expired; but the sale under the junior judgment of Anders & Horner, under which Anders purchased, was within three years from its rendition: and although the sale of land under a junior judgment only passes the title of the defendant, subject to the lien of any prior judgment in force, yet the lien of Irvin\u2019s judgment had ceased to be in force when he purchased under it, and the judgment creditors being entitled to no equitable preferences as against each other, but having to stand or fall according to their legal priorities, it follows that if the lands had been the absolute property of Blackmore, as between the two purchasers it is clear that they would belong to Anders. And it is argued for him, that if Irvin stands in the place of the original vendor, then by his purchase of the lands under his judgment against Blackmore, there was a merger of the equitable title of the judgment debtor into the legal title held or represented by Irvin, whereby Irvin, having acquired both the legal and equitable estate, has no cause of complaint, and is not entitled to any relief. We apprehend that under our statute, Digest, Title, Execution, sec. 25, which subjects to execution \u201call real estate, whether patented or not, whereof the defendant or any person for his use was seized, at law or in equity, on the day of the rendition of the judgment, order or decree, whereon execution issued, or at any time thereafter;\u201d that Blackmore had such an interest in the lands as was subject to execution upon any judgment rendered against him. Even if he were not in possession, or had not paid any portion of the purchase money, yet according to Smith vs. Robinson, the law regards the purchaser under an executed contract of sale, evidenced by a bond for title, as the real owner of the land, subject to an incumbrance for the purchase money, and occupying the position of a mortgager, who has divested himself of the naked legal title as a security for a debt, and whose equitable or beneficial estate would, without doubt, be bound by the lien of a judgment, and subject to execution to satisfy it. The State vs. Lawson, 1 Eng. 269. In order to present this case most strongly in favor of Anders, let it be supposed that Bowie,the original vendor, had obtained the senior judgment at law for the purchase money against Blackmore, and had caused his interest in it to be sold under execution before the lien of the judgment had expired. In such case, it would follow from the argument urged on behalf of Anders, that the interest of Blackmore was forever divested, and that neither he nor any vendee of his, or purchaser under execution against him, who had thereby become subrogated to his rights, could have been entitled to redeem. The enquiry, what effect the sale of the mortgaged premises upon execution of a judgment at law for the mortgage debt would have, according to the laws of this State, upon the mortgager\u2019s equity of redemption, alluded to in the case of Price vs. The State Bank, at July term, 1853, might be the subject of an extended examination. We have no statute regulating the mode, sometimes resorted to elsewhere, of barring the equity of redemption by sale under a power; nor is the consideration of this case affected by any question, how far the equity of redemption of the vendee, under a bond for title, may be barred by a stipulation in the instrument, making the time of payment the essence of the contract, or whereby a forfeiture is agreed upon, in the event the purchase money be not punctually paid. Avoiding any such considerations, which could only be adverted to by way of illustration, it must suffice to express our opinion of the law, as applicable to the particular case before us, and upon the facts stated.\nThe substance of the statute concerning \u201cmortgages,\u201d is set out in Price vs. The State Bank. Upon any fair and equitable interpretation of that statute, our opinion is against the power of the mortgagee to foreclose the equity o\u00ed redemption, by a sale of the mortgaged premises, under execution of a judgment at law, for the debt secured by the mortgage. It might be questionable whether such a sale, where the purchase is made by a third person, would not operate to transfer to him the entire claim of the mortgagee upon the land, that is, the right to have a foreclosure, or what is equivalent, to receive the benefit resulting from the redemption. And it might be true that a third person, purchasing at such sale, would become subrogated, by operation of law to the mortgager\u2019s right to redeem. So that the purchaser, in such case, might possibly acquire the title, as against both the plaintiff and defendant in the execution. But a purchase of the mortgaged premises by the plaintiff in execution, that is to say, the holder of the mortgage debt could not bar the equity of redemption subsisting in the mortgager: and in no event, whether the purchase be made by the plaintiff in execution, or by a stranger, would it have the effect to bar the equity of redemption, acquired from the mortgager by an intermediate purchaser or incumbrancer, whose right to redeem would not be cut off by execution of the judgment at law, to which they were not parties. As there ought to be a mutuality of rights, it follows, that the mortgagee is not precluded, by his purchase of the mortgager\u2019s estate under execution at law, from going into equity under the statute, to have a foreclosure, thereby opening the foreclosure, and letting in all the equities of the mortgager, even if any doubt before existed concerning them. We have seen that Irvin\u2019s purchase under his judgment, after the lien of it had expired, was a nugatory act, and of itself gave him no rights at law as against Anders, who claimed under Blackmore. But his right, derived by assignment from the vendor, to subject to the payment of the original purchase money, the land in question, whether held by Blackmore or any one claiming under him, and who of necessity acquired it with notice o\u00ed the condition upon which the title was to emanate from the vendor, continued unimpaired, unless we held that the mortgagee, suing at law, is precluded thereby from having a foreclosure.\nFinally, it is argued for Anders, that by the law in force, five years being the limitation upon a writing obligatory, and Irvin\u2019s bill of complaint not having been exhibited until six years after the writing obligatory assigned to him, fell due, his right to subject the land in question to the payment of it, is barred in equity by analogy to the statute at law; and that the judgment at law, obtained by Irvin against Blackmore, and in a distinct proceeding, is no judicial ascertainment of the debt as against Anders.\nUntil the decisions of this court, beginning with Dickerson vs. Morrison, 1 Eng. 266, followed in Davis vs. Sullivan, 2 ib. 449, and Bird vs. Smith, 3 ib. 368, it 'was doubtful whether, until the passage of the act of December, 1844, there was any statute affecting the limitation to actions on writings obligatory, other than the presumption of payment arising after the lapse of ten years, according to sec. 31, of the Revised Statutes of 1839; but those decisions did authoritatively settle the law, as now claimed for the appellee. But for the reason that he is not affected by the independent judgment against Blackmore, he can claim no immunity from it. No doubt exists, under the statute of limitations applicable to these transactions, that the right of the mortgagee to assert and enforce his lien upon the land by a bill to foreclose, would not be barred until ten years from the time the right to foreclose accrued: because he would have that time within which to bring ejectment at law, and for aught that appears, the \u00a1possession of the vendee, being consistent with his contract of purchase, by no possibility could a title by length of adverse possession have become matured as against the vendor, within a shorter period. That the vendor, who gives a bond for title, may bring ejectment on failure of the vendee to comply with the condition of the bond by the payment of the purchase money, is fully established by Brown vs. Morrison & Sullivan, and Fears vs. Merrill, 4 Eng. 459: nor is any notice to quit necessary, according to Smith vs. Robinson. By analogy therefore to the limitation at law, we hold that the bill in this case, to subject the lands in'question to the payment of the original purchase money, was well brought within ten years from the maturity of the writing obligatory, executed by Blackmore, for its payment; and so the converse of this would be law; that Anders, if under different circumstances it had become important to his rights, would have had a like period, within which to redeem.\nUpon the facts alleged in the bill, the complainant, Irvin, was entitled to the relief prayed for. The decree of the chancellor is therefore reversed, and the cause will be remanded with instructions to overrule the demurrer, and for further proceedings.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "English, for the appellant.",
+      "Pike & Cummins, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Moore & Cail, adm\u2019r. of Irvin vs. Anders.\nWhere there is a sale of land by means of a bond or covenant conditioned to make title on payment of the purchase money, the vendor, by0the express terms of the contract reserving the legal title, retains alien upontheland for the unpaid purchase money, of which all subsequent purchasers or incumbrancers claiming under the vendee are bound to take notice.\nSuch lien has none of the odious characteristics of the equitable lien of the vendor who has parted with the legal title, acknowledging the receipt of the purchase money, with which it is often confounded, but is wholly dissimilar, being the' same in effect as a conveyance and mortgage back to secure the purchase-money.\nThe assignment of anote for the purchase money thus secured, tacitly carries with it, as an incident to the debt, the vendor\u2019s lien reserved by the contract of sale: and the assignee may sue- at law upon the note, and proceed in equity in the nature of a bill for foreclosure against the vendee and any person claiming under him, to subject the land to the payment of the original purchase money.\nThe purchase of the land by the assignee, under his judgment at law against the vendee, does not bar the equity of redemption subsisting in any intermediate in- \u2022 cumbrancer or purchaser under the veudee, who has become subrogated to his rights in the land.\nThe subsequent purchaser or incumbrancer can only acquire title by paying off the note for the purchase money, which constitutes a charge upon the land; and by analogy to the statute of limitations, in force and applicable to the transactions here involved, the right to foreclose and the corresponding right to redeem, could not be barred until ten years from the maturity of the note.\nWrit of Error to the Circuit Court of Phillips county. *\nEnglish, for the appellant.\nThe 1 egal title to the land was in theBowies, they having retained it to secure the payment of the purchase money. The judgment of Irvin (independent of his lien asassignee of the vendor), was a lien upon the lands from its rendition, 19th November, 1841, for three years. Dig. ch. 93, sec. 4,-5, 36.\nAnders purchased the land under a junior judgment, and at-the time he purchased, 1st April, 1844, the lien of Irvin\u2019s judgment was in full force and he purchased subject to it. Dig. ch 93, sec. 6.\nBut it would seem that when Irvin purchased, 21st April, 1845,-the lien of his judgment, as such, had expired. But Irvin relies1 upon his lien as assignee of the vendor.\nEven where the vendor sells lands and makes the vendee am absolute deed, taking a note for the payment of the purchase-money, without security, he has a lien upon the lands for the purchase money, which he can enforce in equity against the vendee,- and all subsequentpurchasers and incumbrancers, with notice, 1 Hill, on Real Property, 474 to 482, notes and cases cited. Dart\u2019s' Tend. Pur. of Real Property, 118, and collection of cases in-note. Ib. 34 and notes. 4 Kent Com. 152, 153, 154, and authorities. See cases collected and rule stated in 2 Kinne\u2019s Comp.-112.\nAnd it has been held that in such case the assignee of a vendor may enforce a lien- upon the land for the purchase money, as well as the vendor himself. 1 Hilliard, 378, sec. 35, Dart. 346. On this point however, the authorities conflict. In Hallock vs-\u201e Smith, 3 Barbour Sup. Ct. Rep. 267, it was held that where the note for the purchase money was assigned for the benefit of the vendor, the lien passed to the assignee, but not otherwise.\nBut the case now before the court, is a stronger one in favor of the lien of the vendor, than cases where an absolute deed is made to the vendee. In this case the Bowies reserved the legal title to secure the payment of the purchase money, and gave bond for t\u00edie title, and in such case the lien of the vendor always passes to the assignee. Turner vs. Hicks et al. 4 Sm. Sp Marsh. 294. Graham vs. McCampbell, Meigs R. 52. Gann vs. Chester, 5 Yerggr, 205. Robb vs. Rose, 2 Hum. 145. Eskridge vs. McClure, 2 Yerger, 84. Kenny vs. Collins, 4 Litt. R. 290. Eubank vs. Poston, 5 Mon. 287. 4 Litt. 318. McClanahan vs. Chambers, 1 Mon. 41. Sheratz vs. Nicodemus, 7 Yerg. 9,13. Watson vs. Willard, 9 Barr. 89. Hutchings, ad. vs. Hutchings ex. 1 Rand. 53.\nPike & Cummins, contra.\nThe only questions are: 1st. Had Irvin, in consequence of the assignment of the bond for the purchase money to him, any lien on the lands therefor? 2d. Whether, if he had any such lien, it was extinguished by taking judgment on the bond, and selling the identical lands on which the supposed lien existed? 3d. Whether a judgment creditor is affected by such lien.\nUpon the first point, in reason and on principle, no such lien can exist in favor of an assignee. The lien is given because it is inequitable that the vendee should hold the land and refuse to pay for it. When the party transfers the bond for the purchase money he does get what he asks for, the bond \u2014 in other words, the price for the land. So that in the very act of receiving the transfer the assignee does away with the equity on which the lien rests. There is no privity between the obligor and the assignee.\nThe mere statement of the ground of the equity, it would seem, shows that it must be personal to the parties making the original contract. A personal privilege or a mere chose in action is not assignable, and in policy these secret liens should not be encouraged. As to the nature of this lien, in general, we need only refer to 2 Sto. Eq. sec. 1219 to 1230. As to what will be a waiver of the lien: 2 Sto. Eq. sec. 1220, and notes. 5 Ark. Rep. 221, 222.\nBut admitting the lien existed in favor of Bowie, it did not exist in favor of his assignee. McArthur vs. Porter et ad. 1, 2, and 3 Ohio Rep. 44. Jackman vs. Halloclc et ad. 1, 2, and 3 Ohio Rep. 144. Iglehart vs. Armiger, 1 Bland. 524. Good vs. Pollard, 4 Eng. Ex. R. 193. Kauffet et ad. vs. Bower, 7 Serg. Sf R. 64. Wragg vs. Irvine\u2019s exr\u2019s. 2 Dessau. 509. 3 Sugden, 212, 213, \u00bf\u00a1\u2022c.\nThis lien, on principle, should only have effect as between the original parties and their heirs, and ought never to affect creditors. Bayleyvs. Greenleafet al.7 Wheat. 46. Gilmore vs. Brown etal. 1 Mass. 209. Jackson vs. Cawthorn, 1 Dev. SfBatt. 32. Harper vs. Williams, 1 Dev. Sf Batt. 379.\nFrom the time of the original sale to the filing of the bill, more than five years had elapsed. This lapse of time would have barred any suit directly against the obligor or endorser upon the evidence of debt. Is it not clear, if the lien is an incident and passes with the bond, it is extinguished with the destruction of all remedy on the note. Sheratz vs. Nicodemus, 7 Yerg. 1.\nThat lapse of time maybe insisted on by demurrer is well settled. 4 Hawk. N. C. 412. 5 J. C.R. 545. 1 McCord Ch. R. 169. Wisner vs. Barrett, 4 Wash. C. C. 431. Baker vs. Biddle, 1 Baldwin 394. 1 Dan. G. H. Pr. 621, 622 and notes.\nBut even if this lien were assignable, Irvin could be entitled to no relief here. If he had a lien at all, he stood in the position of a mortgagee, with a judgment lien on the property, founded on the debt to which the lien attached. He purchased the equity of redemption in the property, and thus united in himself the legal estate of the mortgagor, (Blackmore), with his equity. He has thus all the outstanding title to the land \u2014 his equity was merged in the legal title \u2014 in other words was extinguished. Preston on Merg. 548."
+  },
+  "file_name": "0628-01",
+  "first_page_order": 628,
+  "last_page_order": 640
+}

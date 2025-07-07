@@ -1,0 +1,79 @@
+{
+  "id": 1862724,
+  "name": "Witt et al. vs. The State",
+  "name_abbreviation": "Witt v. State",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "173",
+  "last_page": "175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Ark. 382",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1848178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/2/0382-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 346,
+    "char_count": 5073,
+    "ocr_confidence": 0.524,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.4115600948163387
+    },
+    "sha256": "f2ca9701555a66a8d0a64430cd2a6b37353692e5de938d8f9f86839c1ba65e04",
+    "simhash": "1:325ae252b8ca0675",
+    "word_count": 902
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Witt et al. vs. The State."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court!\nBy an act for the relief of the securities of John Hickey, sheriff of Pope county, approved January 11th, 1851, they were allowed until the first day of November, thereafter, to pay the amount pf his defalcation as collector of the State and county revenue, for the year 1850, and released from all forfeitures and penalties incurred, provided, they would give bond with security, to be approved by the county judge, in vacation, for the payment of the same and with interest upon the revenue due the State. Availing themselves of this act, they executed the bond upon which this suit was brought. The bond is made payable to the State for the penal sum of $3,933. And, after reciting that the principals had become security for Ilickey, as collector, that he had made default, &c., that there remained due and unpaid, from him, on account of State revenue the sum of $1042 75, and for county revenue,the sum of $'925 73, and the act passed for their relief, it was conditioned to be void, if the principals should well and truly pay into the State treasury, and into .the county treasury, respectively, the sums above specified, with interest, on or before the first day of November thereafter.\nNo doubt exists as to the liability of these parties, and no useful end would be attained by a statement of the defence sought to be interposed by one of them. The only question arising upon the record which requires to be noticed is one of pi\u2019actice. Demurrer being sustained to the plea interposed by one of the defendants, and he saying nothing further, and the others making default, the cpurt assessed the damages and gave judgment for the.dpbt really due, and interest, as in other cases, where the demand is ascertained by the instrument upon which the suit is founded. Digest, title, Practice at Law, sec. 81.\nIt is argued for the plaintiff in error, that this proceeding is erroneous, and we are cited to the cases of Phillips vs. The Governor, 2 Ark. 382. Adams vs. The State, 1 Eng. 490. Outlaw vs. The Governor, 3 ib. 353. Nelson vs. Hubbard, ib. 477. and McLain vs. Taylor, 4 ib. 363. In all these cases the bonds sued upon were conditioned for the performance of some act other than the payment of money, being either upon delivery bonds or official l)onds; and tho.ugh we think, that in some of those cases the court, have adhered to the language of the statute, perhaps with unnecessary strictness, for reasons which might be given, yet we are not required now to go into an examination of them.\nThe statute, Digest, title, Penal Bonds, provides for three distinct classes of cases, and the mode of proceeding in each is differently regulated. The first four sections relate to actions founded on bonds conditioned for the payment of a less sum of money. The sections from five to fifteen, apply to suits on bonds for the breach of any condition other than for the payment of money. Sections fifteen et seq. regulate the mode of proceeding in suits on official bonds ; including those of administrators, guardians, &c. It is only in the last two classes of cases, where the judgment is by default, or on demurrer, that a jury must be called, unless waived, to enquire into the truth of the breaches assigned, and assess the damages, and when, as decided by the cases referred to, such should be the form of the oath administered to the jury, in compliance with the statute. But upon the reading of the statute those provisions have no application to actions on bonds, conditioned for the payment of a less sum, and where the amount due is ascertained, or ascertainable by computation from the face of the instrument itself, as is the case here. In all such cases the penalty is inserted rather as an adherence to ancient form, and not because it is an essential part of the contract; and while no good reason can be imagined for the intervention of a jury to assess the damages, the statute is not so unreasonable as to require it.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "S. HI Hempstead, for the plaintiffs.",
+      "Clendenin, Attorney Geni."
+    ],
+    "corrections": "",
+    "head_matter": "Witt et al. vs. The State.\nIn actions on bonds conditioned for tbe payment of a less sum, and where the amount due is ascertained, or ascertainable by computation from the face of the instrument itself, the court may proceed to assess tbe damages on a judgment by default or on demurrer, without calling a jury to enquire into the truth of the breaches and assess the damages.\nWrit of Error to Pope Circuit Court.\nThe Hon. W. H. Feild, Circuit Judge, presiding.\nS. HI Hempstead, for the plaintiffs.\nThe act of the Legislature extending the time of paying the revenue into the treasury, released the securities of the sheriff, as it changed their contract.\nThe judgment should be reversed, because the truth of the breaches was not found, nor the damages assessed by a jury. Dig. 775. 4 Eng. 363. 3 Eng. 477, 353.\nClendenin, Attorney Geni.\nThis was not a suit instituted on a penal bond, but was an action on a bond, for the payment of a sum certain in money, and did not require the interposition of a jury to assess damages. Sec. 5, ch. 120, Dig."
+  },
+  "file_name": "0173-01",
+  "first_page_order": 171,
+  "last_page_order": 173
+}

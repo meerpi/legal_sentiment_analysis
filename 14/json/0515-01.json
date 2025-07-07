@@ -1,0 +1,127 @@
+{
+  "id": 1862734,
+  "name": "Biscoe et al. vs. Tucker et al.",
+  "name_abbreviation": "Biscoe v. Tucker",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "515",
+  "last_page": "524",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "14 Mass. 301",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Mon. 198",
+      "category": "reporters:state",
+      "reporter": "Mon.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "3 J. J. Marsh. 557",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "7 Wheat. 56",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Wash. 141",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        6714540
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/2/0667-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 223",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726926
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0223-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 283",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727151
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0283-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 821,
+    "char_count": 19540,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 1.5141931010483724e-07,
+      "percentile": 0.668084316884884
+    },
+    "sha256": "3f0c55e2c85ce552d996c0f6681ac3a83b26de009e63c8f7e47dbfbeedbb2989",
+    "simhash": "1:5f614752b028e9f8",
+    "word_count": 3492
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Biscoe et al. vs. Tucker et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins,\ndelivered the opinion of the Court..\nThe bill in this case, exhibited on the 10th of June, 1843, represents that upon the organization of the Real Estate Bank, fifty shares of stock were awarded to Wood Tucker, for which he executed his stockbondin the sum of five thousand dollars, bearing interest atfive per cent.,together withamortgage on certainlands to secure the same, the mortgage pursuant to the charter being also conditioned for the payment of all monies which he might receive from the Bank on account of subscriptions for stock therein, and the interest on such monies according to the requisitions and regulations of the Bank. That Tucker being so entitled by the charter, had borrowed from the Bank, at two different times, $2,400 on account of his stock credit, which with the interest remain wholly unpaid, and for this breach of the condition the bill seeks a foreclosure and sale of the mortgaged lands. It appears that Tucker executed two deeds of mortgage, one on the 10th day of September, 1837, of the following-lands in T. 5, S, of R. 9' W., in Jefferson county:\nSE qr sec. 19,\nW \\ sec. 29,\nNEqr. sec. 29,\nE i sec. 30, in all 639 acres.\nThis mortgage being acknowledged, was filed for record 'on the-10th of November in the same year.\nOn the 9th of November, 1839, Tucker executed a second mortgage, conditioned like the first, upon a part of the foregoing lands as follows:\nSE qr. sec. 30,\nW sec. 29, in all 282 acres.\nThis mortgage was acknowledged on the 13th of November, ' before the Clerk of the Jefferson Circuit Court, and on the same day filed for record.\nOn the 21st of October, 1840, Tucker sold and conveyed to the defendant, Wright, for the consideration of $2,800, the two tracts of land last mentioned, being the SE qr. sec. 30, and the W-J- sec. 29, which deed being acknowledged was recorded on the 28th of the same month.\nThe effect of Tucker\u2019s answer, filed at October term 1843, putting the most favorable construction upon it, was to make the issue whether he ever was legally a stockholder in the Bank in conformity with the charter, and if so, he denied that the monies in question had been borrowed on account of his stock credit; but on the contrary, he alleged that they were upon personal security, the same as ordinary loans upon paper discounted by the Bank, and therefore not embraced in or secured by the mortgage.\nWright answered at the same term, disclaiming any knowledge or correct information concerning the transactions between Tucker and the Bank. He alleged that on the 10th of April,-1842, he had purchased at sheriff\u2019s sale under a judgment rendered in the Pulaski Circuit Court, in favor of the Bank, on the-28th day of September, 1841, the NE qr. sec. 30, and SE qr. sec. 19, sold as the property of Tucker, for the sum of one dollar, subject to all legal incumbrances, and that he held the sheriff\u2019s conveyance therefor, dated on the 11th day of April, 1842, but no such conveyance was exhibited, nor was there any proof concerning it. He claimed the benefit of his purchase from Tucker, on the 21st October, 1840, of the SE qr. sec. 30, and the W-?,- sec. 29, insisting according to his information and belief that Tucker had good right to sell and convey, and that there was then no legal or equitable incumbrance upon the same.\nThe cause came on to be finally heard at October term 1847, on bill, answers, replications, exhibits and the deposition of Newton for the complainants, and that of Davies on behalf of the defendants Those depositions related to the issue in dispute, whether the moneys borrowed by Tucker were stock loans or ordinary discounts on personal security. The Circuit Court denied the relief and dismissed the bill for want of equity. It may be supposed that this decree was rendered in conformity with the previous opinion of this court, in the case of Duncan vs. Biscoe et al., 2 Eng. 175, that the Real Estate Bank had only a fiduciary interest in the stock mortgages, which were designed exclusively for the indemnity of the State and the holders of the bonds, for the capital stock of the Bank, that no interest whatever in those mortgages passed by the deed of assignment, executed by the Bank to the Trustees, and that consequently they had no right to foreclose them for any purpose. That decision, likely to be attended with some unfortunate consequences, was overruled upon solemn consideration in the subsequent case of Wilson vs. Biscoe et al., 6 Eng. 44, where it was holden that the assignees might well foreclose those mortgages for the failure to repay moneys borrowed from the Bank on stock credit, and sell the mortgaged lands, subject always to the ultimate and paramount lien of the State and the bondholders.\nIn accordance with Wilson vs. Biscoe, the decree of the Jefferson Circuit Court in this case was reversed on the appeal of the Trustees, Biscoe et al. vs. Tucker et al., ib. 145, so far as the same question was involved, and the court then proceeding to consider another question arising out o\u00ed the peculiar facts at issue in this case, determined in view of the whole transaction, that although Tucker gave personal security, it was only cumulative, as the Bank had the right to require, See Dawson vs. R. E. Bank, 5 Ark. 283, and the real intention of the parties was that Tucker obtained the loans on account of his stock credit.\nOn the remanding of the cause to the Jefferson Circuit Court, the defendants were allowed, against the objection of the complainants, to file amended answers; in which the only material new matter was that set up by the defendant Wright, who alleged that Tucker had purchased one of the tracts in controversy, namely, the NE qr. sec. 19, from one John McLain, for $3,000, taking McLain\u2019s bond for title, on payment of the purchase money, and which bond for title he, Tucker, had assigned to the respondent. That the purchase money not being paid to McLain, Tucker, on the 2d day of November, 1840, conveyed the said lands to one Sterling H. Tucker, in trust among other things to pay the purchase money due to McLain, which was a lien on the land. That pursuant to such deed, the Trustee, on the 9th April, 1842, sold and conveyed the lands mentioned in it to the respondent, wherefore he claimed to be sole proprietor of the lands, but if mistaken in that, he claimed that the original purchase money, which he had paid upon his purchase from the Trustee to satisfy McLain, should be a charge upon the lands and refunded to him.\nThe whole cause was again put at issue, additional depositions were taken relating to Wright\u2019s purchase under the deed of trust, and upon the second hearing the Circuit Court of Jefferson county decreed that the money borrowed by Tucker from the Bank were not stock loan's, but merely private discounts on personal security and could not attach as a lien on the lands in controversy, by virtue of the mortgage, and the complainants were not therefore entitled to the relief sought, and even if they were, Wright was entitled to a prior lien on said lands for the purchase money therefor paid to McLain, but on the grounds that the loans to Tucker were not connected with the mortgage, decreed that the bill be dismissed.\nThere is a singular obscurity throughout the new matter set up in Wright\u2019s amended answer. The only land he alleges that Tucker bought of McLain is the NE qr. sec. 19, a tract not embraced in the Bank mortgage. He professes to exhibit McLain\u2019s bond for title to Tucker, but does not do so, and there is no proof whatever concerning it, when or upon what conditions it was executed, or when assigned to Wright, and none of the witnesses \u25a0who depose about the sale from McLain, refer to any title bond, \u2022or identify the tract in question. It does appear from the proofs .on the record that, on the 2d day of November, 1840, Tucker conveyed to a Trustee the NE qr. sec. 30 and the SE qr. sec. 19, with power of sale, to pay in whole, or pro rata certain debts therein recited, and among them a note to the State Bank made by Tucker with McLain, as one of the securities, and it further appears that Tucker had bought a tract of land from McLain, but what tract is no where shown, and paid for it by the proceeds of a discount in the State Bank of his own note with McLain as .security, and which note McLain was afterwards obliged to take up. And also that, on the 9th of April, 1842, the Trustee sold the lands mentioned in the deed of trust to Wright in consideration of his paying to McLain the amount due him for said lands, and the further consideration of $250 paid to the Trustee, and Wright paid the debt to McLain, by taking up his note in the State Bank for $1,400, and refunding to his administrator the sum of $500 previously'advanced for interest and curtails, in all $1,900.\nNow, upon the case presented, the additional matter relied on by Wright in opposition to the foreclosure amounts to nothing. But supposing that Tucker had purchased one or more of the tracts of land embraced in the mortgage to the Bank, from McLain, taking an ordinary bond for title on payment of the purchase money, the claim of Wright in opposition to the mortgage would hardly be entitled to any serious consideration.\nUpon the hypothesis most favorable to him, the transactions were, that Tucker mortgaged to the Bank land to which he had only an equitable title, McLain having a prior lien for the unpaid purchase money. Then Tucker conveyed the land intrust with power of sale for the payment of certain debts of his, and among them that for the original purchase money. Wright bought the land under this deed of trust, the proceeds of the sale going to extinguish the debt for the purchase money, and also took from Tucker an assignment of McLain\u2019s bond for title.\nIf Tucker mortgaged land of which he was the equitable owner by virtue of a bond for title, his equitable title only was thereby encumbered.\nWhen he made the deed of trust he conveyed only such interest as he then had left, being what the court, in Brown vs. Morrison, 5 Ark. 223, call \u201cthe equity of an equity, or in other words, a right of redemption still remaining.\u201d If McLain had assigned to Wright a note of Tucker for the purchase money, it might have resulted that such assignment carried with it the right to subject the land to its payment as a prior incumbrance. If Wright, being the security of Tucker for the purchase money, had been forced to pay it, that being the condition only 'upon which the vendor could be required to part with the title, the security thus paying might have a claim in equity to be subrogated to the vendor\u2019s lien. But the object and effect of the sale under the deed of trust was to pay McLain and extinguish that lien, Wright comes in as a stranger or volunteer, the same as if he had bought the land directly from Tucker on the 2d of November\u00bb 1840, subject of course to all incumbrances. If by the terms of that purchase, Wright having so agreed, did accordingly pay off the original debt to McLain, the result would be the same as if Tucker had himself discharged that debt out of the proceeds of the land, or any other means of his. Tucker could not for any purpose, sell or assign any greater interest than he himself had in the land, and the only effect of extinguishing the prior lien, which he was legally and equitably bound to do, or cause to be done, was to let in the mortgage as the next oldest incumbrance.\nIt is not to be inferred from onr patient examination of this cause, that there is anything in the terms of the order remanding it, 6 Eng. 148, which authorized the inferior court to open it for rehearing, or for the purpose of letting in further defences without any showing of equity: more especially as it appears that the transactions relied upon by Wright in his amended answer, transpired before the filing of the bill, and of which from their nature, he must have had personal knowledge. The statute Digest, title Chancery, sec. 138, provides that upon the hearing and determination of appeals in chancery, the Supreme Court, if it shall reverse the decision or decree of the Circuit Court, shall make such decision, order or decree with costs, as the Circuit Court ought to have made, \u201cwhich when certified to the Circuit Court shall be entered up as the decision, order or decree of said court, and shall be carried into effect in the same manner as if the decree had been made by the Circuit Court.\u201d Whatever may have been the former practice of this court, and which, indeed, has prevailed and been acquiesced in since its organization, we must conclude that the clear and explicit language of the section quoted, makes it incumbent upon this court to render a final decree upon reversal, in all chancery causes brought here by appeal, whenever it appears that the cause was in a condition to have been finally heard and disposed of in the court below.\nWe add this qualification because there may be instances where this court, owing to its peculiar organization, not having original jurisdiction in such cases, but authority only to hear and determine the appeal de novo upon the law and facts, just as it was heard and submitted in the court below, might think proper, and within the spirit of the statute, instead of making any final decree to remand the cause upon an issue or reference to ascertain a necessary fact, or upon some further equitable directions.\nBut as a general if not universal rule, when a chancery cause is ripe for hearing, and is finally heard in the court below, after all the opportunities afforded for careful and mature preparation, considering also the rehearing that may be sought in that court Upon petition, and the remedial jurisdiction by bill of review, the decision of this court ought to be final and conclusive upon the case as it is presented here by the record in the appeal. It is to be presumed that the parties have brought upon the record every appropi\u2019iate allegation and corresponding proofs essential to the determination of their rights. In chancery appeals this court does not sit, as in common law cases, for the correction of errors but for all the purposes of that appeal, as a court of chancery with authority to make such final disposition of the cause as the inferior court ought to have done. The cause has passed from the jurisdiction of that court, and no questions can come before it, or be returned to this court for revision, except such as may rarely arise out of proceedings that are had subsequent and in obedience to the mandate.\nWhen this court decided, at January term, 1850, that the loan to Tucker was on account of his stock credit, after the lapse of that term, the decision had passed beyond its control, Ashley vs. Hyde and Goodrich, 1 Eng. 99, and the question of fact, if there was before any doubt concerning it, became irrevocably settled.\nIt would then be extraordinary if the Circuit Court possessed the power it assumed to exercise, of decreeing, after the remanding of the cause, that the loans to Tucker were exclusively upon personal security, and not connected with the mortgage. The repose and good order of society demand that there should, at some period of a cause, be an end of litigation.\nThe verdicts of juries are none the less conclusive because they do sometimes determine a fact contrary to what may be the real truth. Upon the same principle, and no matter how injurious the consequences may be, the parties in the appellate court may be bound by the submission of a cause upon a diminished record, according to which one has affirmed and the other denied that there is error. The appellate court, with a deep sense of all the obligations resting upon it, may sometimes mistake the record, and will be liable to err in matters of law so long as men are liable to differ in opinion. But the decision in the particular case is forever the law of that case; see Porter vs. Hanly, 5 Eng. 186, referring to former decisions of this court, and is conclusive not only of.those points that appear to be noticed or decided by the opinion of this court, but of every question of law or fact presented upon the record, and which was necessary to have been decided in order to enable the court to arrive at such conclusion.\nThe decree appealed from will be reversed, and the terms of a final decree in favor of the appellants, settled and rendered in this court, and certified to the Jefferson Circuit Court.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins,"
+      }
+    ],
+    "attorneys": [
+      "Pike, for the appellants.",
+      "Cummins, for the appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Biscoe et al. vs. Tucker et al.\nT. purchased a tract of land taking a bond for title on payment of the purchase money, and mortgaged it to the Real Estate Bank : afterwards he executed \u00e1 deed of trust for the same land, to secure the purchase money and other debts ; the trustee sold the land to W., who paid the purchase money, and to whom T. assigned the bond for title \u2014 the effect was to let in the mortgage as the prior incumbrance.\nThe decision in this court at January Term 1850, that the l\u00f3hn to Tucker was dn account of his stock credit, after the lapse of that term, passed beyondits control and became irrevocably settled; and upon remanding the cause, the Circuit Court had no power to decree that the loans were exclusively upon personal security and not connected with the mortgage.\nThe statute makes it incumbent upon this court to render a final decree upon reversal in all chancery causes brought here by appeal, whenever it appears that the cause was in a condition to have been finally heard and disposed of in the court below.\nPike, for the appellants.\nOn precisely the case, no more arid no less, which was before this court, when it decided it before, the Circuit Court has deliberately reversed the decision of this court; and refused to decree in conformity to its opinion, judgment and express and positive mandate. We merely say that this gross contempt of this court and authority is error.\nAs to the claim of Wright under the pretended lien \u2014 supposing him to mean the south-easi quarter of section 19, and admitting that McLain had a vendor\u2019s lien, still that lien was not good against the mortgages. A vendor\u2019s lien is only good against the vendee, or a purchaser with notic\u00e9. Cole vs. Seott, 2 Wash. 141. 2 Story's Eg., secs. 1225, 1228 to 1232. Cater vs. Bolinbrokd, 1 Bro. C. C. 302. 15 Ves. 336. Champion vs. Brown, 6 J. C. R. 402. Bayley vs. Greenleaf., 7 Wheat. 56. Clark vs. Hunt, 3 J. J. Marsh. 557. 3 Gill <$\u2022 John. 425. 6 Mon. 198. 14 Mass. 301. The property was not sold by McLain under his lien: but under a deed of trust by Tucker, which conveyed only his equity of re*demption, and by the purchase Wright simply stood in Tucker\u2019s place.\nCummins, for the appellees.\nWhere this court merely reverses a decree in chancery, the cause stands precisely as if it stood in the same progress towards a decree, without ever having been in court; and in this case, the merits of the question in controversy were not presented to the court until the cause was remanded.\nHowever the matter may be viewed as to. Tucker, Wright, who is an innocent purchaser without notice, is surely entitled to a clear legal title to the land purchased under the deed of trust executed to secure the purchase money due to McLain. As to him the Bank clearly ought not to be permitted to set up a mere secret equity, if there be any, so as to affect his right.\nNot only has he a superior equity as purchaser, but as having paid to McLain the original purchase money for the lands: which payment was indispensably necessary to enable the Bank mort-gage to attach at all."
+  },
+  "file_name": "0515-01",
+  "first_page_order": 515,
+  "last_page_order": 524
+}

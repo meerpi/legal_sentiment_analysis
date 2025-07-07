@@ -1,0 +1,117 @@
+{
+  "id": 1862659,
+  "name": "Hill, McLean & Co., vs. Rucker",
+  "name_abbreviation": "Hill, McLean & Co. v. Rucker",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "706",
+  "last_page": "710",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 706"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Ala. 524",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        11256968
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ala/2/0524-01"
+      ]
+    },
+    {
+      "cite": "4 Ark. 525",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8729131
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/4/0525-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 161",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726661
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0161-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 72",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726361,
+        8726379
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0072-01",
+        "/ark/5/0072-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 429,
+    "char_count": 7736,
+    "ocr_confidence": 0.527,
+    "pagerank": {
+      "raw": 8.919770448045891e-08,
+      "percentile": 0.5004542735889235
+    },
+    "sha256": "a6549934305cc9c60dcb4e2206001db72503eb695ccd28e902fe992e187e9b08",
+    "simhash": "1:bec5c78a53841fa7",
+    "word_count": 1369
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hill, McLean & Co., vs. Rucker."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins,\ndelivered the opinion of the Court.\nThis was an action of assumpsit by Hill, McLean & Co , against the appellee. The declaration contains the common counts for goods sold and delivered, money paid, for interest and on account stated. The only evidence adduced to sustain the action was the deposition of a witness, taken in New Orleans, who states, \u201cthat the account marked A, hereto annexed, showing a balance due to Hill, McLean & Co., of five hundred and forty-seven dollars and fifty cents, by Edmond P. Rucker is correct;\u201d and he also annexed to his deposition the invoices marked B, and three hills of lading marked 1, 2 and 3. The same witness further stated that it is customary for commission merchants to charge eight per cent, interest on open accounts. The ac count exhibited shows the total amount of debits, as stated by the witness, but there are no credits appearing, so as to make that amount a balance, or from which any recognition of the correctness of the account by the defendant could be inferred. The exhibit B consists of bills of goods, some of which appear to have been consigned to A. Hays, Napoleon, for account of E. P. Ruck-er, Rucker\u2019s Landing, Arkansas river; and another portion to J. A. McAlister & Co., Nashville, for account of E. P. Rucker. The copies exhibited of the bills of lading, show that certain goods were shipped by Hill, McLean & Co., at New Orleans, some of them on the Cotton Plant, marked \u201cE. P. Rucker,\u201d and consigned to Hays, at Napoleon, and another portion on the Harry Hill, marked \u201cM. L. Rucker, Murphreesboro, Tennessee,\u201d consigned to McAlister & Co., at Nashville. In the account, the items are charged during the month of July 1847, the invoices are without date, and the bills of lading are dated in November and December, 1847. The plaintiffs also proved, by another witness, that the defendant, Rucker, was a planter on the Arkansas river in the year 1847. This being all the evidence in the case, the court instructed the jury, that they should find for the defendant, unless the plaintiffs have proven either that the defendant ordered the goods, or that he received them, and that the shipment of the goods and taking bills of lading therefor, in the manner shown by the deposition referred to, is not sufficient evidence of a receipt of them by the defendant, but there must be proof of an actual receipt of the goods by him, if they were not ordered.\nSuch, in substance, was the instruction given, the propriety of which is not questioned; but it appears that the court, in response to an- enquiry from the jury, told them, that the deposition was evidence, but not sufficient for them to find a verdict for the plaintiffs, who should have proved that the defendant had either ordered or received the goods: and it is argued, for the appellants that such- charge, in- the terms given,, was- an invasion by the court below of the province of the jury.\nAccording to the settled practice in this State, the court has no power to order a peremptory non-suit, Martin & Van Horne vs. Webb, 5 Ark. 72. Ringo vs. Field, 1 Eng. 48, but the practice has prevailed for the court, sitting as a jury, or the jury under instructions from the court, to find as in case of non-suit, which is a determination of the case upon the merits as presented by the evidence, a bar to any future action for the same cause, and to which error lies, Fagan vs. Faulkner, 5 Ark. 161. Cocke vs. Brogan, ib. 694. Palmer & Southmayd vs. Ashley & Ringo, 3 ib. 75, though the correctness of it was doubted in Goodrich vs. Fritz, 4 Ark. 525, and in Carr vs. Crain, 2 Eng. 249, repeated in The State use &c., vs. Roper, 3 ib. 493, the court said, \u201c The correct motion is to instruct the jury that if the evidence has not proved a matter necessary to be proven, they must find for the defendant,\u201d though in the two last cases mentioned, the distinction does not appear to be noticed, that to order a non-suit is to say the jury shall not pass on the evidence, while the letter authority is that the court has not this power, and that the plaintiff has the right to have the jury pass on his case, and to be concluded if he will by the judgment, which being final entitles him to a revision in the appellate court. But to instruct the jury to find as in, case of non-suit, is only the opinion of the court.that the plaintiff has failed to make out his case in evidence, and so far from taking the case from the jury is every way favorable to the plaintiff, because it is analogous to a demurrer to evidence, where all-legitimate presumptions of fact are to be indulged in favor of the evidence.\nThere is therefore no real discrepancy between the cases adverted to, and they all tend to establish, that however dangerous it may be for a defendant to ask the court to instruct the jury to' find as in case of non-suit, or that the plaintiff has failed to make out his case in evidence, it is no assumption of power for the court-to give such an instruction, the only question being whether it was properly given. In this case the real truth may be, that the defendant was resisting payment of a just demand, and that the apparent inconsistencies in the deposition could have been reconciled and any defect of proof supplied by further testimony; but according to the case presented on the record, the jury could not-have been justified by the evidence in finding a verdict for the plaintiffs, and consequently the expression of such an opinion by the court was erroneous. The statement of the witness who deposed that the account exhibited showing a certain balance due the plaintiffs from the defendant was correct, might have been honestly made, as appearing to him from the books of the plaintiffs; but it cannot be stretched to mean that the witness was personally cognizant of the transactions about which he testified, or to amount to proof that the defendant, not shown to have received the goods, had ordered or bargained for them, so as to be1come chargeable for their value by the delivery of them to a carrier.\nJudgment affirmed.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins,"
+      }
+    ],
+    "attorneys": [
+      "Trapnall, for the appellant.",
+      "Pike & Cummins, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Hill, McLean & Co., vs. Rucker.\nThe Circuit Court has no power to order a peremptory non-suit: but it is no assumption of power in the court to instruct the jury to find as in case of non-snit, or that the plaintiff has failed to make out his case in evidence.\nIn an action for goods sold, the deposition of a witness, exhibiting the account with the bills of lading, that \"the account is correct/\u2019 though honestly made as appearing to him from the books of the plaintiff, cannot mean that the witness was personally cognizant of the transaction, or amount to proof that the defendant, not shown to have received the goods, had ordered or bargained for them so as to become chargeable for their value by delivery of them to a carrier.\nAppeal from the Circuit Court of Desha county'.\nHon. J. C. Murray, Circuit Judge, presiding.\nTrapnall, for the appellant.\nThe court evidently erred in giving the instruction to the jury that the deposition was some evidence but not sufficient for tliem to find a verdict: the plaintiff should have proved that the defendant had either ordered or received the goods: Because, 1st, The court transcended its authority and invaded the province of the jury who were the judges of the weight and sufficiency of the testimony, Jones vs. Yarborough, 2 Ala. 524. Trotter vs. Sanders et al. 7 /. /. Marsh. 321. 2d. The instruction was peremptory and left the jury no discretion.\nPike & Cummins, for appellee.\nNo new trial should be granted even if a mere error in law had occurred, because upon the evidence, the plaintiffs were not entitled to recover. Main vs. Gordon, 7 Eng. 651. Sparks vs. Beaver, 6 Eng. 630."
+  },
+  "file_name": "0706-01",
+  "first_page_order": 706,
+  "last_page_order": 710
+}

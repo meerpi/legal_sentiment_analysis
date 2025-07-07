@@ -1,0 +1,68 @@
+{
+  "id": 1862660,
+  "name": "The State Bank vs. Byrd et al.",
+  "name_abbreviation": "State Bank v. Byrd",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "496",
+  "last_page": "499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 496"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 387,
+    "char_count": 6586,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 7.516764497825288e-08,
+      "percentile": 0.44695134735654474
+    },
+    "sha256": "eeccd0d2b54f77ce6736a8fbef62fccf7a54ff795986eca3781fe5a626a2279f",
+    "simhash": "1:36c9c2eb5e45e3ef",
+    "word_count": 1161
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Watkins, C. J., did not sit in this easel"
+    ],
+    "parties": [
+      "The State Bank vs. Byrd et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Scott,\ndelivered the opinion of the court.\nOn the 3d day of October, 1851, the Bank declared in debt upon a promissory note made by the defendant,- on the 22d day of November, 1843, payable 12 months after date. There was but one count in the declaration. The defendant by plea interposed the statute of limitation.\nThe Bank replied, first; That on the day of the execution of the note the defendants, together with their wives, executed a mortgage to her, upon certain real estate, to secure the debt sued ' for; in which it was recited that by the rules and regulations of the Bank the note in question was payable in nine annual installments, the first payable twelve months after the date thereof, at which time, in addition thereto, twelve months interest was to be paid in advance on the residue of the debt, and so on from year to year until the whole debt should be paid, and providing that in case the payments were so regularly made, that the conveyance should be void, but on failure in all or either of said payments, the sheriff of Pulaski county should sell and convey the mortgaged premises and apply the proceeds to the payment of the debt; and averring that on the 1st March, A. D. 1848, the debt being then wholly in arrears, neither the first nor any sub1 sequent instalment or any interest having been paid, the sheriff, in pursuance of the request of the Bank and of the provisions of the mortgage, advertised a sale of the mortgaged premises, to take place in September following; whereupon Trapnali, claiming to be the owner of the mortgaged premises, filed a bill against the Bank, and procured an injunction restraining the Bank and the sheriff from proceeding any further with the sale, and that the bill is still pending and undetermined, and the injunction remains in force, by means whereof, as is alleged, the Bank was prevented from pursuing her remedy on the note aforesaid.\nThe second replication avers that the mortgage was made cotemporaneously with the note declared upon, as part and parcel of the same transaction, to secure the payment of the debt, and that in the mortgage deed it was stipulated and declared that said note was payable in nine annual instalments, the first payable the 22d November, A- D. 1844, with interest, in advance on the residue of the debt, and yearly thereafter as set out in the first replication, and that the Bank accepted the mortgage, and that the same is still in force and in no way satisfied.\nAfter oyer of the mortgage deed had been craved and granted, the defendant demurred to both replications, in which the plaintiff joined; and the law having been found for the defendant and the plaintiff electing to rest, judgment was rendered for the defendant, and the Bank brought her case here by writ of error.\nThe Bank seems to rely in this court exclusively upon her first replication, and cites in support of it the twenty-seventh section-of the limitation statute, {Dig, ch. 99, p. 700), which provides that-\u201cwhenever the commencement of any suit shall be stayed by an-injunction of any court of equity, the time during which such in-junction shall be in force, shall not be deemed any portion of the-time in this act limited for the commencement of such suit.\u201d \u2018 If the Bank was proceeding to foreclose her mortgage, and the sta-tute of limitations had been interposed, this provision of the sta-tute might, with more plausibility have been relied upon; but we think it clear that it cannot avail her, to displace the bar in this case, where she is preceding at law to recover the debt that was intended to be secured by the mortgage. The replication does not set.up that the Bank was enjoined from commencing any action to recover the debt, but from any \u201cfurther proceedings in the matter of said- sale,\u201d and \u201crestraining the said Bank and the said sheriff from- selling said lots.\u201d For aught that appears to the contrary in the replication, the Bank might have commenced a suit at law, to recover the debt for which the mortgage was but a security, at any time for near seven years, next before this action was commenced; and indeed this suit was commenced and is still prosecuted, as appears by this replication, pending the very injunction pleaded in avoidance of the statute bar. It was the remedy in rem only, that was enjoiued, not the independent remedy in personam, now sought in vain by reason of the statute bar, which lapse of time has enabled the defendants effectually to interpose against it.\nThe second replication is equally bad,-because it does not set up any matter in support of the promise declared-upon, but a different contract, which, if effectual for the purpose- for which it is-set up, would be equally effectual to show that the Bank had no right to maintain an action of debt at all, when this one was commenced. (State vs. Scoggin, 5 Eng. R. 331).\nJudgment affirmed.\nWatkins, C. J., did not sit in this easel",
+        "type": "majority",
+        "author": "Mr. Justice Scott,"
+      }
+    ],
+    "attorneys": [
+      "S. H. Hempstead, for the plaintiff.",
+      "Curran, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "The State Bank vs. Byrd et al.\nPelt, 3d October, 1851, on promissory note payable 12 months after 22d November, 1843. Plea, statute of limitations.\nlsi Replication, That the makers of the note, on the day of its date, executed a mortgage on real estate to secure it which recited that by the rules of the Bank the note was payable in 9 annual instalments, and provided for a sale on failure to pay all or either instalment: That on the 1st March, 1848, no instalment having been paid, the mortgaged premises were advertised for sale: That on bill in. Chancery by a third person, an injunction, which is still in force, was issued to restrain the sale:\n2d Replication. Setting up the mortgage as having been made contemporaneously with the note and as a part of the same transaction; and averring that the Bank accepted the mortgage, and that the same was still in force and noVsatisfied:\nHell. That the first replication was insufficient, because it was the remedy in rem only, tliat was enjoined: That the second was also bad, because the matter set up was not in support of the promise declared upon, but was a different contract.\nError to the Circuit Court of Pulaski county.\nThe Hon. W. H. Feidd, Circuit Judge, presiding.\nS. H. Hempstead, for the plaintiff.\nThe replication shows that an injunction was granted, which suspended the operation of the statute, sec. 27, ch. 99, Dig.\nCurran, for the defendant.\nThe replication was a plain departure in pleading. Goulcl\u2019s PI. ch. 8, part 3, sects. 65; et seq.\nA mortgagee may sue athhe same time on his bond at law, and on his mortgage in equity. Jones 41 Jones vs. Coade and wife, 6 J. C. R. 77. 10 ib. 482."
+  },
+  "file_name": "0496-01",
+  "first_page_order": 496,
+  "last_page_order": 499
+}

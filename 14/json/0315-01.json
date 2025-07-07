@@ -1,0 +1,331 @@
+{
+  "id": 1862652,
+  "name": "Williams vs. Green",
+  "name_abbreviation": "Williams v. Green",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "315",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 315"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "7 Mass. 265",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        1999445
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/7/0223-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. Rep. 443",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070942
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/18/0450-01"
+      ]
+    },
+    {
+      "cite": "6 Black. 206",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 J. J. Marsh. 49",
+      "category": "reporters:state",
+      "reporter": "J.J. Marsh.",
+      "case_ids": [
+        8518039
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/25/0049-01"
+      ]
+    },
+    {
+      "cite": "13 Wend. 587",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2015711
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/13/0587-01"
+      ]
+    },
+    {
+      "cite": "14 Maine 250",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        1528407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/14/0250-01"
+      ]
+    },
+    {
+      "cite": "7 Conn. 291",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6753507
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/7/0291-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 318",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8727259
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/5/0318-01"
+      ]
+    },
+    {
+      "cite": "6 Humph. 186",
+      "category": "reporters:state",
+      "reporter": "Hum.",
+      "case_ids": [
+        11266704
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/25/0186-01"
+      ]
+    },
+    {
+      "cite": "1 Denio 464",
+      "category": "reporters:state",
+      "reporter": "Denio",
+      "case_ids": [
+        483963
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/denio/1/0464-01"
+      ]
+    },
+    {
+      "cite": "22 Wend. 163",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2153264
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/22/0163-01"
+      ]
+    },
+    {
+      "cite": "2 Dallas 252",
+      "category": "reporters:scotus_early",
+      "reporter": "Dallas",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Wend. 393",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        11270344
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/12/0393-01"
+      ]
+    },
+    {
+      "cite": "24 Wend. 244",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2155217
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/24/0244-01"
+      ]
+    },
+    {
+      "cite": "7 John. 72",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369119
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/7/0072-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. 433",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/4/0380-01"
+      ]
+    },
+    {
+      "cite": "16 Serg. & Rawle 320",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1816640
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/16/0320-01"
+      ]
+    },
+    {
+      "cite": "11 Mass. 76",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2053405
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/11/0077-01"
+      ]
+    },
+    {
+      "cite": "7 Wheaton 13",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1503000
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/20/0013-01"
+      ]
+    },
+    {
+      "cite": "17 Pick. 573",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Wend. 468",
+      "category": "reporters:state",
+      "reporter": "Wend.",
+      "case_ids": [
+        2005509
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wend/4/0468-01"
+      ]
+    },
+    {
+      "cite": "8 Mass. 223",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2028572
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/8/0188-01"
+      ]
+    },
+    {
+      "cite": "1 Pick. Rep. 443",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2070942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/18/0450-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1370,
+    "char_count": 31701,
+    "ocr_confidence": 0.523,
+    "pagerank": {
+      "raw": 4.6455824879641253e-07,
+      "percentile": 0.9271945970595197
+    },
+    "sha256": "619db665e180adc7e05a24349821ebaa29e820e6757ef0a28265568e61247ade",
+    "simhash": "1:afb2a03218a2f02f",
+    "word_count": 5562
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Williams vs. Green."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins\ndelivered the opinion of the Court.\nThis was an action of covenant, brought by Williams against Green, upon an article of agreement entered into between them on the 6th of October, 1852, for the sale of a tract of land and improvements: the substance of the agreement, so far as necessary to be here stated, being, that Williams traded and bargained to Green a certain tract of land, containing forty-five acres more or less, the price to be thirty dollars per acre for the land, with the addition of the value of the improvements upon it, such valuation to be made by two persons named in the article, and for which payment was to be made in goods of Green, then in store, consisting of groceries, hardware; &c., at the original cost, with the addition of freight on certain of the articles, and the balance of the payment for the land to be made in good mules at cash valuation. The. agreement concludes as follows : \u201cIn wdtness of the above trade we hereby set our hands and seals, and on forfeiture of complying with it on the part of either Green or Williams, we hereby bind ourselves, our heirs, &c., in the sum of five hundred dollars, to be well and truly paid. In testimony whereof, &c.\nThe declaration, after setting out the execution of the agreement, proceeds to aver that Waters and Grayson, the persons named therein, valued the improvements referred to, at a certain sum of money, of which the defendant had notice, and that, on the 20th day of the same month, Williams and wife made and acknowledged their deed of conveyance in fee, of the land and improvements to Green, expressed to be for the gross consideration of $1,636, with covenant of general warranty and relinquishment of dower, and tendered the same to Green, who refused to-accept it, or to comply in any respect with the agreement on his part. Therefore, according to what seems to be the intention of the pleader, though somewhat inartificially expressed, the plaintiff cl aims to recover the specified sum of five hundred dollars agreed to be paid by either party, on forfeiture of complying with the trade.\nThe case went off in the court below upon demurrer sustained to the declaration. One of the causes assigned for insufficiency, and again insisted upon here is, that the declaration avers a tender of the deed by the plaintiff to the plaintiff. Supposing this allegation to be in any way material, the whole tenor and the immediate context of the declaration show it to have been a mere clerical misprision, the amendment of which, if any amendment was needed, could occasion no surprise to the defendant; and the objection is only noticed because it has been urged by counsel.\nBut under the clause of general demurrer, and treating the action as being brought to recover the sum of five hundred dollars as stipulated damages, the question arises upon the construction of the instrument sued on, whether it was the intention of the parties to liquidate the damages consequent upon the failure of either party to comply with the agreement, or whether the clause quoted was designed as a mere penalty.\nIf there is any branch of the law, sometimes inveighed against for uncertainty, deserving of such a reproach, it is the subject we have here to consider. And though admonished by the caution evinced by other courts of the danger of attempting to lay down any general rule for cases of this description, it seems to be necessary, in order to explain the grounds of our decision, to notice, albeit in a cursory and unsatisfactory manner, the principles which may affect the question to be decided.\nAnciently, at the common law, the penalty named in a bond was a security for the performance of the condition annexed to it. Upon forfeiture of the condition the obligee was entitled to recover the penalty, which was at the same time the utmost limit and beyond which the obligor\u2019s liability could not be extended. To obviate the hardship and injustice often growing out of this stubborn rule, arose one of the early jurisdictions of courts of equity, to relieve against penalties and forfeitures, by decreeing that the judgment for the penal sum should stand as a security for the payment by the obligor of such damages as the obligee had actually sustained, of which an account would be taken. The practical effect of .the English statute, re-enacted or tacitly adopted in this country, requiring the plaintiff suing upon a penal bond to suggest the breaches complained of, and entering a formal judgment for the penalty, to have execution only for the amount of damages assessed, the penalty being in the meantime considered as a security for any further breaches that might occur, was to enable courts of law to administer the same relief before afforded in chancery. There was no substantial difference between this form of the remedy and an action of covenant upon the condition and for some breach of it, disregarding the penalty; and it became reasonably apparent, that if the courts, for the protection of the obligor, looked to the actual damages sustained by the obligee, they should equally disregard the penalty in favor of the obligee, where his damages for a breach of the condition expressing the real contract of the parties, happened to exceed the penalty. While the law was undergoing this change in England, some curious illustrations may be found in the reported cases, of a halting between the old and the new opinion. Sometimes the obligor was allowed to relieve himself from all further liability for damages, by paying into court the amount of the penalty; though an unsubstantial compliance with the contract, as unreal as it would be to compel the obligee in all cases to accept such damages as might be awarded to him, without the right in any case to have a specific performance. Wherever we admit that the enquiry now at law, as in equity, is, what damages the obligee has really sustained by a breach of the condition, it would seem to follow that, as the obligor cannot, in any case, become liable for the penalty disregarding the condition, so he can claim no protection from it. And it would seem to be equally plain, that upon bonds with a condition, an action of covenant may be maintained for damages for a breach of the condition, whenever it contains an express or implied undertaking to do or not to do the particular act. The plaintiff in such case will recover damages commensurate with the injury he has sustained. True, when the obligee brings debt for the penalty, assigning breaches for the condition, he may not, owing to the technical form of the remedy, be enabled to recover damages to an amount exceeding the penalty; and upon official bonds, and so far as the rights of securities are to be affected, recoveries against them might not be enforced to an amount exceeding the penalty which is for their protection.\nBut while courts of equity afford relief against penalties, they will not relieve against liquidated damages. As penalties became unavailing, because the obligee, not entitled to or not seeking a specific performance, was required to accept a compensation in damages for such injury as he could show he had sustained, a new reform of contract was resorted to, whereby the parties anticipated and agreed in advance, for a certain amount of damages which would be accepted as a full compensation for such injury as might be sustained by a breach of the contract. Many cases may be supposed where it would be altogether proper and expedient to allow the damages to be thus stipulated. Prudent men understanding their own affairs, might not be willing to run the risk of a failure of evidence to prove their situation and inducements for entering into the contract, or trace the various sources from whence injury or inconvenience was expected to result. The obligor and obligee, though for opposite reasons, might be equally unwilling to submit the question of uncertain damages to any arbitration or the precarious assessment of a jury. No court has been bold enough to deny to parties capable of contracting the right to make such contracts as they choose to enter into, in any mode authorized by law, provided they be not illegal, immoral, or against public policy.\nBut contracts for stipulated damages are narrowly watched, because of the facility they may afford of being used as a cover for penalties in disguise. One of the inflexible rules of law on this subject is, that whenever the sum agreed to be paid, though expressed as stipulated damages, is in lieu of the non-payment of a lesser sum, certain or capable of being ascertained from the terms of the contract, it is construed to be a penalty. Besides violating the usury laws, such a contract could not be enforced, as stipulated damages, because it would become a mere subterfuge and evasion of the equitable doctrine of relieving against bonds with a penalty, conditioned for the payment of money. Germain to this is the rule, equally inflexible, that the mortgagor will not be allowed by any shift or device; to cut himself off from the equity of redemption. Though the creditor, where a high standard of commercial integrity prevails, may be ruined by his debtor\u2019s want of punctuality, the law has fixed a certain rate of interest as a compensation for the use of money. This principle distinctly stated in Orr vs. Churchil, 1 Hen. Black., pervades all the cases.\nOn the other hand, where the damages are in their nature uncertain and difficult of ascertainment, the amount to be paid may be stipulated by the terms of the contract; as for breach of agreement to marry a particular person. Lowe vs. Peers, 4 Burr. 2225. So of agreement not to cany on a rival trade or business, within certain limits, where the breach may consist in acts of frequent recurrence, and the damages are in some degree Conjectural. Crisdee vs. Bolton, 3 Car. & Payne, 240, where Best, C. J. refused to subscribe to the doctrine attributed to Ld. Tentenden, in Randall vs. Everett, 2 ib. 577, and advocated strongly the right of parties to stipulate for their damages. See also Green vs. Price, 13 Mes. & Welsby 695, S. C. 16 ib. 346. Pierce vs. Fuller, 8 Mass. 223. Nobles vs. Bates, 7 Cowen, 307. Smith vs. Smith, 4 Wend. 468. Dakin vs. Williams, 17 ib. 448. S. C. 22 ib. 201. So for demurrage or delay while work shall remain unfinished, which is agreed to be done by a certain time. Fletcher vs. Dycke, 2 T. R. 10, followed in this country by Curtis vs. Brewer, 17 Pick. 573. And a landlord may stipulate for a particular course of husbandry, according to his supposed interest or caprice, and that if the tenant use the land differently he shall pay an increased rate of rent. Rolfe vs. Peterson, 6 Brown's P. C. 470. So if he fail to reside on the estate. Ponsonby vs. Adams, ib. 417.\nAt the same time, the aversion of the law to the enforcement of penalties, has induced the courts to lean in favor of the construction that the sum reserved should be held to be a penalty in cases where, upon the whole contract, there was a doubt whether the parties intended it tobe paid as stipulated damages. We have seen that the insertion of a penalty has become of little or no practical utility, and in this State where specialty debts have no preference over other debts due by simple contract, it could hardly be maintained that a penalty ailords any security whatever: so that the reason fails, for the criterion sometimes laid down, that where the sum agreed to be paid is to secure the performance of some collateral act, it will be construed as a penalty. Yet while the form of bonds with a penalty continues to be kept up in public legislation, and men in their private dealings adhere to ancient forms, the mutual observance by the parties of such formality materially influences the construction to be given to the contract. There arc many cases, where on the question of intention the construction turned, to a greater or less degree, upon the adherence to the form of a penal bond with a condition, or the use of the word penalty, or penal sum. Smith vs. Dickinson, 3 Bos. & Pul. 630. Davis vs. Renton, 6 B. & C. 216. Tayloe vs. Sandeford, 7 Wheaton 13. Perkins vs. Lyman, 11 Mass. 76. Merrill vs. Merrill, 15 ib. 488. Stearnes vs. Barrett, 1 Pick. 443. Brown vs. Bellows, 4 ib. 178. Robeson vs. Whitesides, 16 Serg. & Rawle 320. Abrams vs. Counts, 4 Ham. 214. So Buller, J., said in Fletcher vs. Dyche, that where there is a penalty in a bond, it would be strange for the sum mentioned .in the condition to be called a penalty. While the case of Sloman vs. Walter, 1 Brown Chy. Cases, asserts the undoubted jurisdiction of courts of equity, to relieve against penalties, it might be questioned if that, occurring at this day, would not be considered a proper case for liquidated damages, and would have to be upheld as a penalty upon the ground stated by Ld. Eldon, in Astley vs. Weldon, (infra,) that there, by the form of the instrument, the sum appeared to be a penalty. But the indications given by the form of the contract, or the expressions used, of an intention to stipulate the damages, or to reserve a penalty merely, are not conclusive, and may be controlled by a contrary intention manifestly appearing from the tenor of the instrument, and the object the parties must have had in view.\nIt would seem to be clear that the acceptance of stipulated damages, which have been agreed upon as an adequate compensation for the breach of a covenant to do or not to do any particular act, is an extinguishment of all claim to additional damages, or for further breaches, and is an implied license to the defendant to do or not to do the act, because, if the obligee had any right in such case, to have a specific performance, he has waived it by electing to proceed for the damages. In some of the cases it appears to be taken for granted, that in order to constitute liquidated damages, the covenantor must have the option of complying with the contract, or paying the alternative compensation agreed upon. White vs Dingly, 4 Mass. 433. Glosson vs. Beadle, 7 John. 72. Hasbrook vs. Tappan, 15 id. 200. Gray vs. Crosby, 18 ib. 219. Pearson vs. Williams, 24 Wend. 244. S. C. 26 ib. 630. The covenantee has the right to insist upon entire performance, or the stipulated damages in lieu of it; but where there is a part performance, or acceptance of a benefit under the contract, the agreement for stipulated damages is broken up. As a compensation, it would have to be apportioned according to the extent of the performance. The cases to this effect depend upon the analogous principle, that the vendee in possession cannot i:esist the payment of the purchase money, or if allowed to set up a partial failure of consideration, a proportionate share of it, because he did not get all he contracted for. Sprite vs. Taylor, 5 Metcalf 61. Ayres vs. Pease, 12 Wend. 393. Skinner vs. White, 17 Johnson, 357. Dyer vs. Dorsey, 1 Gill & John. 440. Watts vs. Shepherd, [2] Ala. 425. Gower vs. Saltmarsh, 11 Missouri 271. And in Bright vs. Rowland, 3 Howard Miss. 398, the decision against stipulated damages was influenced by the supposition that, in the event of partial performance of an entire contract, the defendant would remain subject to pay the entire amount stipulated, and which would then become in the nature of a penalty.\nThe expression of Heath, J., in Astley vs. Weldon, 2 Bos. & Pnl. 346, that \u201cwhere articles contain covenants for the perform anee of several things, and then one large sum is stated at the end, to be paid upon breach of performance, that must be considered as a penalty,\u201d though often quoted, furnishes a rule of very limited application to such contracts. It is demonstrated by the subsequent cases in England that it is no objection to an agreement for stipulated damages, where there are several acts to be done or abstained from, because they appear to vary in importance. Unless the right of parties so to contract is denied, the only effect of such a rule would be to require parties to be more specific in making the stipulation apply to the breach of each separate undertaking. In Kemble vs. Farren, 6 Bingham 141, the agreement provided for mutual acts to be done, of different degrees of importance, some of them being the payment of small sums of money by way of salary, with a clause, \u201cthat if either of the parties should neglect or refuse to fulfill the said agreement, or any part thereof, or any stipulation therein contained, such party should pay to the other, the sum of 1000 L., to which sum it was thereby agreed that the damages sustained by such omission, neglect or refusal should amount: and which sum was thereby declared by the said parties to be liquidated and ascertained damages, and not as a penalty, or penal sum, or in the nature of one.\u201d The draughtsman of this instrument certainly had endeavored to take the distinction adverted to by Ld. Tenterden in Davis vs. Renton, between a penalty and liquidated damages, and though it was likened to Astley vs. Weldon, C. J. Tindall, put the case upon the ground, equally applicable to Astley vs. Weldon, that by it a large sum of money might become payable in consequence of the non-payment of a smaller sum. So that, however clear the intention of the parties might be, as expressed, it was not allowable for them to contract in that way. The decision in Boys vs. Ancel, 5 Bing. N. C. 390, really turned upon the same distinction, because either party might have become liable to pay the sum of 500 L., as stipulated damages, in default of paying a trifling amount, being his part of the expense of having the papers prepared. To the same effect is Horner vs. Flintoff, 9 Mees. & Welsby 678. In Atkyns vs. Kennear, 4 Exch. 776, the defendant was bound by the covenant to do and abstain from various things, and of varying importance, for any infringement of which he was to pay the plaintiff 1000?. as liquidated damages. The breach alleged was, that the defendant, contrary to the agreement, had resided within a prescribed distance. Parke B. thought that the covenant against mere residence within the prohibited limits, would be good, and it was immaterial whether the plaintiff had sustained any damage fi-om the breach of it or not, because the non-performance imports damage; and, he with the rest of the court, wholly disregarded the circumstance that, in that case, some of the covenants seemed to be of minor importance, provided the damages resulting from any breach of them would be uncertain, and the parties had chosen to attach consequence to a breach of them, even to the extent of 10,000?.; because, as said by Aederson B., \u201cWe cannot say they are wrong inasmuch as the damages are uncertain.\u201d While this case, on the whole, concedes the authority of Kemble vs. Farren, by referring it to the principle that damages cannot be stipulated for the non-payment of a lesser sum; and upon the question of intention, that where the amount stipulated for the breach of several covenants is a penalty as to any one, it is to be construed as a penalty for all, it is a distinct, and strong affirmation of the untrammelled right of parties to stipulate for damages in all cases where it is lawful to do so.\nThere are some cases, and it would be strange if there were none in a department of the law undergoing so many'transitions, which it would be difficult to reconcile or approve as precedents, upon any settled principle. Thus, of the case of Perrit vs. Wallis, 2 Dallas 252, it is to be inferred that the plaintiff claimed and prove actual damages to an amount exceeding the penalty and disregarding it. In Hoag vs. McGinnis, 22 Wend. 163, and Spear vs. Smith, 1 Denio 464, stipulated damages, in the event of failure to abide an award, were held to be penalties, partly because it seemed an innovation upon the usual course of such submission, which the parties were presumed to have intended to follow and partly because the sole object of the submission was to ascertain how much was due from either party to the other, and so liquidate the damages in that mode, and which might prove to be a less sum than the damages stipulated. In Baird vs. Tollion, 6 Humph. 186, the defendants received of the plaintiff four five per cent. State bonds, to be returned within twelve months, orpay him $4,000. On a suspicion of usury, which was not pleaded, the court appear to have treated the alternative sum as a penalty, though in the absence of any proof showing that the transaction was a cover for usury, it would be questionable if it ought to have been presumed, because, whether the receipt of the four thousand dollars, in State bonds, was a loan or sale of them, on time, the transaction might be a fair one, as an exchange of securities, where the plaintiff lost the interest, and the defendant \u2019took upon himself the risk of appreciation of the State bonds.According to the authority of that case there were lurking penalties in Gregory vs. Bewley, 5 Ark. 318, Hoys vs. Tuttle, 3 Eng. 125, and Bizzell vs. Blevins, ib. 138, where the substance of the contract was to pay a certain amount of Arkansas Bank notes, \u2022 by a given time, and in default of doing so; to pay a like sum in. money, and they were held to be undertakings in the alternative-to deliver property or pay money.\nThe debatable ground is, whether parties will be allowed to1 stipulate for damages, where from the nature of the act to be done or omitted, the damages are uncertain, though not in their nature wholly uncertain or even difficult of ascertainment or approximation; such as executory contracts for the sale or lease of realty, or to deliver chattels. The difficulty arises out of those cases where the courts have undertaken to judge of the contract, whether the sum stipulated be reasonable or unreasonable for the parties to have agreed to, and presume their intention to have been accordingly. Dennis vs. Cummins, 3 John. cases 297, Curry vs. Larer, 3 Barr. 340, Spencer vs. Tilden, 5 Cowen 144, adopted in Watts vs. Shepherd, and Perkins vs. Lyman, are of that character. In Spencer vs. Tilden, although the contract was not usurious, the extraneous facts had been brought before the-court, under a plea of usury, and no doubt influenced the decision. In Perkins vs. Lyman it is intimated that in the construction of contracts, in order to determine between a penalty and liquidated damages, the court may be aided by circumstances extraneous to the writing. We apprehend there ought to be no difference between this and any other species of contract, where the writing furnishes the rule of interpretation, subject to the explanation of latent ambiguities, or the meaning of the words with reference to any local usage. If a defendant could show a clear case of stipulated damages to be a penalty, he could only do so on the principle that a party may go into equity to have a conditional sale established as a mortgage. When the execution of the contract is denied, or it is impeached for want of consideration, or for usury, for overreaching or fraud in any of its protean shapes, all the attendant circumstances and inducements-are opened for proof, and then, any apparent inequality or gross unfairness on the face of the contract, would aid the proof of extrinsic facts in order to raise the presumption of fraud.\nThe argument for the exercise of such a discretion by the courts is, that the price agreed to be paid for the property, and which also has a market value, furnishes a ready standard according to which the purchaser can be compensated for the loss of his bargain. It would be true that, where the damages stipulated to be paid to the vendor exceeds the price agreed upon for the property, it would be void as a compensation, and could only stand as a penalty for the non-payment of a lesser sum. That was the case in Moore vs. Platt, 8 Missouri 467. But the case of Glosson vs. Beadle, 7 John. 72, seems to go an extreme length 'the other way. There the defendant sold the plaintiff a tract of land for $500, and agreed to make him a good title to it within a year, or in lieu thereof to pay him $800. There the contract had been executed on the part of the plaintiff, by the payment of the purchase money, and the decision that he was entitled to recover the $800 as liquidated damages, could perhaps be upheld on the supposition that the vendor meant to stipulate a certain amount of damages, in case the title failed, to cover improvements made by the vendee during the year, instead of a return of the purchase money with interest, the ordinary measure of a breach of warranty, and in that view it was a proper subject for stipulated damages.\nThe argument stated could only affect the stipulation for damages to be paid to the vendor who had agreed to sell the property for its admitted value. But in Reilly vs. Jones, 1 Bing. 302. Tingley vs. Cutler, 7 Conn. 291, and Grammon vs. Howe, 14 Maine 250, upon agreements to lease or sell, the actions were brought by the party undertaking to lease or sell, and stipulated, damages recovered for failure to pay the purchase money, and without any enquiry whether the sum stipulated bore a reasonable proportion to the value of the property, although in stipulating the damages, the parties had provided a mode for the cancellation of the agreement, and the plaintiff would not only recover the damages, but keep his property. That the purchaser may recover stipulated damages for the non-compliance of the party undertaking to sell or lease, is well established. Knapp vs. Maltby, 13 Wend. 587. Chamberlain vs. Bagley, 11 N. Hamp. 234. Brewer vs. Edgerly, 13 ib. 275. Mead vs. Wheeler, ib. 351. Hasbrook vs. Tappan, before cited. Jenkins vs. Yates, 2 J. J. Marsh. 49. Hamilton vs. Overton, 6 Black. 206.\nAnd there is no good reason why the like rule should not apply to agreements for the sale or delivery of chattels of any particular description by a day certain! If for example, the contractor to build a ship may subject himself to the payment of stipulated damages, by way of demurrage, for failing to have it completed by the time specified, he ought to have the power to stipulate in like manner with those who may undertake to furnish the materials, that are to enter into its construction.\nOur impression is, that wherever the act to be done or abstained from, is other than the payment of money, the circumstance that the actual damages may be more or less easily susceptible of ascertainment, ought not to influence the construction of an \u2022agreement to be one way .or the other, a stipulation for damages or merely by way of penalty, Where the damages are at all uncertain or unliquidated, the parties ought to be allowed to anticipate and stipulate them if they choose to do so. Whenever courts attempt to take a distinction among contracts of this class, where no uniform or intelligible rule can be laid down to govern the distinction, they not only assume a most vexatious jurisdiction to reform the contracts of weak or sanguine men, but it tends to impair the confidence which all men ought to have in the obligation of contracts.\nThe strong desire of mankind to be permitted to act as free agents rebelled against the course of decision which disarmed a penalty of its terror, and as it ceased to afford a security for the performance of a contract, they resorted to agreements for stipulated damages, which under the idea of a compensation, grew up \u2022to be recognized as legitimate. The truth is, the real object of every stipulation for consequential damages, is to secure the performance of the contract itself, and but for the confusion of terms, it would be proper to say, that covenants to pay a certain amount of damages for the breach of any undertaking have, to the extent that they are allowable, taken the place of penalties; the only broad distinction being, and which prevails in chancery as .at law, between penalties or forfeitures for the non-payment of money, and those which are incurred by the failure to perform any other collateral act.\nUpon the case presented by the record here for adjudication, our conclusion, but with some hesitation, is, that according to any fair construction of the instrument sued upon, and in view of the rules of interpretation furnished by the decisions to which we have adverted, the plaintiff is entitled to recover the sum of five hundred dollars as stipulated damages. The word \u201cforfeiture,\u201d in the connection where it is used, obviously means a failure to comply with the agreement. It is true the parties have not used the term, stipulated or liquidated damages, expressive of a clear intention to negative the idea of a penalty; but on the other hand, the instrument hasnottheform of apenalbond, where the sum specified would exceed, being usually double the amount or value of the subject to which the contract related; and on the whole, we think these parties intended that the sum of five hundred dollars was to be paid by either party to the other, as an agreed compensation for such damages as would result from a refusal to comply with the trade. The price of the land was not to be paid in money, but in merchandize, some of it at the original cost, and in mules at a cash valuation. The plaintiif could not be expected to show by evidence what profits he might have made by the resale of the goods and the mules, or what other losses he may have sustained by so entire a disappointment in his contemplated arrangements. The series of acts to be done by either party, made up but one entire whole, which was the consumnjation of the trade. If at liberty to do so, we could not undertake to say that the sum here specified is unreasonable or disproportionate to the value of the property which, by the terms of the contract, was to be exchanged.\nThe judgment will be reversed, and the cause remanded with instructions that the demurrer be overruled, and the cause further proceeded in according to law, and not inconsistent with this opinion.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins"
+      }
+    ],
+    "attorneys": [
+      "Clendenin, for the appellant.",
+      "Jordan, for the appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Williams vs. Green.\nWhere there is an executory contract for an exchange of property, worth $1,600, and the parties agree, that on forfeiture of complying with the trade, on the part of either, they mutually bind themselves in the sum of $500, tobe well and truly paid; on the failure of either party to comply, the other is entitled to recover the sum specified as liquidated damages.\nAppeal fiom Yell Circuit Court.\nHon. W. H. Feild, Circuit Judge, presiding;\nClendenin, for the appellant.\nThe clerical mistake in averring that the plaintiff tendered the deed to the plaintiff, will be supplied by intendment, or is only ground of special demurrer. 1 Ch. 287.\nThe covenant here sued on is for the purchase and sale of land with stipulated damages, for the non-performance by either of the parties; the consideration for which, could not be enquired into upon demurrer.\nJordan, for the appellee.\nThe averment that plaintiff tendered the deed to the plaintiff instead of the defendant, is good ground of demurrer. FLarvy vs. Stokes, Willes Rep. 5. 1 Ch. PI. 256, (8 Am. Ed.) ib. 248, 262. Phillips vs. Rice Sf Eugre, Cro. Jac. 13.\nThat the sum specified in the bond was intended by the parties as a penalty merely, and not as liquidated damages. Chit, on Con. 863, et seq., (8 Am. Ed.) Astlyvs. Weldon, 2 Bos. SfPid. 346. Kemble vs. Farren, 6 Bing. 141, also 19 Eng. Com. L. Rep. 34. Boys vs. Ancel, 7 Scott 364. 5 Bing. N. C. 390. Stearns vs. Barrett, 1 Pick. Rep. 443. Brown vs. Bellows, 4 ib. 179. IIpham vs. Smith, 7 Mass. 265. Pierce vs. Fuller, 8 ib. 223. Per* kins vs. Lyman, 11 ib. 76. Merrill vs. Merrill, 15 ib. 488. Dennis vs. Cummins, 3 John. Cas. 297. 3 Stark. Ev. 852."
+  },
+  "file_name": "0315-01",
+  "first_page_order": 315,
+  "last_page_order": 329
+}

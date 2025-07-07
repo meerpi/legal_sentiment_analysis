@@ -1,0 +1,59 @@
+{
+  "id": 1862622,
+  "name": "Block vs. Perkins",
+  "name_abbreviation": "Block v. Perkins",
+  "decision_date": "1853-07",
+  "docket_number": "",
+  "first_page": "179",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "ocr_confidence": 0.634,
+    "sha256": "ddb57a74efb090320ba3caa806b5c000fc38fe122b568be727ff046ede53568e",
+    "simhash": "1:c52ee901380d538b",
+    "word_count": 23
+  },
+  "last_updated": "2023-07-14T15:22:52.336774+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Block vs. Perkins."
+    ],
+    "opinions": [
+      {
+        "text": "Judgment affirmed upon the principle decided in Evans vs. White et al. 7 Eng. 133.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Block vs. Perkins.\n\u2022 Appeal from Hempstead Circuit Court."
+  },
+  "file_name": "0179-01",
+  "first_page_order": 177,
+  "last_page_order": 177
+}

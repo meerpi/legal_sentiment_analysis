@@ -1,0 +1,72 @@
+{
+  "id": 1862715,
+  "name": "The State vs. Vaughan et al.",
+  "name_abbreviation": "State v. Vaughan",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "424",
+  "last_page": "425",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "13 Ark. 390",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 1846,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 1.4116373719054533e-07,
+      "percentile": 0.6470699643106606
+    },
+    "sha256": "aa85a421e9162bb779fd72cf73237c251b91c5515b630e8efb8cdf5b8fcae00c",
+    "simhash": "1:8871c6b36f4b870e",
+    "word_count": 315
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. Vaughan et al."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Justice Walker.,\ndelivered the opinion of the Court!\nAn interlocutory judgment was rendered against the defendants upon a recognizance conditioned that defendant, Vaughan, should appear at the Madison Circuit Court, and answer to an indictment for gaming; and separate writs of scire facias issued against them, directed to the sheriff of Madison, the county in which the defendants resided. At the return term, upon the motion of Yaughan, these writs were quashed upon the ground, that a single writ, and not separate writs, should have issued. But no further judgment appears to have been rendered.\nThe State has brought this case before us on appeal; but there is evidently no final j udgment of the Circuit Court, from which an appeal might be taken to this court. If the State had desired to test the correctness of the-decision of the Circuit Court, she should have refused to proceed further, and suffered final judgment to bo rendered, disposing of the whole case. The question is one of practice, and we. think, properly decided by the court below, and is sustained by State Bank vs. Terry et al. 13 Ark. 390.\nBut as there was .no final judgment in the court below, this court can acquire no jurisdiction by appeal.\nLet the appeal be dismissed-for want of jurisdiction.",
+        "type": "majority",
+        "author": "Mr. Justice Walker.,"
+      }
+    ],
+    "attorneys": [
+      "Mr. Attorney General J. J. Clendenin, for the appellant."
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. Vaughan et al.\nA judgment quashing a writ of scire facias upon a forfeited recognizance, is not a final'judgment, from which an appeal lies to this court. The plaintiff having the right to sue out an alias, the case was not out of court by the quashal of the writ; and unless she would elect to proceed no further, but resting upon her exception, suffer a judgment dismissing the suit, the decision quashing the writ is merely interlocutory.\nAppeal from, the Circuit Court of Madison county.\nMr. Attorney General J. J. Clendenin, for the appellant."
+  },
+  "file_name": "0424-01",
+  "first_page_order": 424,
+  "last_page_order": 425
+}

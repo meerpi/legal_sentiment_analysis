@@ -1,0 +1,85 @@
+{
+  "id": 1862696,
+  "name": "Butts use &c. vs. Grayson",
+  "name_abbreviation": "Butts v. Grayson",
+  "decision_date": "1854-01",
+  "docket_number": "",
+  "first_page": "445",
+  "last_page": "447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "14 Ark. 445"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ark.",
+    "id": 8808,
+    "name": "Arkansas Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 34,
+    "name_long": "Arkansas",
+    "name": "Ark."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Ark. 179",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726698
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ark/5/0179-01"
+      ]
+    },
+    {
+      "cite": "5 Ark. 249",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 272,
+    "char_count": 3889,
+    "ocr_confidence": 0.56,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.3920645566594809
+    },
+    "sha256": "cbbe7598b6a8065af92f95b104d02b6ec5abd8b36604378f7d5585209b961429",
+    "simhash": "1:e975f1a01e44a588",
+    "word_count": 680
+  },
+  "last_updated": "2024-02-27T19:00:39.729279+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Butts use &c. vs. Grayson."
+    ],
+    "opinions": [
+      {
+        "text": "Mr. Chief Justice Watkins,\ndelivered the opinion of the Court.\nThis was an action of debt upon a judgment. The plaintiff sued for the use of Frederick H. Cossitt, James M. Howard and Jno. H. Hill, partners, &c., under the firm of \u201c Cossitt, Howard & Hill,\u201d th\u00e9 amount of debt demanded being $112 85. The writ of summons, which issued upon the filing of the declaration, contained corresponding recitals. At the return term, the defendant appeared and demurred to the declaration. The demurrer being sustained, the plaintiff obtained leave to file an amended declaration, at the succeeding term, to which the cause was continued. By his amended declaration, the plaintiff professed to sue for the use of the same persons composing the firm of \u201cCossitt, Howard & Hill,\u201d except that the name of the latter was stated as Ira H. Hill, and the aggregate debt demanded was $113 \u25a060. For these supposed variances between the writ and the amended declaration, the defendant was allowed to file a plea in abatement of the writ. The plaintiff excepted to a decision of the court overruling his motion-to strike out the plea, and he resting upon this exception, the defendant had judgment.\nIn any view of the case, the plea ought to have been treated .as frivolous. The defendant being in court upon his demurrer, the writ of summons to bring him there had fulfilled its office. A variance between the writ and cause of action set forth in the declaration, to which he had appeared, was no longer available as a defence. Odle vs. Floyd & Erwin, 5 Ark. 249. For aught that appears the amendments were proper to be allowed in the discretion of the court for the furtherance of justice, of clerical misprisions in the first declaration, and not operating to the surprise or injury of the defendant, who acquiesced in them. The amended declaration set out the same cause of action as the former one, varying only as to an item of costs adjudged in the original suit. There being a plaintiff on the record, having the legal title and right to sue, he was under no obligation to disclose the name of the person for whose use the suit might have been brought. That was a precaution for the benefit of the cestui que trust, or equitable assignee of the claim, whose rights will be protected by courts of law against any fraudulent combination between the nominal plaintiff and the defendant. So, notwithstanding any misdescription of the equitable assignee, the defendant might well have pleaded and proved a payment to, or release by the real owner of the demand sued for; so that no substantial right of his could be impaired by any such mistake or omission in the declaration.\nThe cause will be remanded with instructions to sustain the motion to strike out the plea in abatement, and that the defendant be heard, o\u00ed he have any defence to the merits.",
+        "type": "majority",
+        "author": "Mr. Chief Justice Watkins,"
+      }
+    ],
+    "attorneys": [
+      "Jordan, for the plaintiff.",
+      "Clendenin, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Butts use &c. vs. Grayson.\nAfter an appearance and demurrer to the declaration, a plea in abatement for an alleged variance between the declaration and writ, is out of the order of pleading, and for this reason, should have been treated as frivolous and stricken from the files on motion of the plaintiff.\nWrit of Error to the Circuit Court of Yell county.\nThe Hon. W. H. Feii.d, Circuit Judge, presiding.\nJordan, for the plaintiff.\nThe plea in abatement was not filed in apt time \u2014 a demurrer had been filed, which is an abandonment of every defence in abatement. Fort vs. Hundley, 5 Ark. 179. 1 Eng. 172. 1 Gh. PI. 440.\nThe defendant having appeared to the action was precluded from filing a plea in abatement of the writ. Hixon vs. Weaver, 4 Eng. 133. 5 Eng. 428. ib. 646.\nClendenin, contra.\nOn filing an amended declaration, the plaintiff cannot bring new parties on the record, or declare for a larger amount than the defendant was commanded to answer in the writ. The plea was well taken and formal \u2014 no affidavit was required. Sec. 1, ch. 1, Dig."
+  },
+  "file_name": "0445-01",
+  "first_page_order": 445,
+  "last_page_order": 447
+}
