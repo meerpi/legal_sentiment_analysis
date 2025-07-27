@@ -1,8 +1,9 @@
 # Legal Sentiment Analysis
 
-This project provides a framework for performing sentiment analysis on legal documents. It offers two main approaches:
+This project provides a framework for performing sentiment analysis on legal documents. It offers three main approaches:
 1.  **IBM Watsonx.ai Integration**: Utilizes IBM's powerful AI capabilities for sentiment prediction, with data handling via IBM Cloud Object Storage (COS).
 2.  **Hugging Face Models**: Leverages open-source sentiment analysis models and instruction-tuned Large Language Models (LLMs) from Hugging Face for local execution.
+3.  **Google Gemini AI Fallback**: Provides a reliable fallback option when Watson API credits are exhausted or unavailable.
 
 The goal is to extract and analyze sentiment from legal texts, which can be crucial for understanding case outcomes, judicial opinions, or legal document nuances.
 
@@ -17,6 +18,10 @@ The goal is to extract and analyze sentiment from legal texts, which can be cruc
     *   Supports standard sentiment analysis models (e.g., `nlptown/bert-base-multilingual-uncased-sentiment`, `cardiffnlp/twitter-roberta-base-sentiment`).
     *   Includes functionality for prompt-based sentiment analysis using instruction-tuned LLMs (e.g., `sshleifer/distilbart-cnn-12-6`).
     *   Automatically detects and utilizes GPU if available for faster processing.
+*   **Google Gemini AI Fallback**:
+    *   Provides reliable backup when Watson API is unavailable or credits are exhausted.
+    *   Uses Google's Gemini AI with specialized legal sentiment prompts.
+    *   Configurable API rate limiting and error handling.
 *   **Modular Design**: Clear separation of concerns for data handling, IBM COS utilities, and sentiment evaluation.
 
 ## Installation
@@ -36,6 +41,20 @@ The goal is to extract and analyze sentiment from legal texts, which can be cruc
 3.  **Install dependencies**:
     ```bash
     pip install -r requirements.txt
+    ```
+
+### Optional: Google Gemini AI Setup
+
+For fallback functionality when Watson API is unavailable:
+
+1.  **Install Gemini AI dependencies**:
+    ```bash
+    pip install google-genai
+    ```
+
+2.  **Set up Gemini API key**:
+    ```bash
+    export GEMINI_API_KEY="your_gemini_api_key_here"
     ```
 
 ## Usage
@@ -98,7 +117,41 @@ This approach runs locally and does not require IBM Cloud credentials.
         *   `nlptown/bert-base-multilingual-uncased-sentiment`
         *   `cardiffnlp/twitter-roberta-base-sentiment`
         *   `sshleifer/distilbart-cnn-12-6` (for prompt-based LLM sentiment)
+        *   Google Gemini AI (if available and configured)
     *   Save the combined results to `legal_sentiment_data/sentiment_analysis_results_advanced.csv`.
+
+### 4. Using Google Gemini AI as Fallback
+
+When Watson API credits are exhausted or unavailable, you can use Gemini AI:
+
+1.  **Test Gemini fallback**:
+    ```bash
+    python test_gemini_fallback.py
+    ```
+
+2.  **Run evaluation with automatic fallback**:
+    ```bash
+    python run_evaluation_with_fallback.py
+    ```
+    This script will:
+    *   Try Watson API first (if credentials are available).
+    *   Automatically fallback to Gemini AI if Watson fails.
+    *   Include local Hugging Face models as additional options.
+    *   Save results with clear indication of which method was used.
+
+3.  **Direct Gemini usage**:
+    ```python
+    from legal_sentiment_evaluation_hf import GeminiSentimentEvaluator
+    
+    # Initialize with your API key
+    evaluator = GeminiSentimentEvaluator(api_key="your_gemini_api_key")
+    
+    # Or use environment variable
+    evaluator = GeminiSentimentEvaluator()  # Uses GEMINI_API_KEY env var
+    
+    # Generate predictions
+    predictions = evaluator.generate_predictions(your_dataframe)
+    ```
 
 ## Data
 

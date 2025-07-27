@@ -1,7 +1,12 @@
 import pandas as pd
 from data_preparation_script import prepare_legal_sentiment_data
-from legal_sentiment_evaluation_hf import LegalSentimentEvaluatorHF, PromptBasedSentimentLLM
+from legal_sentiment_evaluation_hf import LegalSentimentEvaluatorHF, PromptBasedSentimentLLM, GeminiSentimentEvaluator, GEMINI_AVAILABLE
 from pathlib import Path
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 def main():
     """
@@ -37,6 +42,17 @@ def main():
     # LLM 1: DistilBART for instruction-based sentiment analysis
     distilbart_model = PromptBasedSentimentLLM(model_name='sshleifer/distilbart-cnn-12-6')
     
+    # Initialize Gemini AI as fallback if available
+    gemini_model = None
+    if GEMINI_AVAILABLE:
+        try:
+            gemini_model = GeminiSentimentEvaluator()
+            logger.info("Gemini AI fallback model initialized successfully.")
+        except Exception as e:
+            logger.warning(f"Could not initialize Gemini AI: {e}")
+    else:
+        logger.info("Gemini AI not available - install with: pip install google-genai")
+    
     print("--- All Models Initialized ---\n")
 
     # --- Step 4: Generate Predictions ---
@@ -44,6 +60,19 @@ def main():
     df['bert_sentiment'] = bert_model.generate_predictions(df)
     df['roberta_sentiment'] = roberta_model.generate_predictions(df)
     df['distilbart_sentiment'] = distilbart_model.generate_predictions(df)
+    
+    # Add Gemini predictions if available
+    if gemini_model:
+        try:
+            print("--- Generating Gemini AI Predictions ---")
+            df['gemini_sentiment'] = gemini_model.generate_predictions(df)
+            logger.info("Gemini AI predictions completed successfully.")
+        except Exception as e:
+            logger.error(f"Error during Gemini predictions: {e}")
+            df['gemini_sentiment'] = ['error'] * len(df)
+    else:
+        df['gemini_sentiment'] = ['not_available'] * len(df)
+    
     print("--- All Predictions Generated ---\n")
 
     # --- Step 5: Save Results ---

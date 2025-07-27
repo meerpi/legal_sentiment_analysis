@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 import re
 
-def extract_cases(path="legal_sentiment_analysis/14/json"):
+def extract_cases(path="14/json"):
     """
     Extracts case data from individual JSON files located in the specified directory.
 
@@ -18,15 +18,32 @@ def extract_cases(path="legal_sentiment_analysis/14/json"):
         list: A list of dictionaries, where each dictionary represents a case.
     """
     law_text = []
-    for file in Path(path).glob("*.json"):
-        with open(file, "r", encoding="utf-8") as f:
-            json1 = json.load(f)
+    json_path = Path(path)
+    
+    if not json_path.exists():
+        print(f"Warning: Directory {path} does not exist.")
+        return law_text
+    
+    json_files = list(json_path.glob("*.json"))
+    if not json_files:
+        print(f"Warning: No JSON files found in {path}")
+        return law_text
+    
+    print(f"Processing {len(json_files)} JSON files from {path}")
+    
+    for file in json_files:
+        try:
+            with open(file, "r", encoding="utf-8") as f:
+                json1 = json.load(f)
+        except (json.JSONDecodeError, UnicodeDecodeError, IOError) as e:
+            print(f"Error processing file {file}: {e}")
+            continue
         
-        case_id = json1.get('id')
-        case_name = json1.get('name')
-        case_court = json1.get('court')
-        case_date = json1.get("decision_date")
-        case_jurisdiction = json1.get("jurisdiction", {}).get("name")
+        case_id = json1.get('id', 'unknown')
+        case_name = json1.get('name', 'unknown')
+        case_court = json1.get('court', 'unknown')
+        case_date = json1.get("decision_date", 'unknown')
+        case_jurisdiction = json1.get("jurisdiction", {}).get("name", 'unknown')
         opinions = json1.get("casebody", {}).get("opinions", [])
         case_body = "\n".join([opinion.get('text', '') for opinion in opinions])
         
@@ -50,9 +67,17 @@ def clean_text(text):
     Returns:
         str: The cleaned text.
     """
-    text = re.sub(r'[\\d+]', '', text)
-    text = re.sub(r'No\\.\\s\\d+-\\d+', '', text)
-    text = re.sub(r'\\n+', '\\n', text).strip()
+    if not isinstance(text, str):
+        return ""
+    
+    # Remove standalone numbers and numerical citations
+    text = re.sub(r'\b\d+\b', '', text)
+    # Remove case citation patterns like "No. 123-456"
+    text = re.sub(r'No\.\s*\d+-\d+', '', text)
+    # Replace multiple newlines with single newline
+    text = re.sub(r'\n+', '\n', text).strip()
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text)
     return text
 
 def preprocess_legal_text(law_data):
@@ -69,15 +94,23 @@ def preprocess_legal_text(law_data):
         entry['case_body'] = clean_text(entry['case_body'])
     return law_data
 
-def prepare_legal_sentiment_data(json_path="legal_sentiment_analysis/14/json"):
+def prepare_legal_sentiment_data(json_path="14/json"):
     """
     The main function to orchestrate the data preparation pipeline.
 
     This function extracts data from JSON files, preprocesses the text,
     and saves the consolidated data to a single CSV file.
+    
+    Args:
+        json_path (str): Path to the directory containing JSON files.
     """
     print("Step 1: Extracting and preprocessing legal case data...")
     law_data = extract_cases(json_path)
+    
+    if not law_data:
+        print("No data extracted. Exiting.")
+        return None
+    
     preprocessed_data = preprocess_legal_text(law_data)
     
     df = pd.DataFrame(preprocessed_data)
@@ -92,5 +125,9 @@ def prepare_legal_sentiment_data(json_path="legal_sentiment_analysis/14/json"):
     print("Step 2: Saving all documents to 'all_legal_documents.csv'...")
     df.to_csv(output_dir / 'all_legal_documents.csv', index=False)
     
-    print("\nData preparation is complete. The dataset is ready for use.")
+    print(f"\nData preparation is complete. Processed {len(df)} documents.")
+    print("The dataset is ready for use.")
     return df
+
+if __name__ == "__main__":
+    prepare_legal_sentiment_data()

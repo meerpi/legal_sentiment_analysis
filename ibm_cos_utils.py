@@ -1,5 +1,3 @@
-import os
-import pandas as pd
 import ibm_boto3
 from ibm_botocore.client import Config, ClientError
 

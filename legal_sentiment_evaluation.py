@@ -1,6 +1,5 @@
 import pandas as pd
 import requests
-import json
 from pathlib import Path
 
 class LegalSentimentEvaluator:
@@ -88,12 +87,14 @@ class LegalSentimentEvaluator:
             print(f"API Error during sentiment prediction: {e}")
             return None
 
-    def generate_predictions(self, df):
+    def generate_predictions(self, df, batch_size=10):
         """
         Generates sentiment predictions for an entire DataFrame of documents.
+        Uses batching to handle large datasets efficiently.
 
         Args:
             df (pd.DataFrame): A DataFrame with a 'text_content' column.
+            batch_size (int): Number of documents to process at once.
 
         Returns:
             pd.DataFrame: The DataFrame with an added 'predicted_sentiment' column.
@@ -101,8 +102,18 @@ class LegalSentimentEvaluator:
         print(f"Generating sentiment predictions for {len(df)} documents...")
         df['text_content'] = df['text_content'].fillna('')
         
-        df['predicted_sentiment'] = [self._predict_sentiment(text) for text in df['text_content']]
+        predictions = []
+        total_batches = (len(df) + batch_size - 1) // batch_size
         
+        for i in range(0, len(df), batch_size):
+            batch_num = (i // batch_size) + 1
+            print(f"Processing batch {batch_num}/{total_batches}...")
+            
+            batch = df['text_content'].iloc[i:i+batch_size]
+            batch_predictions = [self._predict_sentiment(text) for text in batch]
+            predictions.extend(batch_predictions)
+        
+        df['predicted_sentiment'] = predictions
         print("Prediction generation complete.")
         return df
 
@@ -115,12 +126,20 @@ class LegalSentimentEvaluator:
             df (pd.DataFrame): The DataFrame to save.
             object_key (str): The desired key for the object in COS.
         """
-        local_temp_path = "temp_predictions.csv"
-        df.to_csv(local_temp_path, index=False)
-
-        print(f"Uploading predictions to COS bucket '{cos_utils.bucket_name}'...")
-        cos_utils.upload_file(local_temp_path, object_key)
+        import tempfile
+        import os
         
-        Path(local_temp_path).unlink()
-        print("Predictions successfully uploaded to COS.")
+        # Use temporary file with automatic cleanup
+        with tempfile.NamedTemporaryFile(mode='w', suffix='.csv', delete=False) as temp_file:
+            temp_path = temp_file.name
+            df.to_csv(temp_path, index=False)
+
+        try:
+            print(f"Uploading predictions to COS bucket '{cos_utils.bucket_name}'...")
+            cos_utils.upload_file(temp_path, object_key)
+            print("Predictions successfully uploaded to COS.")
+        finally:
+            # Ensure cleanup even if upload fails
+            if os.path.exists(temp_path):
+                os.unlink(temp_path)
 

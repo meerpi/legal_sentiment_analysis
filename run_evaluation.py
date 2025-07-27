@@ -36,9 +36,14 @@ def main():
     print("--- COS Utility Initialized ---\n")
 
     # --- Step 3: Data Preparation and Upload to COS ---
-    print("--- Starting Data Preparation and Upload to COS ---")
-    prepare_legal_sentiment_data(cos_utils, output_object_key="all_legal_documents.csv")
-    print("--- Data Preparation and Upload Complete ---\n")
+    print("--- Starting Data Preparation ---")
+    prepare_legal_sentiment_data()
+    print("--- Data Preparation Complete ---")
+    
+    # Upload the prepared data to COS
+    print("--- Uploading data to COS ---")
+    cos_utils.upload_file("legal_sentiment_data/all_legal_documents.csv", "all_legal_documents.csv")
+    print("--- Upload Complete ---\n")
 
     # --- Step 4: Download Data from COS ---
     print("--- Downloading Dataset from COS ---")
